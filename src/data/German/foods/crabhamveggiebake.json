@@ -1,0 +1,39 @@
+{
+	"name": "Geschmorter Schinken mit Krebsgemüse",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Gericht zur LP-Wiederherstellung",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Belebt die gewählte Figur wieder.\nStellt 900 bis 1.500 LP wieder her.",
+	"description": "Ein Auflauf mit feinsten Zutaten. Unter der goldenen Kruste lugen rosiger Schinken und grünes Gemüse hervor. Die Farben allein machen dieses Gericht sehr ansprechend.",
+	"suspicious": {
+		"effect": "Belebt die gewählte Figur wieder und stellt ihr 900 LP wieder her.",
+		"description": "Ein Auflauf mit feinsten Zutaten. Blickst du auf dieses dickflüssige Etwas, erkennst du genau, was ihm fehlt ... und was zu viel ist."
+	},
+	"normal": {
+		"effect": "Belebt die gewählte Figur wieder und stellt ihr 1.200 LP wieder her.",
+		"description": "Ein Auflauf mit feinsten Zutaten. Unter der goldenen Kruste lugen rosiger Schinken und grünes Gemüse hervor. Die Farben allein machen dieses Gericht sehr ansprechend."
+	},
+	"delicious": {
+		"effect": "Belebt die gewählte Figur wieder und stellt ihr 1.500 LP wieder her.",
+		"description": "Ein Auflauf mit feinsten Zutaten. Noch während du den ersten Happen zum Mund führst, vernimmst du den außerordentlichen Duft. Am liebsten würdest du den Topf auslecken."
+	},
+	"ingredients": [
+		{
+			"name": "Krebsrogen",
+			"count": 1
+		},
+		{
+			"name": "Schinken",
+			"count": 1
+		},
+		{
+			"name": "Sahne",
+			"count": 1
+		},
+		{
+			"name": "Weißkohl",
+			"count": 1
+		}
+	]
+}

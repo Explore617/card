@@ -1,0 +1,31 @@
+{
+	"name": "Sweet Madame",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Restores 20–24% of Max HP and an additional 900-1,500 HP to the selected character.",
+	"description": "Honey-roasted fowl. The honey and sweet flowers come together to complement the tender fowl meat.",
+	"suspicious": {
+		"effect": "Restores 20% of Max HP and an additional 900 HP to the selected character.",
+		"description": "Honey-roasted fowl. The sweet flowers have been burnt off, revealing the bitter taste of the overcooked fowl."
+	},
+	"normal": {
+		"effect": "Restores 22% of Max HP and an additional 1,200 HP to the selected character.",
+		"description": "Honey-roasted fowl. The honey and sweet flowers come together to complement the tender fowl meat."
+	},
+	"delicious": {
+		"effect": "Restores 24% of Max HP and an additional 1,500 HP to the selected character.",
+		"description": "Honey-roasted fowl. Tender and sweet, the meat has perfectly fused with the honey, ensuring the only thing left of this dish will be the cleanly-picked bones."
+	},
+	"ingredients": [
+		{
+			"name": "Fowl",
+			"count": 2
+		},
+		{
+			"name": "Sweet Flower",
+			"count": 2
+		}
+	]
+}

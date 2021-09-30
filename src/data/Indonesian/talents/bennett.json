@@ -1,0 +1,209 @@
+{
+	"name": "Bennett",
+	"combat1": {
+		"name": "Normal Attack: Strike of Fortune",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Charged Attack|{param6:F1P}+{param7:F1P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}pt",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Passion Overload",
+		"info": "Bennett memusatkan seluruh gairah dan impiannya bertualang ke dalam pedang miliknya. Hasilnya berbeda-beda tergantung dari seberapa bersemangatnya dia...\n\n**Tekan**\nSebuah ayunan berapi yang cepat, mengakibatkan Pyro DMG.\n\n**Tahan (Sesaat)**\nSaat ditahan, menghasilkan efek berbeda saat dilepaskan berdasarkan Level Charge.\n·Charge Tahap 1: Mengayun dua kali, mengakibatkan Pyro DMG dan menghempas musuh.\n·Charge Tahap 2: Mengayunkan pedang 3 kali untuk mengakibatkan Pyro DMG yang besar, tapi serangan terakhir akan memicu ledakan yang menghempas musuh dan Bennett.\nBennett tidak menerima DMG dari hempasan.",
+		"description": "Serangan yang mengombinasikan impian dan gairah Bennett. Tapi gairah terkadang terlalu berlebihan, dan Pyro terkadang meledak.",
+		"attributes": {
+			"labels": [
+				"DMG Tekan|{param1:P}",
+				"DMG Charge Tahap 1|{param2:F1P}+{param3:F1P}",
+				"DMG Charge Tahap 2|{param4:F1P}+{param5:F1P}",
+				"DMG Ledakan|{param6:P}",
+				"Cooldown|{param7:F1}/{param8:F1}/{param9:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Fantastic Voyage",
+		"info": "Bennett melakukan serangan melompat, mengakibatkan Pyro DMG dan menciptakan sebuah Inspiration Field.\n\n**Inspiration Field**\n·Jika HP karakter di dalam lingkaran kurang dari 70%, maka HP mereka akan terus pulih. Jumlah pemulihan tergantung dari Max HP Bennett.\n·Jika HP karakter di dalam lingkaran di atas 70%, dia akan mendapat Bonus ATK berdasarkan Base ATK Bennett.\n·Memberikan elemen Pyro kepada karakter di dalam Inspiration Field.",
+		"description": "Regu Petualangan Benny selalu menemui bahaya yang tidak diduga saat bertualang. Bennett selalu berusaha meyakini para anggotanya bahwa itu adalah tanda \"petualangan seru yang penuh tantangan dan kejutan\".",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"Regenerasi HP/dtk|{param2:F2P} Max HP + {param3:I}",
+				"Rasio Bonus ATK|{param4:P}",
+				"Durasi|{param5:F1}dtk",
+				"Cooldown|{param6:F1}dtk",
+				"Konsumsi Energy|{param7:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Rekindle",
+		"info": "Mengurangi 20% CD **Passion Overload**."
+	},
+	"passive2": {
+		"name": "Fearnaught",
+		"info": "Saat berada di dalam area **Fantastic Voyage**, **Passion Overload** mempunyai efek berikut:\n·CD berkurang 50%.\n·Bennet tidak akan terlempar karena efek Charge Level 2."
+	},
+	"passive3": {
+		"name": "It Should Be Safe...",
+		"info": "Ketika dikirim untuk melakukan ekspedisi di Mondstadt, waktu yang dibutuhkan berkurang 25%."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Treasure Hoarder Insignia",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

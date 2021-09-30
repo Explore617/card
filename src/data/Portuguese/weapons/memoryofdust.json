@@ -1,0 +1,142 @@
+{
+	"name": "Memória da Poeira",
+	"description": "Uma fechadura de pedra contendo memórias distantes. Suas infinitas transformações revelam seu poder interior.",
+	"weapontype": "Catalisador",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ATQ",
+	"subvalue": "10.8",
+	"effectname": "Majestade Dourada",
+	"effect": "Aumenta a força do Escudo em {0}. Acertar ataques em inimigos aumenta o ataque em {1} por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+	"r1": [
+		"20%",
+		"4%"
+	],
+	"r2": [
+		"25%",
+		"5%"
+	],
+	"r3": [
+		"30%",
+		"6%"
+	],
+	"r4": [
+		"35%",
+		"7%"
+	],
+	"r5": [
+		"40%",
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grão de Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Fragmento de osso frágil",
+				"count": 5
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedaço de Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Fragmento de osso frágil",
+				"count": 18
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Pedaço de Aerosiderite",
+				"count": 9
+			},
+			{
+				"name": "Fragmento de osso sólido",
+				"count": 9
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragmento de Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Fragmento de osso sólido",
+				"count": 18
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Fragmento de Aerosiderite",
+				"count": 9
+			},
+			{
+				"name": "Fragmento de osso fossilizado",
+				"count": 14
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Bloco de Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de osso fossilizado",
+				"count": 27
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 18
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Mondstadt Grilled Fish",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Revives the selected character.\nRestores 50–150 HP.",
+	"description": "Fish grilled thoroughly with moderate fire, making it completely dry and crispy. The sprinkled pepper on top brings out the freshness of the fish.",
+	"suspicious": {
+		"effect": "Revives a character and restores 50 HP.",
+		"description": "Fish grilled thoroughly with moderate fire. Sadly, it's a bit too well done. The charred smell and the dry texture are not too impressive."
+	},
+	"normal": {
+		"effect": "Revives a character and restores 100 HP.",
+		"description": "Fish grilled thoroughly with moderate fire, making it completely dry and crispy. The sprinkled pepper on top brings out the freshness of the fish."
+	},
+	"delicious": {
+		"effect": "Revives a character and restores 150 HP.",
+		"description": "Fish grilled thoroughly with moderate fire, locking the delicious juice inside the meat under the crispy skin. A small bite is all that's needed to unlock its wondrous and delicious taste."
+	},
+	"ingredients": [
+		{
+			"name": "Fish",
+			"count": 1
+		},
+		{
+			"name": "Pepper",
+			"count": 1
+		}
+	]
+}

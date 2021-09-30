@@ -1,0 +1,209 @@
+{
+	"name": "Diona",
+	"combat1": {
+		"name": "Tấn Công Thường - Xạ Thuật Thợ Săn",
+		"info": "**Tấn Công Thường**\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nSát thương càng cao, **ngắm bắn** càng chuẩn.\nKhi ngắm bắn, hơi lạnh sẽ tích tụ trên mũi tên. Mũi tên mang đầy hơi lạnh sẽ gây Sát Thương Nguyên Tố Băng.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Lần 1|{param1:F1P}",
+				"Sát Thương Lần 2|{param2:F1P}",
+				"Sát Thương Lần 3|{param3:F1P}",
+				"Sát Thương Lần 4|{param4:F1P}",
+				"Sát Thương Lần 5|{param5:F1P}",
+				"Ngắm Bắn|{param7:F1P}",
+				"Tụ Lực Ngắm Bắn|{param8:P}",
+				"Sát Thương Khi Đáp|{param9:F1P}",
+				"ST Khi Rơi Từ Độ Cao Thấp/Cao|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Móng Mèo Lạnh Giá",
+		"info": "Bắn móng mèo lạnh giá gây cho địch Sát Thương Nguyên Tố Băng và hình thành khiên khi đánh trúng.\nLượng hấp thụ sát thương của khiên chịu ảnh hưởng từ giới hạn HP của Diona, thời gian duy trì dựa vào số lượng Móng Mèo Lạnh Giá đánh trúng.\n\n**Nhấn**\nBắn nhanh 2 Móng Mèo Lạnh Giá.\n\n**Nhấn Giữ**\nLùi về sau và bắn 5 Móng Mèo Lạnh Giá.\nNhấn giữ hình thành Khiên, hấp thụ thêm 75% sát thương.\n\nKhiên sẽ hấp thụ 250% Sát Thương Nguyên Tố Băng, và khi hình thành, sẽ tăng thêm cho nhân vật Nguyên Tố Băng Kèm Theo.",
+		"description": "Có thêm bao nhiêu đá vào rượu cũng không thể làm tổn hại đến kẻ say, cho đến khi Diona có được Vision, và rồi những viên đá lạnh đến nỗi khiến người ta buốt óc bắt đầu xuất hiện. Hay!",
+		"attributes": {
+			"labels": [
+				"Sát Thương Vuốt Mèo|Mỗi cái {param1:F1P}",
+				"Khiên hấp thu cơ bản|{param2:F1P} lượng HP tối đa + {param3:I}",
+				"Thời gian kéo dài|Mỗi Vuốt Mèo {param6:F1}s",
+				"CD Nhấn|{param4:F1}s",
+				"CD Nhấn Giữ|{param5:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Đặc Chế Mãnh Liệt",
+		"info": "Ném những viên đá được điều chế đặc biệt, gây Sát Thương Phạm Vi Nguyên Tố Băng và tạo thành khu vực Hơi Rượu Băng.\n\n**Khu Vực Hơi Rượu Băng**\n·Gây cho kẻ địch trong đó Sát Thương Nguyên Tố Băng liên tục.\n·Hồi HP liên tục cho nhân vật trong đó.",
+		"description": "Công thức kinh khủng khiến Diona cũng tự cảm thấy vô nhân đạo. Mùi vị đầu kinh khủng nên để cho kẻ địch trước, về sau thì thanh mát, tiếc rằng chỉ có thể dùng mũi và da để cảm nhận.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Kỹ Năng|{param1:P}",
+				"Sát thương duy trì trong khu vực|{param2:F1P}",
+				"Lượng trị liệu liên tục|{param3:F2P} Giới hạn HP + {param4:I}",
+				"Thời Gian Kéo Dài|{param7:F1}s",
+				"CD|{param5:F1}s",
+				"Năng Lượng Nguyên Tố|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Thực Đơn Bí Mật Đuôi Mèo",
+		"info": "Nhân vật được Khiên **Móng Mèo Lạnh Giá** bảo vệ, tốc độ di chuyển tăng 10%, thể lực tiêu hao giảm 10%."
+	},
+	"passive2": {
+		"name": "Kẻ Say Rượu Khôi Hài",
+		"info": "Trong 15 giây sau khi địch vào khu vực **Đặc Chế Mãnh Liệt** giảm 10% tấn công."
+	},
+	"passive3": {
+		"name": "Đồ Nhắm Tặng Kèm",
+		"info": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Bài Giảng Của \"Tự Do\"",
+				"count": 3
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 2
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 4
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 6
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 9
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 4
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 4
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 6
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 6
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 9
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 16
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 12
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 2
+			},
+			{
+				"name": "Vương Miện Trí Thức",
+				"count": 1
+			}
+		]
+	}
+}

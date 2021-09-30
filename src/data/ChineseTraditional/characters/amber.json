@@ -1,0 +1,153 @@
+{
+	"name": "安柏",
+	"title": "飛行冠軍",
+	"description": "永遠充滿活力的女孩，騎士團最優秀、同時也是最後的偵察騎士。",
+	"rarity": "4",
+	"element": "火",
+	"weapontype": "弓",
+	"substat": "攻擊力",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士團",
+	"birthdaymmdd": "8/10",
+	"birthday": "8月10日",
+	"constellation": "小兔座",
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "石見舞菜香",
+		"korean": "김연우"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "摩拉",
+				"count": 20000
+			},
+			{
+				"name": "燃願瑪瑙碎屑",
+				"count": 1
+			},
+			{
+				"name": "小燈草",
+				"count": 3
+			},
+			{
+				"name": "牢固的箭鏃",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "摩拉",
+				"count": 40000
+			},
+			{
+				"name": "燃願瑪瑙斷片",
+				"count": 3
+			},
+			{
+				"name": "常燃火種",
+				"count": 2
+			},
+			{
+				"name": "小燈草",
+				"count": 10
+			},
+			{
+				"name": "牢固的箭鏃",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "摩拉",
+				"count": 60000
+			},
+			{
+				"name": "燃願瑪瑙斷片",
+				"count": 6
+			},
+			{
+				"name": "常燃火種",
+				"count": 4
+			},
+			{
+				"name": "小燈草",
+				"count": 20
+			},
+			{
+				"name": "銳利的箭鏃",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "摩拉",
+				"count": 80000
+			},
+			{
+				"name": "燃願瑪瑙塊",
+				"count": 3
+			},
+			{
+				"name": "常燃火種",
+				"count": 8
+			},
+			{
+				"name": "小燈草",
+				"count": 30
+			},
+			{
+				"name": "銳利的箭鏃",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "摩拉",
+				"count": 100000
+			},
+			{
+				"name": "燃願瑪瑙塊",
+				"count": 6
+			},
+			{
+				"name": "常燃火種",
+				"count": 12
+			},
+			{
+				"name": "小燈草",
+				"count": 45
+			},
+			{
+				"name": "歷戰的箭鏃",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "摩拉",
+				"count": 120000
+			},
+			{
+				"name": "燃願瑪瑙",
+				"count": 6
+			},
+			{
+				"name": "常燃火種",
+				"count": 20
+			},
+			{
+				"name": "小燈草",
+				"count": 60
+			},
+			{
+				"name": "歷戰的箭鏃",
+				"count": 24
+			}
+		]
+	}
+}

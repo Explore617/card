@@ -1,0 +1,34 @@
+{
+	"name": "Martial Artist",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "เพิ่มความเสียหายของการโจมตีปกติและการชาร์จโจมตี 15%",
+	"4pc": "ภายใน 8 วินาที หลังจากใช้สกิลธาตุ ความเสียหายของการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 25%",
+	"flower": {
+		"name": "Martial Artist's Red Flower",
+		"relictype": "Flower of Life",
+		"description": "เฉพาะดอกไม้สีแดงเข้มชนิดนี้เท่านั้นที่สามารถใช้บรรเทาความเจ็บปวดได้"
+	},
+	"plume": {
+		"name": "Martial Artist's Feathered Accessory",
+		"relictype": "Plume of Death",
+		"description": "ขนนกทั่วไป เหล่ายอดฝีมือมักใช้มันในการฝึกฝน การควบคุมกำลัง ในระหว่างที่พวกมือใหม่เอามาใช้ทำ เป็นพัด"
+	},
+	"sands": {
+		"name": "Martial Artist's Water Hourglass",
+		"relictype": "Sands of Eon",
+		"description": "เครื่องมือในการจับเวลาในการฝึก ความอดทน มีความแม่นยำและเชื่อถือได้มากกว่านาฬิกาทรายทั่วไป"
+	},
+	"goblet": {
+		"name": "Martial Artist's Wine Cup",
+		"relictype": "Goblet of Eonothem",
+		"description": "แก้วไวน์ที่ดูเหมือนสร้างมาด้วยความประณีตเพื่อใช้ในพิธีก่อนเข้าทำการ ต่อสู้"
+	},
+	"circlet": {
+		"name": "Martial Artist's Bandana",
+		"relictype": "Circlet of Logos",
+		"description": "บทเรียนแรกในฐานะลูกศิษย์: ความเข้มแข็ง, ความแข็งแกร่ง, เจตนารมณ์ คำเหล่านี้ถูกเขียนลงบนผ้าพันคอเพื่อคอยย้ำเตือนคุณตลอดเวลา"
+	}
+}

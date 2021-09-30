@@ -1,0 +1,137 @@
+{
+	"name": "Sharpshooter's Oath",
+	"description": "Busur kuat yang pernah dimiliki oleh seorang pemanah terbaik. Tetapi aura kuat yang terpancar dari busur ini membuatnya tidak cocok dipakai untuk berburu.",
+	"weapontype": "Bow",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "CRIT DMG",
+	"subvalue": "10.2",
+	"effectname": "Precise",
+	"effect": "Meningkatkan {0} DMG serangan yang mengenai titik kelemahan musuh.",
+	"r1": [
+		"24%"
+	],
+	"r2": [
+		"30%"
+	],
+	"r3": [
+		"36%"
+	],
+	"r4": [
+		"42%"
+	],
+	"r5": [
+		"48%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 2
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 2
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 2
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 8
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 4
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 4
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 2
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 8
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 6
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 3
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 12
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 8
+			}
+		]
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"name": "각청",
+	"title": "질뢰쾌우",
+	"description": "리월 칠성 중 한 명인 옥형성. 「제군이 모든 걸 결정하는 리월」에 불만을 가지고 있다——그러나 사실 신은 이러한 그녀를 꽤 맘에 들어 한다.",
+	"rarity": "5",
+	"element": "번개",
+	"weapontype": "한손검",
+	"substat": "치명타 피해",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "리월 칠성",
+	"birthdaymmdd": "11/20",
+	"birthday": "11월 20일",
+	"constellation": "금자정수자리",
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "키타무라 에리",
+		"korean": "이보희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "승리의 자수정 가루",
+				"count": 1
+			},
+			{
+				"name": "콜 라피스",
+				"count": 3
+			},
+			{
+				"name": "구라구라 꽃꿀",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "승리의 자수정 조각",
+				"count": 3
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 2
+			},
+			{
+				"name": "콜 라피스",
+				"count": 10
+			},
+			{
+				"name": "구라구라 꽃꿀",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "승리의 자수정 조각",
+				"count": 6
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 4
+			},
+			{
+				"name": "콜 라피스",
+				"count": 20
+			},
+			{
+				"name": "반짝반짝 꽃꿀",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "승리의 자수정 덩이",
+				"count": 3
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 8
+			},
+			{
+				"name": "콜 라피스",
+				"count": 30
+			},
+			{
+				"name": "반짝반짝 꽃꿀",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "승리의 자수정 덩이",
+				"count": 6
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 12
+			},
+			{
+				"name": "콜 라피스",
+				"count": 45
+			},
+			{
+				"name": "원소 꽃꿀",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "승리의 자수정",
+				"count": 6
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 20
+			},
+			{
+				"name": "콜 라피스",
+				"count": 60
+			},
+			{
+				"name": "원소 꽃꿀",
+				"count": 24
+			}
+		]
+	}
+}

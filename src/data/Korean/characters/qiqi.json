@@ -1,0 +1,153 @@
+{
+	"name": "치치",
+	"title": "차가운 환혼의 밤",
+	"description": "약방 「불복려」의 약초꾼이자 제자. 안색이 종이처럼 창백하다. 말수가 적고 무표정하다",
+	"rarity": "5",
+	"element": "얼음",
+	"weapontype": "한손검",
+	"substat": "치유 보너스",
+	"gender": "여성",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "불복려",
+	"birthdaymmdd": "3/3",
+	"birthday": "3월 3일",
+	"constellation": "삼청령자리",
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "타무라 유카리",
+		"korean": "이슬"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "서늘한 빙옥 가루",
+				"count": 1
+			},
+			{
+				"name": "유리주머니",
+				"count": 3
+			},
+			{
+				"name": "이능 두루마리",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "서늘한 빙옥 조각",
+				"count": 3
+			},
+			{
+				"name": "서리의 핵",
+				"count": 2
+			},
+			{
+				"name": "유리주머니",
+				"count": 10
+			},
+			{
+				"name": "이능 두루마리",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "서늘한 빙옥 조각",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 4
+			},
+			{
+				"name": "유리주머니",
+				"count": 20
+			},
+			{
+				"name": "봉마의 두루마리",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "서늘한 빙옥 덩이",
+				"count": 3
+			},
+			{
+				"name": "서리의 핵",
+				"count": 8
+			},
+			{
+				"name": "유리주머니",
+				"count": 30
+			},
+			{
+				"name": "봉마의 두루마리",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "서늘한 빙옥 덩이",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 12
+			},
+			{
+				"name": "유리주머니",
+				"count": 45
+			},
+			{
+				"name": "금주의 두루마리",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "서늘한 빙옥",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 20
+			},
+			{
+				"name": "유리주머니",
+				"count": 60
+			},
+			{
+				"name": "금주의 두루마리",
+				"count": 24
+			}
+		]
+	}
+}

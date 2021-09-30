@@ -1,0 +1,142 @@
+{
+	"name": "Cung Trừ Ma",
+	"description": "Cây cung từng thuộc về một pháp sư nào đó, tạo hình tinh xảo nhưng rất dễ sử dụng.",
+	"weapontype": "Cung",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Tấn Công",
+	"subvalue": "12",
+	"effectname": "Dòng Chảy Tịch Diệt",
+	"effect": "Tăng {0} sát thương tấn công thường, tăng {1} sát thương trọng kích. Khi Năng Lượng Nguyên Tố đạt 100%, tăng 100% hiệu quả cho nhân vật trang bị vũ khí này.",
+	"r1": [
+		"16%",
+		"12%"
+	],
+	"r2": [
+		"20%",
+		"15%"
+	],
+	"r3": [
+		"24%",
+		"18%"
+	],
+	"r4": [
+		"28%",
+		"21%"
+	],
+	"r5": [
+		"32%",
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Trí Tuệ Của Narukami",
+				"count": 3
+			},
+			{
+				"name": "Lăng Kính Ảm Đạm",
+				"count": 3
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Sở Thích Của Narukami",
+				"count": 3
+			},
+			{
+				"name": "Lăng Kính Ảm Đạm",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Sở Thích Của Narukami",
+				"count": 6
+			},
+			{
+				"name": "Lăng Kính Pha Lê",
+				"count": 6
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Tình Yêu Của Narukami",
+				"count": 3
+			},
+			{
+				"name": "Lăng Kính Pha Lê",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Tình Yêu Của Narukami",
+				"count": 6
+			},
+			{
+				"name": "Lăng Kính Phân Cực",
+				"count": 9
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Uy Dũng Của Narukami",
+				"count": 4
+			},
+			{
+				"name": "Lăng Kính Phân Cực",
+				"count": 18
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Flor Doce",
+	"description": "Flores com aromas fortes. Podem ser encontradas facilmente, mesmo no escuro. Apenas siga o aroma.",
+	"sortorder": 1259,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrediente",
+	"source": [
+		"Encontrado na Natureza"
+	]
+}

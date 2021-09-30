@@ -1,0 +1,39 @@
+{
+	"name": "꽃게알 야채찜",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "회복류 요리",
+	"foodcategory": "Recovery_Revive",
+	"effect": "선택한 캐릭터를 부활시킨다\nHP를 900-1500pt 회복",
+	"description": "각종 야채와 꽃게알을 넣고 찐 요리. 노란 꽃게알에 오색 향연의 야채, 선홍빛 소시지가 한데 어우러져 식욕을 돋운다",
+	"suspicious": {
+		"effect": "선택한 캐릭터를 부활시키고 HP를 900pt 회복한다",
+		"description": "각종 야채와 꽃게알을 넣고 찐 요리. 어떤 재료가 들어갔는지 형태를 전혀 알아볼 수 없을 정도로 엉망이다"
+	},
+	"normal": {
+		"effect": "선택한 캐릭터를 부활시키고 HP를 1200pt 회복한다",
+		"description": "각종 야채와 꽃게알을 넣고 찐 요리. 노란 꽃게알에 오색 향연의 야채, 선홍빛 소시지가 한데 어우러져 식욕을 돋운다"
+	},
+	"delicious": {
+		"effect": "선택한 캐릭터를 부활시키고 HP를 1500pt 회복한다",
+		"description": "각종 야채와 꽃게알을 넣고 찐 요리. 맛보지 않아도 꽃게알과 크림의 진한 향을 맡을 수 있다. 말이 필요 없는 최고의 밥도둑이다"
+	},
+	"ingredients": [
+		{
+			"name": "꽃게알",
+			"count": 1
+		},
+		{
+			"name": "햄",
+			"count": 1
+		},
+		{
+			"name": "크림",
+			"count": 1
+		},
+		{
+			"name": "양배추",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Œuf au plat de Teyvat",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Réanime le personnage sélectionné.\nRestaure 50 à 150 PV.",
+	"description": "Un œuf cuit sur une poêle. Le jaune est bien coulant comme il faut. Que c'est plaisant !",
+	"suspicious": {
+		"effect": "Réanime un personnage et restaure 50 PV.",
+		"description": "Un œuf cuit sur une poêle. Le jaune est un peu dur. On espère que les nutriments sont encore là."
+	},
+	"normal": {
+		"effect": "Réanime un personnage et restaure 100 PV.",
+		"description": "Un œuf cuit sur une poêle. Le jaune est bien coulant comme il faut. Que c'est plaisant !"
+	},
+	"delicious": {
+		"effect": "Réanime un personnage et restaure 150 PV.",
+		"description": "Un œuf cuit sur une poêle. Le jaune fond dans votre bouche comme si vous goûtiez à la chaleur d'un rayon de soleil. Redonne de l'énergie dès la première bouchée."
+	},
+	"ingredients": [
+		{
+			"name": "Œuf d'oiseau",
+			"count": 1
+		}
+	]
+}

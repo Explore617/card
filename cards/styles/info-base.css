@@ -1,0 +1,60 @@
+.info-base .background {
+    position: absolute;
+}
+
+.info-base .character {
+    position: absolute;
+    border-radius: 50%;
+    width: 367px;
+    height: 367px;
+    top: 79px;
+    left: 113px;
+    object-fit: cover;
+    object-position: 60% 50%;
+}
+
+.info-base .weapon {
+    position: absolute;
+    width: auto;
+    top: 0;
+    left: 180px;
+    height: 500px;
+}
+
+.info-base .content {
+    position: absolute;
+    top: 6px;
+}
+
+.info-base .content .title-and-name {
+    position: absolute;
+    font-family: GenshinUsedFont, HuaWen,  monospace;
+    color: var( --styleInfoColor );
+    font-size: 18pt;
+    top: 21px;
+    width: 400px;
+    left: 494px;
+}
+
+.info-base .content .introduce {
+    position: absolute;
+    color: rgb(99, 112, 139);
+    left: 509px;
+    top: 48px;
+    font-size: 11.23pt;
+    width: 480px;
+}
+
+.info-base .dotted {
+    position: absolute;
+    width: 480px;
+    left: 512px;
+    border-bottom: 2px dashed;
+    top: 96px;
+    color: var( --dottedColor );
+}
+
+@font-face {
+    font-family: HuaWen;
+    src: url( "../public/fonts/HWXingKai.ttf" );
+}

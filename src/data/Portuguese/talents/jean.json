@@ -1,0 +1,208 @@
+{
+	"name": "Jean",
+	"combat1": {
+		"name": "Ataque Normal: Técnica de Favonius",
+		"info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome certa quantidade de Stamina para lançar um inimigo ao ar usando o poder do vento.\nInimigos lançados cairão lentamente ao chão.\n\n** Ataque Imersivo**\nMergulha do ar para atingir o chão abaixo, causando Dano aos inimigos ao longo do caminho e causando de Dano de AdE no impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano do 5° Golpe|{param5:F1P}",
+				"Dano de Ataque Carregado|{param6:P}",
+				"Consumo de Stamina de Ataque Carregado|{param7:F1}",
+				"Dano Durante a Queda|{param8:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Espada do Temporal",
+		"info": "Canalizando o poder do vento sem forma em volta da sua espada, Jean libera uma miniatura de uma tempestade, lançando inimigos na direção em que ela mira, causando um Dano Anemo massivo.\n\n**Manter pressionado**\nAo custo de um consumo constante de Stamina, Jean pode comandar um turbilhão que suga inimigos e objetos próximos à sua frente.\nA direção pode ser controlada.\nO personagem fica imóvel ao longo da duração da habilidade.",
+		"description": "Aquilo que segue Jean, a defensora convicta, é um vento guardião que pode expulsar o perigo da presença de seus companheiros.",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}",
+				"Consumo de Stamina|{param2:F1} pontos/segundo",
+				"Duração Máxima|{param3:F1}s",
+				"Tempo de Recarga|{param4:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Brisa de Dandelion",
+		"info": "Invocando a proteção do vento, Jean cria um Campo Dandelion rodopiante, lançando inimigos ao redor e causando Dano Anemo.\nAo mesmo tempo, ela regenera instantaneamente uma grande quantidade de Vida para todos os membros da equipe. A Vida restaurada dimensiona o ATQ de Jean.\n\n**Campo de Dandelions**\nRegenera continuamente a Vida dos personagens dentro da AdE concede o atributo Anemo.\nCausa Dano Anemo aos inimigos que entram ou saem do campo.",
+		"description": " A magnanimidade de Jean é tão vasta quanto os Dandelions, e é a raiz de seu desejo de proteger os outros.",
+		"attributes": {
+			"labels": [
+				"Dano de Explosão|{param1:P}",
+				"Dano de Entrada e Saída da Área|{param2:F1P}",
+				"Cura de Ativação de Área|{param3:P} do ATQ +{param4:I}",
+				"Regeneração Contínua|{param5:F2P} ATK + {param6:I}/s",
+				"Tempo de Recarga|{param7:F1}s",
+				"Energia Elemental|{param8:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Companhia do Vento",
+		"info": "Ao acertar Ataques Normais de Jean, possui 50% de chance de regenerar Vida equivalente a 15% do ATQ de Jean a todos os membros da equipe."
+	},
+	"passive2": {
+		"name": "Deixe o vento guiar.",
+		"info": "Após usar a **Brisa de Dandelion** regenera 20% de Energia Elemental."
+	},
+	"passive3": {
+		"name": "Brisa de Planagem",
+		"info": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Resistência",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 2
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 9
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 4
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 6
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 12
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 9
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 16
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

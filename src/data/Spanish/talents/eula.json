@@ -1,0 +1,216 @@
+{
+	"name": "Eula",
+	"combat1": {
+		"name": "Ataque Normal: Técnica de espada Favonius - Nobleza",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques consecutivos.\n\n**Ataque Cargado**\nConsume Aguante de manera constante para realizar golpes de espada continuos.\nCuando termina el Ataque Cargado, hará un golpe aún más poderoso.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}+{param3:F1P}",
+				"Daño de 4.º golpe|{param4:F1P}",
+				"Daño de 5.º golpe|{param5:F1P}+{param5:F1P}",
+				"Daño de ATQ Cargado en ciclo|{param6:F1P}",
+				"Daño final de ATQ Cargado|{param7:P}",
+				"Coste de Aguante de ATQ Cargado|{param8:F1} pts./s",
+				"Duración máx.|{param9:F1} s",
+				"Daño de Caída|{param10:F1P}",
+				"Daño de impacto de caída baja/alta|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Vórtice helado",
+		"info": "Un hielo estremecedor y una diestra danza con la espada.\n\n**Pulsar una vez**\nRealiza un rápido tajo que inflige Daño Cryo.\nAl golpear a un enemigo, Eula obtiene una carga del efecto corazón impasible, el cual puede acumularse un máximo de 2 veces y obtenerse solo 1 vez cada 0.3 s.\n\n**Corazón impasible**\nAumenta la RES a interrupción y la DEF de Eula.\n\n**Mantener pulsado**\nConsume todas las cargas de corazón impasible y realiza un tajo de espada hacia delante, infligiendo Daño Cryo en el AdE a todos los enemigos frente a Eula.\nAl consumirse este efecto, la RES Física y la RES Cryo de los enemigos cercanos se reducirá.\nCada carga de corazón impasible consumida se convertirá en una crioespada de vacío que inflige Daño Cryo a los enemigos cercanos.",
+		"description": "“Así se daba la vuelta la espuma del mar, engullendo la corona de la aristocracia a su paso. Entonces, en todas y cada una de las gotas de agua que salieron despedidas de la gélida marea se reflejó una corona dorada, y cada gota de espuma emitía un glorioso brillo”.",
+		"attributes": {
+			"labels": [
+				"Daño al pulsar una vez|{param1:P}",
+				"Daño al mantener pulsado|{param2:P}",
+				"Daño de crioespada de vacío|{param3:P}",
+				"Aumento de DEF|{param9:P} por carga",
+				"Duración de corazón impasible|{param13:F1} s",
+				"Reducción de RES Física|{param4:P}",
+				"Reducción de RES Cryo|{param5:P}",
+				"Duración de reducción de RES|{param6:F1} s",
+				"TdE al pulsar una vez|{param7:F1} s",
+				"TdE de mantener pulsado|{param8:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Fulgor glacial",
+		"info": "Blande ferozmente su gran espada para infligir Daño Cryo a los enemigos alrededor y crear una espada luminosa que sigue a Eula durante un máximo de 7 s.\nMientras dure, la espada luminosa aumentará la RES a interrupción de Eula e irá acumulando energía cuando inflija daño a los enemigos con sus propios Ataques Normales, su Habilidad Elemental o su Habilidad Definitiva. Solo se puede acumular una carga de energía cada 0.1 s.\nAl terminar su duración, la espada descenderá y estallará violentamente, infligiendo Daño Físico a los enemigos alrededor.\nEste daño aumentará en función de las cargas de energía acumuladas en la espada.\nCuando Eula se retire del combate, la espada luminosa estallará inmediatamente.",
+		"description": "Hundirse es algo muy sencillo. Sin embargo, Eula prefiere congelar la marea que se aproxima.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}",
+				"Daño básico de espada luminosa|{param2:F1P}",
+				"Daño por cada carga|{param3:F1P}",
+				"Límite de cargas de energía|{param4:I}",
+				"TdE|{param5:F1} s",
+				"Energía Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Escarcha turbulenta",
+		"info": "Si, al mantener pulsado **Vórtice helado**, se consumen de una vez las 2 cargas de corazón impasible, se creará un fragmento de espada luminosa que estallará inmediatamente, infligiendo Daño Físico en una cantidad equivalente al 50% del daño básico de la espada luminosa de **Fulgor glacial**."
+	},
+	"passive2": {
+		"name": "Ansia de guerra",
+		"info": "Usar **Fulgor glacial** reinicia el TdE de **Vórtice helado** y otorga a Eula una carga de corazón impasible."
+	},
+	"passive3": {
+		"name": "Introspección aristocrática",
+		"info": "Al crear materiales de talento de personaje, hay una probabilidad del 10% de recibir el doble."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas de la resistencia",
+				"count": 3
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 2
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 4
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 6
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 9
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 4
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 4
+			},
+			{
+				"name": "Corona del rey dragón",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 6
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 6
+			},
+			{
+				"name": "Corona del rey dragón",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 12
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 9
+			},
+			{
+				"name": "Corona del rey dragón",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 16
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 12
+			},
+			{
+				"name": "Corona del rey dragón",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

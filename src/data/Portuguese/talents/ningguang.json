@@ -1,0 +1,201 @@
+{
+	"name": "Ningguang",
+	"combat1": {
+		"name": "Dispersão Espumante",
+		"info": "**Ataque Normal**\nDispara gemas que causam Dano Geo.\nAo acertar, concede a Ningguang 1 Jade de Estrela.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para disparar uma gema gigante que causa Dano Geo.\nSe Ningguang possui Jades Estelares, ao liberar um Ataque Carregado fará com que os Jades Estelares sejam disparados contra um inimigo também, causando Dano adicional.\n\n**Ataque Imersivo**\nReunindo o poder de Geo, Ningguang mergulha em direção ao solo no ar, causando Dano a todos os inimigos em seu caminho. Causa Dano Geo AdE com o impacto no solo.",
+		"attributes": {
+			"labels": [
+				"Dano de Ataque Normal|{param1:F1P}",
+				"Dano de Ataque Carregado|{param2:P}",
+				"Dano por Jade Estelar|{param3:F1P}",
+				"Consumo de Stamina de Ataque Carregado|{param4:F1}",
+				"Dano Durante a Queda|{param5:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param6:P}/{param7:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Tela de Jade",
+		"info": "Ningguang cria uma Tela de Jade a partir do ouro, obsidiana e sua grande opulência, infligindo Dano Geo em uma AdE.\n\n**Tela de Jade**\nBloqueia projéteis inimigos. \nResistência aumenta com base na Vida Máxima de Ningguang.\n\nTela de Jade é considerada uma Construção Geo e pode ser usada para bloquear alguns ataques, mas não pode ser escalada. Apenas uma Tela de Jade pode existir ao mesmo tempo.",
+		"description": "A tela das estrelas está escrita sobre essa Tela de Jade.",
+		"attributes": {
+			"labels": [
+				"Vida Recebida|{param3:F1P}",
+				"Dano de Habilidade|{param2:P}",
+				"Tempo de Recarga|{param4:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Quebrador de Estrelas",
+		"info": "Recolhendo um grande número de gemas, Ningguang espalha todas de uma vez, enviando projéteis perseguidores em seus inimigos que causam Dano Geo massivo.\nSe o Quebrador de Estrelas é lançado enquanto a Tela de Jade está próxima, a Tela de Jade irá disparar projéteis de gemas perseguidoras adicionais ao mesmo tempo.",
+		"description": "Estrelas quebram. O silêncio recai.",
+		"attributes": {
+			"labels": [
+				"Dano de Cada Gema|{param1:F1P}",
+				"Tempo de Recarga|{param2:F1}s",
+				"Energia Elemental|{param3:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Plano B",
+		"info": "Quando Ningguang estiver em posse das Jades Estelares, seu Ataque Carregado não consome Stamina."
+	},
+	"passive2": {
+		"name": "Reserva Estratégica",
+		"info": "Um personagem que passa pela **Tela de Jade** ganhará 12% de  Bônus de Dano GEO por 10s."
+	},
+	"passive3": {
+		"name": "Registro dos Tesouros Maravilhosos",
+		"info": "Mostra a localização de **veias de minério utilizadas na forja** no mapa."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Prosperidade",
+				"count": 3
+			},
+			{
+				"name": "Insígnia de Recruta",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Prosperidade",
+				"count": 2
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Prosperidade",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Prosperidade",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Prosperidade",
+				"count": 9
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Prosperidade",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 4
+			},
+			{
+				"name": "Alma do Vento do Norte",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Prosperidade",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 6
+			},
+			{
+				"name": "Alma do Vento do Norte",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Prosperidade",
+				"count": 12
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 9
+			},
+			{
+				"name": "Alma do Vento do Norte",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Prosperidade",
+				"count": 16
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 12
+			},
+			{
+				"name": "Alma do Vento do Norte",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

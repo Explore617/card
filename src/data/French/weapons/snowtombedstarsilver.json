@@ -1,0 +1,147 @@
+{
+	"name": "Tombe-neige en argétoile",
+	"description": "Un espadon antique autrefois dissimulé entre des fresques. Forgée en argétoile, cette arme a le pouvoir de fendre la neige et la glace.",
+	"weapontype": "Épée à deux mains",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Bonus de DGT physiques",
+	"subvalue": "7.5",
+	"effectname": "Deuil givré",
+	"effect": "Les attaques normales et chargées ont {0} de chances lorsqu'elles touchent de générer une stalactite de glace qui inflige des DGT de zone équivalant à {1} de l'ATQ. Si l'ennemi est affecté par l'élément Cryo, la stalactite inflige alors {2} de l'ATQ. Cet effet se déclenche une fois toutes les 10 s.",
+	"r1": [
+		"60 %",
+		"80 %",
+		"200 %"
+	],
+	"r2": [
+		"70 %",
+		"95 %",
+		"240 %"
+	],
+	"r3": [
+		"80 %",
+		"110 %",
+		"280 %"
+	],
+	"r4": [
+		"90 %",
+		"125 %",
+		"320 %"
+	],
+	"r5": [
+		"100 %",
+		"140 %",
+		"360 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Tuile cassée de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 3
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 12
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 6
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 12
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 9
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Rêve brisé de Décabarian",
+				"count": 4
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 18
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 12
+			}
+		]
+	}
+}

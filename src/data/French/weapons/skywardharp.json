@@ -1,0 +1,147 @@
+{
+	"name": "Ailes de la Voûte d'Azur",
+	"description": "Un grand arc qui symbolise l'affiliation de Dvalin à Barbatos. Fort de la puissance du ciel et du vent, le son qu'il produit lors de la libération de la flèche est une vraie musique aux oreilles de l'Archon Anémo.",
+	"weapontype": "Arc",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "Taux CRIT",
+	"subvalue": "4.8",
+	"effectname": "Ballade résonnante",
+	"effect": "Augmente les DGT CRIT de {0}. Toucher un ennemi a {1} de chances d'infliger des DGT physiques équivalant à 125 % de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les {2} s.",
+	"r1": [
+		"20 %",
+		"60 %",
+		"4"
+	],
+	"r2": [
+		"25 %",
+		"70 %",
+		"3,5"
+	],
+	"r3": [
+		"30 %",
+		"80 %",
+		"3"
+	],
+	"r4": [
+		"35 %",
+		"90 %",
+		"2,5"
+	],
+	"r5": [
+		"40 %",
+		"100 %",
+		"2"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Dent de lait du Loup boréal",
+				"count": 5
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 5
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 5
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 9
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 9
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 5
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 9
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 14
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Nostalgie du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 27
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 18
+			}
+		]
+	}
+}

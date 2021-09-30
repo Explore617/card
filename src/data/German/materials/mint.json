@@ -1,0 +1,10 @@
+{
+	"name": "Minze",
+	"description": "Eine Pflanze mit erfrischenden ätherischen Ölen in ihren Blättern. Das kühle Gefühl auf der Zunge lässt einen die Sommerhitze besser ertragen.",
+	"sortorder": 1263,
+	"category": "EXCHANGE",
+	"materialtype": "Zutat",
+	"source": [
+		"In der freien Natur zu finden"
+	]
+}

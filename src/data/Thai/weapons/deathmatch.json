@@ -1,0 +1,147 @@
+{
+	"name": "Deathmatch",
+	"description": "หอกคมยาวสีแดงเลือดซึ่งเคยเป็นสมบัติของนักสู้ในสมัยก่อน ปลายหอกถูกย้อมไปด้วยเลือดของสัตว์ร้ายและผู้คนนับไม่ถ้วน",
+	"weapontype": "หอก",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "อัตราคริ",
+	"subvalue": "8",
+	"effectname": "Gladiator",
+	"effect": "เมื่อมีศัตรูอย่างน้อย 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม {0} และพลังป้องกันเพิ่ม {1} ; เมื่อมีศัตรูน้อยกว่า 2 ตัว อยู่ใกล้ตัว จะได้รับพลังโจมตีเพิ่ม {2}",
+	"r1": [
+		"16%",
+		"16%",
+		"24%"
+	],
+	"r2": [
+		"20%",
+		"20%",
+		"30%"
+	],
+	"r3": [
+		"24%",
+		"24%",
+		"36%"
+	],
+	"r4": [
+		"28%",
+		"28%",
+		"42%"
+	],
+	"r5": [
+		"32%",
+		"32%",
+		"48%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 12
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 6
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 12
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 9
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 18
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 12
+			}
+		]
+	}
+}

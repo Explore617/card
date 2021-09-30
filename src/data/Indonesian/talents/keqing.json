@@ -1,0 +1,207 @@
+{
+	"name": "Keqing",
+	"combat1": {
+		"name": "Normal Attack: Yunlai Swordsmanship",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}+{param5:F1P}",
+				"DMG Tahap 5|{param6:F1P}",
+				"DMG Charged Attack|{param7:F1P}+{param8:F1P}",
+				"Konsumsi Stamina Charged Attack|{param9:F1}pt",
+				"DMG Selama Plunging|{param10:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Stellar Restoration",
+		"info": "Dengan cepat menggunakan Lightning Stiletto untuk menghabisi musuh bagaikan kilat.\nSaat Stiletto mengenai musuh, mengakibatkan Electro DMG kepada musuh dalam area yang kecil, dan menaruh Stiletto Mark di tempat.\n\n**Tahan**\nTahan untuk menyesuaikan arah ke mana Stiletto akan dilemparkan.\nStiletto yang dilemparkan oleh tipe serangan yang ditahan dapat ditangguhkan di udara, memungkinkan Keqing untuk melompat ke arah stiletto saat menggunakan Stellar Restoration untuk kedua kalinya.\n\n**Lightning Stiletto**\n·Jika Keqing menggunakan Stellar Restoration kembali atau menggunakan Charged Attack saat durasinya masih berlangsung, maka akan menghapus Stiletto Mark dan menghasilkan efek berbeda:\n·Jika dia menggunakan Stellar Restoration kembali, dia akan berpindah dengan cepat ke lokasi yang ditandai dan mengeluarkan satu serangan tebasan yang mengakibatkan Electro DMG area. Saat berpindah menuju Stiletto yang dilemparkan dari serangan tahan, Keqing dapat mengabaikan hambatan yang ada.\n·Jika Keqing menggunakan Charged Attack, dia akan memicu beberapa tebasan petir di lokasi yang ditandai, mengakibatkan Electro DMG area.",
+		"description": "\"Manusia itu bagaikan ngengat, mengejar api tiada henti yang sering kali disebut sebagai Dewa atau Adeptus. Tapi api yang kumiliki di sini adalah milikku sendiri.\"",
+		"attributes": {
+			"labels": [
+				"DMG Lightning Stiletto|{param1:F1P}",
+				"DMG Tebasan|{param2:P}",
+				"DMG Thunderclap Slash|{param3:F1P}*2",
+				"Cooldown|{param4:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Starward Sword",
+		"info": "Keqing melepaskan kekuatan petir, menghasilkan Electro DMG pada area sekitar.\nLalu dia akan menyatu dengan bayangan pedangnya, menyerang dengan serangkaian pukulan petir kepada musuh di sekitarnya secara bersamaan yang menghasilkan beberapa Electro DMG. Serangan terakhir menghasilkan Electro DMG area yang luar biasa.",
+		"description": "Teknik tercepat dalam ilmu pedang adalah harus cukup cepat sampai dapat memotong bintang-bintang",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:F1P}",
+				"DMG Tebasan Berkelanjutan|{param2:F1P}*8",
+				"DMG Serangan Terakhir|{param3:P}",
+				"Cooldown|{param4:F1}dtk",
+				"Konsumsi Energy|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Thundering Penance",
+		"info": "Setelah melancarkan **Stellar Restoration** untuk kedua kalinya saat Lightning Stiletto masih aktif, Keqing akan mendapatkan Electro Infusion selama 5 detik."
+	},
+	"passive2": {
+		"name": "Aristocratic Dignity",
+		"info": "Meningkatkan 15% CRIT Rate dan Energy Recharge Keqing selama 8 detik ketika menggunakan skill **Starward Sword**."
+	},
+	"passive3": {
+		"name": "Land's Overseer",
+		"info": "Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Prosperity\"",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Prosperity\"",
+				"count": 2
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Prosperity\"",
+				"count": 4
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Prosperity\"",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Prosperity\"",
+				"count": 9
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 4
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 4
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 6
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 6
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 12
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 9
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 16
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 12
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

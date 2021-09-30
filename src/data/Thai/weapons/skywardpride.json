@@ -1,0 +1,142 @@
+{
+	"name": "Skyward Pride",
+	"description": "ดาบใหญ่ที่เป็นสัญลักษณ์แห่งความทรนงของ Dvalin ผ่านฟากฟ้า เมื่อเหวี่ยงมัน จะมีคลื่นเสียงต่ำที่เกิดจากพลังของฟ้าและพลังแห่งลมที่ซ่อนอยู่ภายใน",
+	"weapontype": "ดาบใหญ่",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "การฟื้นฟูพลังงาน",
+	"subvalue": "8",
+	"effectname": "Sky-ripping Dragon Spine",
+	"effect": "เพิ่มความเสียหายที่สร้างขึ้น {0}; หลังจากที่ปล่อยท่าไม้ตาย: เมื่อการโจมตีปกติหรือชาร์จโจมตีโดนเป้าหมายจะสร้างใบมีดสุญญากาศขึ้นมาและสร้างความเสียหาย {1} ของพลังโจมตีให้แก่ศัตรูที่อยู่ในเส้นทางเป็นเวลา 20 วินาที หรือจนกว่าจะปล่อยใบมีดสุญญากาศถึง 8 ครั้ง",
+	"r1": [
+		"8%",
+		"80%"
+	],
+	"r2": [
+		"10%",
+		"100%"
+	],
+	"r3": [
+		"12%",
+		"120%"
+	],
+	"r4": [
+		"14%",
+		"140%"
+	],
+	"r5": [
+		"16%",
+		"160%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 5
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 18
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 9
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 9
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 18
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 9
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 14
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 27
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 18
+			}
+		]
+	}
+}

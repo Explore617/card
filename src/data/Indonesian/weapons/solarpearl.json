@@ -1,0 +1,142 @@
+{
+	"name": "Solar Pearl",
+	"description": "Mutiara emas yang terbuat dari benda yang menyimpan cahaya matahari dan bulan, memancarkan kekuatan hangat.",
+	"weapontype": "Catalyst",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "CRIT Rate",
+	"subvalue": "6",
+	"effectname": "Solar Shine",
+	"effect": "Saat Normal Attack mengenai musuh, meningkatkan {0} DMG Elemental Skill dan Elemental Burst selama 6 detik. Sebaliknya, saat Elemental Skill atau Elemental Burst mengenai musuh, meningkatkan {1} DMG Normal Attack selama 6 detik.",
+	"r1": [
+		"20%",
+		"20%"
+	],
+	"r2": [
+		"25%",
+		"25%"
+	],
+	"r3": [
+		"30%",
+		"30%"
+	],
+	"r4": [
+		"35%",
+		"35%"
+	],
+	"r5": [
+		"40%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Luminous Sands from Guyun",
+				"count": 3
+			},
+			{
+				"name": "Hunter's Sacrificial Knife",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Lustrous Stone from Guyun",
+				"count": 3
+			},
+			{
+				"name": "Hunter's Sacrificial Knife",
+				"count": 12
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lustrous Stone from Guyun",
+				"count": 6
+			},
+			{
+				"name": "Agent's Sacrificial Knife",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Relic from Guyun",
+				"count": 3
+			},
+			{
+				"name": "Agent's Sacrificial Knife",
+				"count": 12
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Relic from Guyun",
+				"count": 6
+			},
+			{
+				"name": "Inspector's Sacrificial Knife",
+				"count": 9
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Divine Body from Guyun",
+				"count": 4
+			},
+			{
+				"name": "Inspector's Sacrificial Knife",
+				"count": 18
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 12
+			}
+		]
+	}
+}

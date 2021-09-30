@@ -1,0 +1,217 @@
+{
+	"name": "Mona",
+	"combat1": {
+		"name": "Normal Attack: Ripple of Fate",
+		"info": "**Normal Attack**\nMelancarkan hingga 4 serangan air yang mengakibatkan Hydro DMG.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk mengakibatkan Hydro DMG area setelah jeda singkat.\n\n**Plunging Attack**\nMengumpulkan kekuatan Hydro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan Hydro DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Charged Attack|{param5:P}",
+				"Konsumsi Stamina Charged Attack|{param6:F1}pt",
+				"DMG Selama Plunging|{param7:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Mirror Reflection of Doom",
+		"info": "Menciptakan bayangan ilusi nasib dari bunga air.\n\n**Bayangan** tersebut mempunyai spesial efek seperti:\n·Terus-menerus menarik perhatian musuh di sekitar.\nTerus-menerus mengakibatkan Hydro DMG kepada musuh di sekitar.\n·Saat durasinya habis, bayangan akan meledak, mengakibatkan Hydro DMG area.\n\n**Tahan**\nManfaatkan arus air untuk bergerak mundur dengan cepat sebelum memanggil bayangan.\n\nHanya satu bayangan saja yang dapat dibuat oleh Mirror Reflection of Doom kapan pun juga.",
+		"description": "Astrolog terampil selalu bermimpi untuk menggunakan faksimili diri untuk menangkal nasib buruk yang akan segera terjadi, tapi Mona harus menjadi yang pertama di seluruh Teyvat yang bisa membuat hal itu terjadi.",
+		"attributes": {
+			"labels": [
+				"DMG Berkelanjutan|{param1:F1P}",
+				"DMG Ledakan|{param2:P}",
+				"CD|{param5:F1} dtk"
+			]
+		}
+	},
+	"combatsp": {
+		"name": "Illusory Torrent",
+		"info": "**Alternate Sprint**\nMona menyembunyikan dirinya di dalam arus air, mengonsumsi sejumlah Stamina untuk bergerak cepat.\n\nSaat berada di bawah pengaruh efek Illusory Torrent, Mona dapat bergerak dengan kecepatan tinggi di air.\nSaat dia muncul kembali, akan menyebabkan efek Wet kepada musuh di sekitarnya.",
+		"description": "Ini adalah hal yang bisa dilakukan oleh Mona, namun gurunya tidak bisa melakukannya. Yah, namun demikian gurunya juga tidak akan mempelajari lebih lanjut mengenai Hydro Vision...",
+		"attributes": {
+			"labels": [
+				"Konsumsi Stamina Aktivasi|{param1:F2}pt",
+				"Konsumsi Stamina|{param2:F2}/ dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Stellaris Phantasm",
+		"info": "Mona menciptakan gelombang air yang memantulkan cahaya langit penuh bintang, menyebabkan efek Illusory Bubble pada musuh dalam area yang besar.\n\n**Illusory Bubble**\nMengurung musuh di dalam gelembung bintang dan menyebabkan efek Wet. Musuh yang lebih lemah akan terkurung dan tidak bisa bergerak.\nSaat musuh dalam gelembung terkena DMG, akan muncul efek berikut:\n·Menyebabkan efek Omen pada musuh, yang akan meningkatkan DMG yang diterima, dan juga meningkatkan DMG serangan yang memicu efek ini;\n·Illusory Bubble akan pecah dan mengakibatkan Hydro DMG.\n\n**Omen**\nMeningkatkan DMG yang diterima musuh selama durasi Omen.",
+		"description": "Sejak pertama kali para dewa menulusuri cahaya di langit dengan mata mereka, di situlah lahirnya sebuah \"takdir\".",
+		"attributes": {
+			"labels": [
+				"Durasi Illusory Bubble|{param1:F1}dtk",
+				"DMG Ledakan Illusory Bubble|{param2:P}",
+				"Bonus DMG|{param10:P}",
+				"Durasi Omen|{param4:F1}dtk",
+				"CD|{param5:F1} dtk",
+				"Konsumsi Energy|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "\"Come 'n' Get Me, Hag!\"",
+		"info": "Jika ada musuh di sekitar, Mona akan menciptakan sebuah bayangan setelah menggunakan **Illusory Torrent** selama 2 detik.\nBayangan yang dibuat dengan cara ini dapat bertahan selama 2 detik, dan DMG ledakannya setara dengan 50% DMG **Mirror Reflection of Doom**."
+	},
+	"passive2": {
+		"name": "Waterborne Destiny",
+		"info": "Meningkatkan Hydro DMG Bonus Mona sebesar 20% dari Energy Recharge."
+	},
+	"passive3": {
+		"name": "Principium of Astrology",
+		"info": "Mona memiliki 25% kemungkinan untuk mendapatkan kembali material yang digunakan saat membuat Material Ascension Senjata."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 4
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 6
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 9
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 12
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

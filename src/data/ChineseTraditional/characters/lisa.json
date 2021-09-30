@@ -1,0 +1,153 @@
+{
+	"name": "麗莎",
+	"title": "薔薇魔女",
+	"description": "慵懶而博學的圖書管理員，須彌教令院「兩百年一見」的天才畢業生。",
+	"rarity": "4",
+	"element": "雷",
+	"weapontype": "法器",
+	"substat": "元素精通",
+	"gender": "女",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士團",
+	"birthdaymmdd": "6/9",
+	"birthday": "6月9日",
+	"constellation": "沙漏座",
+	"cv": {
+		"english": "Mara Junot",
+		"chinese": "钟可",
+		"japanese": "田中理恵",
+		"korean": "박고운"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "摩拉",
+				"count": 20000
+			},
+			{
+				"name": "最勝紫晶碎屑",
+				"count": 1
+			},
+			{
+				"name": "落落莓",
+				"count": 3
+			},
+			{
+				"name": "史萊姆凝液",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "摩拉",
+				"count": 40000
+			},
+			{
+				"name": "最勝紫晶斷片",
+				"count": 3
+			},
+			{
+				"name": "雷光稜鏡",
+				"count": 2
+			},
+			{
+				"name": "落落莓",
+				"count": 10
+			},
+			{
+				"name": "史萊姆凝液",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "摩拉",
+				"count": 60000
+			},
+			{
+				"name": "最勝紫晶斷片",
+				"count": 6
+			},
+			{
+				"name": "雷光稜鏡",
+				"count": 4
+			},
+			{
+				"name": "落落莓",
+				"count": 20
+			},
+			{
+				"name": "史萊姆清",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "摩拉",
+				"count": 80000
+			},
+			{
+				"name": "最勝紫晶塊",
+				"count": 3
+			},
+			{
+				"name": "雷光稜鏡",
+				"count": 8
+			},
+			{
+				"name": "落落莓",
+				"count": 30
+			},
+			{
+				"name": "史萊姆清",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "摩拉",
+				"count": 100000
+			},
+			{
+				"name": "最勝紫晶塊",
+				"count": 6
+			},
+			{
+				"name": "雷光稜鏡",
+				"count": 12
+			},
+			{
+				"name": "落落莓",
+				"count": 45
+			},
+			{
+				"name": "史萊姆原漿",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "摩拉",
+				"count": 120000
+			},
+			{
+				"name": "最勝紫晶",
+				"count": 6
+			},
+			{
+				"name": "雷光稜鏡",
+				"count": 20
+			},
+			{
+				"name": "落落莓",
+				"count": 60
+			},
+			{
+				"name": "史萊姆原漿",
+				"count": 24
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Épée noire",
+	"description": "Une épée qui a soif de violence et de conflit. Cette arme aurait le pouvoir d'exciter la soif de sang de son propriétaire.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Taux CRIT",
+	"subvalue": "6",
+	"effectname": "Justice",
+	"effect": "Augmente les DGT infligés par les attaques normales et chargées de {0} et restaure {1} de l'ATQ en PV en cas de coup CRIT. Cet effet peut être déclenché toutes les 5 s.",
+	"r1": [
+		"20 %",
+		"60 %"
+	],
+	"r2": [
+		"25 %",
+		"70 %"
+	],
+	"r3": [
+		"30 %",
+		"80 %"
+	],
+	"r4": [
+		"35 %",
+		"90 %"
+	],
+	"r5": [
+		"40 %",
+		"100 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dent de lait du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 3
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 12
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 6
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 12
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 9
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgie du Loup boréal",
+				"count": 4
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,207 @@
+{
+	"name": "Xiangling",
+	"combat1": {
+		"name": "Pastry Kung Fu",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}+{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}*4",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Charged Attack|{param6:P}",
+				"Konsumsi Stamina Charged Attack|{param7:F1}pt",
+				"DMG Selama Plunging|{param8:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Guoba Attack",
+		"info": "Memanggil Guoba si Panda. Guoba terus menghembuskan api ke musuh, mengakibatkan Pyro DMG area.",
+		"description": "Guoba suka makan yang pedas-pedas. Masalahnya, perutnya tidak tahan.",
+		"attributes": {
+			"labels": [
+				"DMG Flamethrower|{param1:P}",
+				"Cooldown|{param2:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Pyronado",
+		"info": "Xiangling menunjukkan keahilannya dengan api dan tombak, dia membuat Pyronado yang berputar di sekitarnya.\nPyrnado akan bergerak mengikuti karaktermu selama durasinya dan mengakibatkan Pyro DMG ke semua musuh di jalurnya.",
+		"description": "Tidak akan pernah ada panas yang cukup. Tidak pernah.",
+		"attributes": {
+			"labels": [
+				"DMG Tebasan Tahap 1|{param1:F1P}",
+				"DMG Tebasan Tahap 2|{param2:F1P}",
+				"DMG Tebasan Tahap 3|{param3:P}",
+				"DMG Pyronado|{param4:P}",
+				"Durasi|{param5:F1}dtk",
+				"Cooldown|{param6:F1}dtk",
+				"Konsumsi Energy|{param7:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Crossfire",
+		"info": "Meningkatkan 20% jarak semburan api Guoba."
+	},
+	"passive2": {
+		"name": "Beware, It's Super Hot!",
+		"info": "Saat durasi skill **Guoba Attack** selesai, Guoba akan meninggalkan sebuah cabai di lantai. Mengambil cabai tersebut meningkatkan 10% ATK selama 10 detik."
+	},
+	"passive3": {
+		"name": "Chef de Cuisine",
+		"info": "Saat masakan jenis penyerangan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Diligence\"",
+				"count": 3
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Diligence\"",
+				"count": 2
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Diligence\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Diligence\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Diligence\"",
+				"count": 9
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 12
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 16
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,205 @@
+{
+	"name": "Barbara",
+	"combat1": {
+		"name": "Attaque normale : Murmure de l'eau",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 4 attaques d'eau qui infligent des DGT Hydro.\n\n**Attaque chargée**\nAprès un court délai, inflige des DGT Hydro de zone ; cette attaque consomme de l'endurance.\n\n**Attaque plongeante**\nPlonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des DGT Hydro de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT attaque chargée|{param5:P}",
+				"Coût d'endurance attaque chargée|{param6:F1} pts",
+				"DGT durant la chute|{param7:F1P}",
+				"DGT chute basse/élevée|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "C'est parti pour le show ♪",
+		"info": "Invoque des gouttelettes dansantes qui forment un cercle de mélodie infligeant des DGT Hydro et trempant les ennemis proches.\n\n**Cercle de mélodie**\n· Les attaques normales de Barbara restaurent les PV de vos personnages dans l'équipe ainsi que de tous les alliés proches lorsqu'elles touchent. La quantité de PV restaurés est proportionnelle aux PV max de Barbara.\n· L'effet des soins est multiplié par 4 avec les attaques chargées.\n· Régénère les PV de votre personnage déployé à intervalles réguliers.\n· Barbara trempe les personnages et les ennemis avec qui elle entre en contact.",
+		"description": "La musique de Barbara est une magie capable de soigner chacun.",
+		"attributes": {
+			"labels": [
+				"Soins équipe|{param3:F2P} PV max + {param4:I} PV",
+				"Soins continus|{param1:F2P} PV + {param2:I} PV",
+				"DGT gouttelettes|{param5:F1P}",
+				"Durée|{param6:F1} s",
+				"Temps de recharge|{param7:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Miracle brillant ♪",
+		"info": "Restaure considérablement les PV des alliés et de vos personnages dans l'équipe ; la quantité de PV restaurés est proportionnelle aux PV max de Barbara.",
+		"description": "Soigner le cœur de chacun, telle est la force du chant de Barbara.",
+		"attributes": {
+			"labels": [
+				"Soins|{param1:F1P} PV max + {param2:I} PV",
+				"Temps de recharge|{param3:F1} s",
+				"Énergie élémentaire|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Splendide saison",
+		"info": "Les personnages situés dans le cercle de mélodie de **C'est parti pour le show ♪** consomment 12 % d'endurance en moins."
+	},
+	"passive2": {
+		"name": "Bis repetita",
+		"info": "Chaque orbe ou particule élémentaire obtenu(e) par votre personnage déployé prolonge le cercle de mélodie de **C'est parti pour le show ♪** de 1 s.\nDurée max : 5 s."
+	},
+	"passive3": {
+		"name": "De tout mon cœur ♪",
+		"info": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Liberté",
+				"count": 3
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 2
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 9
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 4
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 6
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 12
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 9
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 16
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 12
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

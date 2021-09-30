@@ -1,0 +1,142 @@
+{
+	"name": "Arco Quebra-Demônios",
+	"description": "Uma certa bruxa do templo tinha este arco de guerra. Foi feito com uma excelente habilidade, e ele é complexo e robusto.",
+	"weapontype": "Arco",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "ATQ",
+	"subvalue": "12",
+	"effectname": "Grande Jogada",
+	"effect": "Aumenta o Dano de ATQ Normal em {0} e o Dano de ATQ Carregado em {1}. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%.",
+	"r1": [
+		"16%",
+		"12%"
+	],
+	"r2": [
+		"20%",
+		"15%"
+	],
+	"r3": [
+		"24%",
+		"18%"
+	],
+	"r4": [
+		"28%",
+		"21%"
+	],
+	"r5": [
+		"32%",
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "A Sabedoria de Narukami",
+				"count": 3
+			},
+			{
+				"name": "Prisma Sombrio",
+				"count": 3
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "A Alegria de Narukami",
+				"count": 3
+			},
+			{
+				"name": "Prisma Sombrio",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "A Alegria de Narukami",
+				"count": 6
+			},
+			{
+				"name": "Prisma Cristalino",
+				"count": 6
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "O Afeto de Narukami",
+				"count": 3
+			},
+			{
+				"name": "Prisma Cristalino",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "O Afeto de Narukami",
+				"count": 6
+			},
+			{
+				"name": "Prisma Polarizado",
+				"count": 9
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "A Coragem de Narukami",
+				"count": 4
+			},
+			{
+				"name": "Prisma Polarizado",
+				"count": 18
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 12
+			}
+		]
+	}
+}

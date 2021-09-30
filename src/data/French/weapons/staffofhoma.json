@@ -1,0 +1,147 @@
+{
+	"name": "Bâton de Homa",
+	"description": "Un « bâton de feu » utilisé il y a bien longtemps dans quelque rituel ancien aujourd'hui disparu.",
+	"weapontype": "Arme d'hast",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "DGT CRIT",
+	"subvalue": "14.4",
+	"effectname": "Papillon écarlate libre",
+	"effect": "Les PV sont augmentés de {0}. Le personnage équipé de l'arme obtient également un bonus d'ATQ équivalant à {1} de ses PV max, et lorsque ses PV sont inférieurs à 50 %, il obtient un bonus d'ATQ supplémentaire équivalant à {2} de ses PV max.",
+	"r1": [
+		"20 %",
+		"0,8 %",
+		"1 %"
+	],
+	"r2": [
+		"25 %",
+		"1 %",
+		"1,2 %"
+	],
+	"r3": [
+		"30 %",
+		"1,2 %",
+		"1,4 %"
+	],
+	"r4": [
+		"35 %",
+		"1,4 %",
+		"1,6 %"
+	],
+	"r5": [
+		"40 %",
+		"1,6 %",
+		"1,8 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grain d'aérosidérite noire",
+				"count": 5
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 5
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Éclat d'aérosidérite noire",
+				"count": 5
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Éclat d'aérosidérite noire",
+				"count": 9
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 9
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragment d'aérosidérite noire",
+				"count": 5
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Fragment d'aérosidérite noire",
+				"count": 9
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 14
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Morceau d'aérosidérite noire",
+				"count": 6
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 27
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 18
+			}
+		]
+	}
+}

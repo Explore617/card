@@ -1,0 +1,142 @@
+{
+	"name": "Valse nocturne",
+	"description": "Un arc peint de la couleur des nuits de péché et de fantaisie.",
+	"weapontype": "Arc",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Bonus de DGT physiques",
+	"subvalue": "11.3",
+	"effectname": "Duetto de nuit",
+	"effect": "Lorsque vous touchez des ennemis avec des attaques normales, les DGT infligés par les compétences élémentaires sont augmentés de {0} pendant 5 s. Lorsque vous touchez des ennemis avec des compétences élémentaires, les DGT infligés par les attaques normales sont augmentés de {1} pendant 5 s.",
+	"r1": [
+		"20 %",
+		"20 %"
+	],
+	"r2": [
+		"25 %",
+		"25 %"
+	],
+	"r3": [
+		"30 %",
+		"30 %"
+	],
+	"r4": [
+		"35 %",
+		"35 %"
+	],
+	"r5": [
+		"40 %",
+		"40 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Tuile cassée de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 3
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 12
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 12
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 9
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Rêve brisé de Décabarian",
+				"count": 4
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 18
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,209 @@
+{
+	"name": "Diona",
+	"combat1": {
+		"name": "Attaque normale : Archerie de chasse",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Cryo, infligeant de considérables DGT Cryo quand elle est complètement chargée.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT tir visé|{param7:F1P}",
+				"DGT tir visé (pleine charge)|{param8:P}",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Griffes Cryo",
+		"info": "Libère des griffes de chat Cryo qui infligent des DGT Cryo, et génèrent un bouclier lorsqu'elles touchent.\nLe bouclier peut absorber une quantité de DGT proportionnelle aux PV max de Diona, et sa durée dépend du nombre de cibles touchées.\n\n**Appui simple**\nExécute rapidement deux attaques consécutives de Griffes Cryo.\n\n**Appui long**\nBat rapidement en retraite, et libère 5 Griffes Cryo.\nLe bouclier généré lors d'un appui long obtient un bonus de 75 % d'absorption des DGT.\n\nLe bouclier est efficace à 250 % contre les DGT Cryo, et applique l'élément Cryo au personnage déployé pendant un court instant lorsque le bouclier est généré.",
+		"description": "En théorie, la glace versée dans un breuvage est sans danger pour celui qui le boit. Ceci était exact jusqu'à ce que Diona utilise son œil divin pour créer une glace capable de geler jusqu'au cerveau... 5 étoiles !",
+		"attributes": {
+			"labels": [
+				"DGT Griffes Cryo|{param1:F1P} par Griffe",
+				"Absorption de base du bouclier|{param2:F1P} PV max + {param3:I}",
+				"Durée|{param6:F1} s par Griffe",
+				"TdR appui simple|{param4:F1} s",
+				"TdR appui long|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Cuvée spéciale",
+		"info": "Diona lance un cocktail gelé de sa fabrication, infligeant des DGT Cryo de zone, et génère un champ de vapeur d'alcool.\n\n**Champ de vapeur d'alcool**\n· Inflige aux ennemis présents dans la zone des DGT Cryo continus.\n· Restaure les PV des personnages présents dans la zone.",
+		"description": "Une recette que même Diona juge inhumaine. L'avant-goût terrifiant est mieux laissé aux ennemis ; nous ne parlerons pas de l'arrière-goût particulièrement frais qui en découle.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"DGT de zone continus|{param2:F1P}",
+				"Soins continus|{param3:F2P} PV max + {param4:I} PV",
+				"Durée|{param7:F1} s",
+				"Temps de recharge|{param5:F1} s",
+				"Énergie élémentaire|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Menu secret de La Queue de Chat",
+		"info": "Augmente de 10 % la VIT de déplacement des personnages sous la protection du bouclier généré par les **Griffes Cryo**. Leur consommation d'endurance est de plus réduite de 10 %."
+	},
+	"passive2": {
+		"name": "Joyeuse ébriété",
+		"info": "Les ennemis entrant dans le champ de vapeur d'alcool de **Cuvée Spéciale** voient leur ATQ baisser de 10 % pendant 15 s."
+	},
+	"passive3": {
+		"name": "Apéritif offert",
+		"info": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Liberté",
+				"count": 3
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 2
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 9
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 4
+			},
+			{
+				"name": "Fragment du démon",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 6
+			},
+			{
+				"name": "Fragment du démon",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 9
+			},
+			{
+				"name": "Fragment du démon",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 16
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 12
+			},
+			{
+				"name": "Fragment du démon",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

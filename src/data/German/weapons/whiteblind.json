@@ -1,0 +1,137 @@
+{
+	"name": "Weißer Schatten",
+	"description": "Ein fremdländisches Großschwert mit einer stumpfen Seite, das über Handelsrouten nach Liyue gelangt ist. Wer weiß, wie man damit umgeht, kann seine ungemeine Zerstörungskraft entfesseln.",
+	"weapontype": "Zweihänder",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "VTD",
+	"subvalue": "11.3",
+	"effectname": "Energieschubspitze",
+	"effect": "Erhöht den ANG und die VTD bei Treffern mit Standardangriffen und heftigen Schlägen 6 s lang um {0}, 4-fach stapelbar. 0,5 s Abklingzeit.",
+	"r1": [
+		"6 %"
+	],
+	"r2": [
+		"7,5 %"
+	],
+	"r3": [
+		"9 %"
+	],
+	"r4": [
+		"10,5 %"
+	],
+	"r5": [
+		"12 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Leuchtender Sand von Guyun",
+				"count": 3
+			},
+			{
+				"name": "Zeremonielles Jagdschwert",
+				"count": 3
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Glänzender Stein von Guyun",
+				"count": 3
+			},
+			{
+				"name": "Zeremonielles Jagdschwert",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Glänzender Stein von Guyun",
+				"count": 6
+			},
+			{
+				"name": "Zeremonielles Agentenschwert",
+				"count": 6
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Reliquie von Guyun",
+				"count": 3
+			},
+			{
+				"name": "Zeremonielles Agentenschwert",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Reliquie von Guyun",
+				"count": 6
+			},
+			{
+				"name": "Zeremonielles Kundschafterlangschwert",
+				"count": 9
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Heiligtum von Guyun",
+				"count": 4
+			},
+			{
+				"name": "Zeremonielles Kundschafterlangschwert",
+				"count": 18
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,147 @@
+{
+	"name": "Sinfonia dos Indolentes",
+	"description": "Um caderno pesado cheio de partituras. Apesar de já estar bastante danificado, ainda há muito poder que pode ser encontrado nas palavras escritas.",
+	"weapontype": "Catalisador",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Dano Crítico",
+	"subvalue": "12",
+	"effectname": "Abertura",
+	"effect": "Ao entrar no campo de batalha, o personagem ganha uma música temática aleatória por 10s. Pode ser ativada uma vez a cada 30s. Recitativa: O ATQ é aumentado em {0}; Aria: Aumenta todos os Danos Elementais em {1}; Interlúdio: A Proficiência Elemental é aumentada em {2}.",
+	"r1": [
+		"60%",
+		"48%",
+		"240"
+	],
+	"r2": [
+		"75%",
+		"60%",
+		"300"
+	],
+	"r3": [
+		"90%",
+		"72%",
+		"360"
+	],
+	"r4": [
+		"105%",
+		"84%",
+		"420"
+	],
+	"r5": [
+		"120%",
+		"96%",
+		"480"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dente de Leite do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 12
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 6
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 12
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 9
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgia do Lobo Boreal",
+				"count": 4
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 18
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			}
+		]
+	}
+}

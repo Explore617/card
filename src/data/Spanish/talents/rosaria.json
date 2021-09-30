@@ -1,0 +1,205 @@
+{
+	"name": "Rosaria",
+	"combat1": {
+		"name": "Ataque Normal: Lanza eclesiástica",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P} ×2",
+				"Daño de 4.º golpe|{param4:F1P}",
+				"Daño de 5.º golpe|{param5:F1P}+{param6:F1P}",
+				"Daño de ATQ Cargado|{param7:P}",
+				"Coste de Aguante de ATQ Cargado|{param8:F1} pts.",
+				"Daño de Caída|{param9:F1P}",
+				"Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Confesión impronunciable",
+		"info": "Rosaria se desplaza rápidamente hasta detrás de su objetivo, clavándole su lanza y realizando un tajo que inflige Daño Cryo.\nNo es posible desplazarse hasta detrás de enemigos de gran tamaño con este movimiento.",
+		"description": "Rosaria no perdona los pecados de aquellos que se confiesan ante ella. Al contrario, cuanto más grave sea el pecado, más penetrante es el frío con el que los castiga.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}+{param2:P}",
+				"TdE|{param3:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Extremaunción",
+		"info": "Esta es la ceremonia de rezo dirigida exclusivamente por Rosaria. Tras empujar con su arma a los enemigos a su alrededor, concentra un frío extremo en su lanza helada para golpear el suelo, infligiendo Daño Cryo.\nMientras esté activa, la lanza helada emitirá intermitentemente un aire helado que inflige Daño Cryo a los enemigos cercanos.",
+		"description": "Juzgar es algo muy fastidioso, así que ¿por qué no saltarse ese paso y celebrar directamente la última ceremonia de rezo? Debido a la poca devoción de Rosaria hacia el Arconte Anemo, esto no le resulta nada complicado.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}+{param2:P}",
+				"Daño continuo de lanza helada|{param3:P}",
+				"Duración|{param4:F1} s",
+				"TdE|{param5:F1} s",
+				"Energía Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Regina probatorum",
+		"info": "Cuando Rosaria ataca por la espalda a un objetivo con **Confesión impronunciable**, su Prob. CRIT aumenta en un 12% durante 5 s."
+	},
+	"passive2": {
+		"name": "Oscuridad expiatoria",
+		"info": "Al usar **Extremaunción**, la Prob. CRIT de todos los miembros del equipo (a excepción de Rosaria) aumenta durante 10 s en un 15% de la Prob. CRIT de Rosaria.\nEl aumento de Prob. CRIT conseguido de esta manera no podrá ser superior al 15%."
+	},
+	"passive3": {
+		"name": "Travesía nocturna",
+		"info": "La Vel. Movimiento de todos los miembros de tu equipo aumenta en un 10% por la noche (de 18:00 a 06:00).\nEste efecto no se activará en Dominios, Dominios de la cruzada y la Espiral del Abismo, y no se puede acumular con otros talentos pasivos que tengan los mismos efectos."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas de la poesía",
+				"count": 3
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía de la poesía",
+				"count": 2
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía de la poesía",
+				"count": 4
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía de la poesía",
+				"count": 6
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía de la poesía",
+				"count": 9
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía de la poesía",
+				"count": 4
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 4
+			},
+			{
+				"name": "Sombra del guerrero",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía de la poesía",
+				"count": 6
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 6
+			},
+			{
+				"name": "Sombra del guerrero",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía de la poesía",
+				"count": 12
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 9
+			},
+			{
+				"name": "Sombra del guerrero",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía de la poesía",
+				"count": 16
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 12
+			},
+			{
+				"name": "Sombra del guerrero",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Teyvat Fried Egg",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 50–150 HP.",
+	"description": "Telur yang dimasak matang di satu sisi. Kuning telurnya mengalir indah saat dipotong, sangat memuaskan untuk disantap.",
+	"suspicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 50 HP.",
+		"description": "Telur yang dimasak matang di satu sisi. Agak keras saat dimakan, semoga nutrisinya tidak hilang karena terlalu gosong."
+	},
+	"normal": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 100 HP.",
+		"description": "Telur yang dimasak matang di satu sisi. Kuning telurnya mengalir indah saat dipotong, sangat memuaskan untuk disantap."
+	},
+	"delicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 150 HP.",
+		"description": "Telur yang dimasak matang di satu sisi dengan sempurna. Rasanya seperti sinar matahari yang memulihkan kekuatanmu saat digigit."
+	},
+	"ingredients": [
+		{
+			"name": "Bird Egg",
+			"count": 1
+		}
+	]
+}

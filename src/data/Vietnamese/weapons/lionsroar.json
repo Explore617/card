@@ -1,0 +1,137 @@
+{
+	"name": "Tiếng Hét Của Rồng",
+	"description": "Phát ra sức mạnh tinh anh nhưng không hề ảnh hưởng đến sự sắc bén cũng như linh hoạt. Vung lên như tiếng hét của rồng.",
+	"weapontype": "Kiếm Đơn",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tấn Công",
+	"subvalue": "9",
+	"effectname": "Trừ Lôi Dập Hỏa",
+	"effect": "Sát thương tạo ra cho kẻ địch bị ảnh hưởng bởi nguyên tố Hỏa hoặc Lôi tăng {0}.",
+	"r1": [
+		"20%"
+	],
+	"r2": [
+		"24%"
+	],
+	"r3": [
+		"28%"
+	],
+	"r4": [
+		"32%"
+	],
+	"r5": [
+		"36%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ánh Sáng Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 3
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 6
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 9
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Thần Thể Rừng Băng Giá",
+				"count": 4
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 18
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 12
+			}
+		]
+	}
+}

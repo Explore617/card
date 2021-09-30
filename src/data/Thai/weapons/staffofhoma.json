@@ -1,0 +1,147 @@
+{
+	"name": "Staff of Homa",
+	"description": "\"หอกแห่งไฟ\" ที่ใช้ในพิธีกรรมโบราณซึ่งได้สูญหายไปเป็นเวลานาน",
+	"weapontype": "หอก",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ความแรงคริ",
+	"subvalue": "14.4",
+	"effectname": "Reckless Cinnabar",
+	"effect": "เพิ่มพลังชีวิต {0} นอกจากนี้ จะได้รับโบนัสพลังโจมตีเป็น {1} ของพลังชีวิตสูงสุดของตัวละครที่ใช้อาวุธนี้ และในตอนที่ตัวละครที่ใช้อาวุธนี้มีพลังชีวิตต่ำกว่า 50% จะได้รับพลังโจมตีเพิ่มขึ้นอีก {2} ของพลังชีวิตสูงสุด",
+	"r1": [
+		"20%",
+		"0.8%",
+		"1%"
+	],
+	"r2": [
+		"25%",
+		"1%",
+		"1.2%"
+	],
+	"r3": [
+		"30%",
+		"1.2%",
+		"1.4%"
+	],
+	"r4": [
+		"35%",
+		"1.4%",
+		"1.6%"
+	],
+	"r5": [
+		"40%",
+		"1.6%",
+		"1.8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grain of Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 5
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 18
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 9
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 9
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 18
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 9
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 14
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Chunk of Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 27
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 18
+			}
+		]
+	}
+}

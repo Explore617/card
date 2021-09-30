@@ -1,0 +1,207 @@
+{
+	"name": "Keqing",
+	"combat1": {
+		"name": "Attaque normale : Escrime des nuages",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}+{param5:F1P}",
+				"DGT 5e coup|{param6:F1P}",
+				"DGT attaque chargée|{param7:F1P}+{param8:F1P}",
+				"Coût d'endurance attaque chargée|{param9:F1} pts",
+				"DGT durant la chute|{param10:F1P}",
+				"DGT chute basse/élevée|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Retour des étoiles",
+		"info": "Keqing lance une Lame de foudre qui attaque ses ennemis avec la puissance des cieux.\nLorsqu'une Lame de foudre touche sa cible, elle inflige des DGT Électro de zone et laisse une marque à l'endroit visé.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée.\nLes Lames de foudre peuvent aussi être suspendues dans les airs ; activez à nouveau la compétence Retour des étoiles pour permettre à Keqing de s'y téléporter.\n\n**Lame de foudre**\nLorsque la marque est active, Keqing peut utiliser à nouveau Retour des étoiles pour se téléporter ou lancer une attaque chargée et la marque disparaîtra avec les effets suivant selon le cas :\n· Réactivation de Retour des étoiles : Keqing se téléporte à l'emplacement de la marque et exécute une entaille qui inflige des DGT Électro de zone. Keqing passe à travers tous les obstacles topographiques lorsqu'elle se téléporte.\n· Attaque chargée : une série de coups de tonnerre tranchants s'abat à l'emplacement de la marque, infligeant des DGT Électro de zone.",
+		"description": "« Les humains sont comme des papillons de nuit, attirés par la lumière des dieux et des Adeptes. Or seule la mienne guide mes ailes. »",
+		"attributes": {
+			"labels": [
+				"DGT Lame de foudre|{param1:F1P}",
+				"DGT entaille|{param2:P}",
+				"DGT coup de tonnerre tranchant|{param3:F1P} ×2",
+				"Temps de recharge|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Promenade céleste",
+		"info": "Keqing fait appel à la puissance de l'éclair, et inflige des DGT Électro de zone.\nSe fondant ensuite dans l'ombre de son épée, elle libère une série de coups tranchants rapides, infligeant aux ennemis proches des DGT Électro. Le coup final inflige d'importants DGT Électro de zone.",
+		"description": "L'une des techniques les plus rapides de l'arsenal de Keqing, capable de faire tomber même les étoiles.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:F1P}",
+				"DGT coup tranchant|{param2:F1P} ×8",
+				"DGT coup final|{param3:P}",
+				"Temps de recharge|{param4:F1} s",
+				"Énergie élémentaire|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Pénitence retentissante",
+		"info": "Keqing obtient pendant 5 s un enchantement Électro lorsqu'une Lame de foudre est active et que **Retour des Étoiles** est lancé à nouveau."
+	},
+	"passive2": {
+		"name": "Trésor de l'Alioth",
+		"info": "Keqing obtient pendant 8 s un bonus de taux CRIT et de recharge d'énergie de 15 % lorsqu'elle libère **Promenade céleste**."
+	},
+	"passive3": {
+		"name": "Agencement des terres",
+		"info": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Prospérité",
+				"count": 3
+			},
+			{
+				"name": "Nectar de Fleur mensongère",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 2
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 4
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 6
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 9
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 4
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 4
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 6
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 6
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 12
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 9
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 16
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 12
+			},
+			{
+				"name": "Vertèbre de Borée",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

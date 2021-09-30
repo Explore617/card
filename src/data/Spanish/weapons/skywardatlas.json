@@ -1,0 +1,142 @@
+{
+	"name": "Pergamino Celestial",
+	"description": "Un atlas de nubes que simboliza a Stormterror y al Arconte Anemo, su antiguo maestro. Registra detalladamente y contiene el poder de los vientos y las nubes de los cielos del norte.",
+	"weapontype": "Catalizador",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "ATQ",
+	"subvalue": "7.2",
+	"effectname": "Nubes pasajeras",
+	"effect": "Aumenta en un {0} el bono de Daño Elemental. Al atacar con un Ataque Normal, hay un 50% de probabilidad de conseguir la gracia de las nubes. Estas buscarán durante 15 s enemigos a los que atacar, infligiendo un {1} de daño de ATQ. Este efecto solo puede ocurrir una vez cada 30 s.",
+	"r1": [
+		"12%",
+		"160%"
+	],
+	"r2": [
+		"15%",
+		"200%"
+	],
+	"r3": [
+		"18%",
+		"240%"
+	],
+	"r4": [
+		"21%",
+		"280%"
+	],
+	"r5": [
+		"24%",
+		"320%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Diente de leche de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 5
+			},
+			{
+				"name": "Flecha robusta",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Flecha robusta",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 9
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 9
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 9
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 14
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Nostalgia del lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 27
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 18
+			}
+		]
+	}
+}

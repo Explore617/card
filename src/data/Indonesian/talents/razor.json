@@ -1,0 +1,213 @@
+{
+	"name": "Razor",
+	"combat1": {
+		"name": "Steel Fang",
+		"info": "**Normal Attack** Melancarkan hingga 4 tebasan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:P}",
+				"DMG Tahap 4|{param4:P}",
+				"DMG Berputar Charged Attack|{param5:F1P}",
+				"DMG Akhir Charged Attack|{param6:P}",
+				"Konsumsi Stamina Charged Attack|{param7:F1}/dtk",
+				"Durasi Maks.|{param8:F1}dtk",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Claw and Thunder",
+		"info": "Memburu mangsanya dengan teknik yang diajarkan oleh keluarganya dan Lupical.\n\n**Tekan**\nMengayunkan Thunder Wolf Claw, mengakibatkan Electro DMG ke musuh di depan Razor.\nSaat mengenai musuh, Razor akan mendapatkan Electro Sigil yang meningkatkan kecepatan Energy Recharge.\nRazor dapat memiliki paling banyak 3 Electro Sigil dalam waktu bersamaan, dan mendapatkan Electro Sigil baru akan memutar ulang durasi mereka.\n\n**Tahan**\nMengumpulkan Electro Energy untuk mengerahkan badai petir dalam area kecil, mengakibatkan Electro DMG yang besar dan mengonsumsi seluruh Electro Sigil milik Razor.\nSetiap Electro Sigil yang digunakan dengan cara ini akan dikonversi menjadi Energy untuk Razor.",
+		"description": "Pada saat petir menyambar, kamu dapat melihat mata Razor yang sedang mengamati mangsanya.",
+		"attributes": {
+			"labels": [
+				"DMG One-tap|{param1:P}",
+				"DMG Menahan|{param2:P}",
+				"Peningkatan Energy Recharge per Sigil|{param3:P}",
+				"Pemulihan Energy per Electro Sigil|{param4:F1}/pt",
+				"Durasi Electro Sigil|{param5:F1}dtk",
+				"Cooldown One-tap|{param6:F1}dtk",
+				"Cooldown Menahan|{param7:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Lightning Fang",
+		"info": "Memanggil Wolf Within untuk mengakibatkan Electro DMG ke semua musuh di sekitar. Juga akan menghilangkan semua Electro Sigil milik Razor, yang akan dikonversi menjadi Energy untuknya.\nWolf Within akan bertempur bersama Razor selama durasi skill.\n\n**The Wolf Within**\n·Menyerang bersama dengan Normal Attack Razor dan mengakibatkan Electro DMG;\n·Meningkatkan ATK SPD dan Electro RES Razor;\n·Membuat Razor kebal terhadap DMG yang diakibatkan oleh efek Electro-Charged;\n·Menonaktifkan Charged Attack milik Razor.\n\nEfek-efek ini berakhir saat Razor meninggalkan medan pertempuran.\nSaat Razor meninggalkan medan pertempuran, hingga 10 Energy akan dikembalikan kepadanya berdasarkan durasi yang tersisa dari skill ini.",
+		"description": "Sang serigala telah terbangun, perburuan dimulai.",
+		"attributes": {
+			"labels": [
+				"DMG Elemental Burst|{param1:P}",
+				"DMG Spirit|{param2:F1P} DMG Normal Attack",
+				"Peningkatan Normal Attack SPD|{param3:P}",
+				"Bonus Electro RES|{param4:P}",
+				"Durasi|{param5:F1}dtk",
+				"Cooldown|{param6:F1}dtk",
+				"Konsumsi Energy|{param7:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Awakening",
+		"info": "Mengurangi 18% CD **Claw and Thunder**.\nMelancarkan **Lightning Fang** akan menyelesaikan CD **Claw and Thunder**."
+	},
+	"passive2": {
+		"name": "Hunger",
+		"info": "Meningkatkan 30% Energy Recharge saat Energy Razor kurang dari 50%."
+	},
+	"passive3": {
+		"name": "Wolvensprint",
+		"info": "Mengurangi 20% konsumsi Stamina karakter sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Stained Mask",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Stained Mask",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

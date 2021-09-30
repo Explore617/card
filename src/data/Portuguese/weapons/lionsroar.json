@@ -1,0 +1,137 @@
+{
+	"name": "Rugido do Leão",
+	"description": "Uma lâmina afiada com inserções luxuosas que de alguma forma não comprometeu sua durabilidade e nitidez. O som que emite ao fazer cortes pelo ar é como o rugido de leões.",
+	"weapontype": "Espada",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Destruição de Fogo e Trovão",
+	"effect": "Aumenta o Dano contra inimigos afetados por Pyro ou Electro em {0}.",
+	"r1": [
+		"20%"
+	],
+	"r2": [
+		"24%"
+	],
+	"r3": [
+		"28%"
+	],
+	"r4": [
+		"32%"
+	],
+	"r5": [
+		"36%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Areia Brilhante de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 3
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 12
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Especial",
+				"count": 6
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca Especial",
+				"count": 12
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 9
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Corpo Divino de Guyun",
+				"count": 4
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 18
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 12
+			}
+		]
+	}
+}

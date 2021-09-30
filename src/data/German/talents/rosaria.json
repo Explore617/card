@@ -1,0 +1,205 @@
+{
+	"name": "Rosaria",
+	"combat1": {
+		"name": "Standardangriff: Speer der Kathedrale",
+		"info": "**Standardangriff**\nFührt bis zu 5 Lanzenstiche aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P} ×2",
+				"SCH Phase 4|{param4:F1P}",
+				"SCH Phase 5|{param5:F1P} + {param6:F1P}",
+				"SCH heftiger Schläge|{param7:P}",
+				"Ausdauerverbrauch heftiger Schläge|{param8:F1} Punkte",
+				"SCH beim Fallen|{param9:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Erschütterndes Geständnis",
+		"info": "Rosaria bewegt sich mit hoher Geschwindigkeit hinter ihr Ziel, sticht mit ihrer Waffe zu und schwingt sie und verursacht Kryo-Schaden.\nEs ist nicht möglich, mit dieser Fähigkeit hinter größere Gegner zu gelangen.",
+		"description": "Diejenigen, die Schwester Rosaria ihre Sünden gestehen, erhalten keine Absolution. Alle Sünder werden stattdessen mit einer strafenden Kälte konfrontiert, die dem Gewicht ihrer Sünden entspricht.",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH|{param1:P} + {param2:P}",
+				"Abklingzeit|{param3:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Letzte Salbung",
+		"info": "Dies ist Rosarias besonderes Gebetsritual. Zunächst fegt sie mit ihrer Waffe die Gegner neben ihr fort und konzentriert eisige Kälte direkt vor ihr, womit sie jeweils Kryo-Schaden verursacht.\nWährend der Wirkungsdauer der Eislanze wird in gleichmäßigen Abständen Kälte freigegeben, die Gegnern in der Nähe Kryo-Schaden zufügt.",
+		"description": "Das Fällen eines Urteils ist mühsam. Doch viel einfacher ist es, direkt zum letzten Gebet zu springen. Rosaria war dem Anemo-Archon sowieso nie sehr ergeben, weshalb ihr das Ganze noch leichter fällt.",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH|{param1:P} + {param2:P}",
+				"Fortlaufender SCH von Eislanzen|{param3:P}",
+				"Dauer|{param4:F1} s",
+				"Abklingzeit|{param5:F1} s",
+				"Elementarenergie|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Schatten der Beichte",
+		"info": "Erhöht Rosarias KT bei Angriffen von Gegnern mit **Erschütterndes Geständnis** von hinten 5 s lang um 12 %."
+	},
+	"passive2": {
+		"name": "Beistand aus der Dunkelheit",
+		"info": "Erhöht die KT aller Truppenmitglieder in der Nähe (außer Rosarias selbst) bei Anwendung von **Letzte Salbung** 10 s lang um 15 % ihrer eigenen KT.\nDie KT können auf diese Weise nicht um mehr als 15 % erhöht werden."
+	},
+	"passive3": {
+		"name": "Nachtwanderin",
+		"info": "Erhöht die Bewegungs-GSW der eigenen Figuren in der Truppe nachts (18 bis 6 Uhr) um 10 %.\nDieser Effekt gilt nicht in Sphären, Gebietssäuberungen und im Gewundenen Abgrund und kann auch nicht mit den Effekten exakt gleicher passiver Talente gestapelt werden."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren der „Poesie“",
+				"count": 3
+			},
+			{
+				"name": "Abzeichen für neue Rekruten",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 2
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 4
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 6
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 9
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 4
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 4
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 6
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 6
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 12
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 9
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 16
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 12
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

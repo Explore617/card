@@ -1,0 +1,211 @@
+{
+	"name": "Xinyan",
+	"combat1": {
+		"name": "Normal Attack: Dance on Fire",
+		"info": "**Normal Attack** Melancarkan hingga 4 tebasan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Berputar Charged Attack|{param5:F1P}",
+				"DMG Akhir Charged Attack|{param6:P}",
+				"Konsumsi Stamina Charged Attack|{param7:F1}/dtk",
+				"Durasi Maks.|{param8:F1}dtk",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Sweeping Fervor",
+		"info": "Xinyan mengayunkan instrumennya, mengakibatkan Pyro DMG terhadap semua musuh di dekatnya, dan membentuk sebuah perisai yang terbuat dari hasrat pendengarnya.\nSkala penahanan DMG didasarkan pada DEF Xinyan dan jumlah musuh yang terkena skill ini.\n·Memukul 0-1 musuh memberikan Perisai Level 1: Ad Lib.\n· Memukul 2 musuh memberikan Perisai Level 2: Lead-In.\n· Memukul 3 musuh memberikan Perisai Level 3: Rave, yang juga akan mengakibatkan Pyro DMG secara berkala terhadap semua musuh di dekatnya.\n\nPerisai memiliki sifat khusus berikut:\n·Ketika dilancarkan, perisai memberikan efek Pyro untuk Xinyan.\n·Perisai memiliki 250% efisiensi menahan Pyro DMG.",
+		"description": "Xinyan menegaskan bahwa pyrotechnics ini adalah puncak dari seni performatif, dan itu adalah fenomena fisik yang tidak ada kaitannya dengan Vision yang dia miliki.",
+		"attributes": {
+			"labels": [
+				"Swing DMG|{param1:P}",
+				"Pertahanan Perisai Level 1|{param2:F1P}DEF+{param3:I}",
+				"Pertahanan Perisai Level 2|{param4:F1P}DEF+{param5:I}",
+				"Pertahanan Perisai Level 3|{param6:F1P}DEF+{param7:I}",
+				"DMG Berkelanjutan|{param8:F1P}",
+				"Durasi Perisai|{param9:F1}dtk",
+				"Cooldown|{param10:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Riff Revolution",
+		"info": "Menggesek senarnya secara cepat dan menimbulkan bunyi kasar yang bisa menghempas musuh, serta mengakibatkan Physical DMG dan efek hipnotis terhadap mereka.\nIntensitas atmosfer yang tipis akan menyebabkan ledakan yang mengakibatkan Pyro DMG ke musuh di sekitarnya.",
+		"description": "Xinyan biasa mengakhiri rangkaian penampilannya dengan gerakan ini. Dia tidak berhenti karena itu berbahaya, tapi karena dia tidak memiliki penyelesaian yang lebih epik daripada seseorang yang akan berteriak \"Encore!\" ",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"Pyro DMG Berkelanjutan|{param2:P}",
+				"Durasi|{param5:F1}dtk",
+				"Cooldown|{param3:F1}dtk",
+				"Konsumsi Energy|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "\"The Show Goes On, Even Without An Audience...\"",
+		"info": "Mengurangi jumlah musuh yang harus diserang **Sweeping Fervor** untuk memicu setiap level perisai.\n·Perisai Level 2: syarat Lead-In dikurangi menjadi 1 musuh.\n·Perisai Level 3: syarat Rave dikurangi menjadi 2 musuh atau lebih."
+	},
+	"passive2": {
+		"name": "\"...Now That's Rock 'N' Roll!\"",
+		"info": "Meningkatkan 15% Physical DMG karakter yang dilindungi oleh perisai dari **Sweeping Fervor**."
+	},
+	"passive3": {
+		"name": "A Rad Recipe",
+		"info": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Gold\"",
+				"count": 3
+			},
+			{
+				"name": "Treasure Hoarder Insignia",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 2
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 4
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 6
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 9
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 4
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 4
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 6
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 6
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 12
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 9
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 16
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 12
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

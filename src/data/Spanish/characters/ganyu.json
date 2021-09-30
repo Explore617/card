@@ -1,0 +1,153 @@
+{
+	"name": "Ganyu",
+	"title": "la Vigía del Plenilunio",
+	"description": "La secretaria del Pabellón Yuehai. La sangre de las bestias iluminadas Chilin fluye por sus venas.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Arco",
+	"substat": "Daño CRIT",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Pabellón Yuehai",
+	"birthdaymmdd": "12/2",
+	"birthday": "2 de diciembre",
+	"constellation": "Sinae Unicornis",
+	"cv": {
+		"english": "Jennifer Losi",
+		"chinese": "林簌",
+		"japanese": "上田丽奈",
+		"korean": "김선혜"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedacito de jade shivada",
+				"count": 1
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 3
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 2
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 10
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 4
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 20
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Trozo de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 8
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 30
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Trozo de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 12
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 45
+			},
+			{
+				"name": "Néctar energético",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 20
+			},
+			{
+				"name": "Flor chingxin",
+				"count": 60
+			},
+			{
+				"name": "Néctar energético",
+				"count": 24
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Rượu Và Thơ Nơi Hẻm Tối",
+	"description": "Nhạc phổ lưu hành ở thời đại quý tộc xa xưa, không biết tác giả là ai. Trong đó ghi chép về câu chuyện của một hiệp đạo nào đó...",
+	"weapontype": "Pháp Khí",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Hiệu Quả Nạp Nguyên Tố",
+	"subvalue": "6.7",
+	"effectname": "Thiên Biến Vạn Hóa",
+	"effect": "Sau khi đánh thường trúng kẻ địch, thể lực tiêu hao của xung kích hoặc kỹ năng thay thế của xung kích giảm {0}, kéo dài 5s. Ngoài ra, sau khi dùng xung kích hoặc kỹ năng thay thế của xung kích, tấn công tăng {1}, kéo dài 5s.",
+	"r1": [
+		"14%",
+		"20%"
+	],
+	"r2": [
+		"16%",
+		"25%"
+	],
+	"r3": [
+		"18%",
+		"30%"
+	],
+	"r4": [
+		"20%",
+		"35%"
+	],
+	"r5": [
+		"22%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Răng Sữa Sói Bão",
+				"count": 3
+			},
+			{
+				"name": "Cành Cây Địa Mạch",
+				"count": 3
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Răng Vỡ Sói Bão",
+				"count": 3
+			},
+			{
+				"name": "Cành Cây Địa Mạch",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Răng Vỡ Sói Bão",
+				"count": 6
+			},
+			{
+				"name": "Lá Khô Địa Mạch",
+				"count": 6
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mảnh Răng Sói Bão",
+				"count": 3
+			},
+			{
+				"name": "Lá Khô Địa Mạch",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mảnh Răng Sói Bão",
+				"count": 6
+			},
+			{
+				"name": "Chồi Non Địa Mạch",
+				"count": 9
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nỗi Nhớ Của Sói Bão",
+				"count": 4
+			},
+			{
+				"name": "Chồi Non Địa Mạch",
+				"count": 18
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 12
+			}
+		]
+	}
+}

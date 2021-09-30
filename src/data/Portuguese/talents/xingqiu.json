@@ -1,0 +1,206 @@
+{
+	"name": "Xingqiu",
+	"combat1": {
+		"name": "Ataque Normal: Estilo Guhua",
+		"info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}+{param4:F1P}",
+				"Dano do 4° Golpe|{param5:F1P}",
+				"Dano do 5° Golpe|{param6:F1P}+{param7:F1P}",
+				"Dano de Ataque Carregado|{param8:F1P}+{param9:F1P}",
+				"Consumo de Stamina de Ataque Carregado|{param10:F1}",
+				"Dano Durante a Queda|{param11:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Espada de Guhua: Chuva Torrencial",
+		"info": "Xingqiu realiza ataques duplos com sua espada, causando Dano Hydro. Ao mesmo tempo, essa habilidade cria o número máximo de Espadas de Chuva, que orbitarão o seu próprio personagem.\nAs Espadas de Chuva têm as seguintes propriedades:\nQuando um personagem recebe Dano, a Espada de Chuva se despedaça, reduzindo a quantidade de Dano recebido.\nAumenta a resistência do personagem à interrupção.\n20% do Dano Hydro Adicional de Xingqiu será convertido em Redução de Dano adicional para as Espadas de Chuva.\n\nA quantidade máxima de adicional da Redução de Dano que pode ser obtida é de 24%.\nO número máximo inicial de Espadas de Chuva é 3.\nO uso dessa habilidade aplica o estado de Molhado ao personagem.",
+		"description": "\"É Mais fácil matar um dragão da chuva do que cortar a chuva.\"",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}+{param2:P}",
+				"Taxa de Redução de Dano|{param3:P}",
+				"Duração|{param4:F1}s",
+				"Tempo de Recarga|{param5:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Espada Guhua: Retalhador de Chuva",
+		"info": "Inicia o Trabalho com Lâminas do Arco-íris e luta usando uma chuva de espadas ilusórias, enquanto cria um número máximo de Chuvas de Espadas.\n\n**Trabalho com Lâminas do Arco-íris**\n·Os Ataques Normais do seu próprio personagem irão desencadear ataques consecutivos da chuva de espadas, infligindo Dano Hydro.\nChuva de Espadas irá continuar no número máximo ao longo da duração da habilidade.",
+		"description": "O \"Caminho do Cortador de Chuva\" é uma das técnicas esotéricas secretas da Seita Guhua.",
+		"attributes": {
+			"labels": [
+				"Dano de Chuva de Espadas|{param1:F1P}",
+				"Duração|{param2:F1}s",
+				"Tempo de Recarga|{param3:F1}s",
+				"Energia Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Hidropático",
+		"info": "Quando a Chuva de Espadas é quebrada ou quando sua duração acabar, regenera a Vida do personagem atual em 6% da Vida Máxima de Xingqiu."
+	},
+	"passive2": {
+		"name": "Lâminas Entre Gotas de Chuva",
+		"info": "Xingqiu ganha 20% de Dano Hydro Bônus."
+	},
+	"passive3": {
+		"name": "Flash do Gênio",
+		"info": "Quando Xingqiu forja Materiais de Talento de Personagem, ele possui 25% de chance de retornar uma certa quantidade de materiais usados."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Ouro",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 2
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 4
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 6
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 9
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 4
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 4
+			},
+			{
+				"name": "Cauda do Vento do Norte",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 6
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 6
+			},
+			{
+				"name": "Cauda do Vento do Norte",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 12
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 9
+			},
+			{
+				"name": "Cauda do Vento do Norte",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 16
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			},
+			{
+				"name": "Cauda do Vento do Norte",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

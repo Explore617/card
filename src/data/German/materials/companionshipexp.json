@@ -1,0 +1,9 @@
+{
+	"name": "Freundschafts-EP",
+	"description": "Freundschafts-EP, wird zum Erhöhen der Freundschaftsstufe verwendet.",
+	"sortorder": 380,
+	"rarity": "3",
+	"category": "ITEM_VIRTUAL",
+	"materialtype": "Freundschaftszuwachs",
+	"source": []
+}

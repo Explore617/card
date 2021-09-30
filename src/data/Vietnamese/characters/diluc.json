@@ -1,0 +1,153 @@
+{
+	"name": "Diluc",
+	"title": "Mặt Tối Của Bình Minh",
+	"description": "Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thể coi thường.",
+	"rarity": "5",
+	"element": "Hỏa",
+	"weapontype": "Trọng Kiếm",
+	"substat": "Tỷ Lệ Bạo Kích",
+	"gender": "nam",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Tửu Trang Dawn",
+	"birthdaymmdd": "4/30",
+	"birthday": "30 tháng 4",
+	"constellation": "Cung Dạ Hiêu",
+	"cv": {
+		"english": "Sean Chiplock",
+		"chinese": "马洋",
+		"japanese": "小野賢章",
+		"korean": "최승훈"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vụn Mã Não Cháy",
+				"count": 1
+			},
+			{
+				"name": "Tiểu Đăng Thảo",
+				"count": 3
+			},
+			{
+				"name": "Phù Hiệu Tân Binh",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Mảnh Mã Não Cháy",
+				"count": 3
+			},
+			{
+				"name": "Ngọn Lửa Vĩnh Hằng",
+				"count": 2
+			},
+			{
+				"name": "Tiểu Đăng Thảo",
+				"count": 10
+			},
+			{
+				"name": "Phù Hiệu Tân Binh",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Mảnh Mã Não Cháy",
+				"count": 6
+			},
+			{
+				"name": "Ngọn Lửa Vĩnh Hằng",
+				"count": 4
+			},
+			{
+				"name": "Tiểu Đăng Thảo",
+				"count": 20
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Mã Não Cháy",
+				"count": 3
+			},
+			{
+				"name": "Ngọn Lửa Vĩnh Hằng",
+				"count": 8
+			},
+			{
+				"name": "Tiểu Đăng Thảo",
+				"count": 30
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Mã Não Cháy",
+				"count": 6
+			},
+			{
+				"name": "Ngọn Lửa Vĩnh Hằng",
+				"count": 12
+			},
+			{
+				"name": "Tiểu Đăng Thảo",
+				"count": 45
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Mã Não Cháy",
+				"count": 6
+			},
+			{
+				"name": "Ngọn Lửa Vĩnh Hằng",
+				"count": 20
+			},
+			{
+				"name": "Tiểu Đăng Thảo",
+				"count": 60
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 24
+			}
+		]
+	}
+}

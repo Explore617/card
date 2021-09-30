@@ -1,0 +1,153 @@
+{
+	"name": "胡桃",
+	"title": "雪晴梅香",
+	"description": "「往生堂」七十七代目堂主、若くして璃月の葬儀を仕切り、責任を持ってそれを執り行っている。",
+	"rarity": "5",
+	"element": "炎",
+	"weapontype": "長柄武器",
+	"substat": "会心ダメージ",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "往生堂",
+	"birthdaymmdd": "7/15",
+	"birthday": "7月15日",
+	"constellation": "彼岸蝶座",
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高橋李依",
+		"korean": "김하루"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "モラ",
+				"count": 20000
+			},
+			{
+				"name": "炎願のアゲート·砕屑",
+				"count": 1
+			},
+			{
+				"name": "霓裳花",
+				"count": 3
+			},
+			{
+				"name": "トリックフラワーの蜜",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "モラ",
+				"count": 40000
+			},
+			{
+				"name": "炎願のアゲート·欠片",
+				"count": 3
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 2
+			},
+			{
+				"name": "霓裳花",
+				"count": 10
+			},
+			{
+				"name": "トリックフラワーの蜜",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "モラ",
+				"count": 60000
+			},
+			{
+				"name": "炎願のアゲート·欠片",
+				"count": 6
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 4
+			},
+			{
+				"name": "霓裳花",
+				"count": 20
+			},
+			{
+				"name": "微光花の蜜",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "モラ",
+				"count": 80000
+			},
+			{
+				"name": "炎願のアゲート·塊",
+				"count": 3
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 8
+			},
+			{
+				"name": "霓裳花",
+				"count": 30
+			},
+			{
+				"name": "微光花の蜜",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "モラ",
+				"count": 100000
+			},
+			{
+				"name": "炎願のアゲート·塊",
+				"count": 6
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 12
+			},
+			{
+				"name": "霓裳花",
+				"count": 45
+			},
+			{
+				"name": "原素花の蜜",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "モラ",
+				"count": 120000
+			},
+			{
+				"name": "炎願のアゲート",
+				"count": 6
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 20
+			},
+			{
+				"name": "霓裳花",
+				"count": 60
+			},
+			{
+				"name": "原素花の蜜",
+				"count": 24
+			}
+		]
+	}
+}

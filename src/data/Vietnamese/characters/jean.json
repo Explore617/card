@@ -1,0 +1,153 @@
+{
+	"name": "Jean",
+	"title": "Kỵ Sĩ Bồ Công Anh",
+	"description": "Kỵ sĩ Bồ Công Anh chính trực nghiêm nghị, đội trưởng đại diện Đội Kỵ Sĩ Tây Phong của Mondstadt.",
+	"rarity": "5",
+	"element": "Phong",
+	"weapontype": "Kiếm Đơn",
+	"substat": "Tăng Trị Liệu",
+	"gender": "nữ",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Đội Kỵ Sĩ Tây Phong",
+	"birthdaymmdd": "3/14",
+	"birthday": "14 tháng 3",
+	"constellation": "Ấu Sư",
+	"cv": {
+		"english": "Stephanie Southerland",
+		"chinese": "林簌",
+		"japanese": "斎藤千和",
+		"korean": "안영미"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vụn Tùng Thạch Tự Tại",
+				"count": 1
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 3
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Mảnh Tùng Thạch Tự Tại",
+				"count": 3
+			},
+			{
+				"name": "Hạt Giống Bão",
+				"count": 2
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 10
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Mảnh Tùng Thạch Tự Tại",
+				"count": 6
+			},
+			{
+				"name": "Hạt Giống Bão",
+				"count": 4
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 20
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Tùng Thạch Tự Tại",
+				"count": 3
+			},
+			{
+				"name": "Hạt Giống Bão",
+				"count": 8
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 30
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Tùng Thạch Tự Tại",
+				"count": 6
+			},
+			{
+				"name": "Hạt Giống Bão",
+				"count": 12
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 45
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Tùng Thạch Tự Tại",
+				"count": 6
+			},
+			{
+				"name": "Hạt Giống Bão",
+				"count": 20
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 60
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 24
+			}
+		]
+	}
+}

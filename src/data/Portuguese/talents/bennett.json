@@ -1,0 +1,209 @@
+{
+	"name": "Bennett",
+	"combat1": {
+		"name": "Ataque Comum - Espada da Sorte",
+		"info": "**Ataque Normal**\nRealiza até 5 golpes rápidos.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano do 5° Golpe|{param5:F1P}",
+				"Dano de Ataque Carregado|{param6:F1P}+{param7:F1P}",
+				"Consumo de Stamina de Ataque Carregado|{param8:F1}",
+				"Dano Durante a Queda|{param9:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Sobrecarga de Paixão",
+		"info": "Bennett coloca todo seu fogo e sua paixão por aventura em sua espada. Os resultados podem variar baseados no quão fervente ele está...\n\n**Pressionar**\nUm único e rápido ataque de chamas que causa Dano Pyro.\n\n**Manter pressionado (Brevemente)**\nSobrecarrega, resultando em diferentes efeitos quando liberado baseado no Nível de Carga.\n Nível 1: Ataca duas vezes, causando Dano Pyro e lançando inimigos.\n Nível 2: Desfere 3 ataques consecutivos que causam um incrível Dano Pyro, mas o último ataque desencadeia uma explosão que lança Bennett e seu inimigo.\nBennett não leva nenhum dano ao ser lançado.",
+		"description": "Um ataque que combina os sonhos do Bennett e sua paixão por Pyro. Mas a paixão às vezes é muito ardente e Pyro acaba explodindo.",
+		"attributes": {
+			"labels": [
+				"Dano de Toque|{param1:P}",
+				"Dano da 1ª Energização|{param2:F1P}+{param3:F1P}",
+				"Dano da 2ª Energização|{param4:F1P}+{param5:F1P}",
+				"Dano de Explosão|{param6:P}",
+				"Tempo de Recarga|{param7:F1}/{param8:F1}/{param9:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Viagem Fantástica",
+		"info": "Bennett pula, causando Dano Pyro, e cria um Campo de Inspiração.\n\n**Campo de Inspiração**\n·Se a Vida dos personagens dentro da AdE for igual ou cair para menos de 70%, regenerará Vida continuamente. A regeneração de Vida se baseia na Vida Máxima de Bennett.\n·Se a Vida dos personagens dentro da AdE for maior que 70%, receberão um dano adicional proporcional ao Ataque Básico de Bennett.\n·Aplica-se aos personagens dentro da AdE Elemento Pyro.",
+		"description": "A Equipe de Aventura de Benny sempre encontra perigos e acidentes quando parte para explorar. Apesar disso, Bennett prefere dizer que isso é \"uma jornada cheia de maravilhas, beleza e excitação\".",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}",
+				"Regeneração Contínua|{param2:F2P} da Vida Máxima +{param3:I}/s",
+				"Taxa de Bônus de ATQ|{param4:P}",
+				"Duração|{param5:F1}s",
+				"Tempo de Recarga|{param6:F1}s",
+				"Energia Elemental|{param7:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Ressurgimento da Paixão",
+		"info": "Diminui o Tempo de Recarga da **Sobrecarga da Paixão** em 20%."
+	},
+	"passive2": {
+		"name": "Fervor Intrépido",
+		"info": "Dentro da área criada pela **Viagem Fantástica**, a **Sobrecarga da Paixão** recebe os seguintes efeitos:\nA Recarga é reduzida em 50%.\nBennett não será lançado pelos efeitos da Carga Nível 2."
+	},
+	"passive3": {
+		"name": "Deve Ser Seguro...",
+		"info": "Quando despachado em uma expedição em Mondstadt, o tempo consumido é reduzido em 25%"
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Resistência",
+				"count": 3
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 2
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 9
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 4
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 6
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 12
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 9
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 16
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 12
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

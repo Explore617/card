@@ -1,0 +1,211 @@
+{
+	"name": "Hu Tao",
+	"combat1": {
+		"name": "Tấn Công Thường - Thương Pháp Bí Truyền Vãng Sinh",
+		"info": "**Tấn Công Thường**\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n**Trọng Kích**\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n**Tấn Công Khi Đáp**\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Lần 1|{param1:F1P}",
+				"Sát Thương Lần 2|{param2:F1P}",
+				"Sát Thương Lần 3|{param3:F1P}",
+				"Sát Thương Lần 4|{param4:F1P}",
+				"Sát Thương Lần 5|{param5:F1P}+{param6:F1P}",
+				"Sát Thương Lần 6|{param7:F1P}",
+				"Sát Thương Trọng Kích|{param8:F1P}",
+				"Trọng Kích tiêu hao thể lực|{param9:F1} điểm",
+				"Sát Thương Khi Rơi|{param10:F1P}",
+				"Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Điệp Dẫn Lai Sinh",
+		"info": "Chỉ có ngọn lửa bất diệt mới có thể gột rửa những thứ ô uế trên thế gian.\nHu Tao tiêu hao một phần HP đánh lui kẻ địch xung quanh, bước vào trạng thái \"Bỉ Ngạn Điệp Vũ\".\n\n**Bỉ Ngạn Điệp Vũ**\n·Sức tấn công của Hu Tao sẽ tăng lên dựa theo giới hạn HP khi vào trạng thái này, tấn công tăng lên bằng cách này không được vượt quá 400% tấn công cơ bản của Hu Tao.\n·Chuyển sát thương tấn công thành sát thương Nguyên Tố Hỏa, nguyên tố chuyển hóa này không thể bị đính kèm thay thế;\n·Trọng kích sẽ tăng thêm hiệu quả Huyết Mai Hương cho kẻ địch bị đánh trúng.\n·Tăng khả năng kháng gián đoạn của Hu Tao.\n\n**Huyết Mai Hương**\nKẻ địch ở trạng thái Huyết Mai Hương, mỗi 4 giây sẽ chịu sát thương Nguyên Tố Hỏa 1 lần. Sát thương này được xem là sát thương kỹ năng Nguyên Tố.\nCùng một mục tiêu chỉ được tồn tại 1 hiệu quả Huyết Mai Hương, và chỉ có bản thân Hu Tao được làm mới thời gian kéo dài.\n\n**Bỉ Ngạn Điệp Vũ** sẽ được giải trừ khi kết thúc thời gian duy trì kỹ năng, Hu Tao rời trận hoặc bị đánh bại.",
+		"description": "Câu đầu tiên trong khẩu quyết của phương pháp bí truyền mà Hu Tao học được là: \"Thương trấn Hoàng Tuyền Lộ, bướm bay Cầu Lai Thế.\"",
+		"attributes": {
+			"labels": [
+				"Kỹ năng tiêu hao|{param1:P} HP hiện tại",
+				"Tăng Tấn Công|{param2:F2P} giới hạn HP",
+				"ST Huyết Mai Hương|{param3:P}",
+				"Thời gian Huyết Mai Hương|{param4:F1}s",
+				"Thời Gian Kéo Dài|{param5:F1}s",
+				"CD|{param6:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "An Thần Bí Pháp",
+		"info": "Vung linh hồn rực lửa, gây sát thương Nguyên Tố Hỏa phạm vi lớn.\nKhi trúng kẻ địch, sẽ hồi HP cho Hu Tao dựa theo giới hạn HP của Hu Tao. Hiệu quả này có hiệu lực với tối đa 5 kẻ địch bị đánh trúng.\nNếu HP của Hu Tao thấp hơn hoặc bằng 50% khi bị kỹ năng đánh trúng thì sẽ gây ra sát thương và lượng trị liệu cao hơn.",
+		"description": "Thứ đã rời khỏi trần thế nếu vẫn còn tự do đi lại, sẽ khiến Vãng Sinh Đường vô cùng lo lắng. Hỏa táng là cách giúp Hu Tao yên tâm nhất. Hơn nữa, cô ấy càng lo thì lửa sẽ càng lớn.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Kỹ Năng|{param1:P}",
+				"Sát thương kỹ năng khi HP thấp|{param2:P}",
+				"Kỹ năng hồi HP|{param3:F2P} giới hạn HP",
+				"Kỹ năng hồi HP khi HP thấp|{param4:F2P} giới hạn HP",
+				"CD|{param5:F1}s",
+				"Năng Lượng Nguyên Tố|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Điệp Ẩn Chi Thời",
+		"info": "Sau khi trạng thái **Bỉ Ngạn Điệp Vũ** mà **Điệp Dẫn Lai Sinh** tạo ra kết thúc, tỷ lệ bạo kích của tất cả nhân vật trong đội (Không bao gồm Hu Tao) tăng 12%, duy trì 8s."
+	},
+	"passive2": {
+		"name": "Huyết Chi Táo Hỏa",
+		"info": "Khi HP của Hu Tao dưới hoặc bằng 50% sẽ nhận được 33% buff sát thương Nguyên Tố Hỏa."
+	},
+	"passive3": {
+		"name": "Đa Đa Ích Thiện",
+		"info": "Khi nấu hoàn mỹ món ăn có 18% cơ hội nhận thêm 1 món cùng loại với phẩm chất \"kỳ lạ\"."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Bài Giảng Của \"Chăm Chỉ\"",
+				"count": 3
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+				"count": 2
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+				"count": 4
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+				"count": 6
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Chăm Chỉ\"",
+				"count": 9
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Triết Học Của \"Chăm Chỉ\"",
+				"count": 4
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 4
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Triết Học Của \"Chăm Chỉ\"",
+				"count": 6
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 6
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Triết Học Của \"Chăm Chỉ\"",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 9
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Triết Học Của \"Chăm Chỉ\"",
+				"count": 16
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 12
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 2
+			},
+			{
+				"name": "Vương Miện Trí Thức",
+				"count": 1
+			}
+		]
+	}
+}

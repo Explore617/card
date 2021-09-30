@@ -1,0 +1,152 @@
+{
+	"name": "Espinha Celestial",
+	"description": "Lança que simboliza a determinação firme de Dvalin. O eixo vertical desta arma aponta para o céu, carregado a força do céu e do vento.",
+	"weapontype": "Lança",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "Recarga de Energia",
+	"subvalue": "8",
+	"effectname": "Asas Negras",
+	"effect": "A Taxa Crítica aumenta {0}, a VEL do Ataque Normal aumenta {1}. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem {2} de chance de criar uma Lâmina de Vácuo que causa {3} de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s.",
+	"r1": [
+		"8%",
+		"12%",
+		"50%",
+		"40%"
+	],
+	"r2": [
+		"10%",
+		"12%",
+		"50%",
+		"55%"
+	],
+	"r3": [
+		"12%",
+		"12%",
+		"50%",
+		"70%"
+	],
+	"r4": [
+		"14%",
+		"12%",
+		"50%",
+		"85%"
+	],
+	"r5": [
+		"16%",
+		"12%",
+		"50%",
+		"100%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grilhões de Dandelion",
+				"count": 5
+			},
+			{
+				"name": "Dispositivo do Caos",
+				"count": 5
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Correntes do Gladiador de Dandelion",
+				"count": 5
+			},
+			{
+				"name": "Dispositivo do Caos",
+				"count": 18
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Correntes do Gladiador de Dandelion",
+				"count": 9
+			},
+			{
+				"name": "Circuito do Caos",
+				"count": 9
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Manilhas do Gladiador de Dandelion",
+				"count": 5
+			},
+			{
+				"name": "Circuito do Caos",
+				"count": 18
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Manilhas do Gladiador de Dandelion",
+				"count": 9
+			},
+			{
+				"name": "Fornalha do Caos",
+				"count": 14
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Sonho do Gladiador de Dandelion",
+				"count": 6
+			},
+			{
+				"name": "Fornalha do Caos",
+				"count": 27
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 18
+			}
+		]
+	}
+}

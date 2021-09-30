@@ -1,0 +1,153 @@
+{
+	"name": "煙緋",
+	"title": "無邪気な知恵",
+	"description": "仙獣の血が流れる聡明な少女。璃月港で有名な法律家として活躍している。",
+	"rarity": "4",
+	"element": "炎",
+	"weapontype": "法器",
+	"substat": "炎元素ダメージ",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月港",
+	"birthdaymmdd": "7/28",
+	"birthday": "7月28日",
+	"constellation": "法獣座",
+	"cv": {
+		"english": "Lizzie Freeman",
+		"chinese": "苏子芜",
+		"japanese": "花守ゆみり",
+		"korean": "조경이"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "モラ",
+				"count": 20000
+			},
+			{
+				"name": "炎願のアゲート·砕屑",
+				"count": 1
+			},
+			{
+				"name": "夜泊石",
+				"count": 3
+			},
+			{
+				"name": "宝探しの鴉マーク",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "モラ",
+				"count": 40000
+			},
+			{
+				"name": "炎願のアゲート·欠片",
+				"count": 3
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 2
+			},
+			{
+				"name": "夜泊石",
+				"count": 10
+			},
+			{
+				"name": "宝探しの鴉マーク",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "モラ",
+				"count": 60000
+			},
+			{
+				"name": "炎願のアゲート·欠片",
+				"count": 6
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 4
+			},
+			{
+				"name": "夜泊石",
+				"count": 20
+			},
+			{
+				"name": "シルバーの鴉マーク",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "モラ",
+				"count": 80000
+			},
+			{
+				"name": "炎願のアゲート·塊",
+				"count": 3
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 8
+			},
+			{
+				"name": "夜泊石",
+				"count": 30
+			},
+			{
+				"name": "シルバーの鴉マーク",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "モラ",
+				"count": 100000
+			},
+			{
+				"name": "炎願のアゲート·塊",
+				"count": 6
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 12
+			},
+			{
+				"name": "夜泊石",
+				"count": 45
+			},
+			{
+				"name": "ゴールドの鴉マーク",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "モラ",
+				"count": 120000
+			},
+			{
+				"name": "炎願のアゲート",
+				"count": 6
+			},
+			{
+				"name": "未熟の玉石",
+				"count": 20
+			},
+			{
+				"name": "夜泊石",
+				"count": 60
+			},
+			{
+				"name": "ゴールドの鴉マーク",
+				"count": 24
+			}
+		]
+	}
+}

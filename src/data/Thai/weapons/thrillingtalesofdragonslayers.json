@@ -1,0 +1,137 @@
+{
+	"name": "Thrilling Tales of Dragon Slayers",
+	"description": "นวนิยายที่เกี่ยวกับเรื่องราวของ ฮีโร่ 5 คนที่กำลังจะเดินทางไป ล่ามังกร เขียนไว้อย่างหลวม ๆ และมีโครงเรื่องเพียงน้อยนิด แต่สิ่งสำคัญของมันคือ การสอนผู้คนให้เรียนรู้จากความผิดพลาด",
+	"weapontype": "สื่อเวท",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "พลังชีวิต",
+	"subvalue": "7.7",
+	"effectname": "Heritage",
+	"effect": "เมื่อสับเปลี่ยนตัวละคร พลังโจมตีของตัวละครที่ เข้าสู่การต่อสู้จะเพิ่มขึ้น {0} เป็นเวลา 10 วินาที โดยเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 20 วินาที",
+	"r1": [
+		"24%"
+	],
+	"r2": [
+		"30%"
+	],
+	"r3": [
+		"36%"
+	],
+	"r4": [
+		"42%"
+	],
+	"r5": [
+		"48%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 2
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 2
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 2
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 8
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 4
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 4
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 2
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 8
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 3
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 8
+			}
+		]
+	}
+}

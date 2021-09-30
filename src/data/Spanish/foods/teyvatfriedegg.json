@@ -1,0 +1,27 @@
+{
+	"name": "Huevo frito de Teyvat",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Revive al personaje seleccionado.\nRestaura 50-150 pts. de Vida.",
+	"description": "Un huevo frito con una yema muy jugosa que fluye al romperse, proporcionando un placer tanto visual como gustativo.",
+	"suspicious": {
+		"effect": "Revive a un personaje y restaura 50 pts. de su Vida.",
+		"description": "Un huevo frito bastante hecho. Tiene una consistencia algo dura, pero se espera que todavía tenga nutrientes."
+	},
+	"normal": {
+		"effect": "Revive a un personaje y restaura 100 pts. de su Vida.",
+		"description": "Un huevo frito con una yema muy jugosa que fluye al romperse, proporcionando un placer tanto visual como gustativo."
+	},
+	"delicious": {
+		"effect": "Revive a un personaje y restaura 150 pts. de su Vida.",
+		"description": "Un huevo frito con la yema muy jugosa. Con un sabor a sol de verano, te vigoriza desde el primer bocado."
+	},
+	"ingredients": [
+		{
+			"name": "Huevo de pájaro",
+			"count": 1
+		}
+	]
+}

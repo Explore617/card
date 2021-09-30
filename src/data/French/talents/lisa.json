@@ -1,0 +1,208 @@
+{
+	"name": "Lisa",
+	"combat1": {
+		"name": "Attaque normale : Touche d'éclair",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 4 attaques électrifiées, infligeant des DGT Électro.\n\n**Attaque chargée**\nAprès un court délai, inflige des DGT Électro de zone ; cette attaque consomme de l'endurance.\n\n**Attaque plongeante**\nPlonge depuis les airs en concentrant ses pouvoirs Électro, infligeant des DGT aux ennemis en chemin et des DGT Électro de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT attaque chargée|{param5:P}",
+				"Coût d'endurance attaque chargée|{param6:F1} pts",
+				"DGT durant la chute|{param7:F1P}",
+				"DGT chute basse/élevée|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Arc fulminant",
+		"info": "Canalise le pouvoir de la foudre pour nettoyer un peu le champ de bataille.\n\n**Appui simple**\nLibère un orbe électrique à tête chercheuse.\n\nLorsqu'il touche une cible, l'orbe inflige des DGT Électro, ainsi que l'effet Conductivité aux ennemis proches, cumulable 3 fois.\n\n**Appui long**\nAprès un court délai, des éclairs s'abattent des cieux et infligent des DGT Électro à tous les ennemis proches.\nLes ennemis affectés par Conductivité subissent des DGT supplémentaires proportionnels au nombre de cumuls.",
+		"description": "La couleur de la foudre est aussi la couleur de la Sorcière à la rose.",
+		"attributes": {
+			"labels": [
+				"DGT appui simple|{param6:F1P}",
+				"TdR appui simple|{param7:F1} s",
+				"DGT appui long|{param1:P}",
+				"DGT appui long (Conductivité : 1)|{param2:P}",
+				"DGT appui long (Conductivité : 2)|{param3:P}",
+				"DGT 3 cumuls de Conductivité (appui long)|{param4:P}",
+				"TdR appui long|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Rose de foudre",
+		"info": "Invoque une rose de foudre qui libère une puissante énergie électrique repoussant les ennemis proches et leur infligeant des DGT Électro.\nLa rose de foudre envoie des décharges électriques qui infligent des DGT Électro aux ennemis proches tant qu'elle est active.",
+		"description": "Cette rose est belle, mais possède des épines mortelles.",
+		"attributes": {
+			"labels": [
+				"DGT décharge|{param1:F1P}",
+				"Durée|{param2:F1} s",
+				"Temps de recharge|{param3:F1} s",
+				"Énergie élémentaire|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Relique d'électricité",
+		"info": "Les attaques chargées infligent l'effet Conductivité d'**Arc fulminant** aux ennemis lorsqu'elles touchent."
+	},
+	"passive2": {
+		"name": "Champ électrostatique",
+		"info": "**Rose de foudre** réduit la DÉF des ennemis qu'elle touche de 15 % pendant 10 s."
+	},
+	"passive3": {
+		"name": "Connaissances médicinales",
+		"info": "Lorsque vous fabriquez des potions, il y a 20 % de chances qu'une partie des matières premières vous soit rendue."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Poésie",
+				"count": 3
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 2
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 9
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 4
+			},
+			{
+				"name": "Griffe de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 6
+			},
+			{
+				"name": "Griffe de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 12
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 9
+			},
+			{
+				"name": "Griffe de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 16
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 12
+			},
+			{
+				"name": "Griffe de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

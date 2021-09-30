@@ -1,0 +1,142 @@
+{
+	"name": "Prototipo Ámbar",
+	"description": "Un catalizador recubierto de oro guardado en secreto en la Forja Peñasco Oscuro. Parece brillar con la misma luz del cielo.",
+	"weapontype": "Catalizador",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Vida",
+	"subvalue": "9",
+	"effectname": "Dorado",
+	"effect": "Tras lanzar una Habilidad Definitiva, regenera {0} pts. de Energía Elemental cada 2 s durante 6 s. Además, todos los miembros del equipo recuperarán un {1} de Vida cada 2 s.",
+	"r1": [
+		"4",
+		"4%"
+	],
+	"r2": [
+		"4.5",
+		"4.5%"
+	],
+	"r3": [
+		"5",
+		"5%"
+	],
+	"r4": [
+		"5.5",
+		"5.5%"
+	],
+	"r5": [
+		"6",
+		"6%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Perdigones de plomo",
+				"count": 3
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 3
+			},
+			{
+				"name": "Flecha robusta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Perdigones de mercurio",
+				"count": 3
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 12
+			},
+			{
+				"name": "Flecha robusta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Perdigones de mercurio",
+				"count": 6
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 6
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Perdigones de oro",
+				"count": 3
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 12
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Perdigones de oro",
+				"count": 6
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 9
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Perdigones primordiales",
+				"count": 4
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 18
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 12
+			}
+		]
+	}
+}

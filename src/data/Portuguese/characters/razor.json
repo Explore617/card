@@ -1,0 +1,153 @@
+{
+	"name": "Razor",
+	"title": "Lobo Jovem",
+	"description": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+	"rarity": "4",
+	"element": "Electro",
+	"weapontype": "Espadão",
+	"substat": "Bônus de Dano Físico",
+	"gender": "Masculino",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Reino dos Lobos",
+	"birthdaymmdd": "9/9",
+	"birthday": "9 de setembro",
+	"constellation": "Lupus Minor",
+	"cv": {
+		"english": "Todd Haberkorn",
+		"chinese": "周帅",
+		"japanese": "内山昂輝",
+		"korean": "김서영"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lasca de Ametista Vajrada",
+				"count": 1
+			},
+			{
+				"name": "Gancho do Lobo",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de Ametista Vajrada",
+				"count": 3
+			},
+			{
+				"name": "Prisma do Relâmpago",
+				"count": 2
+			},
+			{
+				"name": "Gancho do Lobo",
+				"count": 10
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de Ametista Vajrada",
+				"count": 6
+			},
+			{
+				"name": "Prisma do Relâmpago",
+				"count": 4
+			},
+			{
+				"name": "Gancho do Lobo",
+				"count": 20
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Pedaço de Ametista Vajrada",
+				"count": 3
+			},
+			{
+				"name": "Prisma do Relâmpago",
+				"count": 8
+			},
+			{
+				"name": "Gancho do Lobo",
+				"count": 30
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Pedaço de Ametista Vajrada",
+				"count": 6
+			},
+			{
+				"name": "Prisma do Relâmpago",
+				"count": 12
+			},
+			{
+				"name": "Gancho do Lobo",
+				"count": 45
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Gema de Ametista Vajrada",
+				"count": 6
+			},
+			{
+				"name": "Prisma do Relâmpago",
+				"count": 20
+			},
+			{
+				"name": "Gancho do Lobo",
+				"count": 60
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 24
+			}
+		]
+	}
+}

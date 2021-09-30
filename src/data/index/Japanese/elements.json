@@ -1,0 +1,22 @@
+{
+	"namemap": {
+		"anemo": "風",
+		"cryo": "氷",
+		"dendro": "草",
+		"electro": "雷",
+		"geo": "岩",
+		"hydro": "水",
+		"pyro": "炎"
+	},
+	"names": {
+		"風": "anemo",
+		"氷": "cryo",
+		"草": "dendro",
+		"雷": "electro",
+		"岩": "geo",
+		"水": "hydro",
+		"炎": "pyro"
+	},
+	"aliases": {},
+	"categories": {}
+}

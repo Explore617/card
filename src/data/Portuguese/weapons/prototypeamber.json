@@ -1,0 +1,142 @@
+{
+	"name": "Protótipo Âmbar",
+	"description": "Um catalisador dourado, guardado secretamente na Forja do Penhasco Obscuro. Parece brilhar com a própria luz do céu.",
+	"weapontype": "Catalisador",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Vida",
+	"subvalue": "9",
+	"effectname": "Chapeamento de Ouro",
+	"effect": "Ao usar o Supremo, regenera {0} de Energia a cada 2s por 6s. Todos os membros da Equipe regenerarão {1} de Vida a cada 2s.",
+	"r1": [
+		"4",
+		"4%"
+	],
+	"r2": [
+		"4.5",
+		"4.5%"
+	],
+	"r3": [
+		"5",
+		"5%"
+	],
+	"r4": [
+		"5.5",
+		"5.5%"
+	],
+	"r5": [
+		"6",
+		"6%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Elixir de Chumbo Velado por Névoa",
+				"count": 3
+			},
+			{
+				"name": "Pólen de Névoa",
+				"count": 3
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Elixir de Mercúrio com Véu de Névoa",
+				"count": 3
+			},
+			{
+				"name": "Pólen de Névoa",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Elixir de Mercúrio com Véu de Névoa",
+				"count": 6
+			},
+			{
+				"name": "Grama do Nevoeiro",
+				"count": 6
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Elixir de Ouro com Véu de Névoa",
+				"count": 3
+			},
+			{
+				"name": "Grama do Nevoeiro",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Elixir de Ouro com Véu de Névoa",
+				"count": 6
+			},
+			{
+				"name": "Pavio do Nevoeiro",
+				"count": 9
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Alternação das Nuvens e o Mar",
+				"count": 4
+			},
+			{
+				"name": "Pavio do Nevoeiro",
+				"count": 18
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 12
+			}
+		]
+	}
+}

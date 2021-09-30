@@ -1,0 +1,13 @@
+{
+	"name": "Agnidus-Achat-Splitter",
+	"description": "Material für den Figurenaufstieg.",
+	"sortorder": 1809,
+	"rarity": "2",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Material zur Verbesserung von Figuren",
+	"source": [
+		"Beute von Fluxfeuerbäumen",
+		"Beute von Pyro-Hypostasen",
+		"Bei Andenkenhändlern zu erhalten"
+	]
+}

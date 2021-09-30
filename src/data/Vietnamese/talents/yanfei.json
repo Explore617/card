@@ -1,0 +1,206 @@
+{
+	"name": "Yanfei",
+	"combat1": {
+		"name": "Tấn Công Thường - Hỏa Ấn",
+		"info": "**Tấn Công Thường**\nBắn cầu lửa liên tục, gây tối đa 3 lần Sát Thương Nguyên Tố Hỏa.\nKhi đánh thường trúng địch sẽ tạo cho Yanfei 1 Đan Hỏa Ấn. Ban đầu tối đa chỉ được 3 Đan Hỏa Ấn, mỗi lần kích hoạt sẽ làm mới thời gian duy trì Đan Hỏa Ấn đã có.\nMỗi Đan Hỏa Ấn sẽ giảm thể lực tiêu hao cho Yanfei, đồng thời sẽ biến mất khi Yanfei rời trận.\n\n**Trọng Kích**\nTiêu hao thể lực, sau tiếng ngân, tiêu hao tất cả Đan Hỏa Ấn để gây Sát Thương Nguyên Tố Hỏa về phía trước.\nDựa vào số lượng Đan Hỏa Ấn tiêu hao để cường hóa phạm vi và sát thương của trọng kích lần này.\n\n**Tấn Công Khi Đáp**\nNgưng tụ sức mạnh Nguyên Tố Hỏa, xung kích từ trên không xuống đất, tấn công kẻ địch trên đường đi, gây sát thương phạm vi Nguyên Tố Hỏa khi chạm đất.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Lần 1|{param1:F1P}",
+				"Sát Thương Lần 2|{param2:F1P}",
+				"Sát Thương Lần 3|{param3:F1P}",
+				"Sát Thương Trọng Kích|{param4:P}/{param5:P}/{param6:P}/{param7:P}/{param8:P}",
+				"Thể lực Trọng Kích tiêu hao|{param14:F1} điểm",
+				"Giảm tiêu hao thể lực Đan Hỏa Ấn|Mỗi cái {param15:F1P}",
+				"Thời Gian Đan Hỏa Ấn Kéo Dài|{param19:F1}s",
+				"Sát Thương Khi Rơi|{param16:F1P}",
+				"Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param17:P}/{param18:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Sắc Lệnh Đã Ký",
+		"info": "Triệu hồi liệt hỏa, gây Sát Thương Nguyên Tố Hỏa diện rộng.\nKhi đánh trúng kẻ địch sẽ cung cấp số lượng Đan Hỏa Ấn tối đa cho Yanfei.",
+		"description": "Ngoài hiệu lực pháp lý ra, ngọn lửa còn mang những điều khoản bổ sung riêng của Yanfei. Suy cho cùng thì quy luật tự nhiên sẽ không thể thay đổi bởi một mình tổng bộ.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Kỹ Năng|{param1:P}",
+				"CD|{param2:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Khế Ước Đã Định",
+		"info": "Kích hoạt liệt hỏa xung kích kẻ địch xung quanh, gây Sát Thương Nguyên Tố Hỏa diện rộng, cung cấp số lượng Đan Hỏa Ấn tối đa và hiệu ứng Bỏng Cháy cho Yanfei.\n\n**Bỏng Cháy**\nHiệu quả:\n·Mỗi cách một khoảng thời gian sẽ cung cấp 1 Đan Hỏa Ấn cho Yanfei;\n·Tăng sát thương trọng kích tạo thành.\nHiệu ứng Bỏng Cháy sẽ mất khi Yanfei rời trận hoặc ngã xuống.",
+		"description": "\"Điều khoản đã đủ, lập khế ước sinh tử nào. Đương nhiên, ta sống ngươi chết!\"",
+		"attributes": {
+			"labels": [
+				"Sát Thương Kỹ Năng|{param1:P}",
+				"Giãn cách cung cấp Đan Hỏa Ấn|{param4:F1}s",
+				"Sát Thương Trọng Kích Tăng|{param2:P}",
+				"Thời Gian Kéo Dài|{param3:F1}s",
+				"CD|{param5:F1}s",
+				"Năng Lượng Nguyên Tố|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Điều Khoản Liên Quan",
+		"info": "Khi Yanfei tiêu hao Đan Hỏa Ấn thông qua trọng kích, mỗi Đan Hỏa Ấn sẽ tăng 5% buff sát thương Nguyên Tố Hỏa của Yanfei, kéo dài 6s. Nếu thi triển lại trọng kích trong thời gian duy trì hiệu ứng này, sẽ hủy hiệu ứng ban đầu trước."
+	},
+	"passive2": {
+		"name": "Pháp Thú Chước Nhãn",
+		"info": "Khi Yanfei chủ động thi triển Trọng Kích gây ra bạo kích sẽ gây thêm 1 lần sát thương phạm vi Nguyên Tố Hỏa bằng 80% tấn công. Sát thương này xem như sát thương Trọng Kích."
+	},
+	"passive3": {
+		"name": "Thông Minh Uyên Bác",
+		"info": "Hiển thị vị trí **đặc sản xung quanh khu vực Liyue** trên bản đồ nhỏ."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Bài Giảng Của \"Hoàng Kim\"",
+				"count": 3
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Hoàng Kim\"",
+				"count": 2
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Hoàng Kim\"",
+				"count": 4
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Hoàng Kim\"",
+				"count": 6
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Hoàng Kim\"",
+				"count": 9
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Triết Học Của \"Hoàng Kim\"",
+				"count": 4
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 4
+			},
+			{
+				"name": "Nhánh Huyết Ngọc",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Triết Học Của \"Hoàng Kim\"",
+				"count": 6
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 6
+			},
+			{
+				"name": "Nhánh Huyết Ngọc",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Triết Học Của \"Hoàng Kim\"",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 9
+			},
+			{
+				"name": "Nhánh Huyết Ngọc",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Triết Học Của \"Hoàng Kim\"",
+				"count": 16
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 12
+			},
+			{
+				"name": "Nhánh Huyết Ngọc",
+				"count": 2
+			},
+			{
+				"name": "Vương Miện Trí Thức",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "The Black Sword",
+	"description": "ดาบสีดำยาวที่กระหายเพียงความขัดแย้งและฆ่าฟัน กล่าวกันว่ามันทำให้ผู้คนมัวเมาไปกับการต่อสู้ที่นองเลือด",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "อัตราคริ",
+	"subvalue": "6",
+	"effectname": "Justice",
+	"effect": "การโจมตีปกติและชาร์จโจมตีจะสร้างความเสียหายเพิ่มขึ้น {0}; นอกจากนี้เมื่อการโจมตีปกติและชาร์จโจมตีเกิดคริติคอล จะคืนพลังชีวิตให้ในปริมาณเท่ากับ {1} ของพลังโจมตี โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 5 วินาที",
+	"r1": [
+		"20%",
+		"60%"
+	],
+	"r2": [
+		"25%",
+		"70%"
+	],
+	"r3": [
+		"30%",
+		"80%"
+	],
+	"r4": [
+		"35%",
+		"90%"
+	],
+	"r5": [
+		"40%",
+		"100%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 3
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 12
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 6
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 6
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 12
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 9
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 18
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 12
+			}
+		]
+	}
+}

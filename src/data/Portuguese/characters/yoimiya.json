@@ -1,0 +1,153 @@
+{
+	"name": "Yoimiya",
+	"title": "Dança das Chamas",
+	"description": "Dona da Fogos de Artifício Naganohara. Conhecida como \"Rainha do Festival de Verão\", ela é excelente na criação de fogos de artifício que simbolizam a esperança e sonhos das pessoas.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Arco",
+	"substat": "Taxa Crítica",
+	"gender": "Feminino",
+	"body": "GIRL",
+	"association": "INAZUMA",
+	"region": "Inazuma",
+	"affiliation": "Fogos de Artifício Naganohara",
+	"birthdaymmdd": "6/21",
+	"birthday": "21 de junho",
+	"constellation": "Carassius Auratus",
+	"cv": {
+		"english": "Jenny Yokobori",
+		"chinese": "金娜",
+		"japanese": "植田佳奈",
+		"korean": "박신희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lasca de Ágata Agnidus",
+				"count": 1
+			},
+			{
+				"name": "Erva Naku",
+				"count": 3
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de Ágata Agnidus",
+				"count": 3
+			},
+			{
+				"name": "Pérola Ardente",
+				"count": 2
+			},
+			{
+				"name": "Erva Naku",
+				"count": 10
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de Ágata Agnidus",
+				"count": 6
+			},
+			{
+				"name": "Pérola Ardente",
+				"count": 4
+			},
+			{
+				"name": "Erva Naku",
+				"count": 20
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Pedaço de Ágata Agnidus",
+				"count": 3
+			},
+			{
+				"name": "Pérola Ardente",
+				"count": 8
+			},
+			{
+				"name": "Erva Naku",
+				"count": 30
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Pedaço de Ágata Agnidus",
+				"count": 6
+			},
+			{
+				"name": "Pérola Ardente",
+				"count": 12
+			},
+			{
+				"name": "Erva Naku",
+				"count": 45
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Gema de Ágata Agnidus",
+				"count": 6
+			},
+			{
+				"name": "Pérola Ardente",
+				"count": 20
+			},
+			{
+				"name": "Erva Naku",
+				"count": 60
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 24
+			}
+		]
+	}
+}

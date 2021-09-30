@@ -1,0 +1,153 @@
+{
+	"name": "중운",
+	"title": "얼어붙은 열정",
+	"description": "퇴마 집안의 젊은 도사. 자신이 지닌 「양(阳)의 체질」을 억누르려고 갖은 애를 다쓴다",
+	"rarity": "4",
+	"element": "얼음",
+	"weapontype": "양손검",
+	"substat": "공격력",
+	"gender": "남성",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "리월항",
+	"birthdaymmdd": "9/7",
+	"birthday": "9월 7일",
+	"constellation": "건곤봉자리",
+	"cv": {
+		"english": "Beau Bridgland",
+		"chinese": "kinsen",
+		"japanese": "사이토 소우마",
+		"korean": "양정화"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "서늘한 빙옥 가루",
+				"count": 1
+			},
+			{
+				"name": "콜 라피스",
+				"count": 3
+			},
+			{
+				"name": "부서진 가면",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "서늘한 빙옥 조각",
+				"count": 3
+			},
+			{
+				"name": "서리의 핵",
+				"count": 2
+			},
+			{
+				"name": "콜 라피스",
+				"count": 10
+			},
+			{
+				"name": "부서진 가면",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "서늘한 빙옥 조각",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 4
+			},
+			{
+				"name": "콜 라피스",
+				"count": 20
+			},
+			{
+				"name": "오염된 가면",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "서늘한 빙옥 덩이",
+				"count": 3
+			},
+			{
+				"name": "서리의 핵",
+				"count": 8
+			},
+			{
+				"name": "콜 라피스",
+				"count": 30
+			},
+			{
+				"name": "오염된 가면",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "서늘한 빙옥 덩이",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 12
+			},
+			{
+				"name": "콜 라피스",
+				"count": 45
+			},
+			{
+				"name": "불길한 가면",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "서늘한 빙옥",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 20
+			},
+			{
+				"name": "콜 라피스",
+				"count": 60
+			},
+			{
+				"name": "불길한 가면",
+				"count": 24
+			}
+		]
+	}
+}

@@ -1,0 +1,201 @@
+{
+	"name": "Pengembara (Geo)",
+	"combat1": {
+		"name": "Foreign Rockblade",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Charged Attack|{param6:F1P}+{param7:F1P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}pt",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Starfell Sword",
+		"info": "Kamu membangkitkan sebongkah batu meteor dari dalam tanah untuk mengakibatkan Geo DMG Area.\nBatu meteor tersebut dianggap sebagai sebuah Geo Construct dan dapat dipanjat atau digunakan untuk memblokir serangan.\n\n**Tahan**\nPosisi skill ini dapat diubah.",
+		"description": "Kamu berbincang dengan Paimon tentang tujuan terakhir bintang-bintang yang terjatuh.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"Durasi Meteorite|{param2:F1}dtk",
+				"Cooldown|{param3:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Wake of Earth",
+		"info": "Dengan memberikan energi kepada elemen Geo yang jauh di bawah tanah, kamu menciptakan gelombang yang meluas.\nMenghempas musuh di sekitar ke belakang dan mengakibatkan Geo DMG area.\nSebuah dinding batu akan didirikan di ujung gelombangnya.\nDinding batu ini dianggap sebagai sebuah Geo Construct dan dapat digunakan untuk memblokir serangan.",
+		"description": "Kamu dan Paimon berdebat tentang detak gunung-gunung.",
+		"attributes": {
+			"labels": [
+				"DMG Per Gelombang|{param1:P}",
+				"Durasi Stonewall|{param2:F1}dtk",
+				"Cooldown|{param3:F1}dtk",
+				"Konsumsi Energy|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Shattered Darkrock",
+		"info": "Mengurangi 2 detik CD **Starfell Sword**."
+	},
+	"passive2": {
+		"name": "Frenzied Rockslide",
+		"info": "Serangan tahap terakhir Normal Attack menimbulkan kerusakan yang mengakibatkan Geo DMG sebesar 60% ATK ke musuh di sekitar."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Prosperity\"",
+				"count": 3
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Diligence\"",
+				"count": 2
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 4
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Prosperity\"",
+				"count": 6
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Diligence\"",
+				"count": 9
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 4
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 4
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 6
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 6
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 12
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 9
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 16
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 12
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,211 @@
+{
+	"name": "Noelle",
+	"combat1": {
+		"name": "Normal Attack: Favonius Bladework - Maid",
+		"info": "**Normal Attack** Melancarkan hingga 4 tebasan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:P}",
+				"DMG Berputar Charged Attack|{param5:F1P}",
+				"DMG Akhir Charged Attack|{param6:F1P}",
+				"Konsumsi Stamina Charged Attack|{param7:F1}/dtk",
+				"Durasi Maks.|{param8:F1}dtk",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Breastplate",
+		"info": "Menciptakan zirah batu yang mengakibatkan Geo DMG pada musuh di sekitar dan membentuk perisai. DMG yang ditahan perisai berdasarkan DEF Noelle.\nPerisainya memiliki ciri-ciri berikut:\n·Saat Normal dan Charged Attack Noelle mengenai target, berkemungkinan memulihkan HP untuk semua karakter.\n·Memiliki 150% Efisiensi Penahanan DMG terhadap semua Elemental dan Physical DMG.\n\nJumlah HP yang dipulihkan meningkat berdasarkan DEF Noelle.",
+		"description": "Noelle adalah seorang pelayan yang sangat sigap, dan juga seorang Knight yang sangat gagah.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param6:P} DEF",
+				"Penahanan DMG|{param1:P} DEF+{param7:I}",
+				"Pemulihan HP|{param2:F1P} DEF + {param8:I}",
+				"Persentase Pemulihan Terpicu|{param3:P}",
+				"Durasi|{param4:F1}dtk",
+				"CD|{param5:F1} dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Sweeping Time",
+		"info": "Mengumpulkan kekuatan Geo di sekitar senjatanya, Noelle menghantam musuh di sekitarnya dengan serangan dalam area besar, mengakibatkan Geo DMG.\nSetelahnya, Noelle mendapatkan efek berikut:\n·Serangan area yang lebih besar.\n·Mengonversi serangan menjadi Geo DMG, konversi ini tidak bisa ditimpa oleh Elemental Infusion lainnya.\n·Peningkatan ATK yang meningkat berdasarkan DEF dia.",
+		"description": "Terkadang, bukan hanya debu yang harus dibersihkan...",
+		"attributes": {
+			"labels": [
+				"DMG Elemental Burst|{param1:F1P}",
+				"DMG Skill|{param2:F1P}",
+				"Peningkatan ATK|{param3:P} DEF",
+				"Durasi|{param4:F1}dtk",
+				"CD|{param5:F1} dtk",
+				"Konsumsi Energy|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Devotion",
+		"info": "Saat Noelle berada dalam party, tetapi tidak sedang bertarung, skill ini akan terpicu secara otomatis ketika HP karakter yang sedang digunakan kurang dari 30%:\nKarakter tersebut akan mendapatkan perisai yang dapat menahan DMG sebesar 400% dari DEF Noelle selama 20 detik.\nPerisai ini memiliki bonus 150% efektivitas Penahanan DMG untuk semua Elemental dan Physical DMG.\nEfek ini dapat terpicu setiap 60 detik."
+	},
+	"passive2": {
+		"name": "Nice and Clean",
+		"info": "Mengurangi 1 detik CD skill **Breastplate** setiap 4 Normal atau Charged Attack yang mengenai musuh.\nSerangan yang mengenai beberapa musuh sekaligus tetap terhitung sebagai 1 serangan."
+	},
+	"passive3": {
+		"name": "Maid's Knighthood",
+		"info": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Stained Mask",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Stained Mask",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

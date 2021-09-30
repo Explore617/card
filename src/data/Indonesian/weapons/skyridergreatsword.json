@@ -1,0 +1,137 @@
+{
+	"name": "Skyrider Greatsword",
+	"description": "Pedang besar yang dapat diandalkan. Konon, Skyrider terkenal pernah mencoba meminjam kekuatannya untuk terbang, untuk yang kedua kalinya...",
+	"weapontype": "Claymore",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "Physical DMG Bonus",
+	"subvalue": "9.6",
+	"effectname": "Courage",
+	"effect": "Saat Normal or Charged Attack mengenai musuh, meningkatkan {0} ATK selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+	"r1": [
+		"6%"
+	],
+	"r2": [
+		"7%"
+	],
+	"r3": [
+		"8%"
+	],
+	"r4": [
+		"9%"
+	],
+	"r5": [
+		"10%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grain of Aerosiderite",
+				"count": 2
+			},
+			{
+				"name": "Fragile Bone Shard",
+				"count": 2
+			},
+			{
+				"name": "Treasure Hoarder Insignia",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 2
+			},
+			{
+				"name": "Fragile Bone Shard",
+				"count": 8
+			},
+			{
+				"name": "Treasure Hoarder Insignia",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 4
+			},
+			{
+				"name": "Sturdy Bone Shard",
+				"count": 4
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 2
+			},
+			{
+				"name": "Sturdy Bone Shard",
+				"count": 8
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 4
+			},
+			{
+				"name": "Fossilized Bone Shard",
+				"count": 6
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Chunk of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Fossilized Bone Shard",
+				"count": 12
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 8
+			}
+		]
+	}
+}

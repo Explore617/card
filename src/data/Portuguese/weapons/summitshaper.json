@@ -1,0 +1,142 @@
+{
+	"name": "Cortador de Montanhas",
+	"description": "Um símbolo de um pacto lendário, esta lâmina afiada uma vez cortou o pico de uma montanha.",
+	"weapontype": "Espada",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ATQ",
+	"subvalue": "10.8",
+	"effectname": "Majestade Dourada",
+	"effect": "Aumenta a força do Escudo em {0}. Acertar ataques em inimigos aumenta o ataque em {1} por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%.",
+	"r1": [
+		"20%",
+		"4%"
+	],
+	"r2": [
+		"25%",
+		"5%"
+	],
+	"r3": [
+		"30%",
+		"6%"
+	],
+	"r4": [
+		"35%",
+		"7%"
+	],
+	"r5": [
+		"40%",
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Areia Brilhante de Guyun",
+				"count": 5
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 5
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 5
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 18
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 9
+			},
+			{
+				"name": "Faca Especial",
+				"count": 9
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 5
+			},
+			{
+				"name": "Faca Especial",
+				"count": 18
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 9
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 14
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Corpo Divino de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 27
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 18
+			}
+		]
+	}
+}

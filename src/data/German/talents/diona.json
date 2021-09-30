@@ -1,0 +1,209 @@
+{
+	"name": "Diona",
+	"combat1": {
+		"name": "Standardangriff: Schießkunst der Jäger",
+		"info": "**Standardangriff**\nFührt bis zu 5 Pfeilschüsse aus.\n\n**Heftiger Schlag**\nFührt einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die eisige Kälte während des Zielens an der Pfeilspitze, die voll aufgeladen Kryo-Schaden verursacht.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P}",
+				"SCH Phase 4|{param4:F1P}",
+				"SCH Phase 5|{param5:F1P}",
+				"Gezielte Schüsse|{param7:F1P}",
+				"Voll aufgeladene gezielte Schüsse|{param8:P}",
+				"SCH beim Fallen|{param9:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Eistatzen",
+		"info": "Schießt Eistatzen ab, die Gegnern Kryo-Schaden zufügen und bei Treffern Schilde erstellen.\nDie Schildstärke hängt von Dionas max. LP ab, die Wirkungsdauer von der Anzahl der am Treffer beteiligten Eistatzen.\n\n**Drücken**\nSchießt schnell zwei Eispfoten ab.\n\n**Gedrückt halten**\nSpringt geschwind zurück und feuert fünf Eistatzen ab.\nDurch Gedrückthalten entstehende Schilde halten 75 % mehr Schaden ab.\n\nSchilde halten bei Kryo-Schaden 250 % ab und verleihen der aktuellen Figur beim Entstehen für kurze Zeit das Kryo-Attribut.",
+		"description": "Das Eis im Schnapps hatte bisher noch keinem Trunkenbold geschadet, bis Diona ihr Göttliches Auge erhielt und Eis herstellte, das einem die Zunge taub werden lässt. Einsame Spitze!",
+		"attributes": {
+			"labels": [
+				"SCH pro Tatze|{param1:F1P}",
+				"Basisschildstärke|{param2:F1P} der max. LP + {param3:I}",
+				"Dauer|{param6:F1} s pro Tatze",
+				"Abklingzeit für Drücken|{param4:F1} s",
+				"Abklingzeit für Gedrückthalten|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Eisgekühlter Branntwein",
+		"info": "Wirft besonders starken eisgekühlten Alkohol nach vorn und verursacht Kryo-Flächenschaden sowie ein Kältedunstfeld.\n\n**Kältedunstfeld**\n- Fügt Gegnern darin fortlaufend Kryo-Schaden zu.\n- Stellt Figuren darin fortlaufend LP wieder her.",
+		"description": "Dieses Gebräu hält Diona selbst sogar für unmenschlich. Deswegen bleibt der erste Eindruck nur ihren Gegnern überlassen. Der Nachgeschmack ist eher erquickend, ist aber nur in der Nase und auf der Haut zu spüren.",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH|{param1:P}",
+				"Fortlaufender SCH im Feld|{param2:F1P}",
+				"Fortlaufende Heilung|{param3:F2P} der max. LP + {param4:I}",
+				"Dauer|{param7:F1} s",
+				"Abklingzeit|{param5:F1} s",
+				"Elementarenergie|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Geheimes Menü Zum Katzenschwanz",
+		"info": "Erhöht die Bewegungs-GSW von Figuren im Schutz eines Schilds von **Eistatzen** um 10 % und verringert ihren Ausdauerverbrauch um 10 %."
+	},
+	"passive2": {
+		"name": "Hundert Weinpossen",
+		"info": "Verringert den ANG von Gegnern im Feld von **Eisgekühlter Branntwein** nach dem Betreten 15 s lang um 10 %."
+	},
+	"passive3": {
+		"name": "Appetitsanreger",
+		"info": "Stellt bei der perfekten Zubereitung eines Gerichts mit wiederherstellender Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren der „Freiheit“",
+				"count": 3
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 2
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 4
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 6
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 9
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 4
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 4
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 6
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 6
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 12
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 9
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 16
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 12
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

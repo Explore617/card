@@ -1,0 +1,137 @@
+{
+	"name": "Hakushin Ring",
+	"description": "Catalyst yang menyimpan ingatan Kitsune Saiguu akan masa lalu. Bagaimanapun, benda ini tidak punya cukup ruang untuk menampung luasnya pemikiran Kitsune Saiguu.",
+	"weapontype": "Catalyst",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Energy Recharge",
+	"subvalue": "6.7",
+	"effectname": "Sakura Palace",
+	"effect": "Setelah Karakter yang memakai senjata ini memicu reaksi elemental Electro, anggota party di sekitar dengan Tipe Elemen yang terlibat dalam reaksi elemental tersebut akan menerima {0} Elemental DMG Bonus untuk elemen mereka selama 6 detik. Bonus Elemental yang didapat dengan cara ini tidak dapat ditumpuk.",
+	"r1": [
+		"10%"
+	],
+	"r2": [
+		"12,5%"
+	],
+	"r3": [
+		"15%"
+	],
+	"r4": [
+		"17,5%"
+	],
+	"r5": [
+		"20%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Coral Branch of a Distant Sea",
+				"count": 3
+			},
+			{
+				"name": "Dismal Prism",
+				"count": 3
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Jeweled Branch of a Distant Sea",
+				"count": 3
+			},
+			{
+				"name": "Dismal Prism",
+				"count": 12
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Jeweled Branch of a Distant Sea",
+				"count": 6
+			},
+			{
+				"name": "Crystal Prism",
+				"count": 6
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Jade Branch of a Distant Sea",
+				"count": 3
+			},
+			{
+				"name": "Crystal Prism",
+				"count": 12
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Jade Branch of a Distant Sea",
+				"count": 6
+			},
+			{
+				"name": "Polarizing Prism",
+				"count": 9
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Golden Branch of a Distant Sea",
+				"count": 4
+			},
+			{
+				"name": "Polarizing Prism",
+				"count": 18
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 12
+			}
+		]
+	}
+}

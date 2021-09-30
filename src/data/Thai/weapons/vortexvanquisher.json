@@ -1,0 +1,142 @@
+{
+	"name": "Vortex Vanquisher",
+	"description": "หอกยาวอันแหลมคมที่สามารถทะลวงทุกอย่างได้ เมื่อหอกกวัดแกว่งมัน ราวกับสามารถเห็นรอยแยกในอากาศได้",
+	"weapontype": "หอก",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "พลังโจมตี",
+	"subvalue": "10.8",
+	"effectname": "Golden Majesty",
+	"effect": "เพิ่มประสิทธิภาพโล่ป้องกัน {0} ภายในเวลา 8 วินาที หลังจากโจมตีถูกเป้าหมาย จะเพิ่มพลังโจมตี {1} โดยเอฟเฟกต์นี้จะซ้อนทับกันมากสุด 5 ชั้น ซึ่งจะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที เมื่อได้รับการป้องกันจากโล่ พลังโจมตีของเอฟเฟกต์นี้จะเพิ่มขึ้น 100%",
+	"r1": [
+		"20%",
+		"4%"
+	],
+	"r2": [
+		"25%",
+		"5%"
+	],
+	"r3": [
+		"30%",
+		"6%"
+	],
+	"r4": [
+		"35%",
+		"7%"
+	],
+	"r5": [
+		"40%",
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grain of Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Fragile Bone Remains",
+				"count": 5
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Fragile Bone Remains",
+				"count": 18
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 9
+			},
+			{
+				"name": "Sturdy Bone Remains",
+				"count": 9
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 5
+			},
+			{
+				"name": "Sturdy Bone Remains",
+				"count": 18
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 9
+			},
+			{
+				"name": "Fossilized Bone Remains",
+				"count": 14
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Chunk of Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Fossilized Bone Remains",
+				"count": 27
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 18
+			}
+		]
+	}
+}

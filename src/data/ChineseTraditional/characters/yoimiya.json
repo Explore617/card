@@ -1,0 +1,153 @@
+{
+	"name": "宵宮",
+	"title": "琉焰華舞",
+	"description": "「長野原煙花店」店長、「夏祭的女王」，將人們的願望寄託於煙花中的能工巧匠。",
+	"rarity": "5",
+	"element": "火",
+	"weapontype": "弓",
+	"substat": "暴擊率",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "INAZUMA",
+	"region": "Inazuma",
+	"affiliation": "長野原煙花店",
+	"birthdaymmdd": "6/21",
+	"birthday": "6月21日",
+	"constellation": "琉金座",
+	"cv": {
+		"english": "Jenny Yokobori",
+		"chinese": "金娜",
+		"japanese": "植田佳奈",
+		"korean": "박신희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "摩拉",
+				"count": 20000
+			},
+			{
+				"name": "燃願瑪瑙碎屑",
+				"count": 1
+			},
+			{
+				"name": "鳴草",
+				"count": 3
+			},
+			{
+				"name": "導能繪卷",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "摩拉",
+				"count": 40000
+			},
+			{
+				"name": "燃願瑪瑙斷片",
+				"count": 3
+			},
+			{
+				"name": "陰燃之珠",
+				"count": 2
+			},
+			{
+				"name": "鳴草",
+				"count": 10
+			},
+			{
+				"name": "導能繪卷",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "摩拉",
+				"count": 60000
+			},
+			{
+				"name": "燃願瑪瑙斷片",
+				"count": 6
+			},
+			{
+				"name": "陰燃之珠",
+				"count": 4
+			},
+			{
+				"name": "鳴草",
+				"count": 20
+			},
+			{
+				"name": "封魔繪卷",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "摩拉",
+				"count": 80000
+			},
+			{
+				"name": "燃願瑪瑙塊",
+				"count": 3
+			},
+			{
+				"name": "陰燃之珠",
+				"count": 8
+			},
+			{
+				"name": "鳴草",
+				"count": 30
+			},
+			{
+				"name": "封魔繪卷",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "摩拉",
+				"count": 100000
+			},
+			{
+				"name": "燃願瑪瑙塊",
+				"count": 6
+			},
+			{
+				"name": "陰燃之珠",
+				"count": 12
+			},
+			{
+				"name": "鳴草",
+				"count": 45
+			},
+			{
+				"name": "禁咒繪卷",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "摩拉",
+				"count": 120000
+			},
+			{
+				"name": "燃願瑪瑙",
+				"count": 6
+			},
+			{
+				"name": "陰燃之珠",
+				"count": 20
+			},
+			{
+				"name": "鳴草",
+				"count": 60
+			},
+			{
+				"name": "禁咒繪卷",
+				"count": 24
+			}
+		]
+	}
+}

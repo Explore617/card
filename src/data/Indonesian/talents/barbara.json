@@ -1,0 +1,205 @@
+{
+	"name": "Barbara",
+	"combat1": {
+		"name": "Whisper of Water",
+		"info": "**Normal Attack**\nMelancarkan hingga 4 serangan air yang mengakibatkan Hydro DMG.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk mengakibatkan Hydro DMG area setelah jeda singkat.\n\n**Plunging Attack**\nMengumpulkan kekuatan Hydro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan Hydro DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Charged Attack|{param5:P}",
+				"Konsumsi Stamina Charged Attack|{param6:F1}pt",
+				"DMG Selama Plunging|{param7:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Let the Show Begin♪",
+		"info": "Memanggil tetesan air yang menyerupai not balok yang membentuk sebuah Melody Loop, mengakibatkan Hydro DMG ke musuh di sekitar karakter dan memberikan efek Wet.\n\n**Melody Loop**\n·Normal Attack Barbara dapat memulihkan HP seluruh anggota partymu dan karakter kawan di sekitar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara;\n·Charged Attack Barbara memulihkan 4 kali lipat lebih banyak HP;\n·Memulihkan HP secara berkala untuk karakter sendiri yang sedang digunakan;\n·Memberikan efek Wet kepada karakter dan musuh yang menyentuhnya.",
+		"description": "Musik Barbara adalah sihir yang dapat menyembuhkan teman-temannya.",
+		"attributes": {
+			"labels": [
+				"Pemulihan HP/Hit|{param3:F2P} Max HP + {param4:I}",
+				"Regenerasi HP|{param1:F2P} Max HP + {param2:I}",
+				"DMG Tetesan Air|{param5:F1P}",
+				"Durasi|{param6:F1}dtk",
+				"Cooldown|{param7:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Shining Miracle♪",
+		"info": "Memulihkan HP karakter teman dan seluruh anggota party dalam jumlah besar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara.",
+		"description": "Keinginan Barbara untuk menyembuhkan adalah dorongan baginya untuk terus bertarung dan bernyanyi.",
+		"attributes": {
+			"labels": [
+				"Pemulihan HP|{param1:F1P} Max HP + {param2:I}",
+				"Cooldown|{param3:F1}dtk",
+				"Konsumsi Energy|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Glorious Season",
+		"info": "Mengurangi 12% konsumsi Stamina karakter yang berada dalam Melody Loop dari skill **Let the Show Begin♪**."
+	},
+	"passive2": {
+		"name": "Encore",
+		"info": "Setiap kali karakter yang sedang digunakan mengambil Elemental Orb/Particle, akan memperpanjang durasi Melody Loop dari skill **Let the Show Begin♪** selama 1 detik.\nPenambahan durasi maksimum adalah 5 detik."
+	},
+	"passive3": {
+		"name": "With My Whole Heart ♪",
+		"info": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Freedom\"",
+				"count": 3
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 2
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 4
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 6
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 9
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 4
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 6
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 9
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 16
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 12
+			},
+			{
+				"name": "Ring of Boreas",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

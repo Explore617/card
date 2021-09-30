@@ -1,0 +1,204 @@
+{
+	"name": "Barbara",
+	"combat1": {
+		"name": "Suspiro da Água",
+		"info": "**Ataque Normal**\nRealiza até 4 ataques com esguichos de água que infligem Dano Hydro.\n\n**Ataque Carregado**\nConsome uma certa quantidade de Stamina para infligir Dano Hydro em uma AdE após um curto período de canalização.\n\n**Ataque Imersivo**\nReunindo o poder do Hydro, Barbara mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige Dano Hydro em uma AdE durante o impacto com o chão.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano de Ataque Carregado|{param5:P}",
+				"Consumo de Stamina de Ataque Carregado|{param6:F1}",
+				"Dano Durante a Queda|{param7:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Que Comece o Espetáculo ♪",
+		"info": "Invoca gotículas de água que se assemelham a notas musicais que formam um Círculo Melódico, causando Dano Hydro aos oponentes próximos e aplicando o estado Molhado a eles.\n\n**Círculo Melódico**\nAo acertar, os ataques normais da Barbara curam seus próprios membros de equipe e personagens aliados próximos em uma certa quantidade de Vida, que é escalonado com a Vida Máxima de Barbara.\nAcertar o Ataque Carregado de Barbara gera 4 vezes a quantidade de cura.\nPeriodicamente regenera a Vida do seu próprio personagem ativo.\nAplica o estado Molhado ao personagem e aos oponentes que entram em contato com eles.\nA música da Barbara é a magia que cura seus companheiros.",
+		"attributes": {
+			"labels": [
+				"Regeneração de Vida por Acerto|{param3:F2P} da Vida Máxima +{param4:I}",
+				"Regeneração Contínua|{param1:F2P} da Vida Máxima +{param2:I}",
+				"Dano de Gotas d'Água|{param5:F1P}",
+				"Duração|{param6:F1}s",
+				"Tempo de Recarga|{param7:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Milagre Brilhante ♪",
+		"info": "Cura todas as forças aliadas e seu próprio personagem em uma grande quantidade de Vida que aumenta com a Vida Máxima de Barbara.",
+		"description": "O desejo de Barbara de curar fortalece sua vontade de lutar e cantar.",
+		"attributes": {
+			"labels": [
+				"Regeneração|{param1:F1P} da Vida Máxima +{param2:I}",
+				"Tempo de Recarga|{param3:F1}s",
+				"Energia Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Temporada Gloriosa",
+		"info": "O Consumo de Stamina dos personagens dentro do loop da melodia de **Que Comece o Espetáculo ♪** é reduzido em 12%."
+	},
+	"passive2": {
+		"name": "Encore",
+		"info": "Quando seu próprio personagem ganha um Orbe/Partícula Elemental, a duração do Loop da Melodia do **Que Comece o Espetáculo ♪** é extendido em 1s.\nA extensão máxima é de 5s."
+	},
+	"passive3": {
+		"name": "Com Todo o Meu Coração♪",
+		"info": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de \"Liberdade\"",
+				"count": 3
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 2
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 4
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 6
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 9
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 4
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 4
+			},
+			{
+				"name": "Cálice do Vento Norte",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 6
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 6
+			},
+			{
+				"name": "Cálice do Vento Norte",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 12
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 9
+			},
+			{
+				"name": "Cálice do Vento Norte",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 16
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 12
+			},
+			{
+				"name": "Cálice do Vento Norte",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

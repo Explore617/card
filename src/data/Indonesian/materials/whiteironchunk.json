@@ -1,0 +1,12 @@
+{
+	"name": "White Iron Chunk",
+	"description": "Di tangan pengrajin yang handal, bijih besi ini dapat diolah menjadi berbagai benda berguna.",
+	"sortorder": 1236,
+	"category": "EXCHANGE",
+	"materialtype": "Mineral untuk Forge",
+	"source": [
+		"Ditemukan di alam liar",
+		"Rekomendasi: Ditemukan di Stormbearer Mountains",
+		"Rekomendasi: Ditemukan di Wolvendom"
+	]
+}

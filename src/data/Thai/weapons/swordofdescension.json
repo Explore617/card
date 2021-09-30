@@ -1,0 +1,131 @@
+{
+	"name": "Sword of Descension",
+	"description": "ดาบที่มีรูปร่างอันเป็นเอกลักษณ์ ดูเหมือนว่าจะไม่ได้มาจากโลกนี้",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 39,
+	"substat": "พลังโจมตี",
+	"subvalue": "7.7",
+	"effectname": "Descension",
+	"effect": "มีผลเมื่อเล่นบนแพลตฟอร์มต่อไปนี้เท่านั้น:\\n\"PlayStation Network\"\\nเมื่อโจมตีปกติ หรือชาร์จโจมตีถูกศัตรู จะมีโอกาส {0} ในการสร้างความเสียหายเป็นพื้นที่วงแคบ {1} ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 10 วินาที และเมื่อนักเดินทางถือ Sword of Descension พลังโจมตีจะเพิ่มขึ้น {2} หน่วย",
+	"r1": [
+		"50%",
+		"200%",
+		"66"
+	],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 3
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 12
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 6
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 6
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 12
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 9
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 18
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 12
+			}
+		]
+	}
+}

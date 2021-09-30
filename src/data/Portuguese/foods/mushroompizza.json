@@ -1,0 +1,39 @@
+{
+	"name": "Pizza de Cogumelos",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Restaura 26% - 30% da Vida Máxima ao personagem selecionado.\nRegenera 450 - 790> de Vida a cada 5s por 30s.",
+	"description": "Uma pizza coberta de queijo e cogumelos. Quando ainda está quente, o queijo derretido dá uma grande sensação de satisfação.",
+	"suspicious": {
+		"effect": "Restaura 26% da Vida Máxima do personagem selecionado e regenera 450 de Vida a cada 5s por 30s.",
+		"description": "Uma pizza coberta de queijo e cogumelos. Sua textura é dura como pedra, mas pelo menos consegue acalmar a sua fome."
+	},
+	"normal": {
+		"effect": "Restaura 28% da Vida Máxima do personagem selecionado e regenera 620 de Vida a cada 5s por 30s.",
+		"description": "Uma pizza coberta de queijo e cogumelos. Quando ainda está quente, o queijo derretido dá uma grande sensação de satisfação."
+	},
+	"delicious": {
+		"effect": "Restaura 30% da Vida Máxima do personagem selecionado e regenera 790 de Vida a cada 5s por 30s.",
+		"description": "Uma pizza coberta de queijo e cogumelos. É uma festa de sabores dentro da sua boca."
+	},
+	"ingredients": [
+		{
+			"name": "Cogumelo",
+			"count": 4
+		},
+		{
+			"name": "Farinha",
+			"count": 3
+		},
+		{
+			"name": "Repolho",
+			"count": 2
+		},
+		{
+			"name": "Queijo",
+			"count": 1
+		}
+	]
+}

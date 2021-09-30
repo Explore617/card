@@ -1,0 +1,82 @@
+.item-list {
+    position: relative;
+    height: 60px;
+}
+
+.item-list .title {
+    position: absolute;
+    display: inline-block;
+    font-size: 11.15pt;
+    top: 30px;
+    color: rgb(93, 105, 131);
+}
+
+.item-list .list {
+    transform-origin: left;
+    position: relative;
+    display: inline-block;
+    height: 23px;
+    left: 75px;
+    top: 17px;
+}
+
+.card_container {
+    position: relative;
+    width: 37px;
+    height: 43px;
+    margin: 1.3px !important;
+    display: inline-block;
+    border-radius: 3px;
+    box-shadow: 0 0 3px #8b8989;
+    text-align: center;
+}
+
+.card_image {
+    top: 0px;
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.card_caption {
+    margin: 1px 3px 3px;
+    line-height: 1;
+    font-size: 12px;
+    word-break: break-word;
+    hyphens: auto;
+}
+
+.card_container img {
+    vertical-align: middle;
+    width: 37px;
+    height: 43px;
+}
+
+.card_image img {
+    border-radius: 3px 3px 0px 0px;
+    width: 37px;
+    height: 37px;
+    vertical-align: middle;
+}
+
+.card_text {
+    transform: scale(.55);
+    position: absolute;
+    bottom: 0;
+    width: 160%;
+    left: -11px;
+    bottom: -2px;
+    line-height: 8px;
+    background: #E9E5DC;
+    text-align: center;
+    border-radius: 0 0 3px 3px;
+    overflow: hidden;
+}
+
+.card_font {
+    color: #495366;
+    font-size: 12px;
+    margin: auto;
+    font-family: "GenshinUsedFont";
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Espada de Favonius",
+	"description": "Uma espada longa comum usada pelos Cavaleiros de Favonius. Canalizar o poder dos elementos nunca foi tão fácil nesta arma ágil e afiada!",
+	"weapontype": "Espada",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Recarga de Energia",
+	"subvalue": "13.3",
+	"effectname": "Companhia do Vento",
+	"effect": "Os Acertos Críticos possuem {0} de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada {1}s.",
+	"r1": [
+		"60%",
+		"12"
+	],
+	"r2": [
+		"70%",
+		"10.5"
+	],
+	"r3": [
+		"80%",
+		"9"
+	],
+	"r4": [
+		"90%",
+		"7.5"
+	],
+	"r5": [
+		"100%",
+		"6"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Fragmento de Azulejo de Decarabian",
+				"count": 3
+			},
+			{
+				"name": "Chifre Pesado",
+				"count": 3
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Detritos da Cidade de Decarabian",
+				"count": 3
+			},
+			{
+				"name": "Chifre Pesado",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Detritos da Cidade de Decarabian",
+				"count": 6
+			},
+			{
+				"name": "Chifre de Bronze Negro",
+				"count": 6
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragmentos Épicos da Decarabian",
+				"count": 3
+			},
+			{
+				"name": "Chifre de Bronze Negro",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragmentos Épicos da Decarabian",
+				"count": 6
+			},
+			{
+				"name": "Chifre de Cristal Preto",
+				"count": 9
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Pedaços de Sonho da Decarabian",
+				"count": 4
+			},
+			{
+				"name": "Chifre de Cristal Preto",
+				"count": 18
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 12
+			}
+		]
+	}
+}

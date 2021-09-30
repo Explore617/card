@@ -1,0 +1,636 @@
+{
+	"namemap": {
+		"albedo": "알베도",
+		"aloy": "에일로이",
+		"amber": "엠버",
+		"barbara": "바바라",
+		"beidou": "북두",
+		"bennett": "베넷",
+		"chongyun": "중운",
+		"diluc": "다이루크",
+		"diona": "디오나",
+		"eula": "유라",
+		"fischl": "피슬",
+		"ganyu": "감우",
+		"hutao": "호두",
+		"jean": "진",
+		"kaedeharakazuha": "카에데하라 카즈하",
+		"kaeya": "케이아",
+		"kamisatoayaka": "카미사토 아야카",
+		"keqing": "각청",
+		"klee": "클레",
+		"kujousara": "쿠죠 사라",
+		"lisa": "리사",
+		"mona": "모나",
+		"ningguang": "응광",
+		"noelle": "노엘",
+		"qiqi": "치치",
+		"raidenshogun": "라이덴 쇼군",
+		"razor": "레이저",
+		"rosaria": "로자리아",
+		"sangonomiyakokomi": "산고노미야 코코미",
+		"sayu": "사유",
+		"sucrose": "설탕",
+		"tartaglia": "타르탈리아",
+		"traveleranemo": "여행자 (바람 원소)",
+		"travelerelectro": "여행자 (번개 원소)",
+		"travelergeo": "여행자 (바위 원소)",
+		"venti": "벤티",
+		"xiangling": "향릉",
+		"xiao": "소",
+		"xingqiu": "행추",
+		"xinyan": "신염",
+		"yanfei": "연비",
+		"yoimiya": "요이미야",
+		"zhongli": "종려"
+	},
+	"names": {
+		"알베도": "albedo",
+		"에일로이": "aloy",
+		"엠버": "amber",
+		"바바라": "barbara",
+		"북두": "beidou",
+		"베넷": "bennett",
+		"중운": "chongyun",
+		"다이루크": "diluc",
+		"디오나": "diona",
+		"유라": "eula",
+		"피슬": "fischl",
+		"감우": "ganyu",
+		"호두": "hutao",
+		"진": "jean",
+		"카에데하라 카즈하": "kaedeharakazuha",
+		"케이아": "kaeya",
+		"카미사토 아야카": "kamisatoayaka",
+		"각청": "keqing",
+		"클레": "klee",
+		"쿠죠 사라": "kujousara",
+		"리사": "lisa",
+		"모나": "mona",
+		"응광": "ningguang",
+		"노엘": "noelle",
+		"치치": "qiqi",
+		"라이덴 쇼군": "raidenshogun",
+		"레이저": "razor",
+		"로자리아": "rosaria",
+		"산고노미야 코코미": "sangonomiyakokomi",
+		"사유": "sayu",
+		"설탕": "sucrose",
+		"타르탈리아": "tartaglia",
+		"여행자 (바람 원소)": "traveleranemo",
+		"여행자 (번개 원소)": "travelerelectro",
+		"여행자 (바위 원소)": "travelergeo",
+		"벤티": "venti",
+		"향릉": "xiangling",
+		"소": "xiao",
+		"행추": "xingqiu",
+		"신염": "xinyan",
+		"연비": "yanfei",
+		"요이미야": "yoimiya",
+		"종려": "zhongli"
+	},
+	"aliases": {},
+	"categories": {
+		"모라": [
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo",
+			"travelerelectro",
+			"travelergeo",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"「시문」의 가르침": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"venti"
+		],
+		"이능 두루마리": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"「시문」의 인도": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"traveleranemo",
+			"venti"
+		],
+		"봉마의 두루마리": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"「시문」의 철학": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"traveleranemo",
+			"venti"
+		],
+		"금주의 두루마리": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"하늘을 삼킨 고래·뿔": [
+			"albedo",
+			"xinyan",
+			"zhongli"
+		],
+		"지식의 왕관": [
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo",
+			"travelerelectro",
+			"travelergeo",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"「자유」의 가르침": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"떠도는 정령 코어 껍데기": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"「자유」의 인도": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"떠도는 정령 코어": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"「자유」의 철학": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"떠도는 정령 결정화 코어": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"용해의 순간": [
+			"aloy",
+			"raidenshogun"
+		],
+		"견고한 화살촉": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"날카로운 화살촉": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"역전의 화살촉": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"동풍의 숨결": [
+			"amber",
+			"beidou",
+			"chongyun",
+			"traveleranemo"
+		],
+		"북풍의 고리": [
+			"barbara",
+			"keqing",
+			"klee",
+			"mona"
+		],
+		"「황금」의 가르침": [
+			"beidou",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"보물찾기 까마귀 휘장": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"「황금」의 인도": [
+			"beidou",
+			"travelergeo",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"실버 까마귀 휘장": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"「황금」의 철학": [
+			"beidou",
+			"travelergeo",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"골드 까마귀 휘장": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"「투쟁」의 가르침": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor"
+		],
+		"「투쟁」의 인도": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor",
+			"traveleranemo"
+		],
+		"「투쟁」의 철학": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor",
+			"traveleranemo"
+		],
+		"동풍의 깃털": [
+			"bennett",
+			"diluc",
+			"jean"
+		],
+		"「근면」의 가르침": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"xiangling"
+		],
+		"부서진 가면": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"「근면」의 인도": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"travelergeo",
+			"xiangling"
+		],
+		"오염된 가면": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"「근면」의 철학": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"travelergeo",
+			"xiangling"
+		],
+		"불길한 가면": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"신병의 휘장": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"사관의 휘장": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"위관의 휘장": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"마왕의 칼날·조각": [
+			"diona",
+			"hutao",
+			"tartaglia"
+		],
+		"용왕의 면류관": [
+			"eula",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"북풍의 영혼상자": [
+			"fischl",
+			"kaeya",
+			"ningguang",
+			"sucrose"
+		],
+		"구라구라 꽃꿀": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"반짝반짝 꽃꿀": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"원소 꽃꿀": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"무예의 혼·고영": [
+			"ganyu",
+			"rosaria",
+			"xiao"
+		],
+		"순금의 비늘": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"「풍아」의 가르침": [
+			"kamisatoayaka",
+			"kujousara"
+		],
+		"오래된 코등이": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"「풍아」의 인도": [
+			"kamisatoayaka",
+			"kujousara",
+			"travelerelectro"
+		],
+		"카게우치 코등이": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"「풍아」의 철학": [
+			"kamisatoayaka",
+			"kujousara",
+			"travelerelectro"
+		],
+		"명검 코등이": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"혈옥의 가지": [
+			"kamisatoayaka",
+			"yanfei"
+		],
+		"「번영」의 가르침": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"「번영」의 인도": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"「번영」의 철학": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"재가 된 심장": [
+			"kujousara"
+		],
+		"슬라임 응축액": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"슬라임청": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"슬라임 원액": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"동풍의 발톱": [
+			"lisa",
+			"noelle",
+			"razor",
+			"xiangling"
+		],
+		"북풍의 꼬리": [
+			"qiqi",
+			"travelergeo",
+			"venti",
+			"xingqiu"
+		],
+		"「천광」의 가르침": [
+			"raidenshogun",
+			"sayu"
+		],
+		"「천광」의 인도": [
+			"raidenshogun",
+			"sayu",
+			"travelerelectro"
+		],
+		"「천광」의 철학": [
+			"raidenshogun",
+			"sayu",
+			"travelerelectro"
+		],
+		"「부세」의 가르침": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"「부세」의 인도": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"「부세」의 철학": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"지옥불 나비": [
+			"sangonomiyakokomi"
+		]
+	}
+}

@@ -1,0 +1,147 @@
+{
+	"name": "Canção dos Pinhos",
+	"description": "Uma espada grande tão leve quanto o suspiro de grama na brisa, mas tão impiedosa para os corruptos quanto um tufão.",
+	"weapontype": "Espadão",
+	"rarity": "5",
+	"baseatk": 49,
+	"substat": "Bônus de Dano Físico",
+	"subvalue": "4.5",
+	"effectname": "Música de Rebelião da Bandeira",
+	"effect": "Uma parte do Concerto Milenar que flutua no vento. Aumenta o ATQ em {0}. Quando Ataque Normal ou Ataque Carregado atingir os inimigos, o personagem obterá um Símbolo dos Suspiros, que pode ser ativado uma vez a cada 0.3s. Possuir 4 Símbolos dos Sussurros faz consumir todos eles, e faz todos os personagens da equipe obterem o efeito de \"Concerto Milenar: Música do Levantar da Bandeira\" por 12s: A Vel. de Ataque Normal será aumentada em {1}, além disso o ATQ será aumentado em {2}. Dentro de 20s depois da ativação, não é possível obter os Símbolos dos Sussurros de novo. Entre todos os efeitos de vários valores, os efeitos do mesmo valor não podem ser acumulados.",
+	"r1": [
+		"16%",
+		"12%",
+		"20%"
+	],
+	"r2": [
+		"20%",
+		"15%",
+		"25%"
+	],
+	"r3": [
+		"24%",
+		"18%",
+		"30%"
+	],
+	"r4": [
+		"28%",
+		"21%",
+		"35%"
+	],
+	"r5": [
+		"32%",
+		"24%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Fragmento de Azulejo de Decarabian",
+				"count": 5
+			},
+			{
+				"name": "Chifre Pesado",
+				"count": 5
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Detritos da Cidade de Decarabian",
+				"count": 5
+			},
+			{
+				"name": "Chifre Pesado",
+				"count": 18
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Detritos da Cidade de Decarabian",
+				"count": 9
+			},
+			{
+				"name": "Chifre de Bronze Negro",
+				"count": 9
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragmentos Épicos da Decarabian",
+				"count": 5
+			},
+			{
+				"name": "Chifre de Bronze Negro",
+				"count": 18
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Fragmentos Épicos da Decarabian",
+				"count": 9
+			},
+			{
+				"name": "Chifre de Cristal Preto",
+				"count": 14
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Pedaços de Sonho da Decarabian",
+				"count": 6
+			},
+			{
+				"name": "Chifre de Cristal Preto",
+				"count": 27
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 18
+			}
+		]
+	}
+}

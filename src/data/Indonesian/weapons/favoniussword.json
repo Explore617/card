@@ -1,0 +1,142 @@
+{
+	"name": "Favonius Sword",
+	"description": "Pedang panjang yang digunakan oleh para anggota Knights of Favonius. Ringan dan tajam, juga dapat dialirkan kekuatan elemen dengan mudah.",
+	"weapontype": "Sword",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Energy Recharge",
+	"subvalue": "13.3",
+	"effectname": "Wind Companion",
+	"effect": "Serangan CRIT memiliki {0} persentase untuk memunculkan sejumlah kecil Elemental Particle yang bisa memulihkan energy karakter sebanyak 6 pt. Dapat terpicu setiap {1}.",
+	"r1": [
+		"60%",
+		"12 detik"
+	],
+	"r2": [
+		"70%",
+		"10,5 detik"
+	],
+	"r3": [
+		"80%",
+		"9 detik"
+	],
+	"r4": [
+		"90%",
+		"7,5 detik"
+	],
+	"r5": [
+		"100%",
+		"6 detik"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Tile of Decarabian's Tower",
+				"count": 3
+			},
+			{
+				"name": "Heavy Horn",
+				"count": 3
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Debris of Decarabian's City",
+				"count": 3
+			},
+			{
+				"name": "Heavy Horn",
+				"count": 12
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Debris of Decarabian's City",
+				"count": 6
+			},
+			{
+				"name": "Black Bronze Horn",
+				"count": 6
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment of Decarabian's Epic",
+				"count": 3
+			},
+			{
+				"name": "Black Bronze Horn",
+				"count": 12
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment of Decarabian's Epic",
+				"count": 6
+			},
+			{
+				"name": "Black Crystal Horn",
+				"count": 9
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Scattered Piece of Decarabian's Dream",
+				"count": 4
+			},
+			{
+				"name": "Black Crystal Horn",
+				"count": 18
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 12
+			}
+		]
+	}
+}

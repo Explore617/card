@@ -1,0 +1,12 @@
+{
+	"name": "Pedaço de Ferro Branco",
+	"description": "Pode ser transformado em algo incrível em mãos habilidosas.",
+	"sortorder": 1236,
+	"category": "EXCHANGE",
+	"materialtype": "Minério de Forjamento",
+	"source": [
+		"Encontrado na Natureza",
+		"Recomendação: Encontrado nas Montanhas do Precursor do Vento",
+		"Recomendação: Encontrado no Reino dos Lobos"
+	]
+}

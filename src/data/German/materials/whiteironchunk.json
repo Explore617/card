@@ -1,0 +1,12 @@
+{
+	"name": "Brocken weißes Eisen",
+	"description": "Ein Klumpen weißes Eisenerz, der in den Händen eines begabten Schmieds zu glanzvollen Dingen reifen kann.",
+	"sortorder": 1236,
+	"category": "EXCHANGE",
+	"materialtype": "Zum Schmieden geeignetes Erz",
+	"source": [
+		"In der freien Natur zu finden",
+		"Empfohlen: Auf den Windblickbergen zu finden",
+		"Empfohlen: In Wolfenlauf zu finden"
+	]
+}

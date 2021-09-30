@@ -1,0 +1,147 @@
+{
+	"name": "Ode au chant du vent",
+	"description": "Un espadon aussi léger que la brise soufflant sur l'herbe, mais aussi puissant qu'un ouragan.",
+	"weapontype": "Épée à deux mains",
+	"rarity": "5",
+	"baseatk": 49,
+	"substat": "Bonus de DGT physiques",
+	"subvalue": "4.5",
+	"effectname": "Hymne du drapeau rebelle",
+	"effect": "Partie du « Concert du millénaire ». Augmente l'ATQ de {0}, et lorsque les attaques normales ou chargées touchent un ennemi, le personnage obtient un charme des murmures, à raison d'un charme toutes les 0,3 s max. Une fois 4 charmes obtenus, ils sont consommés et tous les personnages de l'équipe à proximité bénéficient de l'effet « Concert du millénaire - Hymne du drapeau » pendant 12 s, ce qui augmente la VIT des attaques normales de {1}, et l'ATQ de {2}. Il n'est plus possible d'obtenir de charmes des murmures pendant 20 s après avoir déclenché cet effet. Parmi les nombreux effets du « Concert du millénaire », les améliorations du même type ne se cumulent pas.",
+	"r1": [
+		"16 %",
+		"12 %",
+		"20 %"
+	],
+	"r2": [
+		"20 %",
+		"15 %",
+		"25 %"
+	],
+	"r3": [
+		"24 %",
+		"18 %",
+		"30 %"
+	],
+	"r4": [
+		"28 %",
+		"21 %",
+		"35 %"
+	],
+	"r5": [
+		"32 %",
+		"24 %",
+		"40 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Tuile cassée de Décabarian",
+				"count": 5
+			},
+			{
+				"name": "Corne lourde",
+				"count": 5
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 5
+			},
+			{
+				"name": "Corne lourde",
+				"count": 18
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 9
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 9
+			},
+			{
+				"name": "Masque sale",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 5
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 18
+			},
+			{
+				"name": "Masque sale",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 9
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 14
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Rêve brisé de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 27
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 18
+			}
+		]
+	}
+}

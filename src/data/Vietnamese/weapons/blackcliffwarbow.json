@@ -1,0 +1,137 @@
+{
+	"name": "Cung Hắc Nham",
+	"description": "Tạo nên từ hắc nham. Cung chắc chắn và nặng vô cùng, chỉ có cung thủ có thể lực tốt mới có thể phát huy hết sức mạnh.",
+	"weapontype": "Cung",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ST Bạo Kích",
+	"subvalue": "8",
+	"effectname": "Thừa Thắng Xông Lên",
+	"effect": "Sau khi đánh bại kẻ địch, tấn công tăng {0}, kéo dài 30s. Hiệu quả này cộng dồn đến 3 tầng, CD mỗi tầng độc lập.",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ánh Sáng Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 3
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 6
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 9
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Thần Thể Rừng Băng Giá",
+				"count": 4
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 18
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 12
+			}
+		]
+	}
+}

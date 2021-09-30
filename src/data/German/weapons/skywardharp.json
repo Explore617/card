@@ -1,0 +1,147 @@
+{
+	"name": "Himmelsflügel",
+	"description": "Ein großer Bogen, der die Zusammengehörigkeit von Dvalin und dem Archon des Windes symbolisiert. Der Klang beim Loslassen der Sehne ist wie Musik in den Ohren des Archons und enthält die Kraft von Himmel und Wind.",
+	"weapontype": "Bogen",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "KT",
+	"subvalue": "4.8",
+	"effectname": "Widerhallende Ballade",
+	"effect": "Erhöht den KSCH um {0} und verursacht bei einem Treffer mit einer Wahrscheinlichkeit von {1} physischen Schaden mit geringer Reichweite in Höhe von 125 % ANG. {2} s Abklingzeit.",
+	"r1": [
+		"20 %",
+		"60 %",
+		"4"
+	],
+	"r2": [
+		"25 %",
+		"70 %",
+		"3,5"
+	],
+	"r3": [
+		"30 %",
+		"80 %",
+		"3"
+	],
+	"r4": [
+		"35 %",
+		"90 %",
+		"2,5"
+	],
+	"r5": [
+		"40 %",
+		"100 %",
+		"2"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Milchzahn des borealischen Wolfs",
+				"count": 5
+			},
+			{
+				"name": "Alte Rute des Flusses der Elemente",
+				"count": 5
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Zersplitterter Zahn des borealischen Wolfs",
+				"count": 5
+			},
+			{
+				"name": "Alte Rute des Flusses der Elemente",
+				"count": 18
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Zersplitterter Zahn des borealischen Wolfs",
+				"count": 9
+			},
+			{
+				"name": "Verdorrte Blätter des Flusses der Elemente",
+				"count": 9
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Abgebrochener Zahn des borealischen Wolfs",
+				"count": 5
+			},
+			{
+				"name": "Verdorrte Blätter des Flusses der Elemente",
+				"count": 18
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Abgebrochener Zahn des borealischen Wolfs",
+				"count": 9
+			},
+			{
+				"name": "Frische Triebe des Flusses der Elemente",
+				"count": 14
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Heimweh des borealischen Wolfs",
+				"count": 6
+			},
+			{
+				"name": "Frische Triebe des Flusses der Elemente",
+				"count": 27
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 18
+			}
+		]
+	}
+}

@@ -1,0 +1,211 @@
+{
+	"name": "Noelle",
+	"combat1": {
+		"name": "Standardangriff: Favonius-Schwertkunst – Magd",
+		"info": "**Standardangriff**\nFührt bis zu 4 Schwünge mit dem Schwert aus.\n\n**Heftiger Schlag**\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P}",
+				"SCH Phase 4|{param4:P}",
+				"SCH heftiger Schläge pro Runde|{param5:F1P}",
+				"SCH heftiger Schläge am Ende|{param6:F1P}",
+				"Ausdauerverbrauch heftiger Schläge|{param7:F1} Punkte pro s",
+				"Höchstdauer|{param8:F1} s",
+				"SCH beim Fallen|{param9:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Brustpanzer",
+		"info": "Erschafft einen Geo-Panzer, der Gegnern in der Umgebung Geo-Schadenzufügt, sowie einen Schutzschild, der Schaden basierend auf Noelles VTD abhält.\nEffekte des Schutzschilds:\n- Noelle stellt allen Truppenmitgliedern bei Treffern mit Standardangriffen und heftigen Schlägen mit gewisser Wahrscheinlichkeit LP wieder her.\n- Hält bei elementarem sowie physischem Schaden 150 % ab.\n\nHeilkraft basiert auf Noelles VTD.",
+		"description": "Noelle ist eine hingebungsvolle Magd, aber auch ein zielstrebiger Ritter.",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH|{param6:P} VTD",
+				"Stärke|{param1:P} VTD + {param7:I}",
+				"Heilung|{param2:F1P} VTD + {param8:I}",
+				"Wahrscheinlichkeit der Heilung|{param3:P}",
+				"Dauer|{param4:F1} s",
+				"Abklingzeit|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Großreinigung",
+		"info": "Konzentriert die Kraft der Felsen auf ihrer Waffe, greift Gegner in der Umgebung mit hoher Reichweite an und verursacht Geo-Schaden.\nLöst danach folgende Effekte aus:\n- Erhöht Noelles Angriffsreichweite.\n- Wandelt den verursachten Schaden in Geo-Schaden um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.\n- Erhöht Noelles ANG basierend auf Noelles VTD.",
+		"description": "Was gesäubert werden muss, ist nicht immer nur einfacher Dreck ...",
+		"attributes": {
+			"labels": [
+				"Spezialfähigkeits-SCH|{param1:F1P}",
+				"Fähigkeits-SCH|{param2:F1P}",
+				"ANG-Bonus|{param3:P} VTD",
+				"Dauer|{param4:F1} s",
+				"Abklingzeit|{param5:F1} s",
+				"Elementarenergie|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Ernsthaftigkeit",
+		"info": "Effekte, wenn Noelle inaktiv in der Truppe ist und die aktuelle eigene Figur weniger als 30 % LP hat:\nErstellt einen Schutzschild für die aktuelle eigene Figur, der Schaden in Höhe von 400 % von Noelles VTD abhält, hält 20 s.\n- Hält bei elementarem sowie physischem Schaden 150 % ab.\n60 s Abklingzeit."
+	},
+	"passive2": {
+		"name": "Sauber und geschwind",
+		"info": "Verringert die Abklingzeit von **Brustpanzer** alle vier Treffer mit Standardangriffen oder heftigen Schlägen um 1 s.\nDas gleichzeitige Treffen mehrerer Gegner zählt als ein Treffer."
+	},
+	"passive3": {
+		"name": "Hingabe einer Magd",
+		"info": "Stellt bei der perfekten Zubereitung eines Gerichts mit defensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren des „Widerstands“",
+				"count": 3
+			},
+			{
+				"name": "Zerbrochene Maske",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zum „Widerstand“",
+				"count": 2
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zum „Widerstand“",
+				"count": 4
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zum „Widerstand“",
+				"count": 6
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zum „Widerstand“",
+				"count": 9
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie des „Widerstands“",
+				"count": 4
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 4
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie des „Widerstands“",
+				"count": 6
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 6
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie des „Widerstands“",
+				"count": 12
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 9
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie des „Widerstands“",
+				"count": 16
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 12
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

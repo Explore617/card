@@ -1,0 +1,153 @@
+{
+	"name": "Eula",
+	"title": "Vũ Điệu Bọt Biển",
+	"description": "\"Kỵ Sĩ Sóng Nước\" xuất thân từ gia tộc cổ xưa, đội trưởng tiểu đội du kích thuộc Đội Kỵ Sĩ Tây Phong. Là hậu duệ của quý tộc cũ nhưng lại gia nhập Đội Kỵ Sĩ Tây Phong - kẻ thù không đội trời chung, sự việc này đến nay vẫn là một ẩn số lớn của Mondstadt.",
+	"rarity": "5",
+	"element": "Băng",
+	"weapontype": "Trọng Kiếm",
+	"substat": "ST Bạo Kích",
+	"gender": "nữ",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Đội Kỵ Sĩ Tây Phong",
+	"birthdaymmdd": "10/25",
+	"birthday": "25 tháng 10",
+	"constellation": "Cung Lãng Mạt",
+	"cv": {
+		"english": "Susie Yang",
+		"chinese": "子音",
+		"japanese": "佐藤利奈",
+		"korean": "김현지"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Ngọc Băng Vụn",
+				"count": 1
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 3
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Miếng Ngọc Băng Vỡ",
+				"count": 3
+			},
+			{
+				"name": "Tinh Hoa Ngưng Kết",
+				"count": 2
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 10
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Miếng Ngọc Băng Vỡ",
+				"count": 6
+			},
+			{
+				"name": "Tinh Hoa Ngưng Kết",
+				"count": 4
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 20
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Ngọc Băng",
+				"count": 3
+			},
+			{
+				"name": "Tinh Hoa Ngưng Kết",
+				"count": 8
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 30
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Ngọc Băng",
+				"count": 6
+			},
+			{
+				"name": "Tinh Hoa Ngưng Kết",
+				"count": 12
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 45
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Ngọc Băng",
+				"count": 6
+			},
+			{
+				"name": "Tinh Hoa Ngưng Kết",
+				"count": 20
+			},
+			{
+				"name": "Hạt Bồ Công Anh",
+				"count": 60
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 24
+			}
+		]
+	}
+}

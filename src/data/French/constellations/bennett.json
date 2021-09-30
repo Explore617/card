@@ -1,0 +1,27 @@
+{
+	"name": "Bennett",
+	"c1": {
+		"name": "Perspective de voyage",
+		"effect": "Le bonus d'ATQ conféré par **Merveilleux voyage** n'est plus soumis à la restriction de PV, et augmente numériquement l'ATQ de base de Bennett de 20 %."
+	},
+	"c2": {
+		"name": "Brise-désespoir",
+		"effect": "La recharge d'énergie de Bennett augmente de 30 % lorsque ses PV tombent en dessous de 70 %."
+	},
+	"c3": {
+		"name": "Passion ardente",
+		"effect": "Niveau d'aptitude **Surpassion** +3.\nNiveau max : 15"
+	},
+	"c4": {
+		"name": "Enthousiasme éternel",
+		"effect": "L'utilisation d'une attaque normale lors de l'exécution de la deuxième attaque du niveau 1 de charge de **Surpassion** permet d'effectuer une attaque supplémentaire.\nCelle-ci inflige 135 % des DGT de la deuxième attaque."
+	},
+	"c5": {
+		"name": "Ouverture d'âme",
+		"effect": "Niveau d'aptitude **Merveilleux voyage** +3.\nNiveau max : 15"
+	},
+	"c6": {
+		"name": "Feu et courage",
+		"effect": "Le champ de **Merveilleux voyage** confère à tous les personnages de l'équipe déployés et maniant une épée à une ou deux mains ou une arme d'hast qui s'y trouvent un bonus de DGT Pyro de 15 %, ainsi qu'un enchantement Pyro."
+	}
+}

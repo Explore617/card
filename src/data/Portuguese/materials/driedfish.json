@@ -1,0 +1,10 @@
+{
+	"name": "Peixe Desidratado",
+	"description": "",
+	"sortorder": 1639,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrediente",
+	"source": [
+		"Processado"
+	]
+}

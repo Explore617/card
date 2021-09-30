@@ -1,0 +1,142 @@
+{
+	"name": "Hòa Phác Diên",
+	"description": "Thương hóa thân từ ma thần, có độ sắc bén và sức mạnh từ thời viễn cổ.",
+	"weapontype": "Vũ Khí Cán Dài",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "Tỷ Lệ Bạo Kích",
+	"subvalue": "4.8",
+	"effectname": "Thương Đại Bàng Ngân Nga",
+	"effect": "Khi đánh trúng kẻ địch tấn công của bản thân tăng {0}, kéo dài 6s, có thể cộng dồn 7 tầng. Mỗi 0.3s có hiệu quả 1 lần, khi cộng dồn đầy sẽ tăng {1} sát thương.",
+	"r1": [
+		"3.2%",
+		"12%"
+	],
+	"r2": [
+		"3.9%",
+		"15%"
+	],
+	"r3": [
+		"4.6%",
+		"18%"
+	],
+	"r4": [
+		"5.3%",
+		"21%"
+	],
+	"r5": [
+		"6%",
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Ánh Sáng Rừng Băng Giá",
+				"count": 5
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 5
+			},
+			{
+				"name": "Phù Hiệu Tân Binh",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 5
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 18
+			},
+			{
+				"name": "Phù Hiệu Tân Binh",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 9
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 9
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 5
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 18
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 9
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 14
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Thần Thể Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 27
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 18
+			}
+		]
+	}
+}

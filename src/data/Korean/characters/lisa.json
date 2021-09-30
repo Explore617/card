@@ -1,0 +1,153 @@
+{
+	"name": "리사",
+	"title": "장미 마녀",
+	"description": "느릿느릿하고 게으르지만 박학다식한 도서관 사서. 수메르 아카데미아에서 「이백 년에 한 번 나올까 말까 한」 천재 졸업생이다",
+	"rarity": "4",
+	"element": "번개",
+	"weapontype": "법구",
+	"substat": "원소 마스터리",
+	"gender": "여성",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 기사단",
+	"birthdaymmdd": "6/9",
+	"birthday": "6월 9일",
+	"constellation": "모래시계자리",
+	"cv": {
+		"english": "Mara Junot",
+		"chinese": "钟可",
+		"japanese": "타나카 리에",
+		"korean": "박고운"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "승리의 자수정 가루",
+				"count": 1
+			},
+			{
+				"name": "낙락베리",
+				"count": 3
+			},
+			{
+				"name": "슬라임 응축액",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "승리의 자수정 조각",
+				"count": 3
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 2
+			},
+			{
+				"name": "낙락베리",
+				"count": 10
+			},
+			{
+				"name": "슬라임 응축액",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "승리의 자수정 조각",
+				"count": 6
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 4
+			},
+			{
+				"name": "낙락베리",
+				"count": 20
+			},
+			{
+				"name": "슬라임청",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "승리의 자수정 덩이",
+				"count": 3
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 8
+			},
+			{
+				"name": "낙락베리",
+				"count": 30
+			},
+			{
+				"name": "슬라임청",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "승리의 자수정 덩이",
+				"count": 6
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 12
+			},
+			{
+				"name": "낙락베리",
+				"count": 45
+			},
+			{
+				"name": "슬라임 원액",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "승리의 자수정",
+				"count": 6
+			},
+			{
+				"name": "뇌광 프리즘",
+				"count": 20
+			},
+			{
+				"name": "낙락베리",
+				"count": 60
+			},
+			{
+				"name": "슬라임 원액",
+				"count": 24
+			}
+		]
+	}
+}

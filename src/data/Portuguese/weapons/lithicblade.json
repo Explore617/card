@@ -1,0 +1,142 @@
+{
+	"name": "Espada Antiga de Millelith",
+	"description": "Uma espada grande esculpida e cinzelada na própria base de Liyue.",
+	"weapontype": "Espadão",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Axioma de Millelith: Unidade",
+	"effect": "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em {0} e aumenta sua Taxa CRIT em {1}. Esse efeito pode ser acumulado no máximo 4 vezes.",
+	"r1": [
+		"7%",
+		"3%"
+	],
+	"r2": [
+		"8%",
+		"4%"
+	],
+	"r3": [
+		"9%",
+		"5%"
+	],
+	"r4": [
+		"10%",
+		"6%"
+	],
+	"r5": [
+		"11%",
+		"7%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Areia Brilhante de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 3
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Especial",
+				"count": 6
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca Especial",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 9
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Corpo Divino de Guyun",
+				"count": 4
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 18
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 12
+			}
+		]
+	}
+}

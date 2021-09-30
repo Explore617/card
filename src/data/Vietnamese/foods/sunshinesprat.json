@@ -1,0 +1,39 @@
+{
+	"name": "Cá Chiên Bơ",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Phòng Ngự",
+	"foodcategory": "Def_Add",
+	"effect": "Hiệu quả khiên cả đội tăng mạnh 20%-30%, kéo dài 300s.\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+	"description": "Món cá chiên bằng lửa nhỏ. Thịt cá được chiên với độ lửa thích hợp sẽ giữ được độ tươi ngon tối đa, thịt mềm ngọt, bề mặt hơi cháy nhẹ kèm với mùi thơm của mỡ tạo nên một hương vị đậm đà.",
+	"suspicious": {
+		"effect": "Hiệu quả khiên cả đội tăng mạnh 20%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Món cá chiên trong lửa nhỏ. Thời gian chiên lâu làm cá mất đi vị tươi ngon và độ dai, dường như chỉ cần chạm nhẹ là sẽ vỡ thành mảnh nhỏ."
+	},
+	"normal": {
+		"effect": "Hiệu quả khiên cả đội tăng mạnh 25%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Món cá chiên bằng lửa nhỏ. Thịt cá được chiên với độ lửa thích hợp sẽ giữ được độ tươi ngon tối đa, thịt mềm ngọt, bề mặt hơi cháy nhẹ kèm với mùi thơm của mỡ tạo nên một hương vị đậm đà."
+	},
+	"delicious": {
+		"effect": "Hiệu quả khiên cả đội tăng mạnh 30%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Món cá chiên trong lửa nhỏ. Thịt cá tan trong miệng, hương vị của đại dương và đất liền hòa quyện trong miệng, tạo nên mùi vị khó quên. Không có gì lạ khi một món ăn với công thức đơn giản như vậy cũng có thể được xếp vào hàng mỹ vị."
+	},
+	"ingredients": [
+		{
+			"name": "Bơ",
+			"count": 3
+		},
+		{
+			"name": "Thịt Cá",
+			"count": 3
+		},
+		{
+			"name": "Muối",
+			"count": 1
+		},
+		{
+			"name": "Tiểu Đăng Thảo",
+			"count": 1
+		}
+	]
+}

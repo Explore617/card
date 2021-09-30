@@ -1,0 +1,91 @@
+{
+	"name": "포켓 주술서",
+	"description": "정성스레 편찬한 졸업 고사 요점만 적혀있는 마법 참고 서적",
+	"weapontype": "법구",
+	"rarity": "2",
+	"baseatk": 33,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 5000
+			},
+			{
+				"name": "고탑 왕의 잔해",
+				"count": 1
+			},
+			{
+				"name": "무거운 나팔",
+				"count": 1
+			},
+			{
+				"name": "부서진 가면",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 5000
+			},
+			{
+				"name": "고탑 왕의 절망",
+				"count": 1
+			},
+			{
+				"name": "무거운 나팔",
+				"count": 5
+			},
+			{
+				"name": "부서진 가면",
+				"count": 4
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 10000
+			},
+			{
+				"name": "고탑 왕의 절망",
+				"count": 3
+			},
+			{
+				"name": "흑동 나팔",
+				"count": 3
+			},
+			{
+				"name": "오염된 가면",
+				"count": 3
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 15000
+			},
+			{
+				"name": "고탑 왕의 조각",
+				"count": 1
+			},
+			{
+				"name": "흑동 나팔",
+				"count": 5
+			},
+			{
+				"name": "오염된 가면",
+				"count": 4
+			}
+		]
+	}
+}

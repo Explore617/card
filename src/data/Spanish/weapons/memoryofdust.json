@@ -1,0 +1,142 @@
+{
+	"name": "Candado Terrenal",
+	"description": "Un candado de piedra que contiene algún tipo de recuerdo ancestral y revela su poder con infinitas transformaciones.",
+	"weapontype": "Catalizador",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ATQ",
+	"subvalue": "10.8",
+	"effectname": "Majestad dorada",
+	"effect": "Aumenta en un {0} la Protección de Escudo.. Tras atacar a un enemigo, el ATQ aumenta en un {1} durante 8 s. Este efecto puede acumularse hasta 5 veces y activarse una vez cada 0.3 s. Además, al estar bajo la protección de un escudo, el efecto de aumento de ATQ aumenta en un 100%.",
+	"r1": [
+		"20%",
+		"4%"
+	],
+	"r2": [
+		"25%",
+		"5%"
+	],
+	"r3": [
+		"30%",
+		"6%"
+	],
+	"r4": [
+		"35%",
+		"7%"
+	],
+	"r5": [
+		"40%",
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grano de siderita oscura",
+				"count": 5
+			},
+			{
+				"name": "Fragmento de hueso frágil",
+				"count": 5
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lámina de siderita oscura",
+				"count": 5
+			},
+			{
+				"name": "Fragmento de hueso frágil",
+				"count": 18
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Lámina de siderita oscura",
+				"count": 9
+			},
+			{
+				"name": "Fragmento de hueso sólido",
+				"count": 9
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragmento de siderita oscura",
+				"count": 5
+			},
+			{
+				"name": "Fragmento de hueso sólido",
+				"count": 18
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Fragmento de siderita oscura",
+				"count": 9
+			},
+			{
+				"name": "Fragmento de hueso fosilizado",
+				"count": 14
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Trozo de siderita oscura",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de hueso fosilizado",
+				"count": 27
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 18
+			}
+		]
+	}
+}

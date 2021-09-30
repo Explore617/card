@@ -1,0 +1,9 @@
+{
+	"name": "Опыт приключений",
+	"description": "Опыт приключений используется для повышения Ранга приключений.",
+	"sortorder": 382,
+	"rarity": "3",
+	"category": "ITEM_VIRTUAL",
+	"materialtype": "Системный доступ",
+	"source": []
+}

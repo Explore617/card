@@ -1,0 +1,137 @@
+{
+	"name": "Iron Sting",
+	"description": "ดาบสำหรับแทงรูปร่างเรียวบางที่หาได้ยาก ซึ่งจะพบได้จากเหล่าผู้ค้าจากต่างแดนที่เดินทางมาถึง Liyue มันทั้งเบา คล่องแคล่ว และคม",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ความชำนาญธาตุ",
+	"subvalue": "36",
+	"effectname": "Infusion Stinger",
+	"effect": "ภายใน 6 วินาทีหลังจากสร้างความเสียหายธาตุ ความเสียหายที่ตัวละครสร้างจะเพิ่มขึ้น {0} ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุด 2 ชั้นและสามารถปล่อยได้หนึ่งครั้งในทุก 1 วินาที",
+	"r1": [
+		"6%"
+	],
+	"r2": [
+		"7.5%"
+	],
+	"r3": [
+		"9%"
+	],
+	"r4": [
+		"10.5%"
+	],
+	"r5": [
+		"12%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grain of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Fragile Bone Remains",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Fragile Bone Remains",
+				"count": 12
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Sturdy Bone Remains",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Sturdy Bone Remains",
+				"count": 12
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Fossilized Bone Remains",
+				"count": 9
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Chunk of Aerosiderite",
+				"count": 4
+			},
+			{
+				"name": "Fossilized Bone Remains",
+				"count": 18
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 12
+			}
+		]
+	}
+}

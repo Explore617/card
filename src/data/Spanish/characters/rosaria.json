@@ -1,0 +1,153 @@
+{
+	"name": "Rosaria",
+	"title": "la Beata Impía",
+	"description": "Una monja que, aparte de por su ropa, nadie diría que pertenece al clero. Su frialdad hacia todo la hace extremadamente incisiva y siempre actúa en solitario.",
+	"rarity": "4",
+	"element": "Cryo",
+	"weapontype": "Lanza",
+	"substat": "ATQ",
+	"gender": "Femenino",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Iglesia de Favonius",
+	"birthdaymmdd": "1/24",
+	"birthday": "24 de enero",
+	"constellation": "Spinea Corona",
+	"cv": {
+		"english": "Elizabeth Maxwell",
+		"chinese": "张安琪",
+		"japanese": "加隈亜衣",
+		"korean": "김보나"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedacito de jade shivada",
+				"count": 1
+			},
+			{
+				"name": "Valbaya",
+				"count": 3
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 2
+			},
+			{
+				"name": "Valbaya",
+				"count": 10
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 4
+			},
+			{
+				"name": "Valbaya",
+				"count": 20
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Trozo de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 8
+			},
+			{
+				"name": "Valbaya",
+				"count": 30
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Trozo de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 12
+			},
+			{
+				"name": "Valbaya",
+				"count": 45
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Núcleo de escarcha",
+				"count": 20
+			},
+			{
+				"name": "Valbaya",
+				"count": 60
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 24
+			}
+		]
+	}
+}

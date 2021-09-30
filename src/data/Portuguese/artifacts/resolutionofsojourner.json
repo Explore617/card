@@ -1,0 +1,34 @@
+{
+	"name": "Resolução de Sojourner",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "ATQ +18%.",
+	"4pc": "Aumenta a Taxa Crítica do Ataque Carregado em 30%.",
+	"flower": {
+		"name": "Coração de Camaradagem",
+		"relictype": "Flor da Vida",
+		"description": "Uma pequena flor azul jade, cuja fita está amarrada no caule."
+	},
+	"plume": {
+		"name": "Pluma do Regresso",
+		"relictype": "Pluma da Morte",
+		"description": "As plumas das flechas azuis estão repletas de nostalgia dos viajantes."
+	},
+	"sands": {
+		"name": "Pedra do Caçador da Luz",
+		"relictype": "Areia do tempo",
+		"description": "O relógio de sol, que passou pelas vicissitudes da vida, registra silenciosamente o ciclo do sol e da lua."
+	},
+	"goblet": {
+		"name": "Cálice de Uma Terra Desconhecida",
+		"relictype": "Cálice de Erátema",
+		"description": "O copo de vinho branco simples de porcelana que foi usado por muitos momentos de alegria."
+	},
+	"circlet": {
+		"name": "Coroa da Despedida",
+		"relictype": "Tiara de Logos",
+		"description": "Coroa de salgueiro que emite uma brisa suave de primavera."
+	}
+}

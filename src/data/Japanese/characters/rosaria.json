@@ -1,0 +1,153 @@
+{
+	"name": "ロサリア",
+	"title": "荊冠の恩典",
+	"description": "身にまとう服装以外、何ひとつとして聖職者とは思えないシスター。冷たい言動の中には、相手を見透かす鋭さが隠されている。また、いつも一人で行動をしている。",
+	"rarity": "4",
+	"element": "氷",
+	"weapontype": "長柄武器",
+	"substat": "攻撃力",
+	"gender": "女",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風教会",
+	"birthdaymmdd": "1/24",
+	"birthday": "1月24日",
+	"constellation": "荊冠座",
+	"cv": {
+		"english": "Elizabeth Maxwell",
+		"chinese": "张安琪",
+		"japanese": "加隈亜衣",
+		"korean": "김보나"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "モラ",
+				"count": 20000
+			},
+			{
+				"name": "哀切なアイスクリスタル·砕屑",
+				"count": 1
+			},
+			{
+				"name": "ヴァルベリー",
+				"count": 3
+			},
+			{
+				"name": "新兵の記章",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "モラ",
+				"count": 40000
+			},
+			{
+				"name": "哀切なアイスクリスタル·欠片",
+				"count": 3
+			},
+			{
+				"name": "極寒のコア",
+				"count": 2
+			},
+			{
+				"name": "ヴァルベリー",
+				"count": 10
+			},
+			{
+				"name": "新兵の記章",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "モラ",
+				"count": 60000
+			},
+			{
+				"name": "哀切なアイスクリスタル·欠片",
+				"count": 6
+			},
+			{
+				"name": "極寒のコア",
+				"count": 4
+			},
+			{
+				"name": "ヴァルベリー",
+				"count": 20
+			},
+			{
+				"name": "士官の記章",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "モラ",
+				"count": 80000
+			},
+			{
+				"name": "哀切なアイスクリスタル·塊",
+				"count": 3
+			},
+			{
+				"name": "極寒のコア",
+				"count": 8
+			},
+			{
+				"name": "ヴァルベリー",
+				"count": 30
+			},
+			{
+				"name": "士官の記章",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "モラ",
+				"count": 100000
+			},
+			{
+				"name": "哀切なアイスクリスタル·塊",
+				"count": 6
+			},
+			{
+				"name": "極寒のコア",
+				"count": 12
+			},
+			{
+				"name": "ヴァルベリー",
+				"count": 45
+			},
+			{
+				"name": "尉官の記章",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "モラ",
+				"count": 120000
+			},
+			{
+				"name": "哀切なアイスクリスタル",
+				"count": 6
+			},
+			{
+				"name": "極寒のコア",
+				"count": 20
+			},
+			{
+				"name": "ヴァルベリー",
+				"count": 60
+			},
+			{
+				"name": "尉官の記章",
+				"count": 24
+			}
+		]
+	}
+}

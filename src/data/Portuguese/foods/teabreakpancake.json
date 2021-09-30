@@ -1,0 +1,35 @@
+{
+	"name": "Panqueca do Chá da Tarde",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Pratos de Regeneração",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Revive o Personagem selecionado.\nRestaura 250 - 550 de Vida.",
+	"description": "Uma pilha de panquecas. Prato originado nos chás da tarde das mansões. Para este prato, são escolhidas apenas as melhores frutas para serem usadas.",
+	"suspicious": {
+		"effect": "Revive um personagem e restaura 250 de Vida.",
+		"description": "Uma pilha de panquecas. Um cheirinho de queimado esconde o seu verdadeiro sabor doce. Contudo, as bagas são as únicas coisas que salvam esse prato."
+	},
+	"normal": {
+		"effect": "Revive um personagem e restaura 400 de Vida.",
+		"description": "Uma pilha de panquecas. Prato originado nos chás da tarde das mansões. Para este prato, são escolhidas apenas as melhores frutas para serem usadas."
+	},
+	"delicious": {
+		"effect": "Revive um personagem e restaura 550 de Vida.",
+		"description": "Uma pilha de panquecas. Consistentes e macios, o cheirinho doce das panquecas se parece com as nuvens."
+	},
+	"ingredients": [
+		{
+			"name": "Baga",
+			"count": 3
+		},
+		{
+			"name": "Farinha",
+			"count": 2
+		},
+		{
+			"name": "Ovo de Pássaro",
+			"count": 1
+		}
+	]
+}

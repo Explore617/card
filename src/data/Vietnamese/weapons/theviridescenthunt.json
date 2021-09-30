@@ -1,0 +1,142 @@
+{
+	"name": "Cung Sắc Xanh",
+	"description": "Cung săn bắn màu xanh lục, từng thuộc về một thợ săn nào đó trong rừng.",
+	"weapontype": "Cung",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tỷ Lệ Bạo Kích",
+	"subvalue": "6",
+	"effectname": "Ngọn Gió Biếc",
+	"effect": "Khi tấn công thường và trọng kích đánh trúng,có 50% tỷ lệ gây ra 1 mắt gió, thu hút địch xung quanh và mỗi 0.5s gây cho chúng sát thương bằng {0} tấn công. Hiệu quả kéo dài 4s, mỗi {1}s thi triển nhiều nhất 1 lần.",
+	"r1": [
+		"40%",
+		"14"
+	],
+	"r2": [
+		"50%",
+		"13"
+	],
+	"r3": [
+		"60%",
+		"12"
+	],
+	"r4": [
+		"70%",
+		"11"
+	],
+	"r5": [
+		"80%",
+		"10"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ngói Vỡ Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Nặng",
+				"count": 3
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Xác Tàu Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Nặng",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Xác Tàu Tháp Cô Vương",
+				"count": 6
+			},
+			{
+				"name": "Sừng Đồng Đen",
+				"count": 6
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mảnh Vỡ Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Đồng Đen",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mảnh Vỡ Tháp Cô Vương",
+				"count": 6
+			},
+			{
+				"name": "Sừng Hắc Tinh",
+				"count": 9
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Mảnh Giấc Mơ Tháp Cô Vương",
+				"count": 4
+			},
+			{
+				"name": "Sừng Hắc Tinh",
+				"count": 18
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 12
+			}
+		]
+	}
+}

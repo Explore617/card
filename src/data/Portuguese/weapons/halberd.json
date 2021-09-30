@@ -1,0 +1,137 @@
+{
+	"name": "Alabarda",
+	"description": "Uma arma de fogo com uma lâmina de machado montada no topo que pode causar muito dano. É a arma preferida entre os Oficiais de Millelith.",
+	"weapontype": "Lança",
+	"rarity": "3",
+	"baseatk": 40,
+	"substat": "ATQ",
+	"subvalue": "5.1",
+	"effectname": "Pesado",
+	"effect": "Ataques Normais causam um adicional de {0} de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
+	"r1": [
+		"160%"
+	],
+	"r2": [
+		"200%"
+	],
+	"r3": [
+		"240%"
+	],
+	"r4": [
+		"280%"
+	],
+	"r5": [
+		"320%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Elixir de Chumbo Velado por Névoa",
+				"count": 2
+			},
+			{
+				"name": "Pólen de Névoa",
+				"count": 2
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Elixir de Mercúrio com Véu de Névoa",
+				"count": 2
+			},
+			{
+				"name": "Pólen de Névoa",
+				"count": 8
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Elixir de Mercúrio com Véu de Névoa",
+				"count": 4
+			},
+			{
+				"name": "Grama do Nevoeiro",
+				"count": 4
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Elixir de Ouro com Véu de Névoa",
+				"count": 2
+			},
+			{
+				"name": "Grama do Nevoeiro",
+				"count": 8
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Elixir de Ouro com Véu de Névoa",
+				"count": 4
+			},
+			{
+				"name": "Pavio do Nevoeiro",
+				"count": 6
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Alternação das Nuvens e o Mar",
+				"count": 3
+			},
+			{
+				"name": "Pavio do Nevoeiro",
+				"count": 12
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 8
+			}
+		]
+	}
+}

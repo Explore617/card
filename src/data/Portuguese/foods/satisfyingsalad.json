@@ -1,0 +1,39 @@
+{
+	"name": "Salada Saudável",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Pratos de ATQ",
+	"foodcategory": "Atk_CritRate",
+	"effect": "Aumenta a Taxa CRIT de todos os personagens na equipe em 6% - 12% por 300s.\nNo modo multijogador, o efeito apenas se aplica ao seu personagem.",
+	"description": "Uma salada de vegetais. Não apenas batatas cozidas e vegetais frescos, mas também com um ovo semi-cozido no topo. Irresistível aos olhos.",
+	"suspicious": {
+		"effect": "Aumenta a Taxa CRIT de todos os membros da Equipe em 6% por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
+		"description": "Uma salada de vegetais. Com certeza vai ficar muito melhor se colocar algumas batatas e ovos cozidos."
+	},
+	"normal": {
+		"effect": "Aumenta a Taxa CRIT de todos os membros da Equipe em 9% por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
+		"description": "Uma salada de vegetais. Não apenas batatas cozidas e vegetais frescos, mas também com um ovo semi-cozido no topo. Irresistível aos olhos."
+	},
+	"delicious": {
+		"effect": "Aumenta a Taxa CRIT de todos os membros da Equipe em 12% por 300s. No modo multijogador, terá efeito apenas em si mesmo.",
+		"description": "Uma salada de vegetais. Leve, saudável e diversificada. Você nunca vai enjoar de comer isso, mesmo se tivesse que comer pelo resto da vida."
+	},
+	"ingredients": [
+		{
+			"name": "Repolho",
+			"count": 2
+		},
+		{
+			"name": "Maçã",
+			"count": 2
+		},
+		{
+			"name": "Ovo de Pássaro",
+			"count": 1
+		},
+		{
+			"name": "Batata",
+			"count": 1
+		}
+	]
+}

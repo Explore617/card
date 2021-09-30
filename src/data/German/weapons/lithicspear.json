@@ -1,0 +1,142 @@
+{
+	"name": "Millelithenlanze",
+	"description": "Eine Lanze mit großem Geschick aus dem Gestein der Guyun-Türme gehauen. Die Härte der Speerspitze sucht ihresgleichen.",
+	"weapontype": "Stangenwaffe",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ANG",
+	"subvalue": "6",
+	"effectname": "Axiom der Millelithen – Einigkeit",
+	"effect": "Erhöht den Angriff der mit dieser Waffe ausgerüsteten Figur für jede Figur aus Liyue in der Truppe um {0} und die KT um je {1}. 4-fach stapelbar.",
+	"r1": [
+		"7 %",
+		"3 %"
+	],
+	"r2": [
+		"8 %",
+		"4 %"
+	],
+	"r3": [
+		"9 %",
+		"5 %"
+	],
+	"r4": [
+		"10 %",
+		"6 %"
+	],
+	"r5": [
+		"11 %",
+		"7 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Körnchen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Zerbrechliches Knochenstück",
+				"count": 3
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Stückchen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Zerbrechliches Knochenstück",
+				"count": 12
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Stückchen pechschwarzer Aerosiderit",
+				"count": 6
+			},
+			{
+				"name": "Stabiles Knochenstück",
+				"count": 6
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Klumpen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Stabiles Knochenstück",
+				"count": 12
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Klumpen pechschwarzer Aerosiderit",
+				"count": 6
+			},
+			{
+				"name": "Versteinertes Knochenstück",
+				"count": 9
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Brocken pechschwarzer Aerosiderit",
+				"count": 4
+			},
+			{
+				"name": "Versteinertes Knochenstück",
+				"count": 18
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 12
+			}
+		]
+	}
+}

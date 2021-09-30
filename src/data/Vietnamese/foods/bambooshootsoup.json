@@ -1,0 +1,35 @@
+{
+	"name": "Măng Chua Tươi",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Hồi 26%-30% giới hạn HP cho nhân vật được chọn.\nTrong 30s tiếp theo, mỗi 5s hồi 450-790 HP.",
+	"description": "Canh được hầm kỹ. Măng trúc, thịt tươi và giăm bông cắt thành từng miếng, dùng lửa nhỏ đun tới khi canh chuyển sang màu trắng sữa. Hai loại thịt khác nhau tỏa ra mùi hương riêng biệt, còn nước dùng thì tuyệt hảo.",
+	"suspicious": {
+		"effect": "Lập tức hồi 26% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 450 HP.",
+		"description": "Canh được hầm kỹ. Do canh lửa không tốt nên miếng thịt hơi khó nhai, vị mặn của giăm bông lấn áp độ tươi của món ăn. Xem ra chỉ có măng trúc ngấm hương vị của hai loại thịt nên tạm chấp nhận được."
+	},
+	"normal": {
+		"effect": "Lập tức hồi 28% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 620 HP.",
+		"description": "Canh được hầm kỹ. Măng trúc, thịt tươi và giăm bông cắt thành từng miếng, dùng lửa nhỏ đun tới khi canh chuyển sang màu trắng sữa. Hai loại thịt khác nhau tỏa ra mùi hương riêng biệt, còn nước dùng thì tuyệt hảo."
+	},
+	"delicious": {
+		"effect": "Lập tức hồi 30% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 790 HP.",
+		"description": "Canh được hầm kỹ. Chỉ cần ngửi thôi cũng khiến cảm giác thèm ăn ùa về. Nhấp một ngụm, vị ngon ngọt dần lan tỏa khắp cơ thể. Nếu như có thể dang rộng đôi cánh bay lên trời xanh rồi dạo bước trên những đám mây thơm phức thì thật tuyệt."
+	},
+	"ingredients": [
+		{
+			"name": "Thịt Rừng",
+			"count": 2
+		},
+		{
+			"name": "Giăm Bông",
+			"count": 2
+		},
+		{
+			"name": "Măng Trúc",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Sweet Madame",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Memulihkan 20–24% HP dan 900–1500 HP Karakter yang dipilih.",
+	"description": "Daging ayam panggang yang dilumuri madu. Rasa manis bunga dan madu menyatu menjadi satu di dalam daging yang lembut.",
+	"suspicious": {
+		"effect": "Memulihkan 20% HP dan 900 HP Karakter yang dipilih.",
+		"description": "Unggas madu panggang. Bunga-bunga manisnya hangus terbakar, membuat unggasnya yang terlalu lama dimasak menjadi pahit."
+	},
+	"normal": {
+		"effect": "Memulihkan 22% HP dan 1200 HP Karakter yang dipilih.",
+		"description": "Daging ayam panggang yang dilumuri madu. Rasa manis bunga dan madu menyatu menjadi satu di dalam daging yang lembut."
+	},
+	"delicious": {
+		"effect": "Memulihkan 24% HP dan 1500 HP Karakter yang dipilih.",
+		"description": "Daging ayam panggang yang dilumuri madu. Lembut dan manis, rasa madu meresap dalam dagingnya dengan sempurna. Aromanya yang khas memastikan bahwa hidangan ini pasti hanya akan tersisa tulang saat disajikan."
+	},
+	"ingredients": [
+		{
+			"name": "Fowl",
+			"count": 2
+		},
+		{
+			"name": "Sweet Flower",
+			"count": 2
+		}
+	]
+}

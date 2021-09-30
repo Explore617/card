@@ -1,0 +1,142 @@
+{
+	"name": "Œil de la perception",
+	"description": "Un orbe en verre sombre qui aurait le pouvoir de voir à travers le cœur des gens et de le purifier.",
+	"weapontype": "Catalyseur",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "ATQ",
+	"subvalue": "12",
+	"effectname": "Écho",
+	"effect": "Les attaques normales et chargées ont 50 % de chances lorsqu'elles touchent de tirer une balle illuminatrice d'esprit qui inflige des DGT équivalant à {0} de l'ATQ. La balle peut rebondir jusqu'à 4 fois maximum. Cet effet peut être déclenché une fois toutes les {1} s.",
+	"r1": [
+		"240 %",
+		"12"
+	],
+	"r2": [
+		"270 %",
+		"11"
+	],
+	"r3": [
+		"300 %",
+		"10"
+	],
+	"r4": [
+		"330 %",
+		"9"
+	],
+	"r5": [
+		"360 %",
+		"8"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Plomb karstique",
+				"count": 3
+			},
+			{
+				"name": "Pollen d'herbe brumeuse",
+				"count": 3
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mercure karstique",
+				"count": 3
+			},
+			{
+				"name": "Pollen d'herbe brumeuse",
+				"count": 12
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mercure karstique",
+				"count": 6
+			},
+			{
+				"name": "Herbe brumeuse",
+				"count": 6
+			},
+			{
+				"name": "Masque sale",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Argent karstique",
+				"count": 3
+			},
+			{
+				"name": "Herbe brumeuse",
+				"count": 12
+			},
+			{
+				"name": "Masque sale",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Argent karstique",
+				"count": 6
+			},
+			{
+				"name": "Mèches d'herbe brumeuse",
+				"count": 9
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Or karstique",
+				"count": 4
+			},
+			{
+				"name": "Mèches d'herbe brumeuse",
+				"count": 18
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 12
+			}
+		]
+	}
+}

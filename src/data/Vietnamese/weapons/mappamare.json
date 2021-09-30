@@ -1,0 +1,137 @@
+{
+	"name": "Hải Đồ Vạn Quốc",
+	"description": "Hải đồ ghi lại chi tiết vùng khí hậu hải lưu xung quanh đại lục, từ dị quốc qua tay thương nhân lưu lạc đến Liyue.",
+	"weapontype": "Pháp Khí",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Tinh Thông Nguyên Tố",
+	"subvalue": "24",
+	"effectname": "Sách Năng Lượng",
+	"effect": "Trong 10s sau khi kích hoạt phản ứng Nguyên Tố, nhận {0} buff sát thương Nguyên Tố, cộng dồn 2 tầng.",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Hạt Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 3
+			},
+			{
+				"name": "Dịch Slime",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 12
+			},
+			{
+				"name": "Dịch Slime",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 6
+			},
+			{
+				"name": "Tinh Slime",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 12
+			},
+			{
+				"name": "Tinh Slime",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 9
+			},
+			{
+				"name": "Bột Slime",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Miếng Thiên Thạch Đen",
+				"count": 4
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 18
+			},
+			{
+				"name": "Bột Slime",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Knochenschwert",
+	"description": "Eine seltene Waffe aus dem Ozean alter Zeiten. Schwingt man es durch die Luft, so hört man das Rauschen der Wellen.",
+	"weapontype": "Zweihänder",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "KT",
+	"subvalue": "6",
+	"effectname": "Wellenspalter",
+	"effect": "Erhöht den verursachten Schaden bei Anwesenheit der Figur alle 4 s um {0} und den erlittenen Schaden um {1}, 5-fach stapelbar. Effekt wird nicht bei Auswechseln der Figur zurückgesetzt, 1 Stapelung des Effekts wird bei Erleiden von Schaden aber entfernt.",
+	"r1": [
+		"6 %",
+		"3 %"
+	],
+	"r2": [
+		"7 %",
+		"2,7 %"
+	],
+	"r3": [
+		"8 %",
+		"2,4 %"
+	],
+	"r4": [
+		"9 %",
+		"2,2 %"
+	],
+	"r5": [
+		"10 %",
+		"2 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Körnchen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Zerbrechliches Knochenstück",
+				"count": 3
+			},
+			{
+				"name": "Vaniloqua-Nektar",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Stückchen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Zerbrechliches Knochenstück",
+				"count": 12
+			},
+			{
+				"name": "Vaniloqua-Nektar",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Stückchen pechschwarzer Aerosiderit",
+				"count": 6
+			},
+			{
+				"name": "Stabiles Knochenstück",
+				"count": 6
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Klumpen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Stabiles Knochenstück",
+				"count": 12
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Klumpen pechschwarzer Aerosiderit",
+				"count": 6
+			},
+			{
+				"name": "Versteinertes Knochenstück",
+				"count": 9
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Brocken pechschwarzer Aerosiderit",
+				"count": 4
+			},
+			{
+				"name": "Versteinertes Knochenstück",
+				"count": 18
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 12
+			}
+		]
+	}
+}

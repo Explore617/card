@@ -1,0 +1,91 @@
+{
+	"name": "Arc de chasse aguerri",
+	"description": "Un arc ancien, mais bien entretenu. Il ne fait qu'un avec l'archer qui le tend.",
+	"weapontype": "Arc",
+	"rarity": "2",
+	"baseatk": 33,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dent de lait du Loup boréal",
+				"count": 1
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 1
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 1
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 5
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 4
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 3
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 3
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 1
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 5
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 4
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>原神数据库</title>
+    <script src="genshindb.js"></script>
+</head>
+
+<body style="height: 500px;">
+    <script>
+        GenshinDB.setOptions({
+            matchAliases: true, // Allows the matching of aliases.
+            matchCategories: false, // Allows the matching of categories. If true, then returns an array if it matches.
+            verboseCategories: false, // Used if a category is matched. If true, then replaces each string name in the array with the data object instead.
+            queryLanguages: ["ChineseSimplified"], // Array of languages that your query will be searched in.
+            resultLanguage: "ChineseSimplified" // Output language that you want your results to be in.
+        })
+
+        var t = GenshinDB.characters('甘雨')
+        document.body.append(JSON.stringify(t))  
+        
+    </script>
+</body>
+
+</html>

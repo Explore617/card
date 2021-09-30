@@ -1,0 +1,10 @@
+{
+	"name": "Frosch",
+	"description": "Ein Frosch, wie er häufig zu finden ist. Er lebt in einer feuchten Umgebung und ist immer voller Energie. Das Sekret, das er absondert, hat eine belebende Wirkung.",
+	"sortorder": 1253,
+	"category": "EXCHANGE",
+	"materialtype": "Material",
+	"source": [
+		"In seichten Gewässern zu finden"
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Bàn Nham Kết Lục",
+	"description": "Thanh kiếm được dùng trong nghi lễ, được chạm khắc cẩn thận từ ngọc bích tinh khiết, khi vung lên, âm thanh giống như tiếng thở dài trong gió.",
+	"weapontype": "Kiếm Đơn",
+	"rarity": "5",
+	"baseatk": 44,
+	"substat": "Tỷ Lệ Bạo Kích",
+	"subvalue": "9.6",
+	"effectname": "Trái Tim Hộ Quốc",
+	"effect": "HP tăng {0}. Ngoài ra, nhận được buff tấn công dựa trên {1} giới hạn HP của nhân vật trang bị vũ khí này.",
+	"r1": [
+		"20%",
+		"1.2%"
+	],
+	"r2": [
+		"25%",
+		"1.5%"
+	],
+	"r3": [
+		"30%",
+		"1.8%"
+	],
+	"r4": [
+		"35%",
+		"2.1%"
+	],
+	"r5": [
+		"40%",
+		"2.4%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Diên Đơn Biển Sương Mù",
+				"count": 5
+			},
+			{
+				"name": "Phấn Hoa Hư Vô",
+				"count": 5
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Hống Đơn Biển Sương Mù",
+				"count": 5
+			},
+			{
+				"name": "Phấn Hoa Hư Vô",
+				"count": 18
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Hống Đơn Biển Sương Mù",
+				"count": 9
+			},
+			{
+				"name": "Túi Cỏ Hư Vô",
+				"count": 9
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Kim Đơn Biển Sương Mù",
+				"count": 5
+			},
+			{
+				"name": "Túi Cỏ Hư Vô",
+				"count": 18
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Kim Đơn Biển Sương Mù",
+				"count": 9
+			},
+			{
+				"name": "Đuốc Hư Vô",
+				"count": 14
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Sự Chuyển Dời Của Biển Sương Mù",
+				"count": 6
+			},
+			{
+				"name": "Đuốc Hư Vô",
+				"count": 27
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 18
+			}
+		]
+	}
+}

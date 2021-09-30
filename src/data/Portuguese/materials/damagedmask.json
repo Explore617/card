@@ -1,0 +1,14 @@
+{
+	"name": "Máscara Danificada",
+	"description": "Máscara de Ossos quebrada que pertencia a algum Hilichurl.\\nHá mais partes danificadas do que intactas, perdendo totalmente a sua utilidade.",
+	"sortorder": 1725,
+	"rarity": "1",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Material de Elevação de Personagem",
+	"source": [
+		"Dropado por Hilichurls",
+		"Dropado por alguns Hilichurls Arqueiros",
+		"Dropado por alguns Samachurls",
+		"Dropado por Mitachurls Musculosos"
+	]
+}

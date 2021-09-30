@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Character</title>
+	<script src="../public/js/vue.global.js"></script>
+	<script src="../genshindb.js"></script>
+	<link rel="stylesheet" href="../styles/reset.css" />
+	<link rel="stylesheet" href="../styles/item-list.css" />
+	<link rel="stylesheet" href="../styles/info-base.css" />
+	<link rel="stylesheet" href="../styles/info-character.css" />
+	<link rel="stylesheet" href="../styles/info-weapon.css" />
+</head>
+
+<body>
+
+	<div id="app"></div>
+
+	<script>
+		GenshinDB.setOptions({
+			matchAliases: true,
+			matchCategories: false,
+			verboseCategories: false,
+			queryLanguages: ["ChineseSimplified"],
+			resultLanguage: "ChineseSimplified"
+		})
+	</script>
+
+	<script type="module">
+		import App from "../components/info-app.js";
+
+		Vue.createApp(App).mount("#app");
+	</script>
+
+</body>
+
+</html>
+
+<style>
+	body {
+		overflow: hidden;
+	}
+
+	#app {
+		width: 1026px;
+		height: 527px;
+	}
+</style>

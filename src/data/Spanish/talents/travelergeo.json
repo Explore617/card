@@ -1,0 +1,201 @@
+{
+	"name": "Viajera (Geo)",
+	"combat1": {
+		"name": "Ataque Normal: Espada de piedra extranjera",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}",
+				"Daño de 4.º golpe|{param4:F1P}",
+				"Daño de 5.º golpe|{param5:F1P}",
+				"Daño de ATQ Cargado|{param6:F1P}+{param7:F1P}",
+				"Coste de Aguante de ATQ Cargado|{param8:F1} pts.",
+				"Daño de Caída|{param9:F1P}",
+				"Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Espada estrellacaída",
+		"info": "Invoca un meteorito de las profundidades de la tierra, infligiendo Daño Geo en el AdE.\nEl meteorito es considerado una creación Geo, y puede escalarse o usarse para bloquear ataques.\n\n**Mantener pulsado**\nAjusta la posición sobre la que se coloca la habilidad",
+		"description": "Hablaste con Paimon sobre el destino final de las estrellas fugaces.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}",
+				"Duración del meteorito|{param2:F1} s",
+				"TdE|{param3:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Despertar de la Tierra",
+		"info": "Crea una onda expansiva Geo que nace de las profundidades de la tierra.\nInflige Daño Geo en el AdE a todos los enemigos a los que alcanza.\nTras ello, crea una columna de piedra que se levanta abruptamente en el límite de la onda.\nLa columna de piedra se considera una creación Geo, y puede usarse para bloquear ataques.",
+		"description": "Investigaste con Paimon la vibración de las montañas.",
+		"attributes": {
+			"labels": [
+				"Daño por cada onda expansiva|{param1:P}",
+				"Duración del muro de piedra|{param2:F1} s",
+				"TdE|{param3:F1} s",
+				"Energía Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Roca quebrada",
+		"info": "Disminuye el TdE de **Espada estrellacaída** -2 s."
+	},
+	"passive2": {
+		"name": "Roca turbulenta",
+		"info": "El último golpe del Ataque Normal provoca una destrucción, infligiendo un 60% de Daño Geo a los enemigos dentro del AdE."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas de la prosperidad",
+				"count": 3
+			},
+			{
+				"name": "Flecha robusta",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía del esfuerzo",
+				"count": 2
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía del oro",
+				"count": 4
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía de la prosperidad",
+				"count": 6
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía del esfuerzo",
+				"count": 9
+			},
+			{
+				"name": "Flecha afilada",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 4
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 4
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía de la prosperidad",
+				"count": 6
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 6
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía del esfuerzo",
+				"count": 12
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 9
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 16
+			},
+			{
+				"name": "Flecha veterana",
+				"count": 12
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,137 @@
+{
+	"name": "Sombra Branca",
+	"description": "Uma espada exótica com uma lâmina que ficou sem corte. Chegou a Liyue pelas mãos de comerciantes estrangeiros. Incrivelmente poderosa nas mãos de alguém que sabe usá-la.",
+	"weapontype": "Espadão",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "DEF",
+	"subvalue": "11.3",
+	"effectname": "Ponta Energética",
+	"effect": "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam {0} por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s.",
+	"r1": [
+		"6%"
+	],
+	"r2": [
+		"7.5%"
+	],
+	"r3": [
+		"9%"
+	],
+	"r4": [
+		"10.5%"
+	],
+	"r5": [
+		"12%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Areia Brilhante de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 3
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca de Caça",
+				"count": 12
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedra Lustrosa de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Especial",
+				"count": 6
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Faca Especial",
+				"count": 12
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Relíquia de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 9
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Corpo Divino de Guyun",
+				"count": 4
+			},
+			{
+				"name": "Faca Longa de Inspetor",
+				"count": 18
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 12
+			}
+		]
+	}
+}

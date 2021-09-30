@@ -1,0 +1,210 @@
+{
+	"name": "Zhongli",
+	"combat1": {
+		"name": "Rain of Stone",
+		"info": "**Normal Attack**\nMelancarkan hingga 6 serangan tombak beruntun.\n\n**Charged Attack**\nMengonsumsi Stamina dalam jumlah tertentu untuk menyerang maju, menyebabkan tombak batu yang berjatuhan pada jalurnya.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}×4",
+				"DMG Tahap 6|{param6:F1P}",
+				"DMG Charged Attack|{param7:P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}pt",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Dominus Lapidis",
+		"info": "Gunung, tanah, batu, semuanya berisi kekuatan Geo. Namun sedikit sekali orang yang bisa menggunakan kekuatannya dengan bebas.\n\n**Tekan**\nMemerintahkan elemen Geo di permukaan tanah untuk berkumpul dan membentuk sebuah Stone Stele.\n\n**Tahan**\nMengakibatkan elemen Geo di sekitar meledak, menyebabkan efek berikut:\n·Bila jumlah Stone Stele yang terbentuk belum mencapai batas maksimum, Stone Stele dapat tercipta.\n·Menciptakan sebuah Jade Shield yang dapat menyerap DMG sesuai dengan Max HP Zhongli.\n·Mengakibatkan Geo DMG Area.\n·Bila di sekeliling karakter terdapat musuh dengan elemen Geo, maka Zhongli dapat mengonsumsi sejumlah besar elemen Geo, maksimum dari 2 musuh. Efek ini tidak mengakibatkan DMG.\n\n**Stone Stele**\nyang tercipta akan mengakibatkan Geo DMG Area.\nSelain itu, Stone Stele akan beresonansi dengan Geo Construct di sekitarnya, mengakibatkan Geo DMG ke musuh di sekitar.\nStone Stele dianggap sebagai sebuah Geo Construct, dapat digunakan untuk menghalangi serangan dan juga dapat dipanjat.\nAwalnya, Stone Stele yang diciptakan oleh Zhongli, hanya bisa ada satu dalam satu waktu.\n\n**Jade Shield**\nMemiliki bonus 150% efek penyerapan terhadap semua Elemental DMG dan Pysical DMG.\nKarakter yang berada dalam perlindungan Jade Shield akan menyebabkan semua Elemental RES dan Physical RES musuh di area kecil sekitarnya berkurang 20%. Efek tersebut tidak dapat ditumpuk.",
+		"description": "Seorang ahli batu sejati dapat mengukir batu dan membentuk emas.",
+		"attributes": {
+			"labels": [
+				"DMG Batu/DMG Resonansi|{param1:F1P}/{param2:F1P}",
+				"Cooldown One-tap|{param3:F1}dtk",
+				"DMG Menahan|{param4:P}",
+				"Ketahanan Dasar Perisai|{param5:I}",
+				"Bonus Ketahanan Perisai|{param6:F1P} Max HP",
+				"Durasi Perisai|{param7:F1} dtk",
+				"CD (Tahan)|{param8:F1} dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Planet Befall",
+		"info": "Menjatuhkan sebuah meteor ke bumi untuk mengakibatkan Geo DMG yang besar serta menyebabkan efek Petrification kepada musuh di dalam area skill.\n\n**Petrification**\nMusuh yang terkena efek Petrification tidak dapat bergerak.",
+		"description": "Meteor yang jatuh untuk menghukum ketidakadilan.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"Durasi Petrification|{param2:F1}dtk",
+				"Cooldown|{param3:F1}dtk",
+				"Konsumsi Energy|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Resonant Waves",
+		"info": "Jade Shield akan menjadi lebih kuat setelah menerima DMG:\n·Meningkatkan 5% kekuatan perisai milik karakter yang dilindungi Jade Shield.\n·Efek ini dapat ditumpuk sebanyak 5 kali dan akan bertahan sampai Jade Shield hilang."
+	},
+	"passive2": {
+		"name": "Dominance of Earth",
+		"info": "Zhongli menghasilkan bonus DMG berdasarkan Max HP miliknya:\n·Meningkatkan DMG Normal Attack, Charged Attack, dan Plunging Attack sebesar 1,39% dari Max HP Zhongli.\n·Meningkatkan DMG **Dominus Lapidis** Stone Stele, resonansi, dan DMG tekan sebesar 1,9% Max HP Zhongli.\n·Meningkatkan DMG **Planet Befall** sebesar 33% Max HP Zhongli."
+	},
+	"passive3": {
+		"name": "Arcanum of Crystal",
+		"info": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Polearm."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Gold\"",
+				"count": 3
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 2
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Gold\"",
+				"count": 9
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 4
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 6
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 12
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 9
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Gold\"",
+				"count": 16
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 12
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

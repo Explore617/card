@@ -1,0 +1,137 @@
+{
+	"name": "Espada Amenoma Gemela",
+	"description": "Una espada que, según la leyenda, fue forjada a medida bajo petición de un famoso samurái que podía incluso clavársela a un guerrero tengu, conocidos por ser extremadamente veloces, en el aire.",
+	"weapontype": "Espada ligera",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "ATQ",
+	"subvalue": "12",
+	"effectname": "Legado Iwakura",
+	"effect": "Al lanzar una Habilidad Elemental, el personaje obtiene una semilla de la sucesión. Este efecto puede activarse como máximo una vez cada 5 s, dura 30 s y pueden poseerse 3 semillas de la sucesión al mismo tiempo. Al lanzar una Habilidad Definitiva, se consumirán todas las semillas disponibles y, 2 s después, el personaje que lleva esta arma equipada regenerará {0} pts. de Energía Elemental por cada semilla consumida.",
+	"r1": [
+		"6"
+	],
+	"r2": [
+		"7.5"
+	],
+	"r3": [
+		"9"
+	],
+	"r4": [
+		"10.5"
+	],
+	"r5": [
+		"12"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Rama de coral del mar distante",
+				"count": 3
+			},
+			{
+				"name": "Engranaje del caos",
+				"count": 3
+			},
+			{
+				"name": "Guardamano viejo",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Rama enjoyada del mar distante",
+				"count": 3
+			},
+			{
+				"name": "Engranaje del caos",
+				"count": 12
+			},
+			{
+				"name": "Guardamano viejo",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Rama enjoyada del mar distante",
+				"count": 6
+			},
+			{
+				"name": "Eje del caos",
+				"count": 6
+			},
+			{
+				"name": "Guardamano gemelo",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Rama de jade del mar distante",
+				"count": 3
+			},
+			{
+				"name": "Eje del caos",
+				"count": 12
+			},
+			{
+				"name": "Guardamano gemelo",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Rama de jade del mar distante",
+				"count": 6
+			},
+			{
+				"name": "Ojo del caos",
+				"count": 9
+			},
+			{
+				"name": "Guardamano célebre",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Rama dorada del mar distante",
+				"count": 4
+			},
+			{
+				"name": "Ojo del caos",
+				"count": 18
+			},
+			{
+				"name": "Guardamano célebre",
+				"count": 12
+			}
+		]
+	}
+}

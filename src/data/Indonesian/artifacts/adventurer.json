@@ -1,0 +1,35 @@
+{
+	"name": "Adventurer",
+	"rarity": [
+		"1",
+		"2",
+		"3"
+	],
+	"2pc": "Max HP +1000.",
+	"4pc": "Membuka setiap jenis peti memulihkan 30% HP dalam waktu 5 detik.",
+	"flower": {
+		"name": "Adventurer's Flower",
+		"relictype": "Flower of Life",
+		"description": "Setangkai bunga yang tumbuh di lingkungan kota kuno yang sangat keras. Kini dikenakan di dada sebagai lambang kegigihan."
+	},
+	"plume": {
+		"name": "Adventurer's Tail Feather",
+		"relictype": "Plume of Death",
+		"description": "Bulu dari seekor burung eksotis yang jarang terlihat di daratan ini."
+	},
+	"sands": {
+		"name": "Adventurer's Pocket Watch",
+		"relictype": "Sands of Eon",
+		"description": "Dalam petualangan di kedalaman yang tidak terlihat oleh sinar matahari, waktu perlahan menghilang dari dalam hati para petualang."
+	},
+	"goblet": {
+		"name": "Adventurer's Golden Goblet",
+		"relictype": "Goblet of Eonothem",
+		"description": "Salah satu harta yang diperoleh dalam suatu perjalanan seorang petualang, meskipun penuh lecet, tetapi kebanggaan di dalamnya tidak berkurang sedikitpun."
+	},
+	"circlet": {
+		"name": "Adventurer's Bandana",
+		"relictype": "Circlet of Logos",
+		"description": "Aksesoris yang diikat di kepala. Meski dipenuhi noda darah, keringat dan debu, ia tetap melambangkan semangat seorang petualang."
+	}
+}

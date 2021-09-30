@@ -1,0 +1,27 @@
+{
+	"name": "Xingqiu",
+	"c1": {
+		"name": "The Scent Remained",
+		"effect": "Meningkatkan 1 jumlah maksimum Rain Sword"
+	},
+	"c2": {
+		"name": "Rainbow Upon the Azure Sky",
+		"effect": "Memperpanjang 3 detik durasi **Guhua Sword: Raincutter**.\ndan mengurangi 15% Hydro RES musuh yang terkena serangan Sword Rain selama 4 detik."
+	},
+	"c3": {
+		"name": "Weaver of Verses",
+		"effect": "Meningkatkan 3 level **Guhua Sword: Raincutter**.\nMaksimum: Lv. 15."
+	},
+	"c4": {
+		"name": "Evilsoother",
+		"effect": "Pada durasi **Guhua Sword: Raincutter**, DMG yang dihasilkan oleh **Guhua Sword: Fatal Rainscreen** meningkat 50%."
+	},
+	"c5": {
+		"name": "Embrace of Rain",
+		"effect": "Meningkatkan 3 level **Guhua Sword: Fatal Rainscreen**.\nMaksimum: Lv. 15."
+	},
+	"c6": {
+		"name": "Hence, Call Them My Own Verses",
+		"effect": "Mengaktifkan 2 dari **Guhua Sword: Raincutter** Sword Rain akan meningkatkan DMG ketiganya. Xingqiu akan mendapatkan 3 Energy saat Sword Rain mengenai musuh."
+	}
+}

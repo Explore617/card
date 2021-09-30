@@ -1,0 +1,153 @@
+{
+	"name": "刻晴",
+	"title": "疾雷快雨",
+	"description": "「璃月七星」の一人、「玉衡」。「帝君の一言で決まる璃月」に不満を持っている——だが実のところ、神は彼女のような者を高く評価している。",
+	"rarity": "5",
+	"element": "雷",
+	"weapontype": "片手剣",
+	"substat": "会心ダメージ",
+	"gender": "女",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "璃月七星",
+	"birthdaymmdd": "11/20",
+	"birthday": "11月20日",
+	"constellation": "紫金錘重座",
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "モラ",
+				"count": 20000
+			},
+			{
+				"name": "最勝のアメシスト·砕屑",
+				"count": 1
+			},
+			{
+				"name": "石珀",
+				"count": 3
+			},
+			{
+				"name": "トリックフラワーの蜜",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "モラ",
+				"count": 40000
+			},
+			{
+				"name": "最勝のアメシスト·欠片",
+				"count": 3
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 2
+			},
+			{
+				"name": "石珀",
+				"count": 10
+			},
+			{
+				"name": "トリックフラワーの蜜",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "モラ",
+				"count": 60000
+			},
+			{
+				"name": "最勝のアメシスト·欠片",
+				"count": 6
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 4
+			},
+			{
+				"name": "石珀",
+				"count": 20
+			},
+			{
+				"name": "微光花の蜜",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "モラ",
+				"count": 80000
+			},
+			{
+				"name": "最勝のアメシスト·塊",
+				"count": 3
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 8
+			},
+			{
+				"name": "石珀",
+				"count": 30
+			},
+			{
+				"name": "微光花の蜜",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "モラ",
+				"count": 100000
+			},
+			{
+				"name": "最勝のアメシスト·塊",
+				"count": 6
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 12
+			},
+			{
+				"name": "石珀",
+				"count": 45
+			},
+			{
+				"name": "原素花の蜜",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "モラ",
+				"count": 120000
+			},
+			{
+				"name": "最勝のアメシスト",
+				"count": 6
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 20
+			},
+			{
+				"name": "石珀",
+				"count": 60
+			},
+			{
+				"name": "原素花の蜜",
+				"count": 24
+			}
+		]
+	}
+}

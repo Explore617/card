@@ -1,0 +1,153 @@
+{
+	"name": "Kaeya",
+	"title": "Eiskalter Schwertkämpfer",
+	"description": "Ein exzellenter Schwertkämpfer und Denker des Ordo Favonius.",
+	"rarity": "4",
+	"element": "Kryo",
+	"weapontype": "Einhänder",
+	"substat": "Aufladerate",
+	"gender": "Männlich",
+	"body": "MALE",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordo Favonius",
+	"birthdaymmdd": "11/30",
+	"birthday": "30. November",
+	"constellation": "Pavo Ocellus",
+	"cv": {
+		"english": "Josey Montana McCoy",
+		"chinese": "孙晔",
+		"japanese": "鳥海浩輔",
+		"korean": "정주원"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Shivada-Jade-Splitter",
+				"count": 1
+			},
+			{
+				"name": "Wasserlilie",
+				"count": 3
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Shivada-Jade-Bruchstück",
+				"count": 3
+			},
+			{
+				"name": "Fluxeiskern",
+				"count": 2
+			},
+			{
+				"name": "Wasserlilie",
+				"count": 10
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Shivada-Jade-Bruchstück",
+				"count": 6
+			},
+			{
+				"name": "Fluxeiskern",
+				"count": 4
+			},
+			{
+				"name": "Wasserlilie",
+				"count": 20
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Shivada-Jade-Brocken",
+				"count": 3
+			},
+			{
+				"name": "Fluxeiskern",
+				"count": 8
+			},
+			{
+				"name": "Wasserlilie",
+				"count": 30
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Shivada-Jade-Brocken",
+				"count": 6
+			},
+			{
+				"name": "Fluxeiskern",
+				"count": 12
+			},
+			{
+				"name": "Wasserlilie",
+				"count": 45
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Shivada-Jade",
+				"count": 6
+			},
+			{
+				"name": "Fluxeiskern",
+				"count": 20
+			},
+			{
+				"name": "Wasserlilie",
+				"count": 60
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 24
+			}
+		]
+	}
+}

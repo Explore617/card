@@ -1,0 +1,1160 @@
+{
+	"namemap": {
+		"aether": "Leer",
+		"albedo": "Albedo",
+		"aloy": "Aloy",
+		"amber": "Amber",
+		"barbara": "Barbara",
+		"beidou": "Beidou",
+		"bennett": "Bennett",
+		"chongyun": "Chongyun",
+		"diluc": "Diluc",
+		"diona": "Diona",
+		"eula": "Eula",
+		"fischl": "Fischl",
+		"ganyu": "Ganyu",
+		"hutao": "Hu Tao",
+		"jean": "Jean",
+		"kaedeharakazuha": "Kaedehara Kazuha",
+		"kaeya": "Kaeya",
+		"kamisatoayaka": "Kamisato Ayaka",
+		"keqing": "Keqing",
+		"klee": "Klee",
+		"kujousara": "Kujou Sara",
+		"lisa": "Lisa",
+		"lumine": "Lumine",
+		"mona": "Mona",
+		"ningguang": "Ningguang",
+		"noelle": "Noelle",
+		"qiqi": "Qiqi",
+		"raidenshogun": "Shougun Raiden",
+		"razor": "Razor",
+		"rosaria": "Rosaria",
+		"sangonomiyakokomi": "Sangonomiya Kokomi",
+		"sayu": "Sayu",
+		"sucrose": "Saccharose",
+		"tartaglia": "Tartaglia",
+		"venti": "Venti",
+		"xiangling": "Xiangling",
+		"xiao": "Xiao",
+		"xingqiu": "Xingqiu",
+		"xinyan": "Xinyan",
+		"yanfei": "Yanfei",
+		"yoimiya": "Yoimiya",
+		"zhongli": "Zhongli"
+	},
+	"names": {
+		"Leer": "aether",
+		"Albedo": "albedo",
+		"Aloy": "aloy",
+		"Amber": "amber",
+		"Barbara": "barbara",
+		"Beidou": "beidou",
+		"Bennett": "bennett",
+		"Chongyun": "chongyun",
+		"Diluc": "diluc",
+		"Diona": "diona",
+		"Eula": "eula",
+		"Fischl": "fischl",
+		"Ganyu": "ganyu",
+		"Hu Tao": "hutao",
+		"Jean": "jean",
+		"Kaedehara Kazuha": "kaedeharakazuha",
+		"Kaeya": "kaeya",
+		"Kamisato Ayaka": "kamisatoayaka",
+		"Keqing": "keqing",
+		"Klee": "klee",
+		"Kujou Sara": "kujousara",
+		"Lisa": "lisa",
+		"Lumine": "lumine",
+		"Mona": "mona",
+		"Ningguang": "ningguang",
+		"Noelle": "noelle",
+		"Qiqi": "qiqi",
+		"Shougun Raiden": "raidenshogun",
+		"Razor": "razor",
+		"Rosaria": "rosaria",
+		"Sangonomiya Kokomi": "sangonomiyakokomi",
+		"Sayu": "sayu",
+		"Saccharose": "sucrose",
+		"Tartaglia": "tartaglia",
+		"Venti": "venti",
+		"Xiangling": "xiangling",
+		"Xiao": "xiao",
+		"Xingqiu": "xingqiu",
+		"Xinyan": "xinyan",
+		"Yanfei": "yanfei",
+		"Yoimiya": "yoimiya",
+		"Zhongli": "zhongli"
+	},
+	"aliases": {
+		"Viator": "lumine",
+		"Kreideprinz": "albedo",
+		"Princeps Cretaceus": "albedo",
+		"„Retterin aus einer anderen Welt“": "aloy",
+		"Nora Fortis": "aloy",
+		"Flugmeister": "amber",
+		"Lepus": "amber",
+		"Leuchtender Star": "barbara",
+		"Crater": "barbara",
+		"Ungekrönte Königin der Meere": "beidou",
+		"Victor Mare": "beidou",
+		"Prüfling des Schicksals": "bennett",
+		"Rota Calamitas": "bennett",
+		"Spuren im schmelzenden Schnee": "chongyun",
+		"Nubis Caesor": "chongyun",
+		"Dunkle Seite der Dämmerung": "diluc",
+		"Noctua": "diluc",
+		"Putzige Mischung": "diona",
+		"Feles": "diona",
+		"Wirbeltanz der Gischt": "eula",
+		"Aphros Delos": "eula",
+		"Prinzessin der Verurteilung!": "fischl",
+		"Corvus": "fischl",
+		"Mondhüter": "ganyu",
+		"Sinae Unicornis": "ganyu",
+		"Pflaumenduft bei Tauwetter": "hutao",
+		"Papilio Charontis": "hutao",
+		"Löwenzahnritter": "jean",
+		"Leo Minor": "jean",
+		"Tiefrote Blätter jagen wilde Wellen": "kaedeharakazuha",
+		"Acer Palmatum": "kaedeharakazuha",
+		"Eiskalter Schwertkämpfer": "kaeya",
+		"Pavo Ocellus": "kaeya",
+		"Eisnebelreiher": "kamisatoayaka",
+		"Grus Nivis": "kamisatoayaka",
+		"Donnerwetter": "keqing",
+		"Trulla Cementarii": "keqing",
+		"Fliehende Sonne": "klee",
+		"Trifolium": "klee",
+		"Krähenfeder-Kaburaya": "kujousara",
+		"Flabellum": "kujousara",
+		"Rosenhexe": "lisa",
+		"Tempus Fugit": "lisa",
+		"Abbildung der Sterne im Wasser": "mona",
+		"Astrolabos": "mona",
+		"Verdeckter Mond": "ningguang",
+		"Opus Aequilibri": "ningguang",
+		"Knospe des Rittertums": "noelle",
+		"Parma Cordis": "noelle",
+		"Eisige Nacht der Wiedergänger": "qiqi",
+		"Pristina Nola": "qiqi",
+		"Utopische Gefilde": "raidenshogun",
+		"Imperatrix Umbrosa": "raidenshogun",
+		"Wolfsjunge": "razor",
+		"Lupus Minor": "razor",
+		"Dornige Gnade": "rosaria",
+		"Spinea Corona": "rosaria",
+		"Perle der Weisheit": "sangonomiyakokomi",
+		"Drakaina Somnolenta": "sangonomiyakokomi",
+		"Mujina-Ninja": "sayu",
+		"Nyctereutes Minor": "sayu",
+		"Harmlos und süß": "sucrose",
+		"Ampulla": "sucrose",
+		"„Der Graf“": "tartaglia",
+		"Monoceros Caeli": "tartaglia",
+		"Wandernder Barde": "venti",
+		"Carmen Dei": "venti",
+		"Küchenfee des Volkes": "xiangling",
+		"Große Kelle": "xiangling",
+		"Schützender Yaksha": "xiao",
+		"Alatus Nemeseos": "xiao",
+		"Edelmütiger Jüngling": "xingqiu",
+		"Fabulae Textile": "xingqiu",
+		"Glühend heiße Musik": "xinyan",
+		"Fila Ignium": "xinyan",
+		"Naive Weisheit": "yanfei",
+		"Bestia Iustitia": "yanfei",
+		"Ausgelassene Flammen": "yoimiya",
+		"Carassius Auratus": "yoimiya",
+		"Besucher bei den Sterblichen": "zhongli",
+		"Lapis Dei": "zhongli"
+	},
+	"categories": {
+		"4": [
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diona",
+			"fischl",
+			"kaeya",
+			"kujousara",
+			"lisa",
+			"ningguang",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xingqiu",
+			"xinyan",
+			"yanfei"
+		],
+		"5": [
+			"aether",
+			"albedo",
+			"aloy",
+			"diluc",
+			"eula",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"lumine",
+			"mona",
+			"qiqi",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"yoimiya",
+			"zhongli"
+		],
+		"k. A.": [
+			"aether",
+			"lumine"
+		],
+		"Einhänder": [
+			"aether",
+			"albedo",
+			"bennett",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"lumine",
+			"qiqi",
+			"xingqiu"
+		],
+		"ANG": [
+			"aether",
+			"amber",
+			"chongyun",
+			"fischl",
+			"kujousara",
+			"lumine",
+			"rosaria",
+			"xingqiu",
+			"xinyan"
+		],
+		"Männlich": [
+			"aether",
+			"albedo",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"kaedeharakazuha",
+			"kaeya",
+			"razor",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"xingqiu",
+			"zhongli"
+		],
+		"Mora": [
+			"aether",
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"Brillantsplitter": [
+			"aether",
+			"lumine"
+		],
+		"Windmühlenaster": [
+			"aether",
+			"bennett",
+			"lumine",
+			"sucrose"
+		],
+		"Zerbrochene Maske": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Brillantbruchstück": [
+			"aether",
+			"lumine"
+		],
+		"Verdreckte Maske": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Brillantbrocken": [
+			"aether",
+			"lumine"
+		],
+		"Unheilvolle Maske": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Brillant": [
+			"aether",
+			"lumine"
+		],
+		"Geo": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Geo-SCH-Bonus": [
+			"albedo",
+			"ningguang",
+			"zhongli"
+		],
+		"Mondstadt": [
+			"albedo",
+			"amber",
+			"barbara",
+			"bennett",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"jean",
+			"kaeya",
+			"klee",
+			"lisa",
+			"mona",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sucrose",
+			"venti"
+		],
+		"September": [
+			"albedo",
+			"chongyun",
+			"kamisatoayaka",
+			"razor"
+		],
+		"Prithiva-Topas-Splitter": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Cecilia": [
+			"albedo",
+			"venti"
+		],
+		"Leitende Schriftrolle": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Prithiva-Topas-Bruchstück": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Steinturm": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Zaubersiegel-Schriftrolle": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Prithiva-Topas-Brocken": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Fluchschriftrolle": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Prithiva-Topas": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Kryo": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Bogen": [
+			"aloy",
+			"amber",
+			"diona",
+			"fischl",
+			"ganyu",
+			"kujousara",
+			"tartaglia",
+			"venti",
+			"yoimiya"
+		],
+		"Kryo-SCH-Bonus": [
+			"aloy",
+			"diona"
+		],
+		"Weiblich": [
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"April": [
+			"aloy",
+			"diluc",
+			"xiao"
+		],
+		"Shivada-Jade-Splitter": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Kristallmark": [
+			"aloy",
+			"sayu"
+		],
+		"Geisterhülle": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Shivada-Jade-Bruchstück": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Ewige Eisblume": [
+			"aloy",
+			"eula"
+		],
+		"Gespensterherz": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Shivada-Jade-Brocken": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Gespensterkern": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Shivada-Jade": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Pyro": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"August": [
+			"amber",
+			"mona",
+			"ningguang"
+		],
+		"Agnidus-Achat-Splitter": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Lampenkraut": [
+			"amber",
+			"diluc",
+			"fischl"
+		],
+		"Stabile Bolzenspitze": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Agnidus-Achat-Bruchstück": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Fluxfeuersamen": [
+			"amber",
+			"bennett",
+			"diluc",
+			"klee",
+			"xiangling",
+			"xinyan"
+		],
+		"Scharfe Bolzenspitze": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Agnidus-Achat-Brocken": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Abgenutzte Bolzenspitze": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Agnidus-Achat": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Hydro": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Katalysator": [
+			"barbara",
+			"klee",
+			"lisa",
+			"mona",
+			"ningguang",
+			"sangonomiyakokomi",
+			"sucrose",
+			"yanfei"
+		],
+		"LP": [
+			"barbara"
+		],
+		"Juli": [
+			"barbara",
+			"hutao",
+			"klee",
+			"kujousara",
+			"tartaglia",
+			"yanfei"
+		],
+		"Varunada-Lasurit-Splitter": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Philanemo-Pilz": [
+			"barbara",
+			"klee",
+			"mona"
+		],
+		"Varunada-Lasurit-Bruchstück": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Reinigendes Herz": [
+			"barbara",
+			"mona",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Varunada-Lasurit-Brocken": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Varunada-Lasurit": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Elektro": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Zweihänder": [
+			"beidou",
+			"chongyun",
+			"diluc",
+			"eula",
+			"noelle",
+			"razor",
+			"sayu",
+			"xinyan"
+		],
+		"Elektro-SCH-Bonus": [
+			"beidou"
+		],
+		"Liyue": [
+			"beidou",
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"Februar": [
+			"beidou",
+			"bennett",
+			"sangonomiyakokomi"
+		],
+		"Vajrada-Amethyst-Splitter": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Nachtjade": [
+			"beidou",
+			"yanfei"
+		],
+		"Krähenwappen der Schatzsuche": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Vajrada-Amethyst-Bruchstück": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Blitzprisma": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"lisa",
+			"razor"
+		],
+		"Krähenwappen der Silberschätze": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Vajrada-Amethyst-Brocken": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Krähenwappen der Goldschätze": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Vajrada-Amethyst": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Aufladerate": [
+			"bennett",
+			"kaeya",
+			"mona",
+			"raidenshogun",
+			"venti"
+		],
+		"Cor Lapis": [
+			"chongyun",
+			"keqing",
+			"zhongli"
+		],
+		"Fluxeiskern": [
+			"chongyun",
+			"diona",
+			"ganyu",
+			"kaeya",
+			"qiqi",
+			"rosaria"
+		],
+		"KT": [
+			"diluc",
+			"xiao",
+			"yoimiya"
+		],
+		"Abzeichen für neue Rekruten": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Abzeichen für Unteroffiziere": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Abzeichen für Offiziere": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Januar": [
+			"diona",
+			"rosaria"
+		],
+		"Wasserlilie": [
+			"diona",
+			"kaeya"
+		],
+		"KSCH": [
+			"eula",
+			"ganyu",
+			"hutao",
+			"kamisatoayaka",
+			"keqing"
+		],
+		"Oktober": [
+			"eula",
+			"kaedeharakazuha",
+			"sayu",
+			"xingqiu",
+			"xinyan"
+		],
+		"Löwenzahnsamen": [
+			"eula",
+			"jean"
+		],
+		"Mai": [
+			"fischl"
+		],
+		"Dezember": [
+			"ganyu",
+			"zhongli"
+		],
+		"Qingxin": [
+			"ganyu",
+			"xiao"
+		],
+		"Vaniloqua-Nektar": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Leuchtender Nektar": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Elementarnektar": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Stangenwaffe": [
+			"hutao",
+			"raidenshogun",
+			"rosaria",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Seidenblume": [
+			"hutao",
+			"xingqiu"
+		],
+		"Junge Jade": [
+			"hutao",
+			"xiao",
+			"yanfei"
+		],
+		"Anemo": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Heilungsbonus": [
+			"jean",
+			"qiqi"
+		],
+		"März": [
+			"jean",
+			"noelle",
+			"qiqi"
+		],
+		"Vayuda-Türkis-Splitter": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Vayuda-Türkis-Bruchstück": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Orkansamen": [
+			"jean",
+			"sucrose",
+			"venti"
+		],
+		"Vayuda-Türkis-Brocken": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Vayuda-Türkis": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Elementarkunde": [
+			"kaedeharakazuha",
+			"lisa",
+			"sayu",
+			"xiangling"
+		],
+		"Inazuma": [
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"kujousara",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"sayu",
+			"yoimiya"
+		],
+		"Meereslackporling": [
+			"kaedeharakazuha"
+		],
+		"Marionettenkern": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"November": [
+			"kaeya",
+			"keqing",
+			"sucrose",
+			"xiangling"
+		],
+		"Sakura-Blüte": [
+			"kamisatoayaka"
+		],
+		"Alter Handschutz": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Ewiges Herz": [
+			"kamisatoayaka"
+		],
+		"Kageuchi-Handschutz": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Berühmter Handschutz": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Pyro-SCH-Bonus": [
+			"klee",
+			"yanfei"
+		],
+		"Dendrobium": [
+			"kujousara"
+		],
+		"Sturmperlen": [
+			"kujousara",
+			"raidenshogun"
+		],
+		"Juni": [
+			"lisa",
+			"raidenshogun",
+			"venti",
+			"yoimiya"
+		],
+		"Valbeere": [
+			"lisa",
+			"noelle",
+			"rosaria"
+		],
+		"Schleimabsonderung": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Schleimkondensat": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Schleimkonzentrat": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Glaslilie": [
+			"ningguang"
+		],
+		"VTD": [
+			"noelle"
+		],
+		"Glasglöckchen": [
+			"qiqi",
+			"xinyan"
+		],
+		"Amakumo-Frucht": [
+			"raidenshogun"
+		],
+		"Physischer SCH-Bonus": [
+			"razor"
+		],
+		"Wolfshaken": [
+			"razor"
+		],
+		"Hydro-SCH-Bonus": [
+			"sangonomiyakokomi",
+			"tartaglia"
+		],
+		"Sango-Perle": [
+			"sangonomiyakokomi"
+		],
+		"Tau der Abstoßung": [
+			"sangonomiyakokomi"
+		],
+		"Anemo-SCH-Bonus": [
+			"sucrose"
+		],
+		"Snezhnaya": [
+			"tartaglia"
+		],
+		"Sternmuschel": [
+			"tartaglia"
+		],
+		"Jueyun-Peperoni": [
+			"xiangling"
+		],
+		"Naku-Kraut": [
+			"yoimiya"
+		],
+		"Schwelende Perle": [
+			"yoimiya"
+		]
+	}
+}

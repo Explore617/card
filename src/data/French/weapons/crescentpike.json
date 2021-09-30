@@ -1,0 +1,137 @@
+{
+	"name": "Pique du croissant de lune",
+	"description": "Cette lance d'origine étrangère, arrivée à Liyue par les voies commerciales, possède une lame en forme de croissant à l'extrémité d'un manche fin et long. Avec un peu de pratique, vous devriez pouvoir libérer sa puissance destructrice.",
+	"weapontype": "Arme d'hast",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Bonus de DGT physiques",
+	"subvalue": "7.5",
+	"effectname": "Aiguille énergisante",
+	"effect": "Chaque orbe ou particule élémentaire obtenu(e) confère pendant 5 s un bonus de DGT équivalant à {0} % de l'ATQ.",
+	"r1": [
+		"20"
+	],
+	"r2": [
+		"25"
+	],
+	"r3": [
+		"30"
+	],
+	"r4": [
+		"35"
+	],
+	"r5": [
+		"40"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Sable lumineux de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Dague de chasse rituelle",
+				"count": 3
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Roche lustrée de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Dague de chasse rituelle",
+				"count": 12
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Roche lustrée de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Dague rituelle de l'Usurier",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Squelette sacré de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Dague rituelle de l'Usurier",
+				"count": 12
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Squelette sacré de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Grande dague de l'Inspecteur",
+				"count": 9
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Corps divin de Guyun",
+				"count": 4
+			},
+			{
+				"name": "Grande dague de l'Inspecteur",
+				"count": 18
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 12
+			}
+		]
+	}
+}

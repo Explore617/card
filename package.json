@@ -1,0 +1,44 @@
+{
+  "name": "genshin-db",
+  "version": "3.10.3",
+  "description": "Genshin Impact v2.1 JSON data. Search and get results in all in-game languages! Sources from the fandom wiki and GenshinData repo.",
+  "main": "./src/main.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generateindex": "cd src && node ./generate.js",
+    "assemble": "cd src && node ./generate.js && cd ../ && node ./examples.js",
+    "build": "node ./build.js ChineseSimplified"
+  },
+  "keywords": [
+    "genshin-impact",
+    "genshinimpact",
+    "genshin"
+  ],
+  "author": "thebowja",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theBowja/genshin-db.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fuzzysort": "^1.1.4"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "files": [
+    "EXAMPLES.md",
+    "index.d.ts",
+    "src/altnames.js",
+    "src/language.js",
+    "src/folder.js",
+    "src/helper.js",
+    "src/main.js",
+    "src/getdata.js",
+    "src/min/*"
+  ]
+}

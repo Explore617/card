@@ -1,0 +1,9 @@
+{
+	"name": "Friendship EXP",
+	"description": "Friendship EXP, digunakan untuk meningkatkan level Persahabatan.",
+	"sortorder": 380,
+	"rarity": "3",
+	"category": "ITEM_VIRTUAL",
+	"materialtype": "Peningkatan Persahabatan",
+	"source": []
+}

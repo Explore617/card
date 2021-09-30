@@ -1,0 +1,142 @@
+{
+	"name": "Atlas Celestial",
+	"description": "Um atlas das nuvens que simboliza Dvalin e o Arconte Anemo, seu antigo mestre. Detalha os ventos e as nuvens das regiões do norte e contém o poder dos céus e dos ventos.",
+	"weapontype": "Catalisador",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "ATQ",
+	"subvalue": "7.2",
+	"effectname": "Nuvens Vagantes",
+	"effect": "Aumenta o Bônus do Dano Elemental em {0}. O Ataque normal possui 50% de chance de ganhar a graça das nuvens, que buscam ativamente por inimigos ao redor para atacar por 15s, causando {1} de Dano de ATQ. Este efeito pode ser ativado uma vez a cada 30s.",
+	"r1": [
+		"12%",
+		"160%"
+	],
+	"r2": [
+		"15%",
+		"200%"
+	],
+	"r3": [
+		"18%",
+		"240%"
+	],
+	"r4": [
+		"21%",
+		"280%"
+	],
+	"r5": [
+		"24%",
+		"320%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Dente de Leite do Lobo Boreal",
+				"count": 5
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 5
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 5
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 18
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 9
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 9
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 5
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 18
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 9
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 14
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Nostalgia do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 27
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 18
+			}
+		]
+	}
+}

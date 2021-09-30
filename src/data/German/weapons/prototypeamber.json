@@ -1,0 +1,142 @@
+{
+	"name": "Bernstein-Prototyp",
+	"description": "Ein magischer Katalysator versteckt in der Schwarzsteinschmiede. Aus ihm dringt das Licht von Sonne, Mond und Sternen.",
+	"weapontype": "Katalysator",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "LP",
+	"subvalue": "9",
+	"effectname": "Goldüberzug",
+	"effect": "Stellt nach Anwendung von Spezialfähigkeiten 6 s lang alle 2 s {0} Punkte Elementarenergie und allen Truppenmitgliedern alle 2 s {1} LP wieder her.",
+	"r1": [
+		"4",
+		"4 %"
+	],
+	"r2": [
+		"4,5",
+		"4,5 %"
+	],
+	"r3": [
+		"5",
+		"5 %"
+	],
+	"r4": [
+		"5,5",
+		"5,5 %"
+	],
+	"r5": [
+		"6",
+		"6 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Bleikugeln des Nebelschleiers",
+				"count": 3
+			},
+			{
+				"name": "Nebelgraspollen",
+				"count": 3
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Quecksilberkugeln des Nebelschleiers",
+				"count": 3
+			},
+			{
+				"name": "Nebelgraspollen",
+				"count": 12
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Quecksilberkugeln des Nebelschleiers",
+				"count": 6
+			},
+			{
+				"name": "Nebelgrassäckchen",
+				"count": 6
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Goldkugel des Nebelschleiers",
+				"count": 3
+			},
+			{
+				"name": "Nebelgrassäckchen",
+				"count": 12
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Goldkugel des Nebelschleiers",
+				"count": 6
+			},
+			{
+				"name": "Nebelgrasdocht",
+				"count": 9
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Wunderkugel des Nebelschleiers",
+				"count": 4
+			},
+			{
+				"name": "Nebelgrasdocht",
+				"count": 18
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 12
+			}
+		]
+	}
+}

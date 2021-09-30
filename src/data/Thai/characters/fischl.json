@@ -1,0 +1,153 @@
+{
+	"name": "Fischl",
+	"title": "เจ้าหญิงแห่งการลงทัณฑ์!!",
+	"description": "หญิงสาวลึกลับผู้เรียกตนเองว่า \"เจ้าหญิงแห่งการลงทัณฑ์\" ผู้ร่วมเดินทางไปพร้อมกับอีกาดำนามว่า Oz",
+	"rarity": "4",
+	"element": "ไฟฟ้า",
+	"weapontype": "ธนู",
+	"substat": "พลังโจมตี",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "กิลด์นักผจญภัย",
+	"birthdaymmdd": "5/27",
+	"birthday": "27 พฤษภาคม",
+	"constellation": "Corvus",
+	"cv": {
+		"english": "Brittany Cox & Ben Pronsky",
+		"chinese": "Mace&李元韬",
+		"japanese": "内田真礼&増谷康紀",
+		"korean": "박고운&이현"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vajrada Amethyst Sliver",
+				"count": 1
+			},
+			{
+				"name": "Small Lamp Grass",
+				"count": 3
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Vajrada Amethyst Fragment",
+				"count": 3
+			},
+			{
+				"name": "Lightning Prism",
+				"count": 2
+			},
+			{
+				"name": "Small Lamp Grass",
+				"count": 10
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Vajrada Amethyst Fragment",
+				"count": 6
+			},
+			{
+				"name": "Lightning Prism",
+				"count": 4
+			},
+			{
+				"name": "Small Lamp Grass",
+				"count": 20
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Vajrada Amethyst Chunk",
+				"count": 3
+			},
+			{
+				"name": "Lightning Prism",
+				"count": 8
+			},
+			{
+				"name": "Small Lamp Grass",
+				"count": 30
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Vajrada Amethyst Chunk",
+				"count": 6
+			},
+			{
+				"name": "Lightning Prism",
+				"count": 12
+			},
+			{
+				"name": "Small Lamp Grass",
+				"count": 45
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Vajrada Amethyst Gemstone",
+				"count": 6
+			},
+			{
+				"name": "Lightning Prism",
+				"count": 20
+			},
+			{
+				"name": "Small Lamp Grass",
+				"count": 60
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 24
+			}
+		]
+	}
+}

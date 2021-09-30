@@ -1,0 +1,209 @@
+{
+	"name": "Ganyu",
+	"combat1": {
+		"name": "Attaque normale : Archerie Liutian",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 6 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis et infligeant davantage de DGT.\nLors du tir visé, la puissance du froid vient se concentrer sur la pointe de la flèche. Les effets varient selon le nombre de charges :\n· 1 charge : Tire une flèche glaciale qui inflige des DGT Cryo.\n· 2 charges : Tire une flèche de givre qui inflige des DGT Cryo. Le givre se répand lorsqu'il touche un ennemi, infligeant des DGT Cryo de zone.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT 6e coup|{param6:F1P}",
+				"DGT tir visé|{param7:F1P}",
+				"DGT 1ère charge|{param8:P}",
+				"DGT flèche de givre|{param9:P}",
+				"DGT zone de givre|{param10:P}",
+				"DGT durant la chute|{param11:F1P}",
+				"DGT chute basse/élevée|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Trace de Qilin",
+		"info": "Ganyu dépose un lotus de glace qui inflige des DGT Cryo de zone puis part vite en retraite.\n\n**Lotus de glace**\n· Le lotus nargue les ennemis et concentre leurs attaques.\n· Ses PV sont proportionnels aux PV max de Ganyu.\n· Le lotus explose à la fin ou s'il est détruit entre temps, et inflige des DGT Cryo de zone.",
+		"description": "« Vous m'avez aperçue ? Ça doit être une erreur, je suis restée tard au travail. »",
+		"attributes": {
+			"labels": [
+				"PV hérités|{param1:P}",
+				"DGT compétence|{param2:P}",
+				"Durée|{param3:F1} s",
+				"Temps de recharge|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Baptême céleste",
+		"info": "Condensant les particules présentes dans l'air, Ganyu invoque une perle de glace magique qui exorcise les démons.\nTant qu'elle est active, la perle libère des éclats de glace de façon continue qui infligent des DGT Cryo aux ennemis dans la zone.",
+		"description": "Ganyu sait bien sûr comment invoquer une bruine rafraîchissante ; mais quand il s'agit de combattre, la bruine se change en tempête de neige.",
+		"attributes": {
+			"labels": [
+				"DGT éclats de glace|{param1:P}",
+				"Durée|{param2:F1} s",
+				"Temps de recharge|{param3:F1} s",
+				"Énergie élémentaire|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Cœur indivisible",
+		"info": "Tirer une flèche de givre confère pendant 5 s aux flèches de givre suivantes ainsi qu'aux zones de givre ainsi créées un bonus de 20 % de taux CRIT."
+	},
+	"passive2": {
+		"name": "Harmonie du ciel et de la terre",
+		"info": "Les personnages déployés se trouvant dans la zone de **Baptême céleste** obtiennent un bonus de 20 % de DGT Cryo supplémentaires."
+	},
+	"passive3": {
+		"name": "Arc de réserve",
+		"info": "Lorsque vous forgez un arc, 15 % du minerai utilisé vous sera rendu."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Diligence",
+				"count": 3
+			},
+			{
+				"name": "Nectar de Fleur mensongère",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 2
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 4
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 6
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 9
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 4
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 4
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 6
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 6
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 12
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 9
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 16
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 12
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

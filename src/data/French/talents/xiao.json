@@ -1,0 +1,206 @@
+{
+	"name": "Xiao",
+	"combat1": {
+		"name": "Attaque normale : Coup de tourbillon",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 6 coups de lance.\n\n**Attaque chargée**\nConsomme de l'endurance pour exécuter une attaque ascendante.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.\nXiao ne subit pas de DGT lorsqu'il exécute une attaque plongeante.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}+{param2:F1P}",
+				"DGT 2e coup|{param3:F1P}",
+				"DGT 3e coup|{param4:F1P}",
+				"DGT 4e coup|{param5:F1P}+{param6:F1P}",
+				"DGT 5e coup|{param7:F1P}",
+				"DGT 6e coup|{param8:F1P}",
+				"DGT attaque chargée|{param9:P}",
+				"Coût d'endurance attaque chargée|{param10:F1} pts",
+				"DGT durant la chute|{param11:P}",
+				"DGT chute basse/élevée|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Cycle du vent lemniscatique",
+		"info": "Xiao se précipite vers l'avant, infligeant des DGT Anémo aux ennemis sur sa route.\nFonctionne aussi dans les airs.\nXiao commence avec 2 charges.",
+		"description": "La légende d'un lointain pays raconte qu'un jour, le monde périra entre deux roues à aubes. La maîtrise totale de la lance permet à Xiao d'écraser ses ennemis, à l'image des roues légendaires écrasant le monde.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Temps de recharge|{param2:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Fléau du mal",
+		"info": "Xiao revêt le Masque du Yaksha, qui, il y a bien longtemps, fit trembler dieux et démons.\n\n**Masque du Yaksha**\n· Améliore considérablement la capacité de saut de Xiao.\n· Augmente la portée et les DGT d'attaque.\n· Les DGT d'attaque sont convertis en DGT Anémo ne pouvant pas être enchantés.\n\nCet effet consomme des PV de façon continue.\n\nL'état prend fin lorsque Xiao quitte le champ de bataille.",
+		"description": "En revêtant le Masque du Yaksha, Xiao prend la forme terrifiante du Gardien Yaksha Dompteur de démon. Mais un tel pouvoir a un prix ; aussi l'appelle-t-on : le Fléau du mal.",
+		"attributes": {
+			"labels": [
+				"Bonus ATQ normale/chargée/plongeante|{param1:F1P}",
+				"PV consommés|{param2:F1P} PV actuels/s",
+				"Durée|{param3:F1} s",
+				"Temps de recharge|{param4:F1} s",
+				"Énergie élémentaire|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Dompteur de démons : Conquérant du mal",
+		"info": "Xiao inflige 5 % de DGT supplémentaires tant que **Fléau du mal** est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure l'aptitude.\nCumul max : 25 % de DGT supplémentaires."
+	},
+	"passive2": {
+		"name": "Dissolution d'éon : Chute des cieux",
+		"info": "**Cycle du vent lemniscatique** inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s.\nCet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul."
+	},
+	"passive3": {
+		"name": "Transcendance : Contrôleur de gravité",
+		"info": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de l'escalade.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Prospérité",
+				"count": 3
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 2
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 4
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 6
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Prospérité",
+				"count": 9
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 4
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 4
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 6
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 6
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 12
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 9
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Prospérité",
+				"count": 16
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 12
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

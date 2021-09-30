@@ -1,0 +1,142 @@
+{
+	"name": "Mitternachtswalzer",
+	"description": "Ein Bogen in der Farbe der Sünden und der Nächte der Illusion.",
+	"weapontype": "Bogen",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Physischer SCH-Bonus",
+	"subvalue": "11.3",
+	"effectname": "Duo der ewigen Nacht",
+	"effect": "Erhöht den mit Elementarfähigkeiten verursachten Schaden nach dem Treffen von Gegnern mit Standardangriffen 5 s lang um {0}. Erhöht den mit Standardangriffen verursachten Schaden nach dem Treffen von Gegnern mit Elementarfähigkeiten 5 s lang um {1}.",
+	"r1": [
+		"20 %",
+		"20 %"
+	],
+	"r2": [
+		"25 %",
+		"25 %"
+	],
+	"r3": [
+		"30 %",
+		"30 %"
+	],
+	"r4": [
+		"35 %",
+		"35 %"
+	],
+	"r5": [
+		"40 %",
+		"40 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Decabarians zerbrochener Ziegel",
+				"count": 3
+			},
+			{
+				"name": "Schweres Horn",
+				"count": 3
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Decabarians zerbröckelter Wall",
+				"count": 3
+			},
+			{
+				"name": "Schweres Horn",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Decabarians zerbröckelter Wall",
+				"count": 6
+			},
+			{
+				"name": "Kupferhorn",
+				"count": 6
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Decabarians Palastfragment",
+				"count": 3
+			},
+			{
+				"name": "Kupferhorn",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Decabarians Palastfragment",
+				"count": 6
+			},
+			{
+				"name": "Schwarzes Kristallhorn",
+				"count": 9
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Decabarians zerstörter Traum",
+				"count": 4
+			},
+			{
+				"name": "Schwarzes Kristallhorn",
+				"count": 18
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 12
+			}
+		]
+	}
+}

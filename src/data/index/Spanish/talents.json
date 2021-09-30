@@ -1,0 +1,636 @@
+{
+	"namemap": {
+		"albedo": "Albedo",
+		"aloy": "Aloy",
+		"amber": "Amber",
+		"barbara": "Bárbara",
+		"beidou": "Beidou",
+		"bennett": "Bennett",
+		"chongyun": "Chongyun",
+		"diluc": "Diluc",
+		"diona": "Diona",
+		"eula": "Eula",
+		"fischl": "Fischl",
+		"ganyu": "Ganyu",
+		"hutao": "Hu Tao",
+		"jean": "Jean",
+		"kaedeharakazuha": "Kaedehara Kazuha",
+		"kaeya": "Kaeya",
+		"kamisatoayaka": "Kamisato Ayaka",
+		"keqing": "Keching",
+		"klee": "Klee",
+		"kujousara": "Kujou Sara",
+		"lisa": "Lisa",
+		"mona": "Mona",
+		"ningguang": "Ninguang",
+		"noelle": "Noelle",
+		"qiqi": "Qiqi",
+		"raidenshogun": "Shogun Raiden",
+		"razor": "Razor",
+		"rosaria": "Rosaria",
+		"sangonomiyakokomi": "Sangonomiya Kokomi",
+		"sayu": "Sayu",
+		"sucrose": "Sacarosa",
+		"tartaglia": "Tartaglia",
+		"traveleranemo": "Viajera (Anemo)",
+		"travelerelectro": "Viajera (Electro)",
+		"travelergeo": "Viajera (Geo)",
+		"venti": "Venti",
+		"xiangling": "Xiangling",
+		"xiao": "Xiao",
+		"xingqiu": "Xingchiu",
+		"xinyan": "Xinyan",
+		"yanfei": "Yanfei",
+		"yoimiya": "Yoimiya",
+		"zhongli": "Zhongli"
+	},
+	"names": {
+		"Albedo": "albedo",
+		"Aloy": "aloy",
+		"Amber": "amber",
+		"Bárbara": "barbara",
+		"Beidou": "beidou",
+		"Bennett": "bennett",
+		"Chongyun": "chongyun",
+		"Diluc": "diluc",
+		"Diona": "diona",
+		"Eula": "eula",
+		"Fischl": "fischl",
+		"Ganyu": "ganyu",
+		"Hu Tao": "hutao",
+		"Jean": "jean",
+		"Kaedehara Kazuha": "kaedeharakazuha",
+		"Kaeya": "kaeya",
+		"Kamisato Ayaka": "kamisatoayaka",
+		"Keching": "keqing",
+		"Klee": "klee",
+		"Kujou Sara": "kujousara",
+		"Lisa": "lisa",
+		"Mona": "mona",
+		"Ninguang": "ningguang",
+		"Noelle": "noelle",
+		"Qiqi": "qiqi",
+		"Shogun Raiden": "raidenshogun",
+		"Razor": "razor",
+		"Rosaria": "rosaria",
+		"Sangonomiya Kokomi": "sangonomiyakokomi",
+		"Sayu": "sayu",
+		"Sacarosa": "sucrose",
+		"Tartaglia": "tartaglia",
+		"Viajera (Anemo)": "traveleranemo",
+		"Viajera (Electro)": "travelerelectro",
+		"Viajera (Geo)": "travelergeo",
+		"Venti": "venti",
+		"Xiangling": "xiangling",
+		"Xiao": "xiao",
+		"Xingchiu": "xingqiu",
+		"Xinyan": "xinyan",
+		"Yanfei": "yanfei",
+		"Yoimiya": "yoimiya",
+		"Zhongli": "zhongli"
+	},
+	"aliases": {},
+	"categories": {
+		"Mora": [
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo",
+			"travelerelectro",
+			"travelergeo",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"Enseñanzas de la poesía": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"venti"
+		],
+		"Pergamino guía": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"Guía de la poesía": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"traveleranemo",
+			"venti"
+		],
+		"Pergamino hechizado": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"Filosofía de la poesía": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"traveleranemo",
+			"venti"
+		],
+		"Pergamino maldito": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"Cuerno de Monoceros Caeli": [
+			"albedo",
+			"xinyan",
+			"zhongli"
+		],
+		"Corona de la sabiduría": [
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo",
+			"travelerelectro",
+			"travelergeo",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"Enseñanzas de la libertad": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"Caparazón espectral": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Guía de la libertad": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"Corazón espectral": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Filosofía de la libertad": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"Núcleo espectral": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Momento del derretimiento": [
+			"aloy",
+			"raidenshogun"
+		],
+		"Flecha robusta": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"Flecha afilada": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"Flecha veterana": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"Suspiro de Stormterror": [
+			"amber",
+			"beidou",
+			"chongyun",
+			"traveleranemo"
+		],
+		"Anillo de Boreas": [
+			"barbara",
+			"keqing",
+			"klee",
+			"mona"
+		],
+		"Enseñanzas del oro": [
+			"beidou",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"Insignia de cuervo de bronce": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Guía del oro": [
+			"beidou",
+			"travelergeo",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"Insignia de cuervo plateada": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Filosofía del oro": [
+			"beidou",
+			"travelergeo",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"Insignia de cuervo dorada": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Enseñanzas de la resistencia": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor"
+		],
+		"Guía de la resistencia": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor",
+			"traveleranemo"
+		],
+		"Filosofía de la resistencia": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor",
+			"traveleranemo"
+		],
+		"Pluma de Stormterror": [
+			"bennett",
+			"diluc",
+			"jean"
+		],
+		"Enseñanzas del esfuerzo": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"xiangling"
+		],
+		"Máscara dañada": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Guía del esfuerzo": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"travelergeo",
+			"xiangling"
+		],
+		"Máscara sucia": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Filosofía del esfuerzo": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"travelergeo",
+			"xiangling"
+		],
+		"Máscara amenazante": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Insignia del recluta": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Insignia del sargento": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Insignia del oficial": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Fragmento de espada de Legado del mal": [
+			"diona",
+			"hutao",
+			"tartaglia"
+		],
+		"Corona del rey dragón": [
+			"eula",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"Alma de Boreas": [
+			"fischl",
+			"kaeya",
+			"ningguang",
+			"sucrose"
+		],
+		"Néctar de Megaflora": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Néctar brillante": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Néctar energético": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Sombra del guerrero": [
+			"ganyu",
+			"rosaria",
+			"xiao"
+		],
+		"Escama dorada": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"Enseñanzas de la elegancia": [
+			"kamisatoayaka",
+			"kujousara"
+		],
+		"Guardamano viejo": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"Guía de la elegancia": [
+			"kamisatoayaka",
+			"kujousara",
+			"travelerelectro"
+		],
+		"Guardamano gemelo": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"Filosofía de la elegancia": [
+			"kamisatoayaka",
+			"kujousara",
+			"travelerelectro"
+		],
+		"Guardamano célebre": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"Rama de jade carmesí": [
+			"kamisatoayaka",
+			"yanfei"
+		],
+		"Enseñanzas de la prosperidad": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"Guía de la prosperidad": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"Filosofía de la prosperidad": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"Corazón de las cenizas": [
+			"kujousara"
+		],
+		"Condensado de Slime": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Babas de Slime": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Esencia de Slime": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Garra de Stormterror": [
+			"lisa",
+			"noelle",
+			"razor",
+			"xiangling"
+		],
+		"Cola de Boreas": [
+			"qiqi",
+			"travelergeo",
+			"venti",
+			"xingqiu"
+		],
+		"Enseñanzas de la luz": [
+			"raidenshogun",
+			"sayu"
+		],
+		"Guía de la luz": [
+			"raidenshogun",
+			"sayu",
+			"travelerelectro"
+		],
+		"Filosofía de la luz": [
+			"raidenshogun",
+			"sayu",
+			"travelerelectro"
+		],
+		"Enseñanzas de la transitoriedad": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"Guía de la transitoriedad": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"Filosofía de la transitoriedad": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"Mariposa del fuego infernal": [
+			"sangonomiyakokomi"
+		]
+	}
+}

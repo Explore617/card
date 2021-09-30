@@ -1,0 +1,13 @@
+{
+	"name": "Pedacito de jade shivada",
+	"description": "Material de ascensión de personaje",
+	"sortorder": 1829,
+	"rarity": "2",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Material de mejora de personaje",
+	"source": [
+		"Obtenido de Regisvid Cryo",
+		"Obtenido de Hipostasis Cryo",
+		"Canjear en la tienda de recuerdos"
+	]
+}

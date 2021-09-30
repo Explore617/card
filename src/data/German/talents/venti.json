@@ -1,0 +1,208 @@
+{
+	"name": "Venti",
+	"combat1": {
+		"name": "Standardangriff: Göttliche Schießkunst",
+		"info": "**Standardangriff**\nFührt bis zu 6 Pfeilschüsse aus.\n\n**Heftiger Schlag**\nFührt einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert den die Welt schützenden Wind während des Zielens an der Pfeilspitze, die voll aufgeladen Anemo-Schaden verursacht.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P} + {param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P}",
+				"SCH Phase 4|{param4:F1P} + {param4:F1P}",
+				"SCH Phase 5|{param5:F1P}",
+				"SCH Phase 6|{param6:F1P}",
+				"Gezielte Schüsse|{param7:F1P}",
+				"Voll aufgeladene gezielte Schüsse|{param8:P}",
+				"SCH beim Fallen|{param9:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Sonett vom Himmel",
+		"info": "Beschwört einen Wind, der den Klängen und Liedern folgt und Dinge, die sonst fest auf dem Boden verankert sind, in die Luft reißt.\n\n**Drücken**\nErschafft dort, wo sich Gegner befinden, einen Sturm, der Anemo-Flächenschaden verursacht und die betroffenen Gegner wegschleudert.\n\n**Gedrückt halten**\nErschafft einen größeren Sturm um Venti, der Anemo-Flächenschaden verursacht und betroffene Gegner wegschleudert.\nNach dem Auslösen steigt Venti in die Luft.\n\nVom Sonett vom Himmel weggeschleuderte Gegner fallen langsam zu Boden.",
+		"description": "Als die Archonten noch unter den Menschen weilten, hörte man unzählige Lieder durch die Luft hallen. Dies ist eine der lange vergessenen Melodien.",
+		"attributes": {
+			"labels": [
+				"SCH bei Drücken|{param1:P}",
+				"Abklingzeit für Drücken|{param2:F1} s",
+				"SCH bei Gedrückthalten|{param3:P}",
+				"Abklingzeit für Gedrückthalten|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Ode vom Anemo-Archon",
+		"info": "Schießt Pfeile mit der Macht der Tausend Winde und erschafft einen riesigen Sturm vor Venti, der Gegner mitreißt und fortlaufend Anemo-Schaden verursacht.\n\n**Elementarumwandlung**\nVerleiht dem Zentrum des Sturms beim Treffen auf Hydro-, Pyro-, Kryo- oder Elektro-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend zusätzlichen Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.",
+		"description": "Viele der Gedichte, die vom Archon des Windes erzählen, sind im Laufe der Zeit verlorengegangen. Dieses berichtet von seiner und der Kraft des Windes.",
+		"attributes": {
+			"labels": [
+				"Fortlaufender SCH|{param1:F1P}",
+				"Zusätzlicher Elementar-SCH|{param2:F1P}",
+				"Dauer|{param3:F1} s",
+				"Abklingzeit|{param4:F1} s",
+				"Elementarenergie|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Umarmung des Windes",
+		"info": "Erstellt beim Gedrückthalten von **Sonett vom Himmel** eine nach oben gerichtete Luftströmung, hält 20 s."
+	},
+	"passive2": {
+		"name": "Zentrum des Sturms",
+		"info": "Stellt Venti nach Ende des Effekts von **Ode vom Anemo-Archon** 15 Punkte Elementarenergie wieder her.\nStellt allen entsprechenden Figuren in der Truppe bei Elementarumwandlung 15 Punkte Elementarenergie wieder her."
+	},
+	"passive3": {
+		"name": "Windreiter",
+		"info": "Verringert die beim Gleiten verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren der „Poesie“",
+				"count": 3
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 2
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 4
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 6
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zur „Poesie“",
+				"count": 9
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 4
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 4
+			},
+			{
+				"name": "Schwanz des Nordwinds",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 6
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 6
+			},
+			{
+				"name": "Schwanz des Nordwinds",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 12
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 9
+			},
+			{
+				"name": "Schwanz des Nordwinds",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie der „Poesie“",
+				"count": 16
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 12
+			},
+			{
+				"name": "Schwanz des Nordwinds",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

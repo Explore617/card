@@ -1,0 +1,142 @@
+{
+	"name": "Summit Shaper",
+	"description": "Sebuah pedang legenda yang menjadi simbol sebuah kontrak bertepi tajam, konon pedang ini pernah memotong puncak dari suatu gunung.",
+	"weapontype": "Sword",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ATK",
+	"subvalue": "10.8",
+	"effectname": "Golden Majesty",
+	"effect": "Meningkatkan kekuatan perisai sebesar {0}. Serangan yang mengenai musuh meningkatkan ATK sebesar {1} selama 8 detik. Maksimal 5 lapis. Dapat terpicu setiap 0,3 detik. Saat dilindungi oleh perisai, efek ATK ini meningkat sebesar 100%.",
+	"r1": [
+		"20%",
+		"4%"
+	],
+	"r2": [
+		"25%",
+		"5%"
+	],
+	"r3": [
+		"30%",
+		"6%"
+	],
+	"r4": [
+		"35%",
+		"7%"
+	],
+	"r5": [
+		"40%",
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Luminous Sands from Guyun",
+				"count": 5
+			},
+			{
+				"name": "Hunter's Sacrificial Knife",
+				"count": 5
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lustrous Stone from Guyun",
+				"count": 5
+			},
+			{
+				"name": "Hunter's Sacrificial Knife",
+				"count": 18
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Lustrous Stone from Guyun",
+				"count": 9
+			},
+			{
+				"name": "Agent's Sacrificial Knife",
+				"count": 9
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Relic from Guyun",
+				"count": 5
+			},
+			{
+				"name": "Agent's Sacrificial Knife",
+				"count": 18
+			},
+			{
+				"name": "Stained Mask",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Relic from Guyun",
+				"count": 9
+			},
+			{
+				"name": "Inspector's Sacrificial Knife",
+				"count": 14
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Divine Body from Guyun",
+				"count": 6
+			},
+			{
+				"name": "Inspector's Sacrificial Knife",
+				"count": 27
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 18
+			}
+		]
+	}
+}

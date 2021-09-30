@@ -1,0 +1,142 @@
+{
+	"name": "Điệu Van Ban Đêm",
+	"description": "Chiếc cung có màu sắc giống như màn đêm huyền ảo và tội lỗi.",
+	"weapontype": "Cung",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tăng Sát Thương Vật Lý",
+	"subvalue": "11.3",
+	"effectname": "Cực Dạ Nhị Trùng Tấu",
+	"effect": "Trong 5s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng nguyên tố tạo thành tăng {0}; Trong 5s sau khi kỹ năng nguyên tố đánh trúng địch, sát thương đánh thường tạo thành tăng {1}.",
+	"r1": [
+		"20%",
+		"20%"
+	],
+	"r2": [
+		"25%",
+		"25%"
+	],
+	"r3": [
+		"30%",
+		"30%"
+	],
+	"r4": [
+		"35%",
+		"35%"
+	],
+	"r5": [
+		"40%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ngói Vỡ Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Nặng",
+				"count": 3
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Xác Tàu Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Nặng",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Tầm Bảo",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Xác Tàu Tháp Cô Vương",
+				"count": 6
+			},
+			{
+				"name": "Sừng Đồng Đen",
+				"count": 6
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mảnh Vỡ Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Đồng Đen",
+				"count": 12
+			},
+			{
+				"name": "Ấn Quạ Bạc Ẩn",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mảnh Vỡ Tháp Cô Vương",
+				"count": 6
+			},
+			{
+				"name": "Sừng Hắc Tinh",
+				"count": 9
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Mảnh Giấc Mơ Tháp Cô Vương",
+				"count": 4
+			},
+			{
+				"name": "Sừng Hắc Tinh",
+				"count": 18
+			},
+			{
+				"name": "Ấn Quạ Trộm Vàng",
+				"count": 12
+			}
+		]
+	}
+}

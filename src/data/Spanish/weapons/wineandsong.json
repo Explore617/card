@@ -1,0 +1,142 @@
+{
+	"name": "Vino y Poesía",
+	"description": "El nombre de una canción muy popular durante la época de la aristocracia. Su autor es desconocido. En ella, se cuenta la historia de un bandido errante...",
+	"weapontype": "Catalizador",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Recarga de Energía",
+	"subvalue": "6.7",
+	"effectname": "Versatilidad",
+	"effect": "Al atacar a un enemigo con un Ataque Normal, el consumo de Aguante al esprintar o al usar una habilidad que sustituye a esprintar se reduce en un {0} durante 5 s. Además, después de esprintar o de usar una habilidad que sustituye a esprintar, el ATQ aumenta en un {1} durante 5 s.",
+	"r1": [
+		"14%",
+		"20%"
+	],
+	"r2": [
+		"16%",
+		"25%"
+	],
+	"r3": [
+		"18%",
+		"30%"
+	],
+	"r4": [
+		"20%",
+		"35%"
+	],
+	"r5": [
+		"22%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Diente de leche de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 3
+			},
+			{
+				"name": "Insignia de cuervo de bronce",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 12
+			},
+			{
+				"name": "Insignia de cuervo de bronce",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 6
+			},
+			{
+				"name": "Insignia de cuervo plateada",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 12
+			},
+			{
+				"name": "Insignia de cuervo plateada",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 9
+			},
+			{
+				"name": "Insignia de cuervo dorada",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgia del lobo boreal",
+				"count": 4
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Insignia de cuervo dorada",
+				"count": 12
+			}
+		]
+	}
+}

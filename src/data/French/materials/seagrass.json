@@ -1,0 +1,10 @@
+{
+	"name": "Herbe marine",
+	"description": "Une plante qui pousse dans les eaux peu profondes, pouvant ajouter une saveur unique aux plats.",
+	"sortorder": 1332,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrédient",
+	"source": [
+		"Dans les eaux d'Inazuma"
+	]
+}

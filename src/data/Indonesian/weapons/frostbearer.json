@@ -1,0 +1,147 @@
+{
+	"name": "Frostbearer",
+	"description": "Buah unik yang seakan memiliki sebuah keinginan sendiri. Senjata ini memancarkan sebuah aura kepedihan yang samar.",
+	"weapontype": "Catalyst",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATK",
+	"subvalue": "9",
+	"effectname": "Frost Burial",
+	"effect": "Saat Normal atau Charged Attack mengenai musuh, memiliki {0} persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar {1} ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar {2} ATK. Efek ini dapat terpicu setiap 10 detik.",
+	"r1": [
+		"60%",
+		"80%",
+		"200%"
+	],
+	"r2": [
+		"70%",
+		"95%",
+		"240%"
+	],
+	"r3": [
+		"80%",
+		"110%",
+		"280%"
+	],
+	"r4": [
+		"90%",
+		"125%",
+		"320%"
+	],
+	"r5": [
+		"100%",
+		"140%",
+		"360%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Fetters of the Dandelion Gladiator",
+				"count": 3
+			},
+			{
+				"name": "Chaos Device",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Chains of Dandelion Gladiator",
+				"count": 3
+			},
+			{
+				"name": "Chaos Device",
+				"count": 12
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Chains of Dandelion Gladiator",
+				"count": 6
+			},
+			{
+				"name": "Chaos Circuit",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Shackles of Dandelion Gladiator",
+				"count": 3
+			},
+			{
+				"name": "Chaos Circuit",
+				"count": 12
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Shackles of Dandelion Gladiator",
+				"count": 6
+			},
+			{
+				"name": "Chaos Core",
+				"count": 9
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Dream of the Dandelion Gladiator",
+				"count": 4
+			},
+			{
+				"name": "Chaos Core",
+				"count": 18
+			},
+			{
+				"name": "Energy Nectar",
+				"count": 12
+			}
+		]
+	}
+}

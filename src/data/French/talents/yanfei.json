@@ -1,0 +1,206 @@
+{
+	"name": "Yanfei",
+	"combat1": {
+		"name": "Attaque normale : Sceau embrasé",
+		"info": "**Attaque normale**\nTire des boules de feu qui infligent jusqu'à 3 vagues de DGT Pyro.\nLorsqu'une attaque normale touche un ennemi, Yanfei obtient un sceau écarlate. Yanfei peut détenir un maximum de 3 sceaux écarlates, et chaque fois que cet effet se déclenche, la durée des sceaux en sa possession est réinitialisée.\nChaque sceau écarlate diminue la consommation d'endurance de Yanfei, et disparaît lorsque Yanfei quitte le champ de bataille.\n\n**Attaque chargée**\nConsomme de l'endurance et tous les sceaux écarlates pour infliger des DGT Pyro de zone aux ennemis en face de Yanfei après un court délai.\nLa portée et l'intensité de ces DGT Pyro de zone augmentent avec le nombre de sceaux écarlates consommés.\n\n**Attaque plongeante**\nYanfei concentre son énergie Pyro et plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT Pyro de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT attaque chargée|{param4:P}/{param5:P}/{param6:P}/{param7:P}/{param8:P}",
+				"Coût d'endurance attaque chargée|{param14:F1} pts",
+				"Réduction du coût d'endurance|{param15:F1P} par sceau écarlate",
+				"Durée des sceaux écarlates|{param19:F1} s",
+				"DGT durant la chute|{param16:F1P}",
+				"DGT chute basse/élevée|{param17:P}/{param18:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Pacte des flammes",
+		"info": "Yanfei en appelle aux flammes dévastatrices, infligeant des DGT Pyro de zone.\nLorsque des ennemis sont touchés, Yanfei gagne le nombre maximum de sceaux écarlates.",
+		"description": "En plus de leur valeur juridique, les sceaux de Yanfei présentent des conditions d'utilisation très personnalisées. Après tout, ce n'est pas comme si le Bureau des affaires civiles pouvait changer les lois de la nature.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Temps de recharge|{param2:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Application des peines",
+		"info": "Invoque une explosion de flammes intenses qui jaillit vers les ennemis proches, infligeant des DGT Pyro de zone et conférant à Yanfei le nombre maximum de sceaux écarlates, tout en appliquant l'effet Brillance.\n\n**Brillance**\nConfère les effets suivants :\n· Confère à Yanfei un sceau écarlate à intervalles réguliers.\n· Augmente les DGT infligés par ses attaques chargées.\nLes effets de Brillance se dissipent lorsque Yanfei quitte le champ de bataille ou qu'elle est vaincue.",
+		"description": "« Veuillez trouver ici les termes de cette question de vie ou de mort, et par là j'entends ma vie et votre mort ! »",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Intervalle entre les sceaux écarlates|{param4:F1} s",
+				"Bonus ATQ chargée|{param2:P}",
+				"Durée|{param3:F1} s",
+				"Temps de recharge|{param5:F1} s",
+				"Énergie élémentaire|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Dispositions supplémentaires",
+		"info": "Lorsque Yanfei consomme un sceau écarlate en utilisant une attaque chargée, chaque sceau écarlate augmente le bonus de DGT Pyro de Yanfei de 5 % pour 6 s. Utiliser une attaque chargée avant la fin de la durée d'un effet dissipe l'effet précédent."
+	},
+	"passive2": {
+		"name": "Œil de la justice",
+		"info": "Quand les attaques chargées de Yanfei infligent des coups CRIT aux ennemis, elle inflige des DGT Pyro de zone supplémentaires équivalant à 80 % de son ATQ. Ces DGT comptent comme des DGT d'attaque chargée."
+	},
+	"passive3": {
+		"name": "Connaissance du terrain",
+		"info": "Affiche l'emplacement des **produits de Liyue** sur la mini-carte."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de l'Or",
+				"count": 3
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 2
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 4
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 9
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 4
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 4
+			},
+			{
+				"name": "Branche de jade cramoisi",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 6
+			},
+			{
+				"name": "Branche de jade cramoisi",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 12
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 9
+			},
+			{
+				"name": "Branche de jade cramoisi",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 16
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 12
+			},
+			{
+				"name": "Branche de jade cramoisi",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

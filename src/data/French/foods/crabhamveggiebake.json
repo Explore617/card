@@ -1,0 +1,39 @@
+{
+	"name": "Gratin de crabe, jambon et légumes",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Réanime le personnage sélectionné.\nRestaure 900 à 1 500 PV.",
+	"description": "Un gratin aux ingrédients savoureux. Sa couche supérieure bien dorée révèle un mélange de jambon et de légumes succulents. Bon appétit !",
+	"suspicious": {
+		"effect": "Réanime un personnage et restaure 900 PV.",
+		"description": "Impossible de savoir de quoi il est composé à première vue."
+	},
+	"normal": {
+		"effect": "Réanime un personnage et restaure 1 200 PV.",
+		"description": "Un gratin aux ingrédients savoureux. Sa couche supérieure bien dorée révèle un mélange de jambon et de légumes succulents. Bon appétit !"
+	},
+	"delicious": {
+		"effect": "Réanime un personnage et restaure 1 500 PV.",
+		"description": "Un gratin aux ingrédients savoureux. Une odeur divine envahit vos narines, et vous savez que vous êtes bien parti pour lécher le plat après l'avoir senti."
+	},
+	"ingredients": [
+		{
+			"name": "Œufs de crabe",
+			"count": 1
+		},
+		{
+			"name": "Jambon",
+			"count": 1
+		},
+		{
+			"name": "Crème",
+			"count": 1
+		},
+		{
+			"name": "Chou",
+			"count": 1
+		}
+	]
+}

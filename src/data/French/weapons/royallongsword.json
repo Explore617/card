@@ -1,0 +1,137 @@
+{
+	"name": "Épée longue royale",
+	"description": "Une épée longue assez ancienne qui appartenait jadis aux dirigeants de Mondstadt. Sa lame est d'une excellente facture et ses ornements sont révélateurs du statut social de son propriétaire.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Focus",
+	"effect": "Augmente le taux CRIT de {0} à chaque attaque qui cause des DGT à un ennemi. Cet effet peut être cumulé 5 fois au maximum, et est réinitialisé lors d'un coup CRIT.",
+	"r1": [
+		"8 %"
+	],
+	"r2": [
+		"10 %"
+	],
+	"r3": [
+		"12 %"
+	],
+	"r4": [
+		"14 %"
+	],
+	"r5": [
+		"16 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Tuile cassée de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 3
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 12
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 6
+			},
+			{
+				"name": "Masque sale",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 12
+			},
+			{
+				"name": "Masque sale",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 9
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Rêve brisé de Décabarian",
+				"count": 4
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 18
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 12
+			}
+		]
+	}
+}

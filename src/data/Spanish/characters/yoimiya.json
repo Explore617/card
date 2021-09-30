@@ -1,0 +1,153 @@
+{
+	"name": "Yoimiya",
+	"title": "la Maestra de las Llamas",
+	"description": "La dueña de la tienda Pirotecnia Naganohara y Reina del Festival de Verano. Deposita los deseos de la gente en sus artesanales fuegos artificiales.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Arco",
+	"substat": "Prob. CRIT",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "INAZUMA",
+	"region": "Inazuma",
+	"affiliation": "Pirotecnia Naganohara",
+	"birthdaymmdd": "6/21",
+	"birthday": "21 de junio",
+	"constellation": "Carassius Auratus",
+	"cv": {
+		"english": "Jenny Yokobori",
+		"chinese": "金娜",
+		"japanese": "植田佳奈",
+		"korean": "박신희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedacito de ágata agnidus",
+				"count": 1
+			},
+			{
+				"name": "Percibetormentas",
+				"count": 3
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de ágata agnidus",
+				"count": 3
+			},
+			{
+				"name": "Perla abrasante",
+				"count": 2
+			},
+			{
+				"name": "Percibetormentas",
+				"count": 10
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de ágata agnidus",
+				"count": 6
+			},
+			{
+				"name": "Perla abrasante",
+				"count": 4
+			},
+			{
+				"name": "Percibetormentas",
+				"count": 20
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Trozo de ágata agnidus",
+				"count": 3
+			},
+			{
+				"name": "Perla abrasante",
+				"count": 8
+			},
+			{
+				"name": "Percibetormentas",
+				"count": 30
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Trozo de ágata agnidus",
+				"count": 6
+			},
+			{
+				"name": "Perla abrasante",
+				"count": 12
+			},
+			{
+				"name": "Percibetormentas",
+				"count": 45
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Ágata agnidus",
+				"count": 6
+			},
+			{
+				"name": "Perla abrasante",
+				"count": 20
+			},
+			{
+				"name": "Percibetormentas",
+				"count": 60
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 24
+			}
+		]
+	}
+}

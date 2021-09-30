@@ -1,0 +1,133 @@
+{
+	"name": "空",
+	"title": "",
+	"description": "世界の外から漂流してきた旅人。肉親が見知らぬ神に連れ去られたため、七神を探す旅に出た。",
+	"rarity": "5",
+	"element": "無",
+	"weapontype": "片手剣",
+	"substat": "攻撃力",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "旅人座",
+	"cv": {
+		"english": "Zach Aguilar & Corina Boettger",
+		"chinese": "鹿喑&多多poi",
+		"japanese": "堀江瞬&古賀葵",
+		"korean": "이경태&김가령"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "モラ",
+				"count": 20000
+			},
+			{
+				"name": "輝くダイヤ·砕屑",
+				"count": 1
+			},
+			{
+				"name": "風車アスター",
+				"count": 3
+			},
+			{
+				"name": "破損した仮面",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "モラ",
+				"count": 40000
+			},
+			{
+				"name": "輝くダイヤ·欠片",
+				"count": 3
+			},
+			{
+				"name": "風車アスター",
+				"count": 10
+			},
+			{
+				"name": "破損した仮面",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "モラ",
+				"count": 60000
+			},
+			{
+				"name": "輝くダイヤ·欠片",
+				"count": 6
+			},
+			{
+				"name": "風車アスター",
+				"count": 20
+			},
+			{
+				"name": "汚れた仮面",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "モラ",
+				"count": 80000
+			},
+			{
+				"name": "輝くダイヤ·塊",
+				"count": 3
+			},
+			{
+				"name": "風車アスター",
+				"count": 30
+			},
+			{
+				"name": "汚れた仮面",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "モラ",
+				"count": 100000
+			},
+			{
+				"name": "輝くダイヤ·塊",
+				"count": 6
+			},
+			{
+				"name": "風車アスター",
+				"count": 45
+			},
+			{
+				"name": "不吉な仮面",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "モラ",
+				"count": 120000
+			},
+			{
+				"name": "輝くダイヤ",
+				"count": 6
+			},
+			{
+				"name": "風車アスター",
+				"count": 60
+			},
+			{
+				"name": "不吉な仮面",
+				"count": 24
+			}
+		]
+	}
+}

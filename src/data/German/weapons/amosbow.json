@@ -1,0 +1,142 @@
+{
+	"name": "Amos’ Bogen",
+	"description": "Ein äußerst alter Bogen, der zwar seinen Meister verloren hat, jedoch nicht seine Kraft, die stärker wird, je weiter der Träger des Bogens von dem entfernt ist, was er begehrt.",
+	"weapontype": "Bogen",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ANG",
+	"subvalue": "10.8",
+	"effectname": "Willensstarker Pfeil",
+	"effect": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um {0} und den Gesamtschaden von Pfeilen von Standardangriffen und heftigen Schlägen alle 0,1 s nach dem Abschießen um {1}, 5-fach stapelbar.",
+	"r1": [
+		"12 %",
+		"8 %"
+	],
+	"r2": [
+		"15 %",
+		"10 %"
+	],
+	"r3": [
+		"18 %",
+		"12 %"
+	],
+	"r4": [
+		"21 %",
+		"14 %"
+	],
+	"r5": [
+		"24 %",
+		"16 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Fesseln des Löwenzahnkämpfers",
+				"count": 5
+			},
+			{
+				"name": "Chaos-Apparat",
+				"count": 5
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Ketten des Löwenzahnkämpfers",
+				"count": 5
+			},
+			{
+				"name": "Chaos-Apparat",
+				"count": 18
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Ketten des Löwenzahnkämpfers",
+				"count": 9
+			},
+			{
+				"name": "Chaos-Schaltkreis",
+				"count": 9
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Schellen des Löwenzahnkämpfers",
+				"count": 5
+			},
+			{
+				"name": "Chaos-Schaltkreis",
+				"count": 18
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Schellen des Löwenzahnkämpfers",
+				"count": 9
+			},
+			{
+				"name": "Chaos-Getriebe",
+				"count": 14
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Ideal des Löwenzahnkriegers",
+				"count": 6
+			},
+			{
+				"name": "Chaos-Getriebe",
+				"count": 27
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 18
+			}
+		]
+	}
+}

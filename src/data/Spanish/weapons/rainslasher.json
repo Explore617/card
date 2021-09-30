@@ -1,0 +1,137 @@
+{
+	"name": "Segadora de la Lluvia",
+	"description": "Una gran espada fluorescente y sin punta que hace añicos a los enemigos con fuerza bruta y poder.",
+	"weapontype": "Mandoble",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Maestría Elemental",
+	"subvalue": "36",
+	"effectname": "Perdición de la tormenta y la marea",
+	"effect": "Aumenta en un {0} el daño contra los enemigos afectados por Hydro o Electro.",
+	"r1": [
+		"20%"
+	],
+	"r2": [
+		"24%"
+	],
+	"r3": [
+		"28%"
+	],
+	"r4": [
+		"32%"
+	],
+	"r5": [
+		"36%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Perdigones de plomo",
+				"count": 3
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 3
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Perdigones de mercurio",
+				"count": 3
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 12
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Perdigones de mercurio",
+				"count": 6
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 6
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Perdigones de oro",
+				"count": 3
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 12
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Perdigones de oro",
+				"count": 6
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 9
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Perdigones primordiales",
+				"count": 4
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 18
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 12
+			}
+		]
+	}
+}

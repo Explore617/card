@@ -1,0 +1,12 @@
+{
+	"name": "Escultura das Profundezas",
+	"description": "Uma escultura que emana uma leve energia do mal, tampouco se sabe com quais tipos de materiais foram usados. Quando você olha para esta escultura, você consegue ouvir um sussurro assustador.",
+	"sortorder": 1739,
+	"rarity": "4",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Material de Elevação de Personagem",
+	"source": [
+		"Dropado pelo Feiticeiro do Abismo Nv.60+",
+		"Obtém pela Síntese"
+	]
+}

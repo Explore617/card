@@ -1,0 +1,13 @@
+{
+	"name": "Agnidus Agate Sliver",
+	"description": "วัสดุเลื่อนขั้นตัวละคร",
+	"sortorder": 1809,
+	"rarity": "2",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "วัสดุฝึกฝนตัวละคร",
+	"source": [
+		"ดรอปจาก Pyro Regisvine",
+		"ดรอปจาก Pyro Hypostasis",
+		"แลกได้ที่ร้านขายของที่ระลึก"
+	]
+}

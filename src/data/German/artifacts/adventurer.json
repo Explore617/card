@@ -1,0 +1,35 @@
+{
+	"name": "Abenteurer",
+	"rarity": [
+		"1",
+		"2",
+		"3"
+	],
+	"2pc": "Erhöht die max. LP um 1000.",
+	"4pc": "Stellt nach dem Öffnen jeglicher Truhen 5 s lang 30 % LP wieder her.",
+	"flower": {
+		"name": "Blume eines Abenteurers",
+		"relictype": "Blume des Lebens",
+		"description": "Ein Blümchen, das die harten Bedingungen inmitten einer alten Stadt überlebt hat und nun voller Stolz vor der Brust getragen wird."
+	},
+	"plume": {
+		"name": "Abenteurerschwanzfeder",
+		"relictype": "Feder des Todes",
+		"description": "Die Feder eines exotischen Vogels, den man hierzulande selten sieht."
+	},
+	"sands": {
+		"name": "Taschenuhr eines Abenteurers",
+		"relictype": "Sand der Zeit",
+		"description": "Abenteurer vergessen in tiefen Abgründen und alten Ruinen oft die Zeit."
+	},
+	"goblet": {
+		"name": "Goldkelch eines Abenteurers",
+		"relictype": "Kelch der Leere",
+		"description": "Die Beute eines Abenteurers von einer seiner Reisen, auf die man trotz der Einkerbungen stolz sein kann."
+	},
+	"circlet": {
+		"name": "Kopftuch eines Abenteurers",
+		"relictype": "Haarreif der Vernunft",
+		"description": "Ein Tuch, das man sich um die Stirn wickelt. Es ist voller Schweiß und mit Dreck bedeckt, ist aber der ganze Stolz eines Abenteurers."
+	}
+}

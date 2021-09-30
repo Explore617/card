@@ -1,0 +1,153 @@
+{
+	"name": "Amber",
+	"title": "Flugmeister",
+	"description": "Ein Mädchen voller Lebenskraft und gleichzeitig die beste, wenn auch einzig verbliebene, Kundschafterin des Ordo Favonius.",
+	"rarity": "4",
+	"element": "Pyro",
+	"weapontype": "Bogen",
+	"substat": "ANG",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordo Favonius",
+	"birthdaymmdd": "8/10",
+	"birthday": "10. August",
+	"constellation": "Lepus",
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "石見舞菜香",
+		"korean": "김연우"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Agnidus-Achat-Splitter",
+				"count": 1
+			},
+			{
+				"name": "Lampenkraut",
+				"count": 3
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Agnidus-Achat-Bruchstück",
+				"count": 3
+			},
+			{
+				"name": "Fluxfeuersamen",
+				"count": 2
+			},
+			{
+				"name": "Lampenkraut",
+				"count": 10
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Agnidus-Achat-Bruchstück",
+				"count": 6
+			},
+			{
+				"name": "Fluxfeuersamen",
+				"count": 4
+			},
+			{
+				"name": "Lampenkraut",
+				"count": 20
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Agnidus-Achat-Brocken",
+				"count": 3
+			},
+			{
+				"name": "Fluxfeuersamen",
+				"count": 8
+			},
+			{
+				"name": "Lampenkraut",
+				"count": 30
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Agnidus-Achat-Brocken",
+				"count": 6
+			},
+			{
+				"name": "Fluxfeuersamen",
+				"count": 12
+			},
+			{
+				"name": "Lampenkraut",
+				"count": 45
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Agnidus-Achat",
+				"count": 6
+			},
+			{
+				"name": "Fluxfeuersamen",
+				"count": 20
+			},
+			{
+				"name": "Lampenkraut",
+				"count": 60
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 24
+			}
+		]
+	}
+}

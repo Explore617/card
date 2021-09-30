@@ -1,0 +1,211 @@
+{
+	"name": "Xinyan",
+	"combat1": {
+		"name": "Ataque Normal: Dança do Fogo",
+		"info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano de Loop de Ataque Carregado|{param5:F1P}",
+				"Dano Final de Ataque Carregado|{param6:P}",
+				"Consumo de Stamina de Ataque Carregado|{param7:F1}/s",
+				"Duração Máxima|{param8:F1}s",
+				"Dano Durante a Queda|{param9:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Fervor Arrebatador",
+		"info": "Xinyan brande seu instrumento, causando Dano Pyro em inimigos próximos, criando um escudo feito a partir da paixão de seu público.\nA absorção de Dano do escudo aumenta com base na DEF de Xinyan e no número de inimigos atingidos.\nAtingir de 0-1 inimigo concede Escudo Nível 1: Improviso.\nAtingir 2 inimigos concede Escudo Nível 2: Introdução.\nAtingir 3 ou mais inimigos concede Escudo Nível 3: Rave, que também causará Dano Pyro periodicamente aos inimigos próximos.\n\nO escudo tem as seguintes propriedades especiais:\nQuando ativado, ele aplica o elemento Pyro em Xinyan.\nTem 250% de eficácia de absorção de Dano contra Dano Pyro.",
+		"description": "Xinyan insiste que essas pirotecnias representam o ápice da arte da performance e que são fenômenos físicos que nada têm a ver com sua Visão.",
+		"attributes": {
+			"labels": [
+				"Dano de Balanço|{param1:P}",
+				"Absorção de Escudo Nv.1|{param2:F1P} da DEF + {param3:I}",
+				"Absorção de Escudo Nv.2|{param4:F1P} da DEF + {param5:I}",
+				"Absorção de Escudo Nv.3|{param6:F1P} da DEF + {param7:I}",
+				"Dano Contínuo|{param8:F1P}",
+				"Duração do Escudo|{param9:F1}s",
+				"Recarga|{param10:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Melodia da Rebelião",
+		"info": "Tocando sua música rápidamente, Xinyan lança os inimigos próximos e causa Dano Físico neles, hipnotizando a multidão.\nA pura intensidade da atmosfera causará explosões que causam Dano Pyro aos inimigos próximos.",
+		"description": "Xinyan costumava terminar todas as suas performances com esse movimento. Ela não parou porque era perigoso, mas sim porque ela não tinha um final mais épico no caso de alguém gritar \"Mais!\".",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}",
+				"Dano Contínuo Pyro|{param2:P}",
+				"Duração|{param5:F1}s",
+				"Tempo de Recarga|{param3:F1}s",
+				"Energia Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "\"O espetáculo deve continuar...\"",
+		"info": "Diminui o número de inimigos que **Fervor Arrebatador** precisa acertar para acionar cada nível do escudo.\nEscudo Nível 2: Introdução, requerimento reduzido a 1 inimigo atingido.\nEscudo Nível 3: Rave, requerimento reduzido a 2 inimigos atingidos ou mais."
+	},
+	"passive2": {
+		"name": "\"...Isso sim é Rock 'n' Roll!\"",
+		"info": "Personagens protegidos por **Fervor Arrebatador** causam 15% mais Dano Físico."
+	},
+	"passive3": {
+		"name": "Uma Receita Radical",
+		"info": "Quando uma Culinária Perfeita é feita em uma comida de aumento de DEF, Xinyan tem uma chance de 12% de receber o dobro de produção."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Ouro",
+				"count": 3
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 2
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 4
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 6
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 9
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 4
+			},
+			{
+				"name": "Chifre de Baleia Come-Céu",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 6
+			},
+			{
+				"name": "Chifre de Baleia Come-Céu",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 12
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 9
+			},
+			{
+				"name": "Chifre de Baleia Come-Céu",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 16
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 12
+			},
+			{
+				"name": "Chifre de Baleia Come-Céu",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

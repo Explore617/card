@@ -1,0 +1,35 @@
+{
+	"name": "Tea Break Pancake",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Revives the selected character.\nRestores 250–550 HP.",
+	"description": "A stack of round pancakes. A staple originating from afternoon tea in manors. Only the best berries should be picked for this dish.",
+	"suspicious": {
+		"effect": "Revives a character and restores 250 HP.",
+		"description": "A stack of round pancakes. A burnt scent masks what you can only assume should be a sweet taste. The berries are the only thing saving this dish."
+	},
+	"normal": {
+		"effect": "Revives a character and restores 400 HP.",
+		"description": "A stack of round pancakes. A staple originating from afternoon tea in manors. Only the best berries should be picked for this dish."
+	},
+	"delicious": {
+		"effect": "Revives a character and restores 550 HP.",
+		"description": "A stack of round pancakes. Tender and fluffy, the sweet-smelling pancakes taste like clouds. A heavenly delicacy, no doubt."
+	},
+	"ingredients": [
+		{
+			"name": "Berry",
+			"count": 3
+		},
+		{
+			"name": "Flour",
+			"count": 2
+		},
+		{
+			"name": "Bird Egg",
+			"count": 1
+		}
+	]
+}

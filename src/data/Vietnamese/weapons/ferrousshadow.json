@@ -1,0 +1,142 @@
+{
+	"name": "Kiếm Thiết Ảnh",
+	"description": "Đây là bội kiếm nổi tiếng của Arundolyn, sư tử ánh sáng. Nắm giữ nó, cảm nhận sức mạnh của anh hùng trong truyền thuyết! Chú ý: Mơ mộng cũng phải có mức độ.",
+	"weapontype": "Trọng Kiếm",
+	"rarity": "3",
+	"baseatk": 39,
+	"substat": "HP",
+	"subvalue": "7.7",
+	"effectname": "Bất Khuất",
+	"effect": "Khi HP dưới {0}, trọng kích khó bị ngắt đoạn, và tăng {1} sát thương trọng kích.",
+	"r1": [
+		"70%",
+		"30%"
+	],
+	"r2": [
+		"75%",
+		"35%"
+	],
+	"r3": [
+		"80%",
+		"40%"
+	],
+	"r4": [
+		"85%",
+		"45%"
+	],
+	"r5": [
+		"90%",
+		"50%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ngói Vỡ Tháp Cô Vương",
+				"count": 2
+			},
+			{
+				"name": "Sừng Nặng",
+				"count": 2
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Xác Tàu Tháp Cô Vương",
+				"count": 2
+			},
+			{
+				"name": "Sừng Nặng",
+				"count": 8
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Xác Tàu Tháp Cô Vương",
+				"count": 4
+			},
+			{
+				"name": "Sừng Đồng Đen",
+				"count": 4
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Vỡ Tháp Cô Vương",
+				"count": 2
+			},
+			{
+				"name": "Sừng Đồng Đen",
+				"count": 8
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Mảnh Vỡ Tháp Cô Vương",
+				"count": 4
+			},
+			{
+				"name": "Sừng Hắc Tinh",
+				"count": 6
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mảnh Giấc Mơ Tháp Cô Vương",
+				"count": 3
+			},
+			{
+				"name": "Sừng Hắc Tinh",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 8
+			}
+		]
+	}
+}

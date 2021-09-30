@@ -1,0 +1,35 @@
+{
+	"name": "Bánh Khoai Tây Mondstadt",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Hồi 30%-34% giới hạn HP cho nhân vật được chọn, và hồi thêm 600-1900 điểm HP.",
+	"description": "Bánh khoai tây chiên. Một ít quả thông giúp gia tăng khẩu vị. Có thể ăn chung với mứt, được nhiều lứa tuổi yêu thích.",
+	"suspicious": {
+		"effect": "Hồi 30% giới hạn HP cho nhân vật được chọn, và hồi thêm 600 điểm HP.",
+		"description": "Bánh khoai tây chiên. Nghe nói bánh không có mứt hoa quả thì không được mang tên Mondstadt, nhưng hai miếng này... chắc là đến cả khoai tây cũng không phải?"
+	},
+	"normal": {
+		"effect": "Hồi 32% giới hạn HP cho nhân vật được chọn, và hồi thêm 1250 điểm HP.",
+		"description": "Bánh khoai tây chiên. Một ít quả thông giúp gia tăng khẩu vị. Có thể ăn chung với mứt, được nhiều lứa tuổi yêu thích."
+	},
+	"delicious": {
+		"effect": "Hồi 34% giới hạn HP cho nhân vật được chọn, và hồi thêm 1900 điểm HP.",
+		"description": "Bánh khoai tây chiên. Nhắm mắt ăn một miếng bánh nhỏ, đem lại một cảm giác ngọt ngào tươi mới."
+	},
+	"ingredients": [
+		{
+			"name": "Quả Thông",
+			"count": 2
+		},
+		{
+			"name": "Khoai Tây",
+			"count": 1
+		},
+		{
+			"name": "Mứt",
+			"count": 1
+		}
+	]
+}

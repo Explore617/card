@@ -1,0 +1,209 @@
+{
+	"name": "Beidou",
+	"combat1": {
+		"name": "Attaque normale : Conquête des mers",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:P}",
+				"DGT enchaînement attaque chargée|{param6:F1P}",
+				"DGT coup final attaque chargée|{param7:P}",
+				"Coût d'endurance attaque chargée|{param8:F1} pts/s",
+				"Durée max|{param9:F1} s",
+				"DGT durant la chute|{param10:F1P}",
+				"DGT chute basse/élevée|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Invocation des marées",
+		"info": "N'ayez crainte. Que quelqu'un ose s'en prendre à Beidou ou aux siens, et sa lame et le tonnerre lui feront payer au centuple.\n\n**Appui simple**\nBeidou concentre le pouvoir de la foudre sur son épée, et exécute un coup violent qui inflige aux ennemis en face des DGT Électro.\n\n**Appui long**\nBeidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou.\nLorsque vous relâchez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, infligeant des DGT Électro.\nLes DGT infligés augmentent en fonction du nombre d'attaques subies par Beidou pendant la durée de la compétence. Le bonus de DGT maximum est atteint lorsque l'effet est déclenché deux fois.\nLe bouclier a les propriétés suivantes :\n· A 250 % d'efficacité contre les DGT Électro.\n· Applique l'élément Électro à Beidou à l'activation.",
+		"description": "À l'assaut des mers ! À la poursuite des vagues et de la tempête !",
+		"attributes": {
+			"labels": [
+				"PV du bouclier|{param1:F1P} PV max + {param2:I} PV",
+				"DGT de base|{param3:P}",
+				"Bonus de DGT par coup|{param4:P}",
+				"Temps de recharge|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Brisure d'orage",
+		"info": "Se remémorant son combat contre Haishan, la bête géante, Beidou fait appel à la même force destructrice, et crée un bouclier de foudre qui inflige des DGT Électro aux ennemis à proximité.\n\n**Bouclier de foudre**\n· Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des DGT Électro.\n· Augmente la RÉS à l'interruption du personnage et réduit les DGT subis.\n\nAu maximum, une décharge par seconde peut être libérée.Le plus puissant des éclairs peut fendre mers et montagnes.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"DGT décharge|{param2:F1P}",
+				"Réduction DGT|{param3:P}",
+				"Durée|{param4:F1} s",
+				"Temps de recharge|{param5:F1} s",
+				"Énergie élémentaire|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Châtiment",
+		"info": "La contre-attaque d'**Invocation des marées** inflige le maximum de DGT lorsqu'elle est exécutée juste après une attaque."
+	},
+	"passive2": {
+		"name": "Tempête de coups de tonnerre",
+		"info": "**Invocation des marées** confère pendant 10 s les effets suivants lorsque cette aptitude est exécutée avec le maximum de bonus de DGT :\n· Les attaques normales et chargées infligent 15 % de DGT supplémentaires.\n· La VIT des attaques normales et chargées augmente de 15 %.\n· Réduit considérablement le temps de préparation des attaques chargées."
+	},
+	"passive3": {
+		"name": "Braveuse de marée",
+		"info": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de l'Or",
+				"count": 3
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 2
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 4
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 9
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 4
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 4
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 6
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 12
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 9
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 16
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 12
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"name": "Berserker",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "Taxa Crítica +12%",
+	"4pc": "Quando a Vida estiver abaixo de 70%, a Taxa Crítica aumenta 24%.",
+	"flower": {
+		"name": "Rosa de Berserker",
+		"relictype": "Flor da Vida",
+		"description": "Uma flor manchada de vermelho delicada que representa a qualidade do Berserker."
+	},
+	"plume": {
+		"name": "Pluma de Berserker",
+		"relictype": "Pluma da Morte",
+		"description": "Algumas das plumas de cauda azul-marinho do corvo originalmente eram tingidas de vermelho."
+	},
+	"sands": {
+		"name": "Relógio de Berserker",
+		"relictype": "Areia do tempo",
+		"description": "O líquido dentro flui sem piedade. Mostra quanto tempo resta no campo de batalha e neste mundo."
+	},
+	"goblet": {
+		"name": "Taça de Ossos de Berserker",
+		"relictype": "Cálice de Erátema",
+		"description": "Um copo feito dos ossos de bestas gigantes desconhecidas obtidos depois de uma caça."
+	},
+	"circlet": {
+		"name": "Máscara de Batalha de Berserker",
+		"relictype": "Tiara de Logos",
+		"description": "Uma máscara de ferro meio quebrada durante batalhas ferozes."
+	}
+}

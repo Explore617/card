@@ -1,0 +1,137 @@
+{
+	"name": "Anel de Hakushin",
+	"description": "Um catalisador que guarda a memória de Kitsune Saiguu dos tempos passados. E, ainda assim, esse dispositivo é apenas um recipiente empobrecido para toda a amplitude do seu pensamento.",
+	"weapontype": "Catalisador",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Recarga de Energia",
+	"subvalue": "6.7",
+	"effectname": "Palácio de Sakura",
+	"effect": "Depois de o personagem com essa arma equipada desencadear uma reação Electro, os membros da equipe ao redor com Tipo Elemental envolvidos na reação terão Dano Adicional do Elemento em {0}, por 6s. O Dano adicional obtido pelo personagem dessa forma não pode ser acumulado.",
+	"r1": [
+		"10%"
+	],
+	"r2": [
+		"12.5%"
+	],
+	"r3": [
+		"15%"
+	],
+	"r4": [
+		"17.5%"
+	],
+	"r5": [
+		"20%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ramo de Coral de um Mar Distante",
+				"count": 3
+			},
+			{
+				"name": "Prisma Sombrio",
+				"count": 3
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Ramo Perolado de um Mar Distante",
+				"count": 3
+			},
+			{
+				"name": "Prisma Sombrio",
+				"count": 12
+			},
+			{
+				"name": "Pergaminho Guia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Ramo Perolado de um Mar Distante",
+				"count": 6
+			},
+			{
+				"name": "Prisma Cristalino",
+				"count": 6
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Ramo de Jade de um Mar Distante",
+				"count": 3
+			},
+			{
+				"name": "Prisma Cristalino",
+				"count": 12
+			},
+			{
+				"name": "Pergaminho do Encantamento",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Ramo de Jade de um Mar Distante",
+				"count": 6
+			},
+			{
+				"name": "Prisma Polarizado",
+				"count": 9
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Ramo Dourado de um Mar Distante",
+				"count": 4
+			},
+			{
+				"name": "Prisma Polarizado",
+				"count": 18
+			},
+			{
+				"name": "Pergaminho da Maldição",
+				"count": 12
+			}
+		]
+	}
+}

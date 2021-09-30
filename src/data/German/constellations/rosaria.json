@@ -1,0 +1,27 @@
+{
+	"name": "Rosaria",
+	"c1": {
+		"name": "Lenkung der Sünden",
+		"effect": "Erhöht Rosarias Angriffs-GSW nach Auslösen eines KT mit einem ihrer Angriffe 4 s lang um 10 % und den mit Standardangriffen verursachten Schaden um 10 %."
+	},
+	"c2": {
+		"name": "Land des Unheils",
+		"effect": "Verlängert die Wirkungsdauer der mit **Letzte Salbung** erschaffenen Eislanze um 4 s."
+	},
+	"c3": {
+		"name": "Beichtritual",
+		"effect": "Erhöht die Stufe der Fähigkeit **Erschütterndes Geständnis** um 3.\nHöchststufe 15."
+	},
+	"c4": {
+		"name": "Bittere Gnade",
+		"effect": "Stellt Rosaria beim Auslösen eines KT mit **Erschütterndes Geständnis** 5 punkte Elementarenergie wieder her.\nDieser Effekt kann pro Erschütterndes Geständnis nur 1-mal ausgelöst werden."
+	},
+	"c5": {
+		"name": "Letztes Gebet",
+		"effect": "Erhöht die Stufe der Fähigkeit **Letzte Salbung** um 3.\nHöchststufe 15."
+	},
+	"c6": {
+		"name": "Im Namen der Götter",
+		"effect": "Verringert mit den Angriffen von **Letzte Salbung** den physischen WDS von Gegnern 10 s lang um 20 %."
+	}
+}

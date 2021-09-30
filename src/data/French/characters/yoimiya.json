@@ -1,0 +1,153 @@
+{
+	"name": "Yoimiya",
+	"title": "Flamme gambadante",
+	"description": "Propriétaire des « Feux de Naganohara ». Connue sous le nom de « Reine du festival d'été », elle excelle dans son art de créer des feux d'artifice qui symbolisent les espoirs et les rêves des gens.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Arc",
+	"substat": "Taux CRIT",
+	"gender": "Femme",
+	"body": "GIRL",
+	"association": "INAZUMA",
+	"region": "Inazuma",
+	"affiliation": "Feux de Naganohara",
+	"birthdaymmdd": "6/21",
+	"birthday": "21 juin",
+	"constellation": "Carassius Auratus",
+	"cv": {
+		"english": "Jenny Yokobori",
+		"chinese": "金娜",
+		"japanese": "植田佳奈",
+		"korean": "박신희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Éclat d'agate agnidus",
+				"count": 1
+			},
+			{
+				"name": "Herbe à sanglots",
+				"count": 3
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragment d'agate agnidus",
+				"count": 3
+			},
+			{
+				"name": "Perle brûlante",
+				"count": 2
+			},
+			{
+				"name": "Herbe à sanglots",
+				"count": 10
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragment d'agate agnidus",
+				"count": 6
+			},
+			{
+				"name": "Perle brûlante",
+				"count": 4
+			},
+			{
+				"name": "Herbe à sanglots",
+				"count": 20
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Morceau d'agate agnidus",
+				"count": 3
+			},
+			{
+				"name": "Perle brûlante",
+				"count": 8
+			},
+			{
+				"name": "Herbe à sanglots",
+				"count": 30
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Morceau d'agate agnidus",
+				"count": 6
+			},
+			{
+				"name": "Perle brûlante",
+				"count": 12
+			},
+			{
+				"name": "Herbe à sanglots",
+				"count": 45
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Pierre d'agate agnidus",
+				"count": 6
+			},
+			{
+				"name": "Perle brûlante",
+				"count": 20
+			},
+			{
+				"name": "Herbe à sanglots",
+				"count": 60
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 24
+			}
+		]
+	}
+}

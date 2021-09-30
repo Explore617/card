@@ -1,0 +1,39 @@
+{
+	"name": "Crab, Ham & Veggie Bake",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 900–1500 HP.",
+	"description": "Kue yang terlihat mewah. Di balik kulit luarnya yang keemasan, terlihat daging ham dan sayuran yang segar. Paduan warnanya mengundang selera makan!",
+	"suspicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 900 HP.",
+		"description": "Kue yang terlihat mewah. Dari tampak luarnya, tidak ada yang bisa menebak apa yang ada di dalamnya, dan apa sebenarnya yang kurang."
+	},
+	"normal": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 1.200 HP.",
+		"description": "Kue yang terlihat mewah. Di balik kulit luarnya yang keemasan, terlihat daging ham dan sayuran yang segar. Paduan warnanya mengundang selera makan!"
+	},
+	"delicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 1.500 HP.",
+		"description": "Kue yang terlihat mewah. Aroma kepiting segar sudah tercium sebelum dimasukkan ke dalam mulut, membuatmu tahu sepiring saja pasti tidak akan cukup puas."
+	},
+	"ingredients": [
+		{
+			"name": "Crab Roe",
+			"count": 1
+		},
+		{
+			"name": "Ham",
+			"count": 1
+		},
+		{
+			"name": "Cream",
+			"count": 1
+		},
+		{
+			"name": "Cabbage",
+			"count": 1
+		}
+	]
+}

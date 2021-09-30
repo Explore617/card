@@ -1,0 +1,35 @@
+{
+	"name": "Rau Củ Hầm Kem",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Mạo Hiểm",
+	"foodcategory": "Other_SPReduceConsume",
+	"effect": "Giảm 15%-25% tiêu hao thể lực cho toàn thành viên đội khi xung kích, kéo dài 900s\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+	"description": "Món thập cẩm hầm kem. Súp đặc tăng mùi vị thơm ngon, ăn vào mềm mại ấm nóng.",
+	"suspicious": {
+		"effect": "Giảm 15% tiêu hao thể lực cho toàn thành viên đội khi xung kích, kéo dài 900s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Món thập cẩm hầm kem. Rút hết nước làm cho món này trông như thịt chiên trên vỉ sắt."
+	},
+	"normal": {
+		"effect": "Giảm 20% tiêu hao thể lực cho toàn thành viên đội khi xung kích, kéo dài 900s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Món thập cẩm hầm kem. Súp đặc tăng mùi vị thơm ngon, ăn vào mềm mại ấm nóng."
+	},
+	"delicious": {
+		"effect": "Giảm 25% tiêu hao thể lực cho toàn thành viên đội khi xung kích, kéo dài 900s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Món thập cẩm hầm kem. Rau củ kết hợp với kem tan trong miệng, giống như đang ngâm mình trong hồ sữa."
+	},
+	"ingredients": [
+		{
+			"name": "Thịt Rừng",
+			"count": 2
+		},
+		{
+			"name": "Kem",
+			"count": 2
+		},
+		{
+			"name": "Cỏ Kim Ngư",
+			"count": 1
+		}
+	]
+}

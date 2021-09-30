@@ -1,0 +1,10 @@
+{
+	"name": "Seegras",
+	"description": "Eine Pflanze, die in flachen Meeren wächst. Sie verleiht den Gerichten einen einzigartigen Geschmack.",
+	"sortorder": 1332,
+	"category": "EXCHANGE",
+	"materialtype": "Zutat",
+	"source": [
+		"An Gewässern in Inazuma zu finden"
+	]
+}

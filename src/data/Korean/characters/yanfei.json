@@ -1,0 +1,153 @@
+{
+	"name": "연비",
+	"title": "순수한 지혜",
+	"description": "리월항에서 활동하는 유명 법률 자문가. 신수의 피가 흐르는 영리한 소녀이다",
+	"rarity": "4",
+	"element": "불",
+	"weapontype": "법구",
+	"substat": "불 원소 피해 보너스",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "리월항",
+	"birthdaymmdd": "7/28",
+	"birthday": "7월 28일",
+	"constellation": "법수자리",
+	"cv": {
+		"english": "Lizzie Freeman",
+		"chinese": "苏子芜",
+		"japanese": "하나모리 유미리",
+		"korean": "조경이"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "불타오르는 마노 가루",
+				"count": 1
+			},
+			{
+				"name": "야박석",
+				"count": 3
+			},
+			{
+				"name": "보물찾기 까마귀 휘장",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "불타오르는 마노 조각",
+				"count": 3
+			},
+			{
+				"name": "설익은 옥",
+				"count": 2
+			},
+			{
+				"name": "야박석",
+				"count": 10
+			},
+			{
+				"name": "보물찾기 까마귀 휘장",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "불타오르는 마노 조각",
+				"count": 6
+			},
+			{
+				"name": "설익은 옥",
+				"count": 4
+			},
+			{
+				"name": "야박석",
+				"count": 20
+			},
+			{
+				"name": "실버 까마귀 휘장",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "불타오르는 마노 덩이",
+				"count": 3
+			},
+			{
+				"name": "설익은 옥",
+				"count": 8
+			},
+			{
+				"name": "야박석",
+				"count": 30
+			},
+			{
+				"name": "실버 까마귀 휘장",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "불타오르는 마노 덩이",
+				"count": 6
+			},
+			{
+				"name": "설익은 옥",
+				"count": 12
+			},
+			{
+				"name": "야박석",
+				"count": 45
+			},
+			{
+				"name": "골드 까마귀 휘장",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "불타오르는 마노",
+				"count": 6
+			},
+			{
+				"name": "설익은 옥",
+				"count": 20
+			},
+			{
+				"name": "야박석",
+				"count": 60
+			},
+			{
+				"name": "골드 까마귀 휘장",
+				"count": 24
+			}
+		]
+	}
+}

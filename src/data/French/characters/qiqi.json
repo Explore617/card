@@ -1,0 +1,153 @@
+{
+	"name": "Qiqi",
+	"title": "Renaissance gelée",
+	"description": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Épée à une main",
+	"substat": "Bonus de soins",
+	"gender": "Femme",
+	"body": "LOLI",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Cottage Bubu",
+	"birthdaymmdd": "3/3",
+	"birthday": "3 mars",
+	"constellation": "Pristina Nola",
+	"cv": {
+		"english": "Christie Cate",
+		"chinese": "宴宁",
+		"japanese": "田村ゆかり",
+		"korean": "이슬"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Éclat de jade shivada",
+				"count": 1
+			},
+			{
+				"name": "Muguet bleu",
+				"count": 3
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragment de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Duramen de glace",
+				"count": 2
+			},
+			{
+				"name": "Muguet bleu",
+				"count": 10
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragment de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Duramen de glace",
+				"count": 4
+			},
+			{
+				"name": "Muguet bleu",
+				"count": 20
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Morceau de jade shivada",
+				"count": 3
+			},
+			{
+				"name": "Duramen de glace",
+				"count": 8
+			},
+			{
+				"name": "Muguet bleu",
+				"count": 30
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Morceau de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Duramen de glace",
+				"count": 12
+			},
+			{
+				"name": "Muguet bleu",
+				"count": 45
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Pierre de jade shivada",
+				"count": 6
+			},
+			{
+				"name": "Duramen de glace",
+				"count": 20
+			},
+			{
+				"name": "Muguet bleu",
+				"count": 60
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 24
+			}
+		]
+	}
+}

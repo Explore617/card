@@ -1,0 +1,142 @@
+{
+	"name": "Cortador de Jade Primordial",
+	"description": "Una espada para ceremonias hecha con esencia de jade puro muy finamente tallado. El viento que se produce al blandirla emite un sonido parecido al de un suspiro.",
+	"weapontype": "Espada ligera",
+	"rarity": "5",
+	"baseatk": 44,
+	"substat": "Prob. CRIT",
+	"subvalue": "9.6",
+	"effectname": "Pureza del protector",
+	"effect": "Aumenta la Vida en un {0}. Además, el personaje que lleve esta arma equipada obtendrá un {1} de Bono de ATQ en proporción a su Vida Máx.",
+	"r1": [
+		"20%",
+		"1.2%"
+	],
+	"r2": [
+		"25%",
+		"1.5%"
+	],
+	"r3": [
+		"30%",
+		"1.8%"
+	],
+	"r4": [
+		"35%",
+		"2.1%"
+	],
+	"r5": [
+		"40%",
+		"2.4%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Perdigones de plomo",
+				"count": 5
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 5
+			},
+			{
+				"name": "Insignia de cuervo de bronce",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Perdigones de mercurio",
+				"count": 5
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 18
+			},
+			{
+				"name": "Insignia de cuervo de bronce",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Perdigones de mercurio",
+				"count": 9
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 9
+			},
+			{
+				"name": "Insignia de cuervo plateada",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Perdigones de oro",
+				"count": 5
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 18
+			},
+			{
+				"name": "Insignia de cuervo plateada",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Perdigones de oro",
+				"count": 9
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 14
+			},
+			{
+				"name": "Insignia de cuervo dorada",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Perdigones primordiales",
+				"count": 6
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 27
+			},
+			{
+				"name": "Insignia de cuervo dorada",
+				"count": 18
+			}
+		]
+	}
+}

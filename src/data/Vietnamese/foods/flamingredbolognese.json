@@ -1,0 +1,35 @@
+{
+	"name": "Mỳ Sốt Thịt",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Hồi 18%-22% giới hạn HP cho nhân vật được chọn.\nTrong 30s tiếp theo, mỗi 5s hồi 300-470 HP.",
+	"description": "Sợi mì thấm đầy nước thịt. Sốt cà chua khiến sợi mì trông đỏ tươi, chua ngọt vừa miệng.",
+	"suspicious": {
+		"effect": "Lập tức hồi 18% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 300 HP.",
+		"description": "Sợi mì thấm đầy nước thịt. Hơi dính răng khó chịu."
+	},
+	"normal": {
+		"effect": "Lập tức hồi 20% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 390 HP.",
+		"description": "Sợi mì thấm đầy nước thịt. Sốt cà chua khiến sợi mì trông đỏ tươi, chua ngọt vừa miệng."
+	},
+	"delicious": {
+		"effect": "Lập tức hồi 22% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 470 HP.",
+		"description": "Sợi mì thấm đầy nước thịt. Thơm ngon đến sợi cuối cùng."
+	},
+	"ingredients": [
+		{
+			"name": "Bột Mì",
+			"count": 2
+		},
+		{
+			"name": "Thịt Rừng",
+			"count": 2
+		},
+		{
+			"name": "Cà Chua",
+			"count": 1
+		}
+	]
+}

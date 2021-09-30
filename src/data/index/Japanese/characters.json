@@ -1,0 +1,1160 @@
+{
+	"namemap": {
+		"aether": "空",
+		"albedo": "アルベド",
+		"aloy": "アーロイ",
+		"amber": "アンバー",
+		"barbara": "バーバラ",
+		"beidou": "北斗",
+		"bennett": "ベネット",
+		"chongyun": "重雲",
+		"diluc": "ディルック",
+		"diona": "ディオナ",
+		"eula": "エウルア",
+		"fischl": "フィッシュル",
+		"ganyu": "甘雨",
+		"hutao": "胡桃",
+		"jean": "ジン",
+		"kaedeharakazuha": "楓原万葉",
+		"kaeya": "ガイア",
+		"kamisatoayaka": "神里綾華",
+		"keqing": "刻晴",
+		"klee": "クレー",
+		"kujousara": "九条裟羅",
+		"lisa": "リサ",
+		"lumine": "蛍",
+		"mona": "モナ",
+		"ningguang": "凝光",
+		"noelle": "ノエル",
+		"qiqi": "七七",
+		"raidenshogun": "雷電将軍",
+		"razor": "レザー",
+		"rosaria": "ロサリア",
+		"sangonomiyakokomi": "珊瑚宮心海",
+		"sayu": "早柚",
+		"sucrose": "スクロース",
+		"tartaglia": "タルタリヤ",
+		"venti": "ウェンティ",
+		"xiangling": "香菱",
+		"xiao": "魈",
+		"xingqiu": "行秋",
+		"xinyan": "辛炎",
+		"yanfei": "煙緋",
+		"yoimiya": "宵宮",
+		"zhongli": "鍾離"
+	},
+	"names": {
+		"空": "aether",
+		"アルベド": "albedo",
+		"アーロイ": "aloy",
+		"アンバー": "amber",
+		"バーバラ": "barbara",
+		"北斗": "beidou",
+		"ベネット": "bennett",
+		"重雲": "chongyun",
+		"ディルック": "diluc",
+		"ディオナ": "diona",
+		"エウルア": "eula",
+		"フィッシュル": "fischl",
+		"甘雨": "ganyu",
+		"胡桃": "hutao",
+		"ジン": "jean",
+		"楓原万葉": "kaedeharakazuha",
+		"ガイア": "kaeya",
+		"神里綾華": "kamisatoayaka",
+		"刻晴": "keqing",
+		"クレー": "klee",
+		"九条裟羅": "kujousara",
+		"リサ": "lisa",
+		"蛍": "lumine",
+		"モナ": "mona",
+		"凝光": "ningguang",
+		"ノエル": "noelle",
+		"七七": "qiqi",
+		"雷電将軍": "raidenshogun",
+		"レザー": "razor",
+		"ロサリア": "rosaria",
+		"珊瑚宮心海": "sangonomiyakokomi",
+		"早柚": "sayu",
+		"スクロース": "sucrose",
+		"タルタリヤ": "tartaglia",
+		"ウェンティ": "venti",
+		"香菱": "xiangling",
+		"魈": "xiao",
+		"行秋": "xingqiu",
+		"辛炎": "xinyan",
+		"煙緋": "yanfei",
+		"宵宮": "yoimiya",
+		"鍾離": "zhongli"
+	},
+	"aliases": {
+		"旅人座": "lumine",
+		"白亜の申し子": "albedo",
+		"白亜の申し子座": "albedo",
+		"「異世界の救世主」": "aloy",
+		"ノラの義勇兵座": "aloy",
+		"飛行チャンピオン": "amber",
+		"小兎座": "amber",
+		"キラキラアイドル": "barbara",
+		"金杯座": "barbara",
+		"無冠の龍王": "beidou",
+		"南天海山座": "beidou",
+		"運命の試金石": "bennett",
+		"岐路座": "bennett",
+		"雪消の跡": "chongyun",
+		"乾坤鋒座": "chongyun",
+		"アカツキの裏面": "diluc",
+		"夜梟座": "diluc",
+		"キャッツテールスペシャル": "diona",
+		"子猫座": "diona",
+		"波沫のワルツ": "eula",
+		"波沫座": "eula",
+		"断罪の皇女！！": "fischl",
+		"幻ノ鴉座": "fischl",
+		"循々守月": "ganyu",
+		"仙麟座": "ganyu",
+		"雪晴梅香": "hutao",
+		"彼岸蝶座": "hutao",
+		"蒲公英騎士": "jean",
+		"仔獅子座": "jean",
+		"風波流浪の紅葉": "kaedeharakazuha",
+		"紅葉座": "kaedeharakazuha",
+		"寒風の剣士": "kaeya",
+		"孔雀羽座": "kaeya",
+		"白鷺氷華": "kamisatoayaka",
+		"雪鶴座": "kamisatoayaka",
+		"疾雷快雨": "keqing",
+		"紫金錘重座": "keqing",
+		"逃げ回る太陽": "klee",
+		"四つ葉座": "klee",
+		"黒羽鳴鏑": "kujousara",
+		"羽団扇座": "kujousara",
+		"薔薇の魔女": "lisa",
+		"砂時計座": "lisa",
+		"星天水鏡": "mona",
+		"映天座": "mona",
+		"月を覆う天権": "ningguang",
+		"璣衡儀座": "ningguang",
+		"騎士道の花咲": "noelle",
+		"心護座": "noelle",
+		"冷たき黄泉帰り": "qiqi",
+		"法鈴座": "qiqi",
+		"一心浄土": "raidenshogun",
+		"天下人座": "raidenshogun",
+		"狼少年": "razor",
+		"狼座": "razor",
+		"荊冠の恩典": "rosaria",
+		"荊冠座": "rosaria",
+		"真珠の智": "sangonomiyakokomi",
+		"睡竜座": "sangonomiyakokomi",
+		"忍びの里の貉": "sayu",
+		"子貉座": "sayu",
+		"無害の甘味": "sucrose",
+		"フラスコ座": "sucrose",
+		"「公子」": "tartaglia",
+		"空鯨座": "tartaglia",
+		"風色の詩人": "venti",
+		"歌仙座": "venti",
+		"万民百味": "xiangling",
+		"長杓座": "xiangling",
+		"護法夜叉": "xiao",
+		"金翼鵬王座": "xiao",
+		"少壮気鋭": "xingqiu",
+		"錦織座": "xingqiu",
+		"爆熱リズム": "xinyan",
+		"紅檀四弦座": "xinyan",
+		"無邪気な知恵": "yanfei",
+		"法獣座": "yanfei",
+		"琉焔に舞う大輪": "yoimiya",
+		"琉金座": "yoimiya",
+		"浮世閑歩": "zhongli",
+		"岩王帝君座": "zhongli"
+	},
+	"categories": {
+		"4": [
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diona",
+			"fischl",
+			"kaeya",
+			"kujousara",
+			"lisa",
+			"ningguang",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xingqiu",
+			"xinyan",
+			"yanfei"
+		],
+		"5": [
+			"aether",
+			"albedo",
+			"aloy",
+			"diluc",
+			"eula",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"lumine",
+			"mona",
+			"qiqi",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"yoimiya",
+			"zhongli"
+		],
+		"無": [
+			"aether",
+			"lumine"
+		],
+		"片手剣": [
+			"aether",
+			"albedo",
+			"bennett",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"lumine",
+			"qiqi",
+			"xingqiu"
+		],
+		"攻撃力": [
+			"aether",
+			"amber",
+			"chongyun",
+			"fischl",
+			"kujousara",
+			"lumine",
+			"rosaria",
+			"xingqiu",
+			"xinyan"
+		],
+		"男": [
+			"aether",
+			"albedo",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"kaedeharakazuha",
+			"kaeya",
+			"razor",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"xingqiu",
+			"zhongli"
+		],
+		"モラ": [
+			"aether",
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"輝くダイヤ·砕屑": [
+			"aether",
+			"lumine"
+		],
+		"風車アスター": [
+			"aether",
+			"bennett",
+			"lumine",
+			"sucrose"
+		],
+		"破損した仮面": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"輝くダイヤ·欠片": [
+			"aether",
+			"lumine"
+		],
+		"汚れた仮面": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"輝くダイヤ·塊": [
+			"aether",
+			"lumine"
+		],
+		"不吉な仮面": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"輝くダイヤ": [
+			"aether",
+			"lumine"
+		],
+		"岩": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"岩元素ダメージ": [
+			"albedo",
+			"ningguang",
+			"zhongli"
+		],
+		"Mondstadt": [
+			"albedo",
+			"amber",
+			"barbara",
+			"bennett",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"jean",
+			"kaeya",
+			"klee",
+			"lisa",
+			"mona",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sucrose",
+			"venti"
+		],
+		"9月": [
+			"albedo",
+			"chongyun",
+			"kamisatoayaka",
+			"razor"
+		],
+		"堅牢なトパーズ·砕屑": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"セシリアの花": [
+			"albedo",
+			"venti"
+		],
+		"占いの絵巻": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"堅牢なトパーズ·欠片": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"玄岩の塔": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"封魔の絵巻": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"堅牢なトパーズ·塊": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"禁呪の絵巻": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"堅牢なトパーズ": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"氷": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"弓": [
+			"aloy",
+			"amber",
+			"diona",
+			"fischl",
+			"ganyu",
+			"kujousara",
+			"tartaglia",
+			"venti",
+			"yoimiya"
+		],
+		"氷元素ダメージ": [
+			"aloy",
+			"diona"
+		],
+		"女": [
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"4月": [
+			"aloy",
+			"diluc",
+			"xiao"
+		],
+		"哀切なアイスクリスタル·砕屑": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"晶化骨髄": [
+			"aloy",
+			"sayu"
+		],
+		"フライムの乾核": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"哀切なアイスクリスタル·欠片": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"凝結の華": [
+			"aloy",
+			"eula"
+		],
+		"フライムの幽核": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"哀切なアイスクリスタル·塊": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"フライムの晶化核": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"哀切なアイスクリスタル": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"炎": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"8月": [
+			"amber",
+			"mona",
+			"ningguang"
+		],
+		"炎願のアゲート·砕屑": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"イグサ": [
+			"amber",
+			"diluc",
+			"fischl"
+		],
+		"牢固な矢先": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"炎願のアゲート·欠片": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"常燃の火種": [
+			"amber",
+			"bennett",
+			"diluc",
+			"klee",
+			"xiangling",
+			"xinyan"
+		],
+		"鋭利な矢先": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"炎願のアゲート·塊": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"歴戦の矢先": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"炎願のアゲート": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"水": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"法器": [
+			"barbara",
+			"klee",
+			"lisa",
+			"mona",
+			"ningguang",
+			"sangonomiyakokomi",
+			"sucrose",
+			"yanfei"
+		],
+		"HP": [
+			"barbara"
+		],
+		"7月": [
+			"barbara",
+			"hutao",
+			"klee",
+			"kujousara",
+			"tartaglia",
+			"yanfei"
+		],
+		"澄明なラピスラズリ·砕屑": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"慕風のマッシュルーム": [
+			"barbara",
+			"klee",
+			"mona"
+		],
+		"澄明なラピスラズリ·欠片": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"浄水の心": [
+			"barbara",
+			"mona",
+			"tartaglia",
+			"xingqiu"
+		],
+		"澄明なラピスラズリ·塊": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"澄明なラピスラズリ": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"雷": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"両手剣": [
+			"beidou",
+			"chongyun",
+			"diluc",
+			"eula",
+			"noelle",
+			"razor",
+			"sayu",
+			"xinyan"
+		],
+		"雷元素ダメージ": [
+			"beidou"
+		],
+		"Liyue": [
+			"beidou",
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"2月": [
+			"beidou",
+			"bennett",
+			"sangonomiyakokomi"
+		],
+		"最勝のアメシスト·砕屑": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"夜泊石": [
+			"beidou",
+			"yanfei"
+		],
+		"宝探しの鴉マーク": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"最勝のアメシスト·欠片": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"雷光のプリズム": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"lisa",
+			"razor"
+		],
+		"シルバーの鴉マーク": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"最勝のアメシスト·塊": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"ゴールドの鴉マーク": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"最勝のアメシスト": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"元素チャージ効率": [
+			"bennett",
+			"kaeya",
+			"mona",
+			"raidenshogun",
+			"venti"
+		],
+		"石珀": [
+			"chongyun",
+			"keqing",
+			"zhongli"
+		],
+		"極寒のコア": [
+			"chongyun",
+			"diona",
+			"ganyu",
+			"kaeya",
+			"qiqi",
+			"rosaria"
+		],
+		"会心率": [
+			"diluc",
+			"xiao",
+			"yoimiya"
+		],
+		"新兵の記章": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"士官の記章": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"尉官の記章": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"1月": [
+			"diona",
+			"rosaria"
+		],
+		"ドドリアン": [
+			"diona",
+			"kaeya"
+		],
+		"会心ダメージ": [
+			"eula",
+			"ganyu",
+			"hutao",
+			"kamisatoayaka",
+			"keqing"
+		],
+		"10月": [
+			"eula",
+			"kaedeharakazuha",
+			"sayu",
+			"xingqiu",
+			"xinyan"
+		],
+		"蒲公英の種": [
+			"eula",
+			"jean"
+		],
+		"5月": [
+			"fischl"
+		],
+		"12月": [
+			"ganyu",
+			"zhongli"
+		],
+		"清心": [
+			"ganyu",
+			"xiao"
+		],
+		"トリックフラワーの蜜": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"微光花の蜜": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"原素花の蜜": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"長柄武器": [
+			"hutao",
+			"raidenshogun",
+			"rosaria",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"霓裳花": [
+			"hutao",
+			"xingqiu"
+		],
+		"未熟の玉石": [
+			"hutao",
+			"xiao",
+			"yanfei"
+		],
+		"風": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"与える治療効果": [
+			"jean",
+			"qiqi"
+		],
+		"3月": [
+			"jean",
+			"noelle",
+			"qiqi"
+		],
+		"自由のターコイズ·砕屑": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"自由のターコイズ·欠片": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"暴風の種": [
+			"jean",
+			"sucrose",
+			"venti"
+		],
+		"自由のターコイズ·塊": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"自由のターコイズ": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"元素熟知": [
+			"kaedeharakazuha",
+			"lisa",
+			"sayu",
+			"xiangling"
+		],
+		"Inazuma": [
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"kujousara",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"sayu",
+			"yoimiya"
+		],
+		"ウミレイシ": [
+			"kaedeharakazuha"
+		],
+		"魔偶の芯": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"11月": [
+			"kaeya",
+			"keqing",
+			"sucrose",
+			"xiangling"
+		],
+		"緋櫻毬": [
+			"kamisatoayaka"
+		],
+		"古びた鍔": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"恒常からくりの芯": [
+			"kamisatoayaka"
+		],
+		"影打の鍔": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"名刀の鍔": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"炎元素ダメージ": [
+			"klee",
+			"yanfei"
+		],
+		"血石華": [
+			"kujousara"
+		],
+		"雷霆の念珠": [
+			"kujousara",
+			"raidenshogun"
+		],
+		"6月": [
+			"lisa",
+			"raidenshogun",
+			"venti",
+			"yoimiya"
+		],
+		"ヴァルベリー": [
+			"lisa",
+			"noelle",
+			"rosaria"
+		],
+		"スライムの液体": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"スライムの分泌物": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"スライムのピュレ": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"琉璃百合": [
+			"ningguang"
+		],
+		"防御力": [
+			"noelle"
+		],
+		"琉璃袋": [
+			"qiqi",
+			"xinyan"
+		],
+		"天雲草の実": [
+			"raidenshogun"
+		],
+		"物理ダメージ": [
+			"razor"
+		],
+		"ググプラム": [
+			"razor"
+		],
+		"水元素ダメージ": [
+			"sangonomiyakokomi",
+			"tartaglia"
+		],
+		"珊瑚真珠": [
+			"sangonomiyakokomi"
+		],
+		"排他の露": [
+			"sangonomiyakokomi"
+		],
+		"風元素ダメージ": [
+			"sucrose"
+		],
+		"Snezhnaya": [
+			"tartaglia"
+		],
+		"星螺": [
+			"tartaglia"
+		],
+		"絶雲の唐辛子": [
+			"xiangling"
+		],
+		"鳴草": [
+			"yoimiya"
+		],
+		"陰燃の珠": [
+			"yoimiya"
+		]
+	}
+}

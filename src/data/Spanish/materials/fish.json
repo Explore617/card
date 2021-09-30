@@ -1,0 +1,10 @@
+{
+	"name": "Pescado",
+	"description": "Un filete de pescado fresco. Si se cocina adecuadamente, puede ser un plato muy sabroso.",
+	"sortorder": 1282,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrediente culinario",
+	"source": [
+		"Recolectado al atrapar peces"
+	]
+}

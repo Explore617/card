@@ -1,0 +1,142 @@
+{
+	"name": "Skyward Atlas",
+	"description": "บันทึกมวลเมฆที่เป็นเหมือนตัวแทนของ Dvalin และเทพแห่งลมผู้เป็นเจ้าของเดิม ภายในระบุรายละเอียดของสายลมและหมู่เมฆในแดนเหนือ และมีพลังของท้องฟ้าและสายลมอยู่ด้วย",
+	"weapontype": "สื่อเวท",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "พลังโจมตี",
+	"subvalue": "7.2",
+	"effectname": "Wandering Clouds",
+	"effect": "โบนัสความเสียหายธาตุเพิ่มขึ้น {0}; เมื่อการโจมตีปกติถูกเป้าหมายจะมีโอกาส 50% ที่จะได้รับการสนับสนุนจากเบื้องบน โดยภายในเวลา 15 วินาที จะทำการโจมตีศัตรูที่อยู่ใกล้เคียงเองและสร้างความเสียหายเท่ากับ {1} ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 30 วินาที",
+	"r1": [
+		"12%",
+		"160%"
+	],
+	"r2": [
+		"15%",
+		"200%"
+	],
+	"r3": [
+		"18%",
+		"240%"
+	],
+	"r4": [
+		"21%",
+		"280%"
+	],
+	"r5": [
+		"24%",
+		"320%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 5
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 18
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 9
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 9
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 5
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 18
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 9
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 14
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 27
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 18
+			}
+		]
+	}
+}

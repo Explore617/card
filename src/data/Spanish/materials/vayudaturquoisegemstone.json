@@ -1,0 +1,12 @@
+{
+	"name": "Turquesa vayuda",
+	"description": "Material de ascensión de personaje.\\n“Aun así, los vientos cambian de dirección”.\\n“Algún día, soplarán hacia un futuro más brillante...”\\n“Acepta mis bendiciones y vive desde ahora en sosiego”.",
+	"sortorder": 1828,
+	"rarity": "5",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Material de mejora de personaje",
+	"source": [
+		"Obtenido de Hipostasis Anemo (Niv. 75+)",
+		"Sintetizar"
+	]
+}

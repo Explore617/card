@@ -1,0 +1,137 @@
+{
+	"name": "Éclair des impasses",
+	"description": "Une épée droite et noire comme la nuit. Elle appartenait autrefois à un voleur qui rôdait dans les ruelles sombres.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 45,
+	"substat": "Maîtrise élémentaire",
+	"subvalue": "12",
+	"effectname": "Justicier vagabond",
+	"effect": "Augmente les DGT infligés par le personnage de {0}. Cet effet disparaît pendant 5 s lorsque le personnage subit des DGT.",
+	"r1": [
+		"12 %"
+	],
+	"r2": [
+		"15 %"
+	],
+	"r3": [
+		"18 %"
+	],
+	"r4": [
+		"21 %"
+	],
+	"r5": [
+		"24 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Tuile cassée de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 3
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne lourde",
+				"count": 12
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mur abattu de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 6
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 3
+			},
+			{
+				"name": "Corne en bronze noir",
+				"count": 12
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment dispersé de Décabarian",
+				"count": 6
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 9
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Rêve brisé de Décabarian",
+				"count": 4
+			},
+			{
+				"name": "Corne à cristal noir",
+				"count": 18
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 12
+			}
+		]
+	}
+}

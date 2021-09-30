@@ -1,0 +1,35 @@
+{
+	"name": "Pâtes à la bolognaise enflammées",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Restaure 18 à 22 % des PV max du personnage sélectionné.\nEt restaure 300 à 470 PV toutes les 5 s pendant 30 s.",
+	"description": "Pâtes nappées d'une sauce à la viande. Leur apparence et leur goût aigre-doux ouvrent l'appétit.",
+	"suspicious": {
+		"effect": "Restaure immédiatement 18 % des PV max, puis 300 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+		"description": "Pâtes nappées d'une sauce à la viande. Cette dernière est caoutchouteuse et coince facilement entre les dents."
+	},
+	"normal": {
+		"effect": "Restaure immédiatement 20 % des PV max, puis 390 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+		"description": "Pâtes nappées d'une sauce à la viande. Leur apparence et leur goût aigre-doux ouvrent l'appétit."
+	},
+	"delicious": {
+		"effect": "Restaure immédiatement 22 % des PV max, puis 470 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+		"description": "Des pâtes nappées d'une sauce à la viande. Son goût aigre-doux vous fera voyager de la première à la dernière bouchée."
+	},
+	"ingredients": [
+		{
+			"name": "Farine",
+			"count": 2
+		},
+		{
+			"name": "Viande crue",
+			"count": 2
+		},
+		{
+			"name": "Tomate",
+			"count": 1
+		}
+	]
+}

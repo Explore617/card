@@ -1,0 +1,209 @@
+{
+	"name": "Ganyu",
+	"combat1": {
+		"name": "Standardangriff: Himmlische Schießkunst",
+		"info": "**Standardangriff**\nFührt bis zu 6 Pfeilschüsse aus.\n\n**Heftiger Schlag**\nFührt einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Kälte während des Zielens an der Pfeilspitze und verursacht je nach Länge des Aufladens unterschiedliche Effekte:\n- Phase 1: Schießt einen Pfeil mit dem Zustand Kalt und verursacht Kryo-Schaden.\n- Phase 2: Schießt einen Frostblütenpfeil und verursacht Kryo-Schaden. Erblüht nach einem Treffer und verursacht erneut Kryo-Flächenschaden.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P}",
+				"SCH Phase 4|{param4:F1P}",
+				"SCH Phase 5|{param5:F1P}",
+				"SCH Phase 6|{param6:F1P}",
+				"Gezielte Schüsse|{param7:F1P}",
+				"Gezielte Schüsse Aufladephase 1|{param8:P}",
+				"SCH bei Treffern mit Frostblütenpfeilen|{param9:P}",
+				"SCH beim Erblühen von Frostblütenpfeilen|{param10:P}",
+				"SCH beim Fallen|{param11:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Spuren des Qilins",
+		"info": "Ganyu hinterlässt einen Eislotos und geht in Deckung, um den bösen Geistern und Dämonen Kryo-Flächenschaden zuzufügen.\n\n**Eislotos**\n- Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich.\n- Beständigkeit hängt von Ganyus max. LP ab.\n- Erblüht bei Zerstörung oder Ablauf der Dauer und verursacht Kryo-Flächenschaden.",
+		"description": "„Du willst mich gesehen haben? Das musst du dir eingebildet haben. Ich war zu der Zeit noch auf Arbeit.“",
+		"attributes": {
+			"labels": [
+				"Erhaltene LP|{param1:P}",
+				"Fähigkeits-SCH|{param2:P}",
+				"Dauer|{param3:F1} s",
+				"Abklingzeit|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Bändigender Niederschlag",
+		"info": "Konzentriert den Schnee und Frost in der Luft und beschwört eine Eisseelenperle, die das Böse vertreibt.\nDie Eisseelenperle lässt während der Wirkungsdauer fortlaufend Eiszapfen fallen, die den Gegnern im Wirkungsbereich Kryo-Schaden zufügen.",
+		"description": "Ohne Frage kann Ganyu einen erfrischenden Sommerregen fallen lassen. Für böse Kräfte jedoch zieht ein rauer Schneesturm auf.",
+		"attributes": {
+			"labels": [
+				"Eiszapfen-SCH|{param1:P}",
+				"Dauer|{param2:F1} s",
+				"Abklingzeit|{param3:F1} s",
+				"Elementarenergie|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Eintracht",
+		"info": "Erhöht nach dem Abschießen von Frostblütenpfeilen die KT folgender Frostblütenpfeile sowie der im Anschluss erblühenden Frostblüten 5 s lang um 20 %."
+	},
+	"passive2": {
+		"name": "Frieden zwischen Himmel und Erde",
+		"info": "Erhöht den Kryo-Schaden der aktuellen Figuren in der Truppe im Wirkungsbereich von **Bändigender Niederschlag** um 20 %."
+	},
+	"passive3": {
+		"name": "Versteckter Bogen",
+		"info": "Gibt beim Schmieden von Bögen 15 % des verbrauchten Erzes zurück."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren des „Fleißes“",
+				"count": 3
+			},
+			{
+				"name": "Vaniloqua-Nektar",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 2
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 4
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 6
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 9
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 4
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 4
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 6
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 6
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 12
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 9
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 16
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 12
+			},
+			{
+				"name": "Seele des Kriegers – Schatten",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

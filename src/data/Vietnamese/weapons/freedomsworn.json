@@ -1,0 +1,147 @@
+{
+	"name": "Lời Thề Tự Do Cổ Xưa",
+	"description": "Thanh kiếm thẳng tắp màu xanh lam như tiếng ca hoài cổ, vũ khí sắc bén như lời thề tự do ở đất nước của gió.",
+	"weapontype": "Kiếm Đơn",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "Tinh Thông Nguyên Tố",
+	"subvalue": "43",
+	"effectname": "Bài Ca Kháng Chiến",
+	"effect": "Một phần của \"Ca Khúc Thời Đại Nghìn Năm\" lãng du trong gió. Sát thương tạo thành tăng {0}; Khi kích hoạt phản ứng nguyên tố, nhân vật sẽ nhận 1 Lá Bùa Phấn Khởi, mỗi 0.5s tối đa kích hoạt một lần, nhân vật dự bị trong đội cũng sẽ kích hoạt. Khi có 2 Lá Bùa Phấn Khởi sẽ tiêu hao tất cả Lá Bùa Phấn Khởi, khiến tất cả nhân vật trong đội gần đó nhận được hiệu ứng \"Ca Khúc Thời Đại Nghìn Năm - Bài Ca Kháng Chiến\" trong 12s: Sát thương đánh thường, trọng kích, tấn công khi đáp tăng {1}, tấn công tăng {2}. Trong 20s sau khi kích hoạt sẽ không nhận được Lá Bùa Phấn Khởi nữa. Khi các hiệu quả của \"Ca Khúc Thời Đại Nghìn Năm\" đang kích hoạt, những hiệu quả cùng loại khác sẽ không được cộng dồn.",
+	"r1": [
+		"10%",
+		"16%",
+		"20%"
+	],
+	"r2": [
+		"12.5%",
+		"20%",
+		"25%"
+	],
+	"r3": [
+		"15%",
+		"24%",
+		"30%"
+	],
+	"r4": [
+		"17.5%",
+		"28%",
+		"35%"
+	],
+	"r5": [
+		"20%",
+		"32%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Xiềng Xích Đấu Sĩ Nanh Sư Tử",
+				"count": 5
+			},
+			{
+				"name": "Cấu Trúc Hỗn Độn",
+				"count": 5
+			},
+			{
+				"name": "Bản Vẽ Hướng Dẫn",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dây Sắt Đấu Sĩ Nanh Sư Tử",
+				"count": 5
+			},
+			{
+				"name": "Cấu Trúc Hỗn Độn",
+				"count": 18
+			},
+			{
+				"name": "Bản Vẽ Hướng Dẫn",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Dây Sắt Đấu Sĩ Nanh Sư Tử",
+				"count": 9
+			},
+			{
+				"name": "Bộ Não Hỗn Độn",
+				"count": 9
+			},
+			{
+				"name": "Bản Vẽ Phong Ấn",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+				"count": 5
+			},
+			{
+				"name": "Bộ Não Hỗn Độn",
+				"count": 18
+			},
+			{
+				"name": "Bản Vẽ Phong Ấn",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+				"count": 9
+			},
+			{
+				"name": "Trái Tim Hỗn Độn",
+				"count": 14
+			},
+			{
+				"name": "Bản Vẽ Cấm Chú",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Lý Tưởng Của Đấu Sĩ Nanh Sư Tử",
+				"count": 6
+			},
+			{
+				"name": "Trái Tim Hỗn Độn",
+				"count": 27
+			},
+			{
+				"name": "Bản Vẽ Cấm Chú",
+				"count": 18
+			}
+		]
+	}
+}

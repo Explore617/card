@@ -1,0 +1,207 @@
+{
+	"name": "Xiangling",
+	"combat1": {
+		"name": "Ataque Normal: Kung-Fu pasta",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}+{param3:F1P}",
+				"Daño de 4.º golpe|{param4:F1P} ×4",
+				"Daño de 5.º golpe|{param5:F1P}",
+				"Daño de ATQ Cargado|{param6:P}",
+				"Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
+				"Daño de Caída|{param8:F1P}",
+				"Daño de impacto de caída baja/alta|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Ataque de Guoba",
+		"info": "Invoca al panda Guoba. Guoba escupe fuego continuamente contra los enemigos, infligiendo Daño Pyro en el AdE.",
+		"description": "A Guoba le encanta el picante. El problema es que su estómago no aguanta la comida tan picante.",
+		"attributes": {
+			"labels": [
+				"Daño de lanzallamas|{param1:P}",
+				"TdE|{param2:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Pyronado",
+		"info": "Haciendo muestra de su dominio del fuego y las lanzas, Xiangling provoca un tornado de llamas a su alrededor.\nMientras dure la habilidad, el tornado se moverá junto a tu personaje, infligiendo Daño Pyro a todos los enemigos en su camino.",
+		"description": "Nunca hay suficiente fuego. Nunca.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2° golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:P}",
+				"Daño de Pyronado|{param4:P}",
+				"Duración|{param5:F1} s",
+				"TdE|{param6:F1} s",
+				"Energía Elemental|{param7:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Fuego cruzado",
+		"info": "El alcance del lanzallamas de Guoba aumenta en un 20%."
+	},
+	"passive2": {
+		"name": "¡Cuidado, que pica!",
+		"info": "Cuando termina el **Ataque de Guoba**, Guoba deja chiles en el lugar donde desaparece. Obtén los chiles para aumentar el ATQ en un 10% durante 10 s."
+	},
+	"passive3": {
+		"name": "Chef de cocina",
+		"info": "Al lograr un “Perfecto” en un plato con efectos de ataque, hay una probabilidad del 12% de obtener el doble."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas del esfuerzo",
+				"count": 3
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía del esfuerzo",
+				"count": 2
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía del esfuerzo",
+				"count": 4
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía del esfuerzo",
+				"count": 6
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía del esfuerzo",
+				"count": 9
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía del esfuerzo",
+				"count": 4
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 4
+			},
+			{
+				"name": "Garra de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía del esfuerzo",
+				"count": 6
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 6
+			},
+			{
+				"name": "Garra de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía del esfuerzo",
+				"count": 12
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 9
+			},
+			{
+				"name": "Garra de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía del esfuerzo",
+				"count": 16
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 12
+			},
+			{
+				"name": "Garra de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

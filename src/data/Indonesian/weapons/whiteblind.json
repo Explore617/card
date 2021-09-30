@@ -1,0 +1,137 @@
+{
+	"name": "Whiteblind",
+	"description": "Pedang indah yang memiliki bagian tumpul di mata pedangnya. Mencapai Liyue setelah melewati tangan beberapa pedagang. Dapat menjadi senjata mematikan di tangan orang yang dapat menggunakannya.",
+	"weapontype": "Claymore",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "DEF",
+	"subvalue": "11.3",
+	"effectname": "Infused Edge",
+	"effect": "Saat mengenai musuh, Normal atau Charged Attack meningkatkan {0} ATK dan DEF selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,5 detik.",
+	"r1": [
+		"6%"
+	],
+	"r2": [
+		"7,5%"
+	],
+	"r3": [
+		"9%"
+	],
+	"r4": [
+		"10,5%"
+	],
+	"r5": [
+		"12%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Luminous Sands from Guyun",
+				"count": 3
+			},
+			{
+				"name": "Hunter's Sacrificial Knife",
+				"count": 3
+			},
+			{
+				"name": "Treasure Hoarder Insignia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Lustrous Stone from Guyun",
+				"count": 3
+			},
+			{
+				"name": "Hunter's Sacrificial Knife",
+				"count": 12
+			},
+			{
+				"name": "Treasure Hoarder Insignia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lustrous Stone from Guyun",
+				"count": 6
+			},
+			{
+				"name": "Agent's Sacrificial Knife",
+				"count": 6
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Relic from Guyun",
+				"count": 3
+			},
+			{
+				"name": "Agent's Sacrificial Knife",
+				"count": 12
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Relic from Guyun",
+				"count": 6
+			},
+			{
+				"name": "Inspector's Sacrificial Knife",
+				"count": 9
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Divine Body from Guyun",
+				"count": 4
+			},
+			{
+				"name": "Inspector's Sacrificial Knife",
+				"count": 18
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,137 @@
+{
+	"name": "Prototype Rancour",
+	"description": "ดาบยาวโบราณที่ถูกซ่อนไว้ใน Blackcliff Forge มันสามารถตัดผ่านหินได้และดาบไม่บิ่น",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "โบนัสความเสียหายกายภาพ",
+	"subvalue": "7.5",
+	"effectname": "Crushed Stone",
+	"effect": "เมื่อโจมตีปกติหรือชาร์จโจมตี พลังโจมตีและพลังป้องกันจะเพิ่มขึ้น {0} เป็นเวลา 6 วินาที โดยจะซ้อนทับได้มากสุด 4 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 0.3 วินาที",
+	"r1": [
+		"4%"
+	],
+	"r2": [
+		"5%"
+	],
+	"r3": [
+		"6%"
+	],
+	"r4": [
+		"7%"
+	],
+	"r5": [
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Mist Veiled Lead Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Flower Pollen",
+				"count": 3
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mist Veiled Mercury Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Flower Pollen",
+				"count": 12
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mist Veiled Mercury Elixir",
+				"count": 6
+			},
+			{
+				"name": "Mist Grass",
+				"count": 6
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mist Veiled Gold Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass",
+				"count": 12
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mist Veiled Gold Elixir",
+				"count": 6
+			},
+			{
+				"name": "Mist Grass Lamp",
+				"count": 9
+			},
+			{
+				"name": "Officer's Insignia",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Mist Veiled Primo Elixir",
+				"count": 4
+			},
+			{
+				"name": "Mist Grass Lamp",
+				"count": 18
+			},
+			{
+				"name": "Officer's Insignia",
+				"count": 12
+			}
+		]
+	}
+}

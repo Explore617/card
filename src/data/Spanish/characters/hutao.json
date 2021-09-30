@@ -1,0 +1,153 @@
+{
+	"name": "Hu Tao",
+	"title": "la Guía del Más Allá",
+	"description": "77.ª directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
+	"rarity": "5",
+	"element": "Pyro",
+	"weapontype": "Lanza",
+	"substat": "Daño CRIT",
+	"gender": "Femenino",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Funeraria El Camino",
+	"birthdaymmdd": "7/15",
+	"birthday": "15 de julio",
+	"constellation": "Papilio Charontis",
+	"cv": {
+		"english": "Brianna Knickerbocker",
+		"chinese": "陶典",
+		"japanese": "高橋李依",
+		"korean": "김하루"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Pedacito de ágata agnidus",
+				"count": 1
+			},
+			{
+				"name": "Flor de seda",
+				"count": 3
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de ágata agnidus",
+				"count": 3
+			},
+			{
+				"name": "Jade inmaduro",
+				"count": 2
+			},
+			{
+				"name": "Flor de seda",
+				"count": 10
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de ágata agnidus",
+				"count": 6
+			},
+			{
+				"name": "Jade inmaduro",
+				"count": 4
+			},
+			{
+				"name": "Flor de seda",
+				"count": 20
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Trozo de ágata agnidus",
+				"count": 3
+			},
+			{
+				"name": "Jade inmaduro",
+				"count": 8
+			},
+			{
+				"name": "Flor de seda",
+				"count": 30
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Trozo de ágata agnidus",
+				"count": 6
+			},
+			{
+				"name": "Jade inmaduro",
+				"count": 12
+			},
+			{
+				"name": "Flor de seda",
+				"count": 45
+			},
+			{
+				"name": "Néctar energético",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Ágata agnidus",
+				"count": 6
+			},
+			{
+				"name": "Jade inmaduro",
+				"count": 20
+			},
+			{
+				"name": "Flor de seda",
+				"count": 60
+			},
+			{
+				"name": "Néctar energético",
+				"count": 24
+			}
+		]
+	}
+}

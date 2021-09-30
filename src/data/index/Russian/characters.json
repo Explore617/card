@@ -1,0 +1,1160 @@
+{
+	"namemap": {
+		"aether": "Итэр",
+		"albedo": "Альбедо",
+		"aloy": "Элой",
+		"amber": "Эмбер",
+		"barbara": "Барбара",
+		"beidou": "Бэй Доу",
+		"bennett": "Беннет",
+		"chongyun": "Чун Юнь",
+		"diluc": "Дилюк",
+		"diona": "Диона",
+		"eula": "Эола",
+		"fischl": "Фишль",
+		"ganyu": "Гань Юй",
+		"hutao": "Ху Тао",
+		"jean": "Джинн",
+		"kaedeharakazuha": "Кадзуха",
+		"kaeya": "Кэйа",
+		"kamisatoayaka": "Аяка",
+		"keqing": "Кэ Цин",
+		"klee": "Кли",
+		"kujousara": "Сара",
+		"lisa": "Лиза",
+		"lumine": "Люмин",
+		"mona": "Мона",
+		"ningguang": "Нин Гуан",
+		"noelle": "Ноэлль",
+		"qiqi": "Ци Ци",
+		"raidenshogun": "Райдэн",
+		"razor": "Рэйзор",
+		"rosaria": "Розария",
+		"sangonomiyakokomi": "Кокоми",
+		"sayu": "Саю",
+		"sucrose": "Сахароза",
+		"tartaglia": "Тарталья",
+		"venti": "Венти",
+		"xiangling": "Сян Лин",
+		"xiao": "Сяо",
+		"xingqiu": "Син Цю",
+		"xinyan": "Синь Янь",
+		"yanfei": "Янь Фэй",
+		"yoimiya": "Ёимия",
+		"zhongli": "Чжун Ли"
+	},
+	"names": {
+		"Итэр": "aether",
+		"Альбедо": "albedo",
+		"Элой": "aloy",
+		"Эмбер": "amber",
+		"Барбара": "barbara",
+		"Бэй Доу": "beidou",
+		"Беннет": "bennett",
+		"Чун Юнь": "chongyun",
+		"Дилюк": "diluc",
+		"Диона": "diona",
+		"Эола": "eula",
+		"Фишль": "fischl",
+		"Гань Юй": "ganyu",
+		"Ху Тао": "hutao",
+		"Джинн": "jean",
+		"Кадзуха": "kaedeharakazuha",
+		"Кэйа": "kaeya",
+		"Аяка": "kamisatoayaka",
+		"Кэ Цин": "keqing",
+		"Кли": "klee",
+		"Сара": "kujousara",
+		"Лиза": "lisa",
+		"Люмин": "lumine",
+		"Мона": "mona",
+		"Нин Гуан": "ningguang",
+		"Ноэлль": "noelle",
+		"Ци Ци": "qiqi",
+		"Райдэн": "raidenshogun",
+		"Рэйзор": "razor",
+		"Розария": "rosaria",
+		"Кокоми": "sangonomiyakokomi",
+		"Саю": "sayu",
+		"Сахароза": "sucrose",
+		"Тарталья": "tartaglia",
+		"Венти": "venti",
+		"Сян Лин": "xiangling",
+		"Сяо": "xiao",
+		"Син Цю": "xingqiu",
+		"Синь Янь": "xinyan",
+		"Янь Фэй": "yanfei",
+		"Ёимия": "yoimiya",
+		"Чжун Ли": "zhongli"
+	},
+	"aliases": {
+		"Звёздный Путник": "lumine",
+		"Принц мела": "albedo",
+		"Меловой Принцепс": "albedo",
+		"Спасительница из другого мира": "aloy",
+		"Нора Фортис": "aloy",
+		"Чемпион полётов": "amber",
+		"Озорной Кролик": "amber",
+		"Сияющая звёздочка": "barbara",
+		"Золотой Кубок": "barbara",
+		"Владычица морей": "beidou",
+		"Дракон Морей": "beidou",
+		"Испытание огнём": "bennett",
+		"Дорога Опасностей": "bennett",
+		"Морозная пылкость": "chongyun",
+		"Тяжесть Небес": "chongyun",
+		"Тёмный рассвет": "diluc",
+		"Мудрая Сова": "diluc",
+		"Кошкин коктейль": "diona",
+		"Милый Котёнок": "diona",
+		"Танец морской пены": "eula",
+		"Морская Пена": "eula",
+		"Принцесса осуждения": "fischl",
+		"Призрачный Ворон": "fischl",
+		"Взгляд полнолуния": "ganyu",
+		"Священная Лань": "ganyu",
+		"Весенний аромат": "hutao",
+		"Бабочка Харона": "hutao",
+		"Рыцарь Одуванчик": "jean",
+		"Благородная Львица": "jean",
+		"Багряные листья и неистовые волны": "kaedeharakazuha",
+		"Рыжий Клён": "kaedeharakazuha",
+		"Зимний клинок": "kaeya",
+		"Павлинье Перо": "kaeya",
+		"Инеевая цапля": "kamisatoayaka",
+		"Снежный Журавль": "kamisatoayaka",
+		"Раскаты грома": "keqing",
+		"Громовой Стилет": "keqing",
+		"Ускользающее солнце": "klee",
+		"Четырёхлистный Клевер": "klee",
+		"Кабурая вороньего пера": "kujousara",
+		"Веер": "kujousara",
+		"Пурпурная ведьма": "lisa",
+		"Песочные Часы": "lisa",
+		"Звёздное отражение": "mona",
+		"Багровая Заря": "mona",
+		"Лунное затмение": "ningguang",
+		"Небесная Сфера": "ningguang",
+		"Нераспустившийся цветок": "noelle",
+		"Душевный Щит": "noelle",
+		"Ледяное воскрешение": "qiqi",
+		"Звон Колокольчика": "qiqi",
+		"Царство эвтюмии": "raidenshogun",
+		"Бренный Мир": "raidenshogun",
+		"Инстинкт стаи": "razor",
+		"Проворный Волчонок": "razor",
+		"Венец милости": "rosaria",
+		"Терновый Венец": "rosaria",
+		"Жемчужина мудрости": "sangonomiyakokomi",
+		"Спящий Дракон": "sangonomiyakokomi",
+		"Мудзина-ниндзя": "sayu",
+		"Малый Мудзина": "sayu",
+		"Безобидная карамелька": "sucrose",
+		"Горячая Колба": "sucrose",
+		"Чайльд": "tartaglia",
+		"Небесный Кит": "tartaglia",
+		"Поэт ветров": "venti",
+		"Бог Песен": "venti",
+		"Миллион вкусов": "xiangling",
+		"Поварской Черпак": "xiangling",
+		"Защитник Якса": "xiao",
+		"Златокрылая Птица": "xiao",
+		"Галантный юноша": "xingqiu",
+		"Пёстрый Гобелен": "xingqiu",
+		"Пламенная мелодия": "xinyan",
+		"Сандаловая Мандолина": "xinyan",
+		"Непорочная мудрость": "yanfei",
+		"Волшебный Зверь": "yanfei",
+		"Пляшущие огоньки": "yoimiya",
+		"Золотая Рыбка": "yoimiya",
+		"Бренный скиталец": "zhongli",
+		"Властелин Камня": "zhongli"
+	},
+	"categories": {
+		"4": [
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diona",
+			"fischl",
+			"kaeya",
+			"kujousara",
+			"lisa",
+			"ningguang",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xingqiu",
+			"xinyan",
+			"yanfei"
+		],
+		"5": [
+			"aether",
+			"albedo",
+			"aloy",
+			"diluc",
+			"eula",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"lumine",
+			"mona",
+			"qiqi",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"yoimiya",
+			"zhongli"
+		],
+		"Нет": [
+			"aether",
+			"lumine"
+		],
+		"Одноручное": [
+			"aether",
+			"albedo",
+			"bennett",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"lumine",
+			"qiqi",
+			"xingqiu"
+		],
+		"Сила атаки": [
+			"aether",
+			"amber",
+			"chongyun",
+			"fischl",
+			"kujousara",
+			"lumine",
+			"rosaria",
+			"xingqiu",
+			"xinyan"
+		],
+		"мужчина": [
+			"aether",
+			"albedo",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"kaedeharakazuha",
+			"kaeya",
+			"razor",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"xingqiu",
+			"zhongli"
+		],
+		"Мора": [
+			"aether",
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"Осколок бриллианта": [
+			"aether",
+			"lumine"
+		],
+		"Ветряная астра": [
+			"aether",
+			"bennett",
+			"lumine",
+			"sucrose"
+		],
+		"Разбитая маска": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Фрагмент бриллианта": [
+			"aether",
+			"lumine"
+		],
+		"Грязная маска": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Кусок бриллианта": [
+			"aether",
+			"lumine"
+		],
+		"Зловещая маска": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Драгоценный бриллиант": [
+			"aether",
+			"lumine"
+		],
+		"Гео": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Бонус Гео урона": [
+			"albedo",
+			"ningguang",
+			"zhongli"
+		],
+		"Mondstadt": [
+			"albedo",
+			"amber",
+			"barbara",
+			"bennett",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"jean",
+			"kaeya",
+			"klee",
+			"lisa",
+			"mona",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sucrose",
+			"venti"
+		],
+		"сентябрь": [
+			"albedo",
+			"chongyun",
+			"kamisatoayaka",
+			"razor"
+		],
+		"Осколок топаза Притхива": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Сесилия": [
+			"albedo",
+			"venti"
+		],
+		"Свиток божественной магии": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Фрагмент топаза Притхива": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Базальтовая колонна": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Свиток печати": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Кусок топаза Притхива": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Свиток запретного проклятья": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Драгоценный топаз Притхива": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Крио": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Стрелковое": [
+			"aloy",
+			"amber",
+			"diona",
+			"fischl",
+			"ganyu",
+			"kujousara",
+			"tartaglia",
+			"venti",
+			"yoimiya"
+		],
+		"Бонус Крио урона": [
+			"aloy",
+			"diona"
+		],
+		"женский": [
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"апрель": [
+			"aloy",
+			"diluc",
+			"xiao"
+		],
+		"Осколок нефрита Шивада": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Кристальный костный мозг": [
+			"aloy",
+			"sayu"
+		],
+		"Призрачная оболочка": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Фрагмент нефрита Шивада": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Цветение кристалла": [
+			"aloy",
+			"eula"
+		],
+		"Призрачное сердце": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Кусок нефрита Шивада": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Призрачное ядро": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Драгоценный нефрит Шивада": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Пиро": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"август": [
+			"amber",
+			"mona",
+			"ningguang"
+		],
+		"Осколок агата Агнидус": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Трава-светяшка": [
+			"amber",
+			"diluc",
+			"fischl"
+		],
+		"Прочный наконечник стрелы": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Фрагмент агата Агнидус": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Пылающее семя": [
+			"amber",
+			"bennett",
+			"diluc",
+			"klee",
+			"xiangling",
+			"xinyan"
+		],
+		"Острый наконечник стрелы": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Кусок агата Агнидус": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Старый наконечник стрелы": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Драгоценный агат Агнидус": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Гидро": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Катализатор": [
+			"barbara",
+			"klee",
+			"lisa",
+			"mona",
+			"ningguang",
+			"sangonomiyakokomi",
+			"sucrose",
+			"yanfei"
+		],
+		"HP": [
+			"barbara"
+		],
+		"июль": [
+			"barbara",
+			"hutao",
+			"klee",
+			"kujousara",
+			"tartaglia",
+			"yanfei"
+		],
+		"Осколок лазурита Варунада": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Гриб филанемо": [
+			"barbara",
+			"klee",
+			"mona"
+		],
+		"Фрагмент лазурита Варунада": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Очищающее сердце": [
+			"barbara",
+			"mona",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Кусок лазурита Варунада": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Драгоценный лазурит Варунада": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Электро": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Двуручное": [
+			"beidou",
+			"chongyun",
+			"diluc",
+			"eula",
+			"noelle",
+			"razor",
+			"sayu",
+			"xinyan"
+		],
+		"Бонус Электро урона": [
+			"beidou"
+		],
+		"Liyue": [
+			"beidou",
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"февраль": [
+			"beidou",
+			"bennett",
+			"sangonomiyakokomi"
+		],
+		"Осколок аметиста Ваджрада": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Полуночный нефрит": [
+			"beidou",
+			"yanfei"
+		],
+		"Печать Похитителей сокровищ": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Фрагмент аметиста Ваджрада": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Призма молнии": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"lisa",
+			"razor"
+		],
+		"Печать серебряного ворона": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Кусок аметиста Ваджрада": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Печать золотого ворона": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Драгоценный аметист Ваджрада": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Восст. энергии": [
+			"bennett",
+			"kaeya",
+			"mona",
+			"raidenshogun",
+			"venti"
+		],
+		"Кор ляпис": [
+			"chongyun",
+			"keqing",
+			"zhongli"
+		],
+		"Инеевое ядро": [
+			"chongyun",
+			"diona",
+			"ganyu",
+			"kaeya",
+			"qiqi",
+			"rosaria"
+		],
+		"Шанс крит. попадания": [
+			"diluc",
+			"xiao",
+			"yoimiya"
+		],
+		"Шеврон рядового": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Шеврон сержанта": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Шеврон офицера": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"январь": [
+			"diona",
+			"rosaria"
+		],
+		"Лилия калла": [
+			"diona",
+			"kaeya"
+		],
+		"Крит. урон": [
+			"eula",
+			"ganyu",
+			"hutao",
+			"kamisatoayaka",
+			"keqing"
+		],
+		"октябрь": [
+			"eula",
+			"kaedeharakazuha",
+			"sayu",
+			"xingqiu",
+			"xinyan"
+		],
+		"Семена одуванчика": [
+			"eula",
+			"jean"
+		],
+		"май": [
+			"fischl"
+		],
+		"декабрь": [
+			"ganyu",
+			"zhongli"
+		],
+		"Цветок цинсинь": [
+			"ganyu",
+			"xiao"
+		],
+		"Нектар попрыгуньи": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Мерцающий нектар": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Элементальный нектар": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Древковое": [
+			"hutao",
+			"raidenshogun",
+			"rosaria",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Шелковица": [
+			"hutao",
+			"xingqiu"
+		],
+		"Незрелый нефрит": [
+			"hutao",
+			"xiao",
+			"yanfei"
+		],
+		"Анемо": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Бонус лечения": [
+			"jean",
+			"qiqi"
+		],
+		"март": [
+			"jean",
+			"noelle",
+			"qiqi"
+		],
+		"Осколок бирюзы Вайюда": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Фрагмент бирюзы Вайюда": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Семя урагана": [
+			"jean",
+			"sucrose",
+			"venti"
+		],
+		"Кусок бирюзы Вайюда": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Драгоценная бирюза Вайюда": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Мастерство стихий": [
+			"kaedeharakazuha",
+			"lisa",
+			"sayu",
+			"xiangling"
+		],
+		"Inazuma": [
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"kujousara",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"sayu",
+			"yoimiya"
+		],
+		"Морской гриб": [
+			"kaedeharakazuha"
+		],
+		"Ядро марионетки": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"ноябрь": [
+			"kaeya",
+			"keqing",
+			"sucrose",
+			"xiangling"
+		],
+		"Цвет сакуры": [
+			"kamisatoayaka"
+		],
+		"Старая гарда": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Сердце бесконечного механизма": [
+			"kamisatoayaka"
+		],
+		"Гарда кагэути": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Прославленная гарда": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Бонус Пиро урона": [
+			"klee",
+			"yanfei"
+		],
+		"Кровоцвет": [
+			"kujousara"
+		],
+		"Штормовой жемчуг": [
+			"kujousara",
+			"raidenshogun"
+		],
+		"июнь": [
+			"lisa",
+			"raidenshogun",
+			"venti",
+			"yoimiya"
+		],
+		"Валяшка": [
+			"lisa",
+			"noelle",
+			"rosaria"
+		],
+		"Слизь слайма": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Выделения слайма": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Концентрат слайма": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Глазурная лилия": [
+			"ningguang"
+		],
+		"Защита": [
+			"noelle"
+		],
+		"Стеклянные колокольчики": [
+			"qiqi",
+			"xinyan"
+		],
+		"Плод облачной травы": [
+			"raidenshogun"
+		],
+		"Бонус физ. урона": [
+			"razor"
+		],
+		"Волчий крюк": [
+			"razor"
+		],
+		"Бонус Гидро урона": [
+			"sangonomiyakokomi",
+			"tartaglia"
+		],
+		"Жемчужина Санго": [
+			"sangonomiyakokomi"
+		],
+		"Роса отречения": [
+			"sangonomiyakokomi"
+		],
+		"Бонус Анемо урона": [
+			"sucrose"
+		],
+		"Snezhnaya": [
+			"tartaglia"
+		],
+		"Звёздная ракушка": [
+			"tartaglia"
+		],
+		"Заоблачный перчик": [
+			"xiangling"
+		],
+		"Трава наку": [
+			"yoimiya"
+		],
+		"Тлеющая жемчужина": [
+			"yoimiya"
+		]
+	}
+}

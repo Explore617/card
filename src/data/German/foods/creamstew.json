@@ -1,0 +1,35 @@
+{
+	"name": "Sahneeintopf",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Gerichte für Abenteuer",
+	"foodcategory": "Other_SPReduceConsume",
+	"effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um 15 bis 25 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+	"description": "Ein milder Eintopf mit frischer Sahne. Der Eintopf ist gut eingedickt und überzeugt mit seiner seidigen Textur.",
+	"suspicious": {
+		"effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um 15 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein milder Eintopf mit frischer Sahne. Zu sehr eingedickt hat dieser Eintopf eher die Konsistenz von Kartoffelbrei, leider aber nicht den Geschmack."
+	},
+	"normal": {
+		"effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um 20 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein milder Eintopf mit frischer Sahne. Der Eintopf ist gut eingedickt und überzeugt mit seiner seidigen Textur."
+	},
+	"delicious": {
+		"effect": "Verringert die beim Rennen verbrauchte Ausdauer aller Truppenmitglieder 900 s lang um 25 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein milder Eintopf mit frischer Sahne. Die Zutaten zergehen förmlich auf der Zunge. Man möchte in die cremige Wonne eintauchen und im Eintopf baden."
+	},
+	"ingredients": [
+		{
+			"name": "Rohes Fleisch",
+			"count": 2
+		},
+		{
+			"name": "Sahne",
+			"count": 2
+		},
+		{
+			"name": "Goldfischkraut",
+			"count": 1
+		}
+	]
+}

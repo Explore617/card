@@ -1,0 +1,31 @@
+{
+	"name": "Stir-Fried Filet",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 50–150 HP.",
+	"description": "Irisan daging yang ditumis dengan api besar. Dengan porsi cabai yang pas menambah aroma daging menjadi lebih harum. Makanan pembuka yang juga cocok dimakan dengan nasi.",
+	"suspicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 50 HP.",
+		"description": "Irisan daging yang ditumis dengan api besar, tetapi kamu tidak bisa lagi membedakan dagingnya yang terlalu matang dengan cabainya. Cocok dicampur dan dimakan bersama nasi."
+	},
+	"normal": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 100 HP.",
+		"description": "Irisan daging yang ditumis dengan api besar. Dengan porsi cabai yang pas menambah aroma daging menjadi lebih harum. Makanan pembuka yang juga cocok dimakan dengan nasi."
+	},
+	"delicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 150 HP.",
+		"description": "Irisan daging yang ditumis dengan api besar. Kepedasannya seperti nyala api di tengah-tengah padang salju yang memicu selera makanmu dan membuatmu menginginkan lebih banyak lagi."
+	},
+	"ingredients": [
+		{
+			"name": "Raw Meat",
+			"count": 1
+		},
+		{
+			"name": "Jueyun Chili",
+			"count": 1
+		}
+	]
+}

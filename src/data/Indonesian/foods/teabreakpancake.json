@@ -1,0 +1,35 @@
+{
+	"name": "Tea Break Pancake",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 250–550 HP.",
+	"description": "Tumpukan panekuk berbentuk bulat. Makanan yang biasa disajikan di istana-istana sebagai pendamping teh hangat di sore hari. Hanya dapat dibuat menggunakan buah beri kualitas terbaik.",
+	"suspicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 250 HP.",
+		"description": "Tumpukan panekuk berbentuk bulat. Bau gosongnya menutupi harum manisnya. Hanya beri di dalamnya yang menyelamatkan panekuk ini."
+	},
+	"normal": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 400 HP.",
+		"description": "Tumpukan panekuk berbentuk bulat. Makanan yang biasa disajikan di istana-istana sebagai pendamping teh hangat di sore hari. Hanya dapat dibuat menggunakan buah beri kualitas terbaik."
+	},
+	"delicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 550 HP.",
+		"description": "Tumpukan panekuk berbentuk bulat. Lembut dan kenyal, panekuk manisnya terasa seperti awan. Tidak bisa dipungkiri ini hidangan dari Surga."
+	},
+	"ingredients": [
+		{
+			"name": "Berry",
+			"count": 3
+		},
+		{
+			"name": "Flour",
+			"count": 2
+		},
+		{
+			"name": "Bird Egg",
+			"count": 1
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Assortiment de charcuterie",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Attaque",
+	"foodcategory": "Atk_Add",
+	"effect": "Augmente les DGT physiques de tous les personnages de l'équipe de 20 % à 40 % pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
+	"description": "Un assortiment de charcuterie : bacon, jambon, saucisson... Il y en a pour tous les goûts.",
+	"suspicious": {
+		"effect": "Augmente les DGT physiques infligés par tous les personnages de l'équipe de 20 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un assortiment de chacuterie qui est peut-être encore un peu trop froid. Dents et estomacs sensibles s'abstenir !"
+	},
+	"normal": {
+		"effect": "Augmente les DGT physiques infligés par tous les personnages de l'équipe de 30 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un assortiment de charcuterie : bacon, jambon, saucisson... Il y en a pour tous les goûts."
+	},
+	"delicious": {
+		"effect": "Augmente les DGT physiques infligés par tous les personnages de l'équipe de 40 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un assortiment de charcuterie. L'assaisonnement délicat relève parfaitement la saveur de la viande. Que demande le peuple ?"
+	},
+	"ingredients": [
+		{
+			"name": "Jambon",
+			"count": 1
+		},
+		{
+			"name": "Bacon",
+			"count": 1
+		},
+		{
+			"name": "Saucisse",
+			"count": 1
+		},
+		{
+			"name": "Menthe",
+			"count": 1
+		}
+	]
+}

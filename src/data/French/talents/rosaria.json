@@ -1,0 +1,205 @@
+{
+	"name": "Rosalia",
+	"combat1": {
+		"name": "Attaque normale : Lance expiatoire",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups de lance.\n\n**Attaque chargée**\nCharge en ligne droite et inflige des DGT aux ennemis sur sa route ; cette attaque consomme de l'endurance.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P} ×2",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}+{param6:F1P}",
+				"DGT attaque chargée|{param7:P}",
+				"Coût d'endurance attaque chargée|{param8:F1} pts",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT Chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Confession des péchés",
+		"info": "Rosalia se déplace rapidement derrière sa cible qu'elle transperce et tranche de sa lance, infligeant des DGT Cryo.\nCe mouvement ne fonctionne pas avec les ennemis trop grands.",
+		"description": "Rosalia ne pardonne pas les péchés de ceux qui se confessent à elle. Au contraire, plus le péché est grand, plus sa punition glaciale est implacable.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}+{param2:P}",
+				"Temps de recharge|{param3:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Sacrement mortel",
+		"info": "Rosalia officie pour une prière pas comme les autres. Après avoir exécuté une attaque circulaire balayant les ennemis à proximité, Rosalia invoque une lance de glace qui frappe le sol. Les deux actions infligent des DGT Cryo.\nTant que la lance de glace est active, elle émet de façon intermittente des ondes de froid, qui infligent des DGT Cryo aux ennemis à proximité.",
+		"description": "Un procès est bien trop long, autant en arriver directement à la sentence et donner les derniers sacrements. Rosalia ne croyant pas à l'Archon Anémo, c'est d'autant plus accommodant.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}+{param2:P}",
+				"DGT continus lance de glace|{param3:P}",
+				"Durée|{param4:F1} s",
+				"Temps de recharge|{param5:F1} s",
+				"Énergie élémentaire|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Confession forcée",
+		"info": "Le taux CRIT de Rosalia augmente de 12 % pendant 5 s lorsqu'elle frappe un ennemi de dos avec **Confession des péchés**."
+	},
+	"passive2": {
+		"name": "Samaritain de l'ombre",
+		"info": "Exécuter **Sacrement mortel** confère à tous les personnages de l'équipe proches (hormis Rosalia) un bonus de taux CRIT équivalant à 15 % du taux CRIT de Rosalia pendant 10 s.\nLe bonus de taux CRIT ainsi obtenu ne peut pas excéder 15 %."
+	},
+	"passive3": {
+		"name": "Balade nocturne",
+		"info": "Augmente la VIT de déplacement des personnages de votre équipe pendant la nuit (de 18 h à 6 h) de 10 %.\nCet effet ne s'applique ni dans les donjons, ni dans les Donjons de la conquête, ni dans les Profondeurs spiralées, et ne peut être cumulé avec d'autres aptitudes passives aux effets identiques."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Poésie",
+				"count": 3
+			},
+			{
+				"name": "Insigne de nouvelle recrue",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 2
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 9
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 4
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 6
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 12
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 9
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 16
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 12
+			},
+			{
+				"name": "Ombre du guerrier",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

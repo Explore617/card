@@ -1,0 +1,209 @@
+{
+	"name": "Diluc",
+	"combat1": {
+		"name": "Espada Temperada",
+		"info": "**Ataque Normal**\nRealiza até 4 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, causando danos aos inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° golpe|{param4:P}",
+				"Dano de Loop de Ataque Carregado|{param5:F1P}",
+				"Dano Final de Ataque Carregado|{param6:P}",
+				"Consumo de Stamina de Ataque Carregado|{param7:F1}/s",
+				"Duração Máxima|{param8:F1}s",
+				"Dano Durante a Queda|{param9:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Investida Ardente",
+		"info": "Realiza um corte para frente que causa Dano Pyro.\n\nEsta habilidade pode ser usada 3x consecutivamente. Entra em Recarga se não for lançada novamente em um curto período de tempo.",
+		"description": "Os cortes representam os valores de Diluc: um pela justiça, um pela coragem e outro pelo seus deveres.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° golpe |{param3:P}",
+				"Tempo de Recarga|{param4:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Alvorecer",
+		"info": "Lança chamas intensas nos inimigos ao redor, causando Dano Pyro. As chamas então convergem na arma, invocando uma Fênix que voa para frente e causa Dano Pyro massivo em todos os inimigos no seu caminho. A Fênix explode depois alcançar seu destino, causando um enorme Dano Pyro AdE.\n\nAs chamas que correm de sua lâmina imbuem Diluc com Pyro.",
+		"description": "A única razão para andar na escuridão é para a iluminar. Vejam, aquela luz no calar da noite é o arauto do amanhecer que está por vir.",
+		"attributes": {
+			"labels": [
+				"Dano do Corte|{param1:P}",
+				"Dano Contínuo|{param2:F1P}",
+				"Dano de Explosão|{param3:P}",
+				"Tempo de Recarga|{param4:F1}s",
+				"Duração do Encantamento|{param5:F1}s",
+				"Energia Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Implacável",
+		"info": "O Consumo de Stamina do Ataque Carregado de Diluc será diminuído em 50%, e sua duração será aumentada em 3 segundos."
+	},
+	"passive2": {
+		"name": "Bênção de Phoenix",
+		"info": "O **Encantamento Pyro** obtido pelo Alvorecer dura por 4 segundos a mais. Adicionalmente, Diluc ganha 20% de Bônus de Dano Pyro ao longo da duração deste efeito."
+	},
+	"passive3": {
+		"name": "Tradição do Cavaleiro do Alvorecer",
+		"info": "Reembolsa 15% dos minérios usados durante a produção de armas do tipo Espadão."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Resistência",
+				"count": 3
+			},
+			{
+				"name": "Insígnia de Recruta",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 2
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 9
+			},
+			{
+				"name": "Insígnia de Sargento",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 4
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 6
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 12
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 9
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 16
+			},
+			{
+				"name": "Insígnia de Oficial",
+				"count": 12
+			},
+			{
+				"name": "Plumas do Vento Oriental",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

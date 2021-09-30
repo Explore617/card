@@ -1,0 +1,137 @@
+{
+	"name": "Prototype Archaic",
+	"description": "ดาบยักษ์โบราณที่ถูกซ่อนไว้ใน Blackcliff Forge ตอนที่ชูขึ้น ราวกับว่าสามารถลงดาบหั่นอากาศออกเป็นสองท่อน",
+	"weapontype": "ดาบใหญ่",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "พลังโจมตี",
+	"subvalue": "6",
+	"effectname": "Crush",
+	"effect": "เมื่อโจมตีปกติหรือชาร์จโจมตีถูกเป้าหมายจะมีโอกาส 50% ที่จะสร้างความเสียหายเพิ่มเติม {0} ของพลังโจมตีแก่ศัตรูที่อยู่ในพื้นที่วงแคบ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+	"r1": [
+		"240%"
+	],
+	"r2": [
+		"300%"
+	],
+	"r3": [
+		"360%"
+	],
+	"r4": [
+		"420%"
+	],
+	"r5": [
+		"480%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grain of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Fragile Bone Remains",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Fragile Bone Remains",
+				"count": 12
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Piece of Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Sturdy Bone Remains",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 3
+			},
+			{
+				"name": "Sturdy Bone Remains",
+				"count": 12
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Bit of Aerosiderite",
+				"count": 6
+			},
+			{
+				"name": "Fossilized Bone Remains",
+				"count": 9
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Chunk of Aerosiderite",
+				"count": 4
+			},
+			{
+				"name": "Fossilized Bone Remains",
+				"count": 18
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			}
+		]
+	}
+}

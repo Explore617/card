@@ -1,0 +1,142 @@
+{
+	"name": "Kitain Cross Spear",
+	"description": "หอกที่ครั้งหนึ่งนักรบผู้มีชื่อเสียงเคยใช้คุ้มครอง \"Tatarigami\" บนเกาะ Yashiori",
+	"weapontype": "หอก",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ความชำนาญธาตุ",
+	"subvalue": "24",
+	"effectname": "Samurai Conduct",
+	"effect": "สกิลธาตุสร้างความเสียหายเพิ่มขึ้น {0} และหลังจากที่สกิลธาตุถูกเป้าหมาย ตัวละครจะเสียพลังงานธาตุ 3 หน่วย และหลังจากนั้น จะทำการฟื้นฟูพลังธาตุ {1} หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที และสามารถเกิดขึ้นได้ แม้ตัวละครจะอยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+	"r1": [
+		"6%",
+		"3"
+	],
+	"r2": [
+		"7.5%",
+		"3.5"
+	],
+	"r3": [
+		"9%",
+		"4"
+	],
+	"r4": [
+		"10.5%",
+		"4.5"
+	],
+	"r5": [
+		"12%",
+		"5"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Mask of the Wicked Lieutenant",
+				"count": 3
+			},
+			{
+				"name": "Chaos Gear",
+				"count": 3
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mask of the Tiger's Bite",
+				"count": 3
+			},
+			{
+				"name": "Chaos Gear",
+				"count": 12
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mask of the Tiger's Bite",
+				"count": 6
+			},
+			{
+				"name": "Chaos Axis",
+				"count": 6
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mask of the One-Horned",
+				"count": 3
+			},
+			{
+				"name": "Chaos Axis",
+				"count": 12
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mask of the One-Horned",
+				"count": 6
+			},
+			{
+				"name": "Chaos Oculus",
+				"count": 9
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Mask of the Kijin",
+				"count": 4
+			},
+			{
+				"name": "Chaos Oculus",
+				"count": 18
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 12
+			}
+		]
+	}
+}

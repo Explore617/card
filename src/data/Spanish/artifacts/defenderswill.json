@@ -1,0 +1,34 @@
+{
+	"name": "Corazón del Guardián",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "DEF +30%.",
+	"4pc": "Por cada miembro de tu equipo con un tipo elemental distinto, La RES Elemental del personaje que lleve este conjunto aumenta en un 30% contra dicho elemento.",
+	"flower": {
+		"name": "Flor del Guardián",
+		"relictype": "Flor de la Vida",
+		"description": "La flor de iris atesorada por el Guardián. Nunca tuvo la oportunidad de entregársela a su amor."
+	},
+	"plume": {
+		"name": "Insignia del Guardián",
+		"relictype": "Pluma de la Muerte",
+		"description": "Un broche en forma de pluma, símbolo de “la sed por proteger a otros”."
+	},
+	"sands": {
+		"name": "Reloj del Guardián",
+		"relictype": "Arenas del Eón",
+		"description": "Un pequeño dispositivo para mostrar la hora actual. Es la única referencia disponible para consultar la hora en las noches sin luna."
+	},
+	"goblet": {
+		"name": "Cantimplora del Guardián",
+		"relictype": "Cáliz de Eonothem",
+		"description": "Un recipiente metálico. Puede usarse para contener cualquier líquido que ayude a olvidar la soledad mientras se observa detenidamente."
+	},
+	"circlet": {
+		"name": "Bandana del Guardián",
+		"relictype": "Tiara de Logos",
+		"description": "Un paño índigo teñido del color de la noche. Puede usarse como vendaje en una situación de emergencia."
+	}
+}

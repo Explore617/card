@@ -1,0 +1,31 @@
+{
+	"name": "Chicken-Mushroom Skewer",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Restores 8–10% of Max HP and an additional 800–1,200 HP to the selected character.",
+	"description": "A skewer of mushrooms and poultry. Fresh poultry is complimented by fragrant mushrooms. Don't be picky, chow down!",
+	"suspicious": {
+		"effect": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
+		"description": "A skewer of mushrooms and poultry. At first glance it's hard to tell which is which."
+	},
+	"normal": {
+		"effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+		"description": "A skewer of mushrooms and poultry. Fresh poultry is complimented by fragrant mushrooms. Don't be picky, chow down!"
+	},
+	"delicious": {
+		"effect": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
+		"description": "A skewer of mushrooms and poultry. All the best the wild has to offer are pierced on just one stick."
+	},
+	"ingredients": [
+		{
+			"name": "Mushroom",
+			"count": 1
+		},
+		{
+			"name": "Fowl",
+			"count": 1
+		}
+	]
+}

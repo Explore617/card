@@ -1,0 +1,137 @@
+{
+	"name": "Prototipo Arcaico",
+	"description": "Una gran espada descubierta en la Forja Peñasco Oscuro. Al blandirla, tiene tal poder que uno puede sentir como si pudiera cortar a través del espacio.",
+	"weapontype": "Mandoble",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ATQ",
+	"subvalue": "6",
+	"effectname": "Pulverizar",
+	"effect": "Al atacar con un Ataque Normal o Cargado, hay un 50% de probabilidad de infligir un {0} de daño de ATQ adicional en una pequeña AdE. Este efecto solo puede ocurrir una vez cada 15 s.",
+	"r1": [
+		"240%"
+	],
+	"r2": [
+		"300%"
+	],
+	"r3": [
+		"360%"
+	],
+	"r4": [
+		"420%"
+	],
+	"r5": [
+		"480%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grano de siderita oscura",
+				"count": 3
+			},
+			{
+				"name": "Fragmento de hueso frágil",
+				"count": 3
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Lámina de siderita oscura",
+				"count": 3
+			},
+			{
+				"name": "Fragmento de hueso frágil",
+				"count": 12
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lámina de siderita oscura",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de hueso sólido",
+				"count": 6
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragmento de siderita oscura",
+				"count": 3
+			},
+			{
+				"name": "Fragmento de hueso sólido",
+				"count": 12
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragmento de siderita oscura",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de hueso fosilizado",
+				"count": 9
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Trozo de siderita oscura",
+				"count": 4
+			},
+			{
+				"name": "Fragmento de hueso fosilizado",
+				"count": 18
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 12
+			}
+		]
+	}
+}

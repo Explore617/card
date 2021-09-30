@@ -1,0 +1,206 @@
+{
+	"name": "Amber",
+	"combat1": {
+		"name": "Attaque normale : Archerie revisitée",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Pyro, infligeant de considérables DGT Pyro quand elle est complètement chargée.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT tir visé|{param6:F1P}",
+				"DGT tir visé (pleine charge)|{param7:P}",
+				"DGT durant la chute|{param8:F1P}",
+				"DGT chute basse/élevée|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Poupée explosive",
+		"info": "Le fidèle Baron Lapinou est déployé sur le terrain.\n\n**Baron Lapinou**\n· Le Baron nargue les ennemis proches et attire leur attention.\n· Ses PV sont proportionnels aux PV max d'Amber.\n· Le Baron explose à la fin ou s'il est détruit entre temps, et inflige des DGT Pyro de zone.\n\n**Appui long**\nAjuste la direction du jet.\nAjuste la portée du jet.",
+		"description": "La lignée de Baron Lapinou est impressionnante, mais Amber a décidé d'arrêter de compter à partir du 893e Baron Lapinou.",
+		"attributes": {
+			"labels": [
+				"PV hérités|{param1:F1P}",
+				"DGT explosion|{param2:P}",
+				"Temps de recharge|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Pluie de flèches",
+		"info": "Tire une pluie de flèches qui inflige des DGT Pyro continus.",
+		"description": "Amber est une fille chaleureuse et pleine de passion.",
+		"attributes": {
+			"labels": [
+				"DGT pluie de flèches|{param1:F1P}",
+				"DGT totaux Pluie de flèches|{param4:P}",
+				"Durée|{param5:F1} s",
+				"Temps de recharge|{param2:F1} s",
+				"Énergie élémentaire|{param3:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Dans le mille !",
+		"info": "Augmente le taux CRIT de **Pluie de flèches** de 10 % et la zone d'effet de 30 %."
+	},
+	"passive2": {
+		"name": "Tir précis",
+		"info": "L'ATQ augmente de 15 % pendant 10 s lorsque le tir visé touche un point faible."
+	},
+	"passive3": {
+		"name": "Championne de planage",
+		"info": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Liberté",
+				"count": 3
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 2
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 9
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 4
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 6
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 9
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 16
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 12
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

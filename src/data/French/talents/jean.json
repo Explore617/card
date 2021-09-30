@@ -1,0 +1,208 @@
+{
+	"name": "Jean",
+	"combat1": {
+		"name": "Attaque normale : Escrime de Favonius",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nLibère une puissante attaque ascendante portée par les vents ; cette attaque consomme de l'endurance.\nLes ennemis projetés en l'air retombent lentement au sol.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT attaque chargée|{param6:P}",
+				"Coût d'endurance attaque chargée|{param7:F1} pts",
+				"DGT durant la chute|{param8:F1P}",
+				"DGT chute basse/élevée|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Épée de tourbillon",
+		"info": "Concentrant l'énergie des vents dans son épée, Jean libère une tornade qui projette les ennemis dans la direction ciblée, infligeant d'importants DGT Anémo.\n\n**Appui long**\nLes ennemis et les objets proches sont attirés par la tornade ; cette attaque consomme de l'endurance sur la durée.\nLa tornade peut être dirigée.\nJean ne peut pas se déplacer tant que l'attaque dure.",
+		"description": "Idéale pour protéger ses alliés, cette technique accompagne Jean depuis longtemps.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Endurance|{param2:F1} pts/s",
+				"Durée max|{param3:F1} s",
+				"Temps de recharge|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Brise de pissenlit",
+		"info": "Jean invoque la protection des vents ; un champ de pissenlits tournoyant repousse les ennemis proches, tout en leur infligeant des DGT Anémo.\nDans le même temps, tous les personnages de l'équipe sont soignés considérablement ; le nombre de PV restaurés est proportionnel à l'ATQ de Jean.\n\n**Champ de pissenlits**\n· Le champ de pissenlits restaure les PV des personnages dans la zone de façon continue.\n· Le champ leur applique également l'élément Anémo.\n· Les ennemis qui rentrent ou sortent de la zone subissent des DGT Anémo.",
+		"description": "Semblable aux pissenlits bercés par le vent, la magnanimité de Jean n'a que l'horizon pour limite.",
+		"attributes": {
+			"labels": [
+				"DGT explosion|{param1:P}",
+				"DGT entrée/sortie de zone|{param2:F1P}",
+				"Soins du champ|{param3:P} ATQ + {param4:I} PV",
+				"Soins continus|{param5:F2P} ATQ + {param6:I} PV/s",
+				"Temps de recharge|{param7:F1} s",
+				"Énergie élémentaire|{param8:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Charge critique",
+		"info": "Les attaques normales de Jean ont 50 % de chances de restaurer une quantité de PV équivalant à 15 % de l'ATQ de Jean à tous les personnages de l'équipe lorsqu'elles touchent."
+	},
+	"passive2": {
+		"name": "Que le vent vous guide",
+		"info": "**Brise de pissenlit** restaure 20 % d'énergie élémentaire lorsqu'elle prend fin."
+	},
+	"passive3": {
+		"name": "Vent directeur",
+		"info": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Résistance",
+				"count": 3
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 2
+			},
+			{
+				"name": "Masque sale",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 4
+			},
+			{
+				"name": "Masque sale",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 6
+			},
+			{
+				"name": "Masque sale",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 9
+			},
+			{
+				"name": "Masque sale",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 4
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 4
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 6
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 6
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 12
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 9
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 16
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 12
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

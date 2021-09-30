@@ -1,0 +1,142 @@
+{
+	"name": "Favonius Sword",
+	"description": "ดาบยาวมาตรฐานที่ใช้งานโดยเหล่าอัศวินแห่ง Favonius การรวบรวมพลังงานธาตุจะไม่ใช่เรื่องยากอีกต่อไปเมื่อใช้ดาบที่ทั้งคมและเบาเช่นดาบนี้!",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "การฟื้นฟูพลังงาน",
+	"subvalue": "13.3",
+	"effectname": "Windfall",
+	"effect": "เมื่อโจมตีคริติคอล จะมีโอกาส {0} ที่จะ สร้างอณูธาตุ ซึ่งใช้ฟื้นฟู พลังงานธาตุได้ 6 หน่วย โดยเอฟเฟกต์นี้จะใช้ได้ หนึ่งครั้งในทุก {1} วินาที",
+	"r1": [
+		"60%",
+		"12"
+	],
+	"r2": [
+		"70%",
+		"10.5"
+	],
+	"r3": [
+		"80%",
+		"9"
+	],
+	"r4": [
+		"90%",
+		"7.5"
+	],
+	"r5": [
+		"100%",
+		"6"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Tile of Decarabian's Tower",
+				"count": 3
+			},
+			{
+				"name": "Heavy Horn",
+				"count": 3
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Debris of Decarabian's City",
+				"count": 3
+			},
+			{
+				"name": "Heavy Horn",
+				"count": 12
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Debris of Decarabian's City",
+				"count": 6
+			},
+			{
+				"name": "Black Bronze Horn",
+				"count": 6
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment of Decarabian's Epic",
+				"count": 3
+			},
+			{
+				"name": "Black Bronze Horn",
+				"count": 12
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment of Decarabian's Epic",
+				"count": 6
+			},
+			{
+				"name": "Black Crystal Horn",
+				"count": 9
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Scattered Piece of Decarabian's Dream",
+				"count": 4
+			},
+			{
+				"name": "Black Crystal Horn",
+				"count": 18
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"name": "阿貝多",
+	"title": "白堊之子",
+	"description": "西風騎士團首席煉金術士兼調查小隊隊長，被稱做「白堊之子」的天才。",
+	"rarity": "5",
+	"element": "岩",
+	"weapontype": "單手劍",
+	"substat": "岩元素傷害加成",
+	"gender": "男",
+	"body": "BOY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "西風騎士團",
+	"birthdaymmdd": "9/13",
+	"birthday": "9月13日",
+	"constellation": "白堊之子座",
+	"cv": {
+		"english": "Khoi Dao",
+		"chinese": "Mace",
+		"japanese": "野島健児",
+		"korean": "김명준"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "摩拉",
+				"count": 20000
+			},
+			{
+				"name": "堅牢黃玉碎屑",
+				"count": 1
+			},
+			{
+				"name": "塞西莉亞花",
+				"count": 3
+			},
+			{
+				"name": "導能繪卷",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "摩拉",
+				"count": 40000
+			},
+			{
+				"name": "堅牢黃玉斷片",
+				"count": 3
+			},
+			{
+				"name": "玄岩之塔",
+				"count": 2
+			},
+			{
+				"name": "塞西莉亞花",
+				"count": 10
+			},
+			{
+				"name": "導能繪卷",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "摩拉",
+				"count": 60000
+			},
+			{
+				"name": "堅牢黃玉斷片",
+				"count": 6
+			},
+			{
+				"name": "玄岩之塔",
+				"count": 4
+			},
+			{
+				"name": "塞西莉亞花",
+				"count": 20
+			},
+			{
+				"name": "封魔繪卷",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "摩拉",
+				"count": 80000
+			},
+			{
+				"name": "堅牢黃玉塊",
+				"count": 3
+			},
+			{
+				"name": "玄岩之塔",
+				"count": 8
+			},
+			{
+				"name": "塞西莉亞花",
+				"count": 30
+			},
+			{
+				"name": "封魔繪卷",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "摩拉",
+				"count": 100000
+			},
+			{
+				"name": "堅牢黃玉塊",
+				"count": 6
+			},
+			{
+				"name": "玄岩之塔",
+				"count": 12
+			},
+			{
+				"name": "塞西莉亞花",
+				"count": 45
+			},
+			{
+				"name": "禁咒繪卷",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "摩拉",
+				"count": 120000
+			},
+			{
+				"name": "堅牢黃玉",
+				"count": 6
+			},
+			{
+				"name": "玄岩之塔",
+				"count": 20
+			},
+			{
+				"name": "塞西莉亞花",
+				"count": 60
+			},
+			{
+				"name": "禁咒繪卷",
+				"count": 24
+			}
+		]
+	}
+}

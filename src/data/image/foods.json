@@ -1,0 +1,407 @@
+{
+	"chickenmushroomskewer": {
+		"nameicon": "UI_ItemIcon_Recipe_1002"
+	},
+	"fruityskewers": {
+		"nameicon": "UI_ItemIcon_108014"
+	},
+	"teyvatfriedegg": {
+		"nameicon": "UI_ItemIcon_Recipe_2001"
+	},
+	"teyvatcharredegg": {
+		"nameicon": "UI_ItemIcon_108116"
+	},
+	"steak": {
+		"nameicon": "UI_ItemIcon_Recipe_3001"
+	},
+	"outriderschampionsteak": {
+		"nameicon": "UI_ItemIcon_108010"
+	},
+	"radishveggiesoup": {
+		"nameicon": "UI_ItemIcon_Recipe_3002"
+	},
+	"mondstadtgrilledfish": {
+		"nameicon": "UI_ItemIcon_108096"
+	},
+	"definitelynotbarfood": {
+		"nameicon": "UI_ItemIcon_108134"
+	},
+	"mintjelly": {
+		"nameicon": "UI_ItemIcon_108226"
+	},
+	"morameat": {
+		"nameicon": "UI_ItemIcon_108093"
+	},
+	"qiankunmorameat": {
+		"nameicon": "UI_ItemIcon_108139"
+	},
+	"stirfriedfilet": {
+		"nameicon": "UI_ItemIcon_108099"
+	},
+	"flashfriedfilet": {
+		"nameicon": "UI_ItemIcon_108138"
+	},
+	"grilledtigerfish": {
+		"nameicon": "UI_ItemIcon_108108"
+	},
+	"survivalgrilledfish": {
+		"nameicon": "UI_ItemIcon_108145"
+	},
+	"flamingredbolognese": {
+		"nameicon": "UI_ItemIcon_Recipe_1003"
+	},
+	"mysteriousbolognese": {
+		"nameicon": "UI_ItemIcon_108018"
+	},
+	"sweetmadame": {
+		"nameicon": "UI_ItemIcon_Recipe_1004"
+	},
+	"dinnerofjudgment": {
+		"nameicon": "UI_ItemIcon_108234"
+	},
+	"northernsmokedchicken": {
+		"nameicon": "UI_ItemIcon_Recipe_2002"
+	},
+	"creamstew": {
+		"nameicon": "UI_ItemIcon_Recipe_2003"
+	},
+	"spicystew": {
+		"nameicon": "UI_ItemIcon_108040"
+	},
+	"teabreakpancake": {
+		"nameicon": "UI_ItemIcon_Recipe_4001"
+	},
+	"lighterthanairpancake": {
+		"nameicon": "UI_ItemIcon_108118"
+	},
+	"friedradishballs": {
+		"nameicon": "UI_ItemIcon_Recipe_4002"
+	},
+	"satisfyingsalad": {
+		"nameicon": "UI_ItemIcon_Recipe_4003"
+	},
+	"derweisheitletzterschlusslife": {
+		"nameicon": "UI_ItemIcon_108114"
+	},
+	"fishermanstoast": {
+		"nameicon": "UI_ItemIcon_Recipe_1001"
+	},
+	"fishflavoredtoast": {
+		"nameicon": "UI_ItemIcon_108115"
+	},
+	"goulash": {
+		"nameicon": "UI_ItemIcon_108205"
+	},
+	"fragrantmashedpotatoes": {
+		"nameicon": "UI_ItemIcon_108242"
+	},
+	"almondtofu": {
+		"nameicon": "UI_ItemIcon_100428"
+	},
+	"sweetdream": {
+		"nameicon": "UI_ItemIcon_108137"
+	},
+	"jueyunchilichicken": {
+		"nameicon": "UI_ItemIcon_108084"
+	},
+	"rockinriffinchicken": {
+		"nameicon": "UI_ItemIcon_108174"
+	},
+	"jewelrysoup": {
+		"nameicon": "UI_ItemIcon_108087"
+	},
+	"matsutakemeatrolls": {
+		"nameicon": "UI_ItemIcon_108090"
+	},
+	"crystalshrimp": {
+		"nameicon": "UI_ItemIcon_108105"
+	},
+	"alldelicacyparcels": {
+		"nameicon": "UI_ItemIcon_108136"
+	},
+	"lotusseedandbirdeggsoup": {
+		"nameicon": "UI_ItemIcon_108120"
+	},
+	"goldenshrimpballs": {
+		"nameicon": "UI_ItemIcon_108126"
+	},
+	"noodleswithmountaindelicacies": {
+		"nameicon": "UI_ItemIcon_108142"
+	},
+	"coldnoodleswithmountaindelicacies": {
+		"nameicon": "UI_ItemIcon_108144"
+	},
+	"vegetarianabalone": {
+		"nameicon": "UI_ItemIcon_108189"
+	},
+	"ghostlymarch": {
+		"nameicon": "UI_ItemIcon_108200"
+	},
+	"stoneharbordelicacies": {
+		"nameicon": "UI_ItemIcon_108192"
+	},
+	"mintsalad": {
+		"nameicon": "UI_ItemIcon_108229"
+	},
+	"crabroetofu": {
+		"nameicon": "UI_ItemIcon_108177"
+	},
+	"myway": {
+		"nameicon": "UI_ItemIcon_108244"
+	},
+	"stirfriedfishnoodles": {
+		"nameicon": "UI_ItemIcon_108186"
+	},
+	"callalilyseafoodsoup": {
+		"nameicon": "UI_ItemIcon_Recipe_1006"
+	},
+	"aprizecatch": {
+		"nameicon": "UI_ItemIcon_108175"
+	},
+	"sauteedmatsutake": {
+		"nameicon": "UI_ItemIcon_Recipe_1007"
+	},
+	"coldcutplatter": {
+		"nameicon": "UI_ItemIcon_Recipe_2004"
+	},
+	"dieheiligesinfonie": {
+		"nameicon": "UI_ItemIcon_108117"
+	},
+	"stickyhoneyroast": {
+		"nameicon": "UI_ItemIcon_Recipe_2005"
+	},
+	"crabhamveggiebake": {
+		"nameicon": "UI_ItemIcon_Recipe_2006"
+	},
+	"nutritiousmealv": {
+		"nameicon": "UI_ItemIcon_108146"
+	},
+	"mushroompizza": {
+		"nameicon": "UI_ItemIcon_Recipe_1005"
+	},
+	"invigoratingpizza": {
+		"nameicon": "UI_ItemIcon_108044"
+	},
+	"mondstadthashbrown": {
+		"nameicon": "UI_ItemIcon_Recipe_3003"
+	},
+	"puppypawhashbrown": {
+		"nameicon": "UI_ItemIcon_108048"
+	},
+	"pileemup": {
+		"nameicon": "UI_ItemIcon_Recipe_3004"
+	},
+	"onceuponatimeinmondstadt": {
+		"nameicon": "UI_ItemIcon_108058"
+	},
+	"barbatosratatouille": {
+		"nameicon": "UI_ItemIcon_108111"
+	},
+	"abuoyantbreeze": {
+		"nameicon": "UI_ItemIcon_108113"
+	},
+	"adventurersbreakfastsandwich": {
+		"nameicon": "UI_ItemIcon_108168"
+	},
+	"northernapplestew": {
+		"nameicon": "UI_ItemIcon_108171"
+	},
+	"sunshinesprat": {
+		"nameicon": "UI_ItemIcon_108208"
+	},
+	"woodlanddream": {
+		"nameicon": "UI_ItemIcon_108214"
+	},
+	"crispypotatoshrimpplatter": {
+		"nameicon": "UI_ItemIcon_108223"
+	},
+	"goldenchickenburger": {
+		"nameicon": "UI_ItemIcon_108239"
+	},
+	"zhongyuanchopsuey": {
+		"nameicon": "UI_ItemIcon_108072"
+	},
+	"blackbackperchstew": {
+		"nameicon": "UI_ItemIcon_108075"
+	},
+	"wanminrestaurantsboiledfish": {
+		"nameicon": "UI_ItemIcon_108135"
+	},
+	"squirrelfish": {
+		"nameicon": "UI_ItemIcon_108078"
+	},
+	"qingcestirfry": {
+		"nameicon": "UI_ItemIcon_108129"
+	},
+	"comeandgetit": {
+		"nameicon": "UI_ItemIcon_108132"
+	},
+	"notomorrow": {
+		"nameicon": "UI_ItemIcon_108140"
+	},
+	"bambooshootsoup": {
+		"nameicon": "UI_ItemIcon_108153"
+	},
+	"slowcookedbambooshootsoup": {
+		"nameicon": "UI_ItemIcon_108173"
+	},
+	"triplelayeredconsomme": {
+		"nameicon": "UI_ItemIcon_108156"
+	},
+	"lotusflowercrisp": {
+		"nameicon": "UI_ItemIcon_108162"
+	},
+	"universalpeace": {
+		"nameicon": "UI_ItemIcon_108202"
+	},
+	"prosperouspeace": {
+		"nameicon": "UI_ItemIcon_108213"
+	},
+	"jueyunguoba": {
+		"nameicon": "UI_ItemIcon_108211"
+	},
+	"fullmoonegg": {
+		"nameicon": "UI_ItemIcon_108180"
+	},
+	"mintymeatrolls": {
+		"nameicon": "UI_ItemIcon_108232"
+	},
+	"curedporkdryhotpot": {
+		"nameicon": "UI_ItemIcon_108183"
+	},
+	"moonpie": {
+		"nameicon": "UI_ItemIcon_108165"
+	},
+	"stormcrestpie": {
+		"nameicon": "UI_ItemIcon_108245"
+	},
+	"goldenfriedchicken": {
+		"nameicon": "UI_ItemIcon_108236"
+	},
+	"jadeparcels": {
+		"nameicon": "UI_ItemIcon_Recipe_4004"
+	},
+	"goldencrab": {
+		"nameicon": "UI_ItemIcon_108102"
+	},
+	"tianshumeat": {
+		"nameicon": "UI_ItemIcon_108159"
+	},
+	"adeptustemptation": {
+		"nameicon": "UI_ItemIcon_108123"
+	},
+	"ricebuns": {
+		"nameicon": "UI_ItemIcon_108198"
+	},
+	"stirfriedshrimp": {
+		"nameicon": "UI_ItemIcon_108195"
+	},
+	"chickentofupudding": {
+		"nameicon": "UI_ItemIcon_108247"
+	},
+	"eggroll": {
+		"nameicon": "UI_ItemIcon_108265"
+	},
+	"drybraisedsaltedfish": {
+		"nameicon": "UI_ItemIcon_108268"
+	},
+	"allweatherbeauty": {
+		"nameicon": "UI_ItemIcon_108301"
+	},
+	"misosoup": {
+		"nameicon": "UI_ItemIcon_108277"
+	},
+	"tunasushi": {
+		"nameicon": "UI_ItemIcon_108250"
+	},
+	"onigiri": {
+		"nameicon": "UI_ItemIcon_108256"
+	},
+	"dizzinessbegonenojutsuversion": {
+		"nameicon": "UI_ItemIcon_108303"
+	},
+	"mixedyakisoba": {
+		"nameicon": "UI_ItemIcon_108292"
+	},
+	"crabroekourayaki": {
+		"nameicon": "UI_ItemIcon_108295"
+	},
+	"tricolordango": {
+		"nameicon": "UI_ItemIcon_108253"
+	},
+	"summerfestivalfish": {
+		"nameicon": "UI_ItemIcon_108302"
+	},
+	"tonkotsuramen": {
+		"nameicon": "UI_ItemIcon_108262"
+	},
+	"triflavoredskewer": {
+		"nameicon": "UI_ItemIcon_108274"
+	},
+	"importedpoultry": {
+		"nameicon": "UI_ItemIcon_108280"
+	},
+	"sakuramochi": {
+		"nameicon": "UI_ItemIcon_108283"
+	},
+	"snowonthehearth": {
+		"nameicon": "UI_ItemIcon_108300"
+	},
+	"kondacuisine": {
+		"nameicon": "UI_ItemIcon_108286"
+	},
+	"ricecakesoup": {
+		"nameicon": "UI_ItemIcon_108289"
+	},
+	"sakuratempura": {
+		"nameicon": "UI_ItemIcon_108298"
+	},
+	"sashimiplatter": {
+		"nameicon": "UI_ItemIcon_108259"
+	},
+	"buttercrab": {
+		"nameicon": "UI_ItemIcon_108271"
+	},
+	"satietygel": {
+		"nameicon": "UI_ItemIcon_108339"
+	},
+	"faitheternal": {
+		"nameicon": "UI_ItemIcon_108341"
+	},
+	"sweetshrimpsushi": {
+		"nameicon": "UI_ItemIcon_108322"
+	},
+	"birdeggsushi": {
+		"nameicon": "UI_ItemIcon_108325"
+	},
+	"astunningstratagem": {
+		"nameicon": "UI_ItemIcon_108340"
+	},
+	"grilledunagifillet": {
+		"nameicon": "UI_ItemIcon_108337"
+	},
+	"ricepudding": {
+		"nameicon": "UI_ItemIcon_108307"
+	},
+	"braisedmeat": {
+		"nameicon": "UI_ItemIcon_108310"
+	},
+	"oncidiumtofu": {
+		"nameicon": "UI_ItemIcon_108313"
+	},
+	"invigoratingkittymeal": {
+		"nameicon": "UI_ItemIcon_108319"
+	},
+	"omeletterice": {
+		"nameicon": "UI_ItemIcon_108328"
+	},
+	"taiyaki": {
+		"nameicon": "UI_ItemIcon_108331"
+	},
+	"moreandmore": {
+		"nameicon": "UI_ItemIcon_108334"
+	},
+	"chilimincecornbreadbuns": {
+		"nameicon": "UI_ItemIcon_108316"
+	}
+}

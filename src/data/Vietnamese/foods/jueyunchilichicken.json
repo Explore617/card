@@ -1,0 +1,35 @@
+{
+	"name": "Gà Cay Thơm Mềm",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Tấn Công",
+	"foodcategory": "Atk_CritRate",
+	"effect": "Tỷ lệ bạo kích cả đội tăng 6%-12%, kéo dài 300s\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+	"description": "Thịt gia cầm trộn gỏi. Kỹ thuật trộn gỏi đã giữ được độ tươi ngon mọng nước của thịt. Dưới lớp da vàng óng là một mùi vị cay nhẹ thơm ngon.",
+	"suspicious": {
+		"effect": "Tỷ lệ bạo kích cả đội tăng 6%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Thịt gia cầm trộn gỏi. Nhưng trong quá trình chế biến không được ngấm, khiến cho món ăn ngoài thì mặn trong thì nhạt này giống như thịt luộc."
+	},
+	"normal": {
+		"effect": "Tỷ lệ bạo kích cả đội tăng 9%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Thịt gia cầm trộn gỏi. Kỹ thuật trộn gỏi đã giữ được độ tươi ngon mọng nước của thịt. Dưới lớp da vàng óng là một mùi vị cay nhẹ thơm ngon."
+	},
+	"delicious": {
+		"effect": "Tỷ lệ bạo kích cả đội tăng 12%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Thịt gia cầm trộn gỏi. Thịt non mềm tưởng như có thể vỡ ra được, khi cắn một miếng nước thịt tuôn trào, giống như một giấc mơ đẹp, khiến người khác quên mất bản thân đang ở đâu."
+	},
+	"ingredients": [
+		{
+			"name": "Thịt Gia Cầm",
+			"count": 2
+		},
+		{
+			"name": "Ớt Tuyệt Vân",
+			"count": 1
+		},
+		{
+			"name": "Tiêu",
+			"count": 1
+		}
+	]
+}

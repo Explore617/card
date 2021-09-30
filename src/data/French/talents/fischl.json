@@ -1,0 +1,205 @@
+{
+	"name": "Fischl",
+	"combat1": {
+		"name": "Attaque normale : Flèche de culpabilité",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis et infligeant davantage de DGT.\nLors de la visée, les ténébreux esprits de la nuit convergent sur la flèche. Celle-ci se charge en élément Électro, infligeant de considérables DGT Électro quand elle est complètement chargée.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT tir visé|{param6:F1P}",
+				"DGT tir visé (pleine charge)|{param7:P}",
+				"DGT durant la chute|{param8:F1P}",
+				"DGT chute basse/élevée|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Ailes de surveillance nocturne",
+		"info": "Fischl invoque son fidèle Oz à ses côtés. Le corbeau d'ombre et de tonnerre descend sur ce monde, infligeant des DGT Électro dans une petite zone lors de son invocation.\nOz tire de façon continue des balles électrifiées sur les ennemis proches tant qu'il est actif.\n\n**Appui long**\nAjuste la zone où la compétence sera lancée ; appuyez à nouveau lorsque Oz est actif pour le faire revenir.",
+		"description": "« Vous ne méritez pas que je gaspille mon pouvoir sur vous... Oz, fais pleuvoir les éclairs de la justice. »\n—— « Fleurs pour la Princesse Fischl - Tome IV : Adieu, maîtresse. »",
+		"attributes": {
+			"labels": [
+				"DGT d'Oz|{param1:F1P}",
+				"DGT à l'invocation|{param2:P}",
+				"Durée d'Oz|{param4:F1} s",
+				"Temps de recharge|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Incarnation de la nuit",
+		"info": "Répondant à l'appel de Fischl, Oz vient protéger sa maîtresse de ses ailes tel un voile nocturne.\nPendant la durée de la compétence :\n· Fischl prend la forme d'Oz, ce qui lui permet d'augmenter sa VIT de déplacement.\n· Les ennemis sur sa route sont frappés par la foudre et subissent des DGT Électro. Chaque ennemi ne peut être frappé qu'une fois.\nLorsque l'effet prend fin, Oz reste pour combattre les ennemis de sa maîtresse. Si Oz est déjà présent sur le terrain avant l'utilisation de cette compétence, son temps de présence sera remis à zéro.\nRestaure une partie de l'énergie élémentaire de Fischl une fois terminé.",
+		"description": "« ... De toutes les bêtes suivant le sang maudit, seul le seigneur corbeau, dont les yeux ont été témoins de la destruction de mille mondes, était capable de comprendre sa grandeur. Et, la recouvrant d'un voile d'ébène, il fit le serment de la protéger à jamais. »\n—— « Fleurs pour la Princesse Fischl - Tome I : Apocalypse »",
+		"attributes": {
+			"labels": [
+				"DGT foudre|{param1:P}",
+				"Temps de recharge|{param5:F1} s",
+				"Énergie élémentaire|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Corbeau maléfique",
+		"info": "Oz libère sur les ennemis proches la foudre du jugement lorsque Fischl le touche d'une flèche complètement chargée, leur infligeant des DGT Électro de zone équivalant à 152,7 % des DGT du tir."
+	},
+	"passive2": {
+		"name": "Foudre divine",
+		"info": "Lorsque votre personnage déployé déclenche une réaction liée à l'élément Électro en la présence d'Oz, l'ennemi est frappé par la foudre du jugement divin, et subit des DGT Électro équivalant à 80 % de l'ATQ de Fischl."
+	},
+	"passive3": {
+		"name": "Jardin secret",
+		"info": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Poésie",
+				"count": 3
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 2
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 9
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 4
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 6
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 9
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 16
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 12
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

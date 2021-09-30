@@ -1,0 +1,209 @@
+{
+	"name": "Ganyu",
+	"combat1": {
+		"name": "โจมตีปกติ - Liutian Archery",
+		"info": "**โจมตีปกติ**\nยิงธนูโจมตีต่อเนื่องมากสุดถึงหกครั้ง\n\n**ชาร์จโจมตี**\nการ**เล็งโจมตี**จะสร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี ไอแห่งความเย็นจะถูกรวบรวม ในหัวของลูกศรและยิงออกไป เอฟเฟกต์ที่เกิดจะแตกต่างกันไปตาม เวลาที่เล็งชาร์จดังนี้:\n·ชาร์จระดับ 1: ยิงธนูที่มีไอเย็น สร้างความเสียหายน้ำแข็ง；\n·ชาร์จระดับ 2: ยิงธนู Frostflake Arrow สร้างความเสียหายน้ำแข็ง หลังยิงถูกเป้าหมายจะบานออกเป็น Frostflake Arrow Bloom และสร้าง ความเสียหายน้ำแข็งวงกว้างอีกครั้ง\n\n**โจมตีพุ่งลงจากอากาศ**\nปล่อยฝนธนูจากกลางอากาศและพุ่ง ลงมายังพื้นดินเพื่อโจมตีอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลง ถึงพื้น",
+		"attributes": {
+			"labels": [
+				"ความเสียหายขั้น 1|{param1:F1P}",
+				"ความเสียหายขั้น 2|{param2:F1P}",
+				"ความเสียหายขั้น 3|{param3:F1P}",
+				"ความเสียหายขั้น 4|{param4:F1P}",
+				"ความเสียหายขั้น 5|{param5:F1P}",
+				"ความเสียหายขั้น 6|{param6:F1P}",
+				"เล็งโจมตี|{param7:F1P}",
+				"เล็งโจมตีและชาร์จระดับ 1|{param8:P}",
+				"ความเสียหาย Frostflake Arrow|{param9:P}",
+				"ความเสียหาย Frostflake Arrow Bloom|{param10:P}",
+				"ความเสียหายพุ่งลง|{param11:F1P}",
+				"ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Trail of the Qilin",
+		"info": "Ganyu ทิ้ง Ice Lotus ไว้ดอกหนึ่ง แล้วพุ่งตัวถอยหลังอย่างรวดเร็วและ สร้างความเสียหายน้ำแข็งวงกว้าง\n\n**Ice Lotus**\n·จะยั่วยุศัตรูโดยรอบและดึงดูดการโจมตี ทั้งหมด\n·อัตราส่วนความทนทานจะขึ้นกับ พลังชีวิตสูงสุดของ Ganyu\n·เมื่อถูกทำลายหรือหมดเวลาจะบานออกเต็มที่ ทำให้เกิดความเสียหายน้ำแข็งวงกว้าง",
+		"description": "\"คุณบอกว่าเห็นฉันงั้นเหรอ? คิดไปเองรึเปล่า ตอนนั้นฉันทำงานล่วงเวลาอยู่นะ\"",
+		"attributes": {
+			"labels": [
+				"สืบทอดพลังชีวิต|{param1:P}",
+				"ความเสียหายสกิล|{param2:P}",
+				"ระยะเวลาต่อเนื่อง|{param3:F1} วิ",
+				"คูลดาวน์|{param4:F1} วิ"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Celestial Shower",
+		"info": "ควบแน่นน้ำแข็งขึ้นในอากาศ เพื่อเรียก Sacred Cryo Pearl มาขับไล่วิญญาณร้าย\nภายในช่วงเวลาคงอยู่ Sacred Cryo Pearl จะปล่อยสะเก็ดน้ำแข็งเพื่อโจมตีศัตรูที่อยู่ ในอาณาเขตการโจมตีและสร้าง ความเสียหายน้ำแข็ง",
+		"description": "Ganyu สามารถสร้างหยาดฝนแสนหวาน ได้ตามใจชอบ แต่สำหรับเหล่าปีศาจร้าย ฝนเหล่านี้จะกลายเป็นหิมะที่ขม และหนาวเหน็บ",
+		"attributes": {
+			"labels": [
+				"ความเสียหายสะเก็ดน้ำแข็ง|{param1:P}",
+				"ระยะเวลาต่อเนื่อง|{param2:F1} วิ",
+				"คูลดาวน์|{param3:F1} วิ",
+				"พลังงานธาตุ|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Undivided Heart",
+		"info": "ภายใน 5 วินาที หลังจากยิง Frostflake Arrow จะทำให้ Frostflake Arrow ที่ยิงในครั้งต่อไป และการเบ่งบานที่เกิดขึ้นจาก Frostflake Arrow เหล่านั้นมีอัตราคริเพิ่มขึ้น 20%"
+	},
+	"passive2": {
+		"name": "Harmony between Heaven and Earth",
+		"info": "ตัวละครในทีมที่เข้าสู่การต่อสู้ในขณะนั้นที่อยู่ในพื้นที่ของ **Celestial Shower** จะได้รับโบนัสความเสียหายน้ำแข็ง 20%"
+	},
+	"passive3": {
+		"name": "Perserved for the Hunt",
+		"info": "เมื่อสร้างอาวุธประเภทธนู จะได้รับแร่ที่ใช้ในการหลอมคืน 15%"
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Diligence\"",
+				"count": 3
+			},
+			{
+				"name": "Whopperflower Nectar",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 2
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 4
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 6
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 9
+			},
+			{
+				"name": "Shimmering Nectar",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 4
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 4
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 6
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 6
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 12
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 9
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 16
+			},
+			{
+				"name": "Elemental Nectar",
+				"count": 12
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

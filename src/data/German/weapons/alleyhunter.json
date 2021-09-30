@@ -1,0 +1,147 @@
+{
+	"name": "Gassenjäger",
+	"description": "Ein präziser und extravaganter Langbogen, der einmal einem Vogelfreien gehört hat, der sich der Gerechtigkeit verschrieben hat und niemals gefangen wurde.",
+	"weapontype": "Bogen",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ANG",
+	"subvalue": "6",
+	"effectname": "Angriff aus der Gasse",
+	"effect": "Erhöht den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden, wenn diese Figur in der Truppe, aber nicht eingewechselt ist, pro s um {0} und insgesamt um bis zu {1}. Verringert diesen Schadensbonus 4 s nach Einwechseln dieser Figur pro s um {2}, bis der Bonus auf 0 % gefallen ist.",
+	"r1": [
+		"2 %",
+		"20 %",
+		"4 %"
+	],
+	"r2": [
+		"2,5 %",
+		"25 %",
+		"5 %"
+	],
+	"r3": [
+		"3 %",
+		"30 %",
+		"6 %"
+	],
+	"r4": [
+		"3,5 %",
+		"35 %",
+		"7 %"
+	],
+	"r5": [
+		"4 %",
+		"40 %",
+		"8 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Fesseln des Löwenzahnkämpfers",
+				"count": 3
+			},
+			{
+				"name": "Chaos-Apparat",
+				"count": 3
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Ketten des Löwenzahnkämpfers",
+				"count": 3
+			},
+			{
+				"name": "Chaos-Apparat",
+				"count": 12
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Ketten des Löwenzahnkämpfers",
+				"count": 6
+			},
+			{
+				"name": "Chaos-Schaltkreis",
+				"count": 6
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Schellen des Löwenzahnkämpfers",
+				"count": 3
+			},
+			{
+				"name": "Chaos-Schaltkreis",
+				"count": 12
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Schellen des Löwenzahnkämpfers",
+				"count": 6
+			},
+			{
+				"name": "Chaos-Getriebe",
+				"count": 9
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Ideal des Löwenzahnkriegers",
+				"count": 4
+			},
+			{
+				"name": "Chaos-Getriebe",
+				"count": 18
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 12
+			}
+		]
+	}
+}

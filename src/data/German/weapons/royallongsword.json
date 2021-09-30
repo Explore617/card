@@ -1,0 +1,137 @@
+{
+	"name": "Königliches Langschwert",
+	"description": "Ein altes Schwert der Aristokraten, die einst über Mondstadt herrschten. Es ist fein ausgearbeitet und zeigt mit seinen Verzierungen und Schnitzereien den Status seines Trägers.",
+	"weapontype": "Einhänder",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ANG",
+	"subvalue": "9",
+	"effectname": "Konzentration",
+	"effect": "Erhöht die KT beim Verursachen von Schaden um {0}, 5-fach stapelbar. Effekt erlischt beim Verursachen eines KT.",
+	"r1": [
+		"8 %"
+	],
+	"r2": [
+		"10 %"
+	],
+	"r3": [
+		"12 %"
+	],
+	"r4": [
+		"14 %"
+	],
+	"r5": [
+		"16 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Decabarians zerbrochener Ziegel",
+				"count": 3
+			},
+			{
+				"name": "Schweres Horn",
+				"count": 3
+			},
+			{
+				"name": "Zerbrochene Maske",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Decabarians zerbröckelter Wall",
+				"count": 3
+			},
+			{
+				"name": "Schweres Horn",
+				"count": 12
+			},
+			{
+				"name": "Zerbrochene Maske",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Decabarians zerbröckelter Wall",
+				"count": 6
+			},
+			{
+				"name": "Kupferhorn",
+				"count": 6
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Decabarians Palastfragment",
+				"count": 3
+			},
+			{
+				"name": "Kupferhorn",
+				"count": 12
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Decabarians Palastfragment",
+				"count": 6
+			},
+			{
+				"name": "Schwarzes Kristallhorn",
+				"count": 9
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Decabarians zerstörter Traum",
+				"count": 4
+			},
+			{
+				"name": "Schwarzes Kristallhorn",
+				"count": 18
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "Zwiebel",
+	"description": "Ein kugelrundes Gemüse, das sich an seinen Angreifern rächt, indem es sie weinen lässt.",
+	"sortorder": 1277,
+	"category": "EXCHANGE",
+	"materialtype": "Zutat",
+	"source": [
+		"In Gemischtwarenläden zu erstehen"
+	]
+}

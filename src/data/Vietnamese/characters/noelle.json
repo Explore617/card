@@ -1,0 +1,153 @@
+{
+	"name": "Noelle",
+	"title": "Đóa Hoa Chưa Vinh Danh",
+	"description": "Hầu gái đáng tin cậy của Đội Kỵ Sĩ Tây Phong, mơ ước một ngày nào đó sẽ trở thành kỵ sĩ chính thức.",
+	"rarity": "4",
+	"element": "Nham",
+	"weapontype": "Trọng Kiếm",
+	"substat": "Phòng Ngự",
+	"gender": "nữ",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Đội Kỵ Sĩ Tây Phong",
+	"birthdaymmdd": "3/21",
+	"birthday": "21 tháng 3",
+	"constellation": "Hộ Tâm",
+	"cv": {
+		"english": "Laura Faye Smith",
+		"chinese": "宴宁",
+		"japanese": "高尾奏音",
+		"korean": "이보희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vụn Hoàng Ngọc Cứng",
+				"count": 1
+			},
+			{
+				"name": "Quả Dâu Đỏ",
+				"count": 3
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Mảnh Hoàng Ngọc Cứng",
+				"count": 3
+			},
+			{
+				"name": "Tháp Huyền Nham",
+				"count": 2
+			},
+			{
+				"name": "Quả Dâu Đỏ",
+				"count": 10
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Mảnh Hoàng Ngọc Cứng",
+				"count": 6
+			},
+			{
+				"name": "Tháp Huyền Nham",
+				"count": 4
+			},
+			{
+				"name": "Quả Dâu Đỏ",
+				"count": 20
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Hoàng Ngọc Cứng",
+				"count": 3
+			},
+			{
+				"name": "Tháp Huyền Nham",
+				"count": 8
+			},
+			{
+				"name": "Quả Dâu Đỏ",
+				"count": 30
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Hoàng Ngọc Cứng",
+				"count": 6
+			},
+			{
+				"name": "Tháp Huyền Nham",
+				"count": 12
+			},
+			{
+				"name": "Quả Dâu Đỏ",
+				"count": 45
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Hoàng Ngọc Cứng",
+				"count": 6
+			},
+			{
+				"name": "Tháp Huyền Nham",
+				"count": 20
+			},
+			{
+				"name": "Quả Dâu Đỏ",
+				"count": 60
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 24
+			}
+		]
+	}
+}

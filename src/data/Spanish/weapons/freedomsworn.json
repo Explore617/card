@@ -1,0 +1,147 @@
+{
+	"name": "Juramento por la Libertad",
+	"description": "Una espada azul celeste que recuerda a una canción de la antigüedad. Es tan tajante como el juramento por la libertad del Reino del Viento.",
+	"weapontype": "Espada ligera",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "Maestría Elemental",
+	"subvalue": "43",
+	"effectname": "Himno de la rebelión",
+	"effect": "Una parte del «Gran concierto milenario» que flota por los vientos. Aumenta en un {0} el daño infligido. Al causar una Reacción Elemental, el personaje obtiene un talismán de insurrección que puede adquirirse una vez cada 0.5 s como máximo. Este efecto también puede ocurrir cuando el personaje que lleva equipada esta arma está en tu equipo pero no en combate. Al obtener 2 talismanes de insurrección, estos se consumirán y otorgarán a todos los miembros del equipo cercanos el efecto de «Gran concierto milenario: Canción de la resistencia» durante 12 s, el cual aumenta en un {1} el daño de los Ataques Normales, Cargados y Descendentes, y en un {2} el ATQ. Tras activarse este efecto, no podrán obtenerse talismanes de insurrección durante 20 s. Los efectos de «Gran concierto milenario» no se acumularán con otros efectos del mismo tipo.",
+	"r1": [
+		"10%",
+		"16%",
+		"20%"
+	],
+	"r2": [
+		"12.5%",
+		"20%",
+		"25%"
+	],
+	"r3": [
+		"15%",
+		"24%",
+		"30%"
+	],
+	"r4": [
+		"17.5%",
+		"28%",
+		"35%"
+	],
+	"r5": [
+		"20%",
+		"32%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Grilletes de Diente de León",
+				"count": 5
+			},
+			{
+				"name": "Dispositivo del caos",
+				"count": 5
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Cadena de Diente de León",
+				"count": 5
+			},
+			{
+				"name": "Dispositivo del caos",
+				"count": 18
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Cadena de Diente de León",
+				"count": 9
+			},
+			{
+				"name": "Circuito del caos",
+				"count": 9
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Esposas de Diente de León",
+				"count": 5
+			},
+			{
+				"name": "Circuito del caos",
+				"count": 18
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Esposas de Diente de León",
+				"count": 9
+			},
+			{
+				"name": "Caldera del caos",
+				"count": 14
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Ideales de Diente de León",
+				"count": 6
+			},
+			{
+				"name": "Caldera del caos",
+				"count": 27
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 18
+			}
+		]
+	}
+}

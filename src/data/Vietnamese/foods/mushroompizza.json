@@ -1,0 +1,39 @@
+{
+	"name": "Pizza Nấm Rơm Nướng",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Hồi 26%-30% giới hạn HP cho nhân vật được chọn.\nTrong 30s tiếp theo, mỗi 5s hồi 450-790 HP.",
+	"description": "Bánh nướng từ phô mai và nấm rơm. Khi nóng phô mai có thể kéo thành sợi, ăn một miếng to rất đã.",
+	"suspicious": {
+		"effect": "Lập tức hồi 26% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 450 HP.",
+		"description": "Bánh nướng phô mai và nấm rơm. Chỉ cần chịu được cảm giác cứng như đá này, năng lượng mà món này mang lại rất tốt."
+	},
+	"normal": {
+		"effect": "Lập tức hồi 28% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 620 HP.",
+		"description": "Bánh nướng từ phô mai và nấm rơm. Khi nóng phô mai có thể kéo thành sợi, ăn một miếng to rất đã."
+	},
+	"delicious": {
+		"effect": "Lập tức hồi 30% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 790 HP.",
+		"description": "Bánh nướng phô mai và nấm rơm. Nấm và rau củ như hòa làm một, cộng thêm phô mai mềm mại khiến người ta khó quên."
+	},
+	"ingredients": [
+		{
+			"name": "Nấm Rơm",
+			"count": 4
+		},
+		{
+			"name": "Bột Mì",
+			"count": 3
+		},
+		{
+			"name": "Bắp Cải Cuộn",
+			"count": 2
+		},
+		{
+			"name": "Phô Mai",
+			"count": 1
+		}
+	]
+}

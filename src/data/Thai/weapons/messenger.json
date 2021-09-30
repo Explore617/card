@@ -1,0 +1,137 @@
+{
+	"name": "Messenger",
+	"description": "คันธนูแบนที่ทำขึ้นอย่างง่าย ๆ ที่ครั้งหนึ่งเคยใช้สำหรับการสื่อสารส่งข้อความ",
+	"weapontype": "ธนู",
+	"rarity": "3",
+	"baseatk": 40,
+	"substat": "ความแรงคริ",
+	"subvalue": "6.8",
+	"effectname": "Archer's Message",
+	"effect": "หากชาร์จโจมตีโดนจุดอ่อนของเป้าหมาย จะสร้างความเสียหายเพิ่มเติมอีก {0} ของพลังโจมตี ซึ่งความเสียหายนี้นับเป็นความเสียหายคริติคอล โดยเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 10 วินาที",
+	"r1": [
+		"100%"
+	],
+	"r2": [
+		"125%"
+	],
+	"r3": [
+		"150%"
+	],
+	"r4": [
+		"175%"
+	],
+	"r5": [
+		"200%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Mist Veiled Lead Elixir",
+				"count": 2
+			},
+			{
+				"name": "Mist Flower Pollen",
+				"count": 2
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Mist Veiled Mercury Elixir",
+				"count": 2
+			},
+			{
+				"name": "Mist Flower Pollen",
+				"count": 8
+			},
+			{
+				"name": "Treasure Hoarders Insignia",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mist Veiled Mercury Elixir",
+				"count": 4
+			},
+			{
+				"name": "Mist Grass",
+				"count": 4
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mist Veiled Gold Elixir",
+				"count": 2
+			},
+			{
+				"name": "Mist Grass",
+				"count": 8
+			},
+			{
+				"name": "Silver Raven Insignia",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Mist Veiled Gold Elixir",
+				"count": 4
+			},
+			{
+				"name": "Mist Grass Lamp",
+				"count": 6
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mist Veiled Primo Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass Lamp",
+				"count": 12
+			},
+			{
+				"name": "Golden Raven Insignia",
+				"count": 8
+			}
+		]
+	}
+}

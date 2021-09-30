@@ -1,0 +1,142 @@
+{
+	"name": "Thundering Pulse",
+	"description": "ธนูยาวที่เคยถูกมอบให้เป็นของขวัญโดยโชกุน ส่องประกายแสงของสายฟ้าชั่วนิรันดร์",
+	"weapontype": "ธนู",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "ความแรงคริ",
+	"subvalue": "14.4",
+	"effectname": "Rule by Thunder",
+	"effect": "พลังโจมตีเพิ่มขึ้น {0} และจะสามารถได้รับพลังของ \"Thunder Emblem\" โดยเมื่อครอบครอง Thunder Emblem 1/2/3 ชั้น ความเสียหายของการโจมตีปกติจะเพิ่มขึ้น {1} โดยที่ตัวละครจะได้รับ Thunder Emblem 1 ชั้น ในแต่ละสถานการณ์ต่อไปนี้: เมื่อการโจมตีปกติทำให้เกิดความเสียหาย (คงอยู่ 5 วินาที); เมื่อใช้สกิลธาตุ (คงอยู่ 10 วินาที); เมื่อพลังงานธาตุของตัวละครต่ำกว่า 100% (จะหายไปเมื่อพลังงานธาตุของตัวละครเต็ม) โดยช่วงเวลาคงอยู่ของ Thunder Emblem แต่ละชั้นจะถูกคิดแยกกัน",
+	"r1": [
+		"20%",
+		"12/24/40%"
+	],
+	"r2": [
+		"25%",
+		"15/30/50%"
+	],
+	"r3": [
+		"30%",
+		"18/36/60%"
+	],
+	"r4": [
+		"35%",
+		"21/42/70%"
+	],
+	"r5": [
+		"40%",
+		"24/48/80%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Narukami's Wisdom",
+				"count": 5
+			},
+			{
+				"name": "Dismal Prism",
+				"count": 5
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Narukami's Joy",
+				"count": 5
+			},
+			{
+				"name": "Dismal Prism",
+				"count": 18
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Narukami's Joy",
+				"count": 9
+			},
+			{
+				"name": "Crystal Prism",
+				"count": 9
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Narukami's Affection",
+				"count": 5
+			},
+			{
+				"name": "Crystal Prism",
+				"count": 18
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Narukami's Affection",
+				"count": 9
+			},
+			{
+				"name": "Polarizing Prism",
+				"count": 14
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Narukami's Valor",
+				"count": 6
+			},
+			{
+				"name": "Polarizing Prism",
+				"count": 27
+			},
+			{
+				"name": "Historic Arrowhead",
+				"count": 18
+			}
+		]
+	}
+}

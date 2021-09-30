@@ -1,0 +1,39 @@
+{
+	"name": "Butterbratling",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Gerichte für Verteidigung",
+	"foodcategory": "Def_Add",
+	"effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 s lang um 20 bis 30 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+	"description": "Ein langsam in Butter goldbraun gebratener Fisch. Bei richtiger Zubereitung bleibt er lange frisch und knusprig. Die knusprig braune Butterkruste hinterlässt ein angenehmes Gefühl im Mund.",
+	"suspicious": {
+		"effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 s lang um 20 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein langsam in Butter goldbraun gebratener Fisch. Bedauerlicherweise wurde dieser Fisch viel zu lange gebraten, sodass er beim bloßen Ansehen bereits auseinanderfällt."
+	},
+	"normal": {
+		"effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 s lang um 25 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein langsam in Butter goldbraun gebratener Fisch. Bei richtiger Zubereitung bleibt er lange frisch und knusprig. Die knusprig braune Butterkruste hinterlässt ein angenehmes Gefühl im Mund."
+	},
+	"delicious": {
+		"effect": "Erhöht die Schildeffizienz aller Truppenmitglieder 300 s lang um 30 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein langsam in Butter goldbraun gebratener Fisch. Genau auf den Punkt gegart, schmeichelt das zarte Fleisch der Zunge und man spürt die Frische des Ozeans in seiner gesamten Geschmackspalette. Ein einfaches, aber unvergessliches Gericht, einfach ein Hochgenuss."
+	},
+	"ingredients": [
+		{
+			"name": "Butter",
+			"count": 3
+		},
+		{
+			"name": "Fisch",
+			"count": 3
+		},
+		{
+			"name": "Salz",
+			"count": 1
+		},
+		{
+			"name": "Lampenkraut",
+			"count": 1
+		}
+	]
+}

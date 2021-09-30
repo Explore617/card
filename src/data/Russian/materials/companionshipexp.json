@@ -1,0 +1,9 @@
+{
+	"name": "Опыт дружбы",
+	"description": "Опыт дружбы используется для поднятия уровня дружбы.",
+	"sortorder": 380,
+	"rarity": "3",
+	"category": "ITEM_VIRTUAL",
+	"materialtype": "Укрепление дружбы",
+	"source": []
+}

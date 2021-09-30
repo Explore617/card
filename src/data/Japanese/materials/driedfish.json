@@ -1,0 +1,10 @@
+{
+	"name": "魚の干物",
+	"description": "",
+	"sortorder": 1639,
+	"category": "EXCHANGE",
+	"materialtype": "食材",
+	"source": [
+		"食材加工で獲得"
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Kiếm Li Cốt",
+	"description": "Binh khí hiếm đến từ biển cổ đại, múa kiếm vùn vụt như sóng dữ.",
+	"weapontype": "Trọng Kiếm",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tỷ Lệ Bạo Kích",
+	"subvalue": "6",
+	"effectname": "Phá Sóng",
+	"effect": "Khi nhân vật ra trận, mỗi 4s tăng {0} sát thương gây ra, {1} sát thương phải chịu. Cộng dồn tối đa 5 tầng, không làm mới khi nhân vật rời khỏi trận, sau khi chịu sát thương sẽ giảm 1 tầng hiệu quả.",
+	"r1": [
+		"6%",
+		"3%"
+	],
+	"r2": [
+		"7%",
+		"2.7%"
+	],
+	"r3": [
+		"8%",
+		"2.4%"
+	],
+	"r4": [
+		"9%",
+		"2.2%"
+	],
+	"r5": [
+		"10%",
+		"2%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Hạt Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 3
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 6
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 9
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Miếng Thiên Thạch Đen",
+				"count": 4
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 18
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 12
+			}
+		]
+	}
+}

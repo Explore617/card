@@ -1,0 +1,27 @@
+{
+	"name": "Beidou",
+	"c1": {
+		"name": "Sea Beast's Scourge",
+		"effect": "Saat **Stormbreaker** digunakan:\nMembentuk perisai yang menahan DMG sebesar 16% dari Max HP Beidou selama 15 detik.\nPerisai ini juga menahan Electro DMG 250% lebih efektif."
+	},
+	"c2": {
+		"name": "Upon the Turbulent Sea, the Thunder Arises",
+		"effect": "Sambaran listrik **Stormbreaker** menyambar 2 musuh lebih banyak."
+	},
+	"c3": {
+		"name": "Summoner of Storm",
+		"effect": "Meningkatkan 3 level **Tidecaller**.\nMaksimum: Lv. 15."
+	},
+	"c4": {
+		"name": "Stunning Revenge",
+		"effect": "Setelah terkena serangan, Normal Attack Beidou memperoleh 20% Electro DMG tambahan selama 10 detik."
+	},
+	"c5": {
+		"name": "Crimson Tidewalker",
+		"effect": "Meningkatkan 3 level **Stormbreaker**.\nMaksimum: Lv. 15."
+	},
+	"c6": {
+		"name": "Bane of Evil",
+		"effect": "Selama durasi **Stormbreaker**, Electro RES musuh di sekitar berkurang 15%."
+	}
+}

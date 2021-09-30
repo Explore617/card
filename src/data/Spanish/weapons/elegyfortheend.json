@@ -1,0 +1,147 @@
+{
+	"name": "Elegía del Fin",
+	"description": "Un arco tan bello como el instrumento de un bardo. Las flechas que dispara son como un suspiro capaz de atravesar el corazón de una persona.",
+	"weapontype": "Arco",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "Recarga de Energía",
+	"subvalue": "12",
+	"effectname": "Canción de despedida",
+	"effect": "Una parte del «Gran concierto milenario» que flota por los vientos. Aumenta en {0} pts. la Maestría Elemental. Cuando el personaje que lleva esta arma equipada ataca a un enemigo con una Habilidad Elemental o Definitiva, dicho personaje obtiene un talismán de reminiscencia que puede adquirirse una vez cada 0.2 s como máximo. Este efecto también puede ocurrir cuando el personaje que lleva equipada esta arma está en tu equipo pero no en combate. Al obtener 4 talismanes de reminiscencia, estos se consumirán y otorgarán a todos los miembros del equipo cercanos el efecto de «Gran concierto milenario: Canción del adiós» durante 12 s, el cual aumenta en {1} pts. la Maestría Elemental y el ATQ en un {2}. Tras activarse este efecto, no podrán obtenerse talismanes de reminiscencia durante 20 s. Los efectos de «Gran concierto milenario» no se acumularán con otros efectos del mismo tipo.",
+	"r1": [
+		"60",
+		"100",
+		"20%"
+	],
+	"r2": [
+		"75",
+		"125",
+		"25%"
+	],
+	"r3": [
+		"90",
+		"150",
+		"30%"
+	],
+	"r4": [
+		"105",
+		"175",
+		"35%"
+	],
+	"r5": [
+		"120",
+		"200",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Diente de leche de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Cuerno pesado",
+				"count": 5
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Cuerno pesado",
+				"count": 18
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 9
+			},
+			{
+				"name": "Cuerno de bronce negro",
+				"count": 9
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Cuerno de bronce negro",
+				"count": 18
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 9
+			},
+			{
+				"name": "Cuerno con cristal negro",
+				"count": 14
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Nostalgia del lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Cuerno con cristal negro",
+				"count": 27
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 18
+			}
+		]
+	}
+}

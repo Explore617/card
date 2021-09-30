@@ -1,0 +1,142 @@
+{
+	"name": "Khóa Trần Thế",
+	"description": "Chiếc khóa bằng đá dường như ẩn chứa những dòng lịch sử cổ xưa nào đó, sự thay đổi của thời gian khiến nó để lộ ra sức mạnh trong đó.",
+	"weapontype": "Pháp Khí",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "Tấn Công",
+	"subvalue": "10.8",
+	"effectname": "Hoàng Cực Chương Vàng",
+	"effect": "Hiệu quả khiên tăng {0}. Trong vòng 8s sau khi đánh trúng, tấn công tăng {1}. Cộng dồn 5 tầng, mỗi 0.3s chỉ được thi triển 1 lần. Ngoài ra, khi được khiên bảo vệ, hiệu quả tăng tấn công sẽ tăng 100%.",
+	"r1": [
+		"20%",
+		"4%"
+	],
+	"r2": [
+		"25%",
+		"5%"
+	],
+	"r3": [
+		"30%",
+		"6%"
+	],
+	"r4": [
+		"35%",
+		"7%"
+	],
+	"r5": [
+		"40%",
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Hạt Thiên Thạch Đen",
+				"count": 5
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 5
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 5
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 18
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 9
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 9
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 5
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 18
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 9
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 14
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Miếng Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 27
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 18
+			}
+		]
+	}
+}

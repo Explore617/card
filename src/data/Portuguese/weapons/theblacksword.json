@@ -1,0 +1,142 @@
+{
+	"name": "Espada Negra",
+	"description": "Uma espada longa que anseia por conflito e combate. Dizem-se que mergulha seu portador em um desejo violento de se manchar de sangue em um massacre.",
+	"weapontype": "Espada",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Taxa Crítica",
+	"subvalue": "6",
+	"effectname": "Justiça",
+	"effect": "Aumenta o dano causado pelos Ataques Normais e Carregados em {0}, regenera {1} do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s.",
+	"r1": [
+		"20%",
+		"60%"
+	],
+	"r2": [
+		"25%",
+		"70%"
+	],
+	"r3": [
+		"30%",
+		"80%"
+	],
+	"r4": [
+		"35%",
+		"90%"
+	],
+	"r5": [
+		"40%",
+		"100%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dente de Leite do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 3
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 12
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 6
+			},
+			{
+				"name": "Secreção de Slime",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 12
+			},
+			{
+				"name": "Secreção de Slime",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 9
+			},
+			{
+				"name": "Essência de Slime",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgia do Lobo Boreal",
+				"count": 4
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 18
+			},
+			{
+				"name": "Essência de Slime",
+				"count": 12
+			}
+		]
+	}
+}

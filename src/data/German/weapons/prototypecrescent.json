@@ -1,0 +1,137 @@
+{
+	"name": "Mondschein-Prototyp",
+	"description": "Der Prototyp eines Langbogens, versteckt in der Schwarzsteinschmiede. Beim Schießen des Pfeils macht man eine Figur, die an den leuchtenden Mond erinnert.",
+	"weapontype": "Bogen",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ANG",
+	"subvalue": "9",
+	"effectname": "Ohne Wiederkehr",
+	"effect": "Erhöht die Bewegungs-GSW beim Treffen von Schwachstellen mit heftigen Schlägen 10 s lang um 10 % und den ANG um {0}.",
+	"r1": [
+		"36 %"
+	],
+	"r2": [
+		"45 %"
+	],
+	"r3": [
+		"54 %"
+	],
+	"r4": [
+		"63 %"
+	],
+	"r5": [
+		"72 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Bleikugeln des Nebelschleiers",
+				"count": 3
+			},
+			{
+				"name": "Nebelgraspollen",
+				"count": 3
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Quecksilberkugeln des Nebelschleiers",
+				"count": 3
+			},
+			{
+				"name": "Nebelgraspollen",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Quecksilberkugeln des Nebelschleiers",
+				"count": 6
+			},
+			{
+				"name": "Nebelgrassäckchen",
+				"count": 6
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Goldkugel des Nebelschleiers",
+				"count": 3
+			},
+			{
+				"name": "Nebelgrassäckchen",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Goldkugel des Nebelschleiers",
+				"count": 6
+			},
+			{
+				"name": "Nebelgrasdocht",
+				"count": 9
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Wunderkugel des Nebelschleiers",
+				"count": 4
+			},
+			{
+				"name": "Nebelgrasdocht",
+				"count": 18
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,149 @@
+.character {
+    position: absolute;
+    left: 512px;
+    top: 8px;
+}
+
+.character .base-info {
+    position: relative;
+    width: 474px;
+    top: 96px;
+}
+
+.base-info .birthday,
+.base-info .element,
+.base-info .cv,
+.base-info .constellation-name {
+    display: inline-block;
+    width: 237px;
+    margin-bottom: 5px;
+}
+
+.base-info .title,
+.base-info .content {
+    position: relative;
+    display: inline-block;
+    font-size: 10.38pt;
+}
+
+.base-info .title {
+    margin-right: 9px;
+    color: rgb(81, 92, 113);
+}
+
+.base-info .content {
+    color: rgb(116, 129, 156);
+}
+
+.data-block {
+    position: relative;
+    width: 480px;
+    top: 95px;
+    height: 22px;
+    background-color: var( --backgroundColor );
+}
+
+.data-block .star-icon {
+    position: absolute;
+    height: 19px;
+    top: 2px;
+    left: 45px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.data-block .title,
+.data-block .value {
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+
+
+.data-block .level {
+    position: relative;
+    display: inline-block;
+    float: left;
+}
+
+.data-block .level {
+    font-size: 14px;
+    text-align: center;
+    top: 4px;
+    margin: 0 0px 0 8px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+
+.data-block .title {
+    font-size: 14px;
+    text-align: center;
+    top: 4px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.data-block .value {
+    font-size: 16px;
+    margin: 2px 12px 0 12px;
+    color: rgb(255, 255, 255);
+}
+
+.materials {
+    position: relative;
+    top: 90px;
+    left: 12px;
+}
+
+.time {
+    transform: scale(0.8);
+    position: absolute;
+    font-size: 12px;
+    top: 265px;
+    left: -5px;
+    color: rgb(93, 105, 131);
+}
+
+.character .constellation {
+    position: relative;
+    color: rgb(93, 105, 131);
+    top: 100px;
+}
+
+.character .constellation .box {
+    display: table;
+}
+
+.character .constellation .level {
+    position: relative;
+    display: table-cell;
+    font-size: 23pt;
+    width: 45px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: HuaWen, monospace;
+}
+
+.character .constellation .level img {
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    position: absolute;
+    vertical-align: middle;
+
+    top: 0;
+}
+
+.character .constellation .content {
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    height: 45px;
+    padding-left: 5px;
+    font-size: 10.46pt;
+    width: 416px;
+}
+
+/* @font-face {
+    font-family: HuaWen;
+    src: url( "../public/fonts/HWXingKai.ttf" );
+} */

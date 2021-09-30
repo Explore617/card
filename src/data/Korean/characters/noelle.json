@@ -1,0 +1,153 @@
+{
+	"name": "노엘",
+	"title": "수여받지 못한 꽃",
+	"description": "「페보니우스 기사단」의 믿음직한 메이드, 언젠가는 정식으로 기사가 되겠다는 꿈을 가지고 있다",
+	"rarity": "4",
+	"element": "바위",
+	"weapontype": "양손검",
+	"substat": "방어력",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 기사단",
+	"birthdaymmdd": "3/21",
+	"birthday": "3월 21일",
+	"constellation": "심호자리",
+	"cv": {
+		"english": "Laura Faye Smith",
+		"chinese": "宴宁",
+		"japanese": "타카오 카논",
+		"korean": "이보희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "단단한 황옥 가루",
+				"count": 1
+			},
+			{
+				"name": "낙락베리",
+				"count": 3
+			},
+			{
+				"name": "부서진 가면",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "단단한 황옥 조각",
+				"count": 3
+			},
+			{
+				"name": "현암의 탑",
+				"count": 2
+			},
+			{
+				"name": "낙락베리",
+				"count": 10
+			},
+			{
+				"name": "부서진 가면",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "단단한 황옥 조각",
+				"count": 6
+			},
+			{
+				"name": "현암의 탑",
+				"count": 4
+			},
+			{
+				"name": "낙락베리",
+				"count": 20
+			},
+			{
+				"name": "오염된 가면",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "단단한 황옥 덩이",
+				"count": 3
+			},
+			{
+				"name": "현암의 탑",
+				"count": 8
+			},
+			{
+				"name": "낙락베리",
+				"count": 30
+			},
+			{
+				"name": "오염된 가면",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "단단한 황옥 덩이",
+				"count": 6
+			},
+			{
+				"name": "현암의 탑",
+				"count": 12
+			},
+			{
+				"name": "낙락베리",
+				"count": 45
+			},
+			{
+				"name": "불길한 가면",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "단단한 황옥",
+				"count": 6
+			},
+			{
+				"name": "현암의 탑",
+				"count": 20
+			},
+			{
+				"name": "낙락베리",
+				"count": 60
+			},
+			{
+				"name": "불길한 가면",
+				"count": 24
+			}
+		]
+	}
+}

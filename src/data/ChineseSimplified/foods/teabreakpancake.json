@@ -1,0 +1,35 @@
+{
+	"name": "庄园烤松饼",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "恢复类料理",
+	"foodcategory": "Recovery_Revive",
+	"effect": "复苏选中的角色。\n为其恢复250-550点生命值。",
+	"description": "圆形的烤饼。从庄园的午后点心逐渐演变成为寻常主食，会用最好的树莓进行点缀。",
+	"suspicious": {
+		"effect": "复苏选中的角色，为其恢复250点生命值。",
+		"description": "圆形的烤饼。一丝焦味掩盖了松饼应有的甜味，只有树莓坚守岗位。"
+	},
+	"normal": {
+		"effect": "复苏选中的角色，为其恢复400点生命值。",
+		"description": "圆形的烤饼。从庄园的午后点心逐渐演变成为寻常主食，会用最好的树莓进行点缀。"
+	},
+	"delicious": {
+		"effect": "复苏选中的角色，为其恢复550点生命值。",
+		"description": "圆形的烤饼。香乎乎的松饼嚼上去有着软绵绵的口感，味蕾也仿佛置身于云端。"
+	},
+	"ingredients": [
+		{
+			"name": "树莓",
+			"count": 3
+		},
+		{
+			"name": "面粉",
+			"count": 2
+		},
+		{
+			"name": "鸟蛋",
+			"count": 1
+		}
+	]
+}

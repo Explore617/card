@@ -1,0 +1,133 @@
+{
+	"name": "Épée de la descente",
+	"description": "Une épée à l'apparence particulière qui ne semble pas appartenir à ce monde.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 39,
+	"substat": "ATQ",
+	"subvalue": "7.7",
+	"effectname": "Descente",
+	"effect": "#Uniquement pour les joueurs sur :\\n« PlayStation Network »\\nLes attaques normales et chargées ont {0} de chances, lorsqu'elles touchent, d'infliger des DGT équivalant à {1} de l'ATQ dans une zone restreinte. Cet effet peut être déclenché une fois toutes les 10 s. De plus, l'ATQ {2}{3} augmente de {4} pts lorsque Épée de la descente est équipée.",
+	"r1": [
+		"50 %",
+		"200 %",
+		"M#du voyageur",
+		"F#de la voyageuse",
+		"66"
+	],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dent de lait du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 3
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 12
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 12
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 9
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgie du Loup boréal",
+				"count": 4
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 12
+			}
+		]
+	}
+}

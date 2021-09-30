@@ -1,0 +1,209 @@
+{
+	"name": "Diluc",
+	"combat1": {
+		"name": "Attaque normale : Épée trempée",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance sur la durée.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:P}",
+				"DGT enchaînement attaque chargée|{param5:F1P}",
+				"DGT coup final attaque chargée|{param6:P}",
+				"Coût d'endurance attaque chargée|{param7:F1} pts/s",
+				"Durée max|{param8:F1} s",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Assaut brûlant",
+		"info": "Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des DGT Pyro.\nCette attaque peut être enchaînée 3 fois de suite.\nElle entre en TdR si l'enchaînement n'est pas assez rapide.",
+		"description": "Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et la responsabilité.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:P}",
+				"Temps de recharge|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Aurore",
+		"info": "Diluc érupte en une explosion de flammes qui repoussent les ennemis et leur infligent des DGT Pyro. Les flammes convergent ensuite sur son arme, pour renaître en un phénix qui inflige d'importants DGT Pyro et repousse les ennemis sur sa route. Le phénix explose lorsqu'il atteint sa destination et inflige d'importants DGT Pyro de zone.\nLes flammes confèrent à l'arme de Diluc un enchantement Pyro.",
+		"description": "Celui qui apporte la lumière doit marcher dans les ténèbres. Les flammes au loin ne sont que le prélude de l'aube à venir.",
+		"attributes": {
+			"labels": [
+				"DGT entaille|{param1:P}",
+				"DGT continus|{param2:F1P}",
+				"DGT explosion|{param3:P}",
+				"Temps de recharge|{param4:F1} s",
+				"Durée enchantement|{param5:F1} s",
+				"Énergie élémentaire|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Impitoyable",
+		"info": "Les attaques chargées de Diluc consomment 50 % d'endurance en moins, et durent 3 s de plus."
+	},
+	"passive2": {
+		"name": "Bénédiction du phénix",
+		"info": "Prolonge l'enchantement Pyro d'**Aurore** de 4 s. Diluc inflige 20 % de DGT Pyro supplémentaires pendant la durée de cet effet."
+	},
+	"passive3": {
+		"name": "Légende de l'aurore",
+		"info": "Lorsque vous forgez une épée à deux mains, 15 % du minerai utilisé vous sera rendu."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Résistance",
+				"count": 3
+			},
+			{
+				"name": "Insigne de nouvelle recrue",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 2
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 4
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 6
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 9
+			},
+			{
+				"name": "Insigne de sergent",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 4
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 4
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 6
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 6
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 12
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 9
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 16
+			},
+			{
+				"name": "Insigne d'officier",
+				"count": 12
+			},
+			{
+				"name": "Plume de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

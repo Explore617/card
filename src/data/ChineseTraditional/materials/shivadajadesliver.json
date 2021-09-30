@@ -1,0 +1,13 @@
+{
+	"name": "哀敘冰玉碎屑",
+	"description": "角色突破素材。",
+	"sortorder": 1829,
+	"rarity": "2",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "角色培養素材",
+	"source": [
+		"急凍樹掉落",
+		"無相之冰掉落",
+		"紀念品商店兌換"
+	]
+}

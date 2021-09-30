@@ -1,0 +1,142 @@
+{
+	"name": "Tuyển tập các câu chuyện về Dodoco",
+	"description": "Một cuốn sách thiếu nhi với trang bìa lộng lẫy, nội dung toàn là truyện ngắn với ngôn từ trẻ con, sẽ khiến người đọc không kìm được cảm xúc.\\n Ngay cả những độc giả trưởng thành khi đọc những câu chuyện phiêu lưu hồn nhiên và ngây thơ trong cuốn sách cũng không thể không bị cuốn hút.",
+	"weapontype": "Pháp Khí",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Tấn Công",
+	"subvalue": "12",
+	"effectname": "Dodo! Đi Mạo Hiểm Thôi",
+	"effect": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương trọng kích tạo thành tăng {0}; Trong 6s sau khi trọng kích đánh trúng địch, tấn công tăng {1}.",
+	"r1": [
+		"16%",
+		"8%"
+	],
+	"r2": [
+		"20%",
+		"10%"
+	],
+	"r3": [
+		"24%",
+		"12%"
+	],
+	"r4": [
+		"28%",
+		"14%"
+	],
+	"r5": [
+		"32%",
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Răng Sữa Sói Bão",
+				"count": 3
+			},
+			{
+				"name": "Cành Cây Địa Mạch",
+				"count": 3
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Răng Vỡ Sói Bão",
+				"count": 3
+			},
+			{
+				"name": "Cành Cây Địa Mạch",
+				"count": 12
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Răng Vỡ Sói Bão",
+				"count": 6
+			},
+			{
+				"name": "Lá Khô Địa Mạch",
+				"count": 6
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mảnh Răng Sói Bão",
+				"count": 3
+			},
+			{
+				"name": "Lá Khô Địa Mạch",
+				"count": 12
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mảnh Răng Sói Bão",
+				"count": 6
+			},
+			{
+				"name": "Chồi Non Địa Mạch",
+				"count": 9
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nỗi Nhớ Của Sói Bão",
+				"count": 4
+			},
+			{
+				"name": "Chồi Non Địa Mạch",
+				"count": 18
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 12
+			}
+		]
+	}
+}

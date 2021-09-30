@@ -1,0 +1,90 @@
+{
+	"name": "사냥활",
+	"description": "사냥꾼이 연주하는 곡은 두 개의 멜로디로 이루어졌다. 하나는 활시위를 튕기는 소리고 다른 하나는 화살이 공기를 가르는 소리이다",
+	"weapontype": "활",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라"
+			},
+			{
+				"name": "칼바람 울프의 젖니",
+				"count": 1
+			},
+			{
+				"name": "지맥의 낡은 가지",
+				"count": 1
+			},
+			{
+				"name": "보물찾기 까마귀 휘장",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 5000
+			},
+			{
+				"name": "칼바람 울프의 이빨",
+				"count": 1
+			},
+			{
+				"name": "지맥의 낡은 가지",
+				"count": 4
+			},
+			{
+				"name": "보물찾기 까마귀 휘장",
+				"count": 2
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 5000
+			},
+			{
+				"name": "칼바람 울프의 이빨",
+				"count": 2
+			},
+			{
+				"name": "지맥의 마른 잎",
+				"count": 2
+			},
+			{
+				"name": "실버 까마귀 휘장",
+				"count": 2
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 10000
+			},
+			{
+				"name": "칼바람 울프의 부서진 이빨",
+				"count": 1
+			},
+			{
+				"name": "지맥의 마른 잎",
+				"count": 4
+			},
+			{
+				"name": "실버 까마귀 휘장",
+				"count": 3
+			}
+		]
+	}
+}

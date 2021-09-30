@@ -1,0 +1,209 @@
+{
+	"name": "Qiqi",
+	"combat1": {
+		"name": "โจมตีปกติ - Ancient Sword Art",
+		"info": "**โจมตีปกติ**\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+		"attributes": {
+			"labels": [
+				"ความเสียหายขั้น 1|{param1:F1P}",
+				"ความเสียหายขั้น 2|{param2:F1P}",
+				"ความเสียหายขั้น 3|{param3:F1P}+{param3:F1P}",
+				"ความเสียหายขั้น 4|{param4:F1P}+{param4:F1P}",
+				"ความเสียหายขั้น 5|{param5:F1P}",
+				"ความเสียหายชาร์จโจมตี|{param6:F1P}+{param6:F1P}",
+				"ชาร์จโจมตีใช้พลังกาย|{param7:F1} หน่วย",
+				"ความเสียหายพุ่งลง|{param8:F1P}",
+				"ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Adeptus Art: Herald of Frost",
+		"info": "ใช้เครื่องราง Icevein Talisman เพื่อเรียก Herald of Frost ออกมา และสร้าง ความเสียหายน้ำแข็งให้กับศัตรูโดยรอบ\n\n**Herald of Frost**\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Qiqi โดนเป้าหมาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของคุณทั้งหมดในทีม รวมถึงตัวละครฝ่ายเดียวกันที่อยู่ใกล้ โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังโจมตีของ Qiqi\n·จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นเป็นช่วง ๆ\n·เคลื่อนที่ไปพร้อมกับตัวละคร เพื่อสร้างความเสียหายน้ำแข็ง แก่ศัตรูที่อยู่ในเส้นทาง",
+		"description": "\"ฉันใช้สิ่งนี้เพื่อป้องกันอุณหภูมิสูงขึ้นและ ป้องกันการเน่าเปื่อย... อื้อ ใช่ ฉันพูดถึงวัตถุดิบยาแสนแพงของ คุณ Bai\"",
+		"attributes": {
+			"labels": [
+				"ความเสียหายสกิล|{param8:P}",
+				"การรักษาเมื่อโจมตี|{param1:F2P} ของพลังโจมตี +{param2:I}",
+				"การรักษาต่อเนื่อง|{param3:F2P} ของพลังโจมตี + {param4:I}",
+				"ความเสียหาย Herald of Frost|{param5:F1P}",
+				"ระยะเวลาต่อเนื่อง|{param6:F1} วิ",
+				"คูลดาวน์|{param7:F1} วิ"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Adeptus Art: Preserver of Fortune",
+		"info": "Qiqi ปลดปล่อยพลังแห่งเซียนที่ผนึกไว้ ในร่างของเธอ ทำสัญลักษณ์ Fortune-Preserving Talisman บนศัตรูที่อยู่ใกล้เคียง และสร้าง ความเสียหายน้ำแข็ง\n\n**Fortune-Preserving Talisman**\nเมื่อศัตรูที่ได้รับผลกระทบของ Fortune-Preserving Talisman ได้รับความเสียหาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละคร ที่สร้างความเสียหาย",
+		"description": "\"ชื่อจริงของฉันคือ ผู้พิทักษ์จากความชั่วร้าย เด็กผู้ไม่มีวันตาย\"\n - Qiqi จำคำพูดพวกนี้ไม่ได้แล้ว",
+		"attributes": {
+			"labels": [
+				"ความเสียหายสกิล|{param3:P}",
+				"ปริมาณการรักษา|{param1:F1P} ของพลังโจมตี +{param2:I}",
+				"ระยะเวลาต่อเนื่อง|{param4:F1} วิ",
+				"เวลาคูลดาวน์|{param5:F1} วินาที",
+				"พลังงานธาตุ|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Life-Prolonging Methods",
+		"info": "เมื่อตัวละครที่อยู่ภายใต้สภาวะ **Adeptus Art: Herald of Frost** ทำให้เกิดปฏิกิริยาทางธาตุขึ้น โบนัสการถูกรักษาจะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที"
+	},
+	"passive2": {
+		"name": "A Glimpse into Arcanum",
+		"info": "เมื่อ Qiqi โจมตีปกติหรือชาร์จโจมตีถูกศัตรู มีโอกาส 50% ที่จะใช้ Fortune-Preserving Talisman กับศัตรูเป็นเวลา 6 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที"
+	},
+	"passive3": {
+		"name": "Former Life Memories",
+		"info": "แสดงตำแหน่งของ**ของพิเศษเฉพาะใน Liyue** ในมินิแมป"
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Prosperity\"",
+				"count": 3
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to Prosperity",
+				"count": 2
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to Prosperity",
+				"count": 4
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to Prosperity",
+				"count": 6
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to Prosperity",
+				"count": 9
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 4
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 6
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 9
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Prosperity\"",
+				"count": 16
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 12
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

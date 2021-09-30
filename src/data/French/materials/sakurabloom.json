@@ -1,0 +1,11 @@
+{
+	"name": "Fleur de cerisier",
+	"description": "Une fleur du cerisier sacré du Sanctuaire de Narukami, remplie d'amour pour Inazuma.",
+	"sortorder": 1371,
+	"category": "EXCHANGE",
+	"materialtype": "Produit d'Inazuma",
+	"source": [
+		"Dans la nature",
+		"Zone conseillée : Île de Narukami"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Jueyun-Peperoni",
+	"description": "Eine scharf schmeckende Pflanze aus dem Gebiet von Liyue. Schon wenn man an ihr riecht, wird einem heiß und man bekommt Durst.",
+	"sortorder": 1360,
+	"category": "EXCHANGE",
+	"materialtype": "Regionale Besonderheit aus Liyue",
+	"source": [
+		"In der freien Natur zu finden",
+		"Empfohlen: Im Qingce-Dorf zu finden"
+	]
+}

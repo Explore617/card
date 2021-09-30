@@ -1,0 +1,142 @@
+{
+	"name": "Lance des Millelithes",
+	"description": "Une lance forgée à partir des rochers de la Forêt de pierre de Guyun. Sa pointe est d'une solidité sans pareille.",
+	"weapontype": "Arme d'hast",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ATQ",
+	"subvalue": "6",
+	"effectname": "Axiome de la roche : Unité",
+	"effect": "Pour chaque personnage de Liyue présent dans l'équipe, le personnage équipé de cette arme bénéficie de {0} de bonus d'ATQ et de {1} de bonus de taux CRIT pour chaque personnage de l'équipe provenant de Liyue. Ces bonus peuvent être cumulés 4 fois au maximum.",
+	"r1": [
+		"7 %",
+		"3 %"
+	],
+	"r2": [
+		"8 %",
+		"4 %"
+	],
+	"r3": [
+		"9 %",
+		"5 %"
+	],
+	"r4": [
+		"10 %",
+		"6 %"
+	],
+	"r5": [
+		"11 %",
+		"7 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grain d'aérosidérite noire",
+				"count": 3
+			},
+			{
+				"name": "Fragment d'os fragile",
+				"count": 3
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Éclat d'aérosidérite noire",
+				"count": 3
+			},
+			{
+				"name": "Fragment d'os fragile",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Éclat d'aérosidérite noire",
+				"count": 6
+			},
+			{
+				"name": "Fragment d'os solide",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragment d'aérosidérite noire",
+				"count": 3
+			},
+			{
+				"name": "Fragment d'os solide",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragment d'aérosidérite noire",
+				"count": 6
+			},
+			{
+				"name": "Fragment d'os fossilisé",
+				"count": 9
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Morceau d'aérosidérite noire",
+				"count": 4
+			},
+			{
+				"name": "Fragment d'os fossilisé",
+				"count": 18
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 12
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Mẫu Kim Phách",
+	"description": "Pháp khí kim phách của Hắc Nham Xưởng. Trong ánh đen phát ra tia sáng của nhật nguyệt sao.",
+	"weapontype": "Pháp Khí",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "HP",
+	"subvalue": "9",
+	"effectname": "Xuy Kim",
+	"effect": "6s sau khi thi triển kỹ năng nộ, mỗi 2s hồi {0} điểm năng lượng nguyên tố; Tất cả nhân vật trong đội mỗi 2s hồi {1} HP.",
+	"r1": [
+		"4",
+		"4%"
+	],
+	"r2": [
+		"4.5",
+		"4.5%"
+	],
+	"r3": [
+		"5",
+		"5%"
+	],
+	"r4": [
+		"5.5",
+		"5.5%"
+	],
+	"r5": [
+		"6",
+		"6%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Diên Đơn Biển Sương Mù",
+				"count": 3
+			},
+			{
+				"name": "Phấn Hoa Hư Vô",
+				"count": 3
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Hống Đơn Biển Sương Mù",
+				"count": 3
+			},
+			{
+				"name": "Phấn Hoa Hư Vô",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Chắc Chắn",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Hống Đơn Biển Sương Mù",
+				"count": 6
+			},
+			{
+				"name": "Túi Cỏ Hư Vô",
+				"count": 6
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Kim Đơn Biển Sương Mù",
+				"count": 3
+			},
+			{
+				"name": "Túi Cỏ Hư Vô",
+				"count": 12
+			},
+			{
+				"name": "Mũi Tên Sắc Bén",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Kim Đơn Biển Sương Mù",
+				"count": 6
+			},
+			{
+				"name": "Đuốc Hư Vô",
+				"count": 9
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Sự Chuyển Dời Của Biển Sương Mù",
+				"count": 4
+			},
+			{
+				"name": "Đuốc Hư Vô",
+				"count": 18
+			},
+			{
+				"name": "Mũi Tên Thiện Chiến",
+				"count": 12
+			}
+		]
+	}
+}

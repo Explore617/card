@@ -1,0 +1,11 @@
+{
+	"name": "小麦",
+	"description": "キラキラした穂は人々に希望を与えてくれる。臼で挽いて水や火を加えると究極の形態になる。",
+	"sortorder": 1264,
+	"category": "EXCHANGE",
+	"materialtype": "食材",
+	"source": [
+		"野外で採集",
+		"雑貨屋で購入"
+	]
+}

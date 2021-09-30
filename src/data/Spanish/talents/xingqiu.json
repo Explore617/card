@@ -1,0 +1,206 @@
+{
+	"name": "Xingchiu",
+	"combat1": {
+		"name": "Ataque Normal: Técnica de espada Guhua",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}+{param4:F1P}",
+				"Daño de 4.º golpe|{param5:F1P}",
+				"Daño de 5.º golpe|{param6:F1P}+{param7:F1P}",
+				"Ataque Cargado|{param8:F1P}+{param9:F1P}",
+				"Coste de Aguante de ATQ Cargado|{param10:F1} pts.",
+				"Daño de Caída|{param11:F1P}",
+				"Daño de impacto de caída baja/alta|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Espada Guhua: Lluvia torrencial mortal",
+		"info": "Xingchiu realiza dos golpes consecutivos con su espada, infligiendo Daño Hydro. Al mismo tiempo, esta habilidad crea la máxima cantidad posible de espadas de lluvia, las cuales orbitarán alrededor del personaje en uso.\nLas espadas de lluvia tienen las siguientes características:\n·Cuando el personaje recibe daño, una espada de lluvia se romperá, reduciendo la cantidad de daño recibido.\n·Aumenta la RES a interrupción del personaje.\nUn 20% del Bono de Daño Hydro de Xingchiu se convertirá en reducción de daño adicional de las espadas de lluvia.\n\nLa cantidad máxima de reducción de daño que se puede obtener de esta manera es del 24%.\nEl número máximo inicial de espadas de lluvia es de 3.\nEl uso de esta habilidad aplica el estado de Mojado sobre el personaje.",
+		"description": "“Es más fácil degollar a un dragón que cortar la lluvia”.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}+{param2:P}",
+				"Reducción de daño|{param3:P}",
+				"Duración|{param4:F1} s",
+				"TdE|{param5:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Espada Guhua: Sable de lluvia",
+		"info": "Activa la espada arcoíris y lucha con una lluvia de espadas ilusoria, a la vez que crea la máxima cantidad posible de espadas de lluvia.\n\n**Espada arcoíris**\n·Los Ataques Normales de tu personaje en uso desencadenarán una lluvia de espadas consecutiva que inflige Daño Hydro.\n·Durante el efecto de esta habilidad, se mantendrá en todo momento el máximo número posible de espadas de lluvia.",
+		"description": "La técnica de corte de lluvia es uno de los secretos de la Academia Guhua.",
+		"attributes": {
+			"labels": [
+				"Daño de lluvia de espadas|{param1:F1P}",
+				"Duración|{param2:F1} s",
+				"TdE|{param3:F1} s",
+				"Energía Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Secretos del agua",
+		"info": "Cuando una espada de lluvia se rompe o termina su duración, el personaje en uso regenera una cantidad de Vida proporcional al 6% de la Vida Máx. de Xingchiu."
+	},
+	"passive2": {
+		"name": "Cuchillas a cántaros",
+		"info": "Xingchiu obtiene un 20% de Bono de Daño Hydro."
+	},
+	"passive3": {
+		"name": "Destello repentino",
+		"info": "Al fabricar materiales de talento de personaje, hay una probabilidad del 25% de recuperar los materiales usados."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas del oro",
+				"count": 3
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía del oro",
+				"count": 2
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía del oro",
+				"count": 4
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía del oro",
+				"count": 6
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía del oro",
+				"count": 9
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 4
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 4
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 6
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 6
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 12
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 9
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 16
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 12
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

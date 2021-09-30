@@ -1,0 +1,153 @@
+{
+	"name": "北斗",
+	"title": "無冠の龍王",
+	"description": "武装船隊「南十字」の頭領、豪快な姉貴。",
+	"rarity": "4",
+	"element": "雷",
+	"weapontype": "両手剣",
+	"substat": "雷元素ダメージ",
+	"gender": "女",
+	"body": "LADY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "南十字船隊",
+	"birthdaymmdd": "2/14",
+	"birthday": "2月14日",
+	"constellation": "南天海山座",
+	"cv": {
+		"english": "Allegra Clark",
+		"chinese": "唐雅菁",
+		"japanese": "小清水亜美",
+		"korean": "정유미"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "モラ",
+				"count": 20000
+			},
+			{
+				"name": "最勝のアメシスト·砕屑",
+				"count": 1
+			},
+			{
+				"name": "夜泊石",
+				"count": 3
+			},
+			{
+				"name": "宝探しの鴉マーク",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "モラ",
+				"count": 40000
+			},
+			{
+				"name": "最勝のアメシスト·欠片",
+				"count": 3
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 2
+			},
+			{
+				"name": "夜泊石",
+				"count": 10
+			},
+			{
+				"name": "宝探しの鴉マーク",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "モラ",
+				"count": 60000
+			},
+			{
+				"name": "最勝のアメシスト·欠片",
+				"count": 6
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 4
+			},
+			{
+				"name": "夜泊石",
+				"count": 20
+			},
+			{
+				"name": "シルバーの鴉マーク",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "モラ",
+				"count": 80000
+			},
+			{
+				"name": "最勝のアメシスト·塊",
+				"count": 3
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 8
+			},
+			{
+				"name": "夜泊石",
+				"count": 30
+			},
+			{
+				"name": "シルバーの鴉マーク",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "モラ",
+				"count": 100000
+			},
+			{
+				"name": "最勝のアメシスト·塊",
+				"count": 6
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 12
+			},
+			{
+				"name": "夜泊石",
+				"count": 45
+			},
+			{
+				"name": "ゴールドの鴉マーク",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "モラ",
+				"count": 120000
+			},
+			{
+				"name": "最勝のアメシスト",
+				"count": 6
+			},
+			{
+				"name": "雷光のプリズム",
+				"count": 20
+			},
+			{
+				"name": "夜泊石",
+				"count": 60
+			},
+			{
+				"name": "ゴールドの鴉マーク",
+				"count": 24
+			}
+		]
+	}
+}

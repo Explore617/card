@@ -1,0 +1,13 @@
+{
+	"name": "Prayers for Illumination",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"1pc": "Mengurangi 40% durasi efek Pyro yang diterima.",
+	"circlet": {
+		"name": "Tiara of Flame",
+		"relictype": "Circlet of Logos",
+		"description": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Karena melewati nyala api tahun demi tahun, ia memiliki perlawanan yang luar biasa."
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Contos de Dodoco",
+	"description": "Um livro infantil com uma bela capa. Seu conteúdo é pequenas estórias infantis inofensivas, e quem as ler não poderá evitar rir.\\nMesmo que seu leitor já seja um adulto, ao ler tais aventuras inocentes, também acabará fascinado por elas.",
+	"weapontype": "Catalisador",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "ATQ",
+	"subvalue": "12",
+	"effectname": "Dodo-aventura!",
+	"effect": "Dentro de 6s após acertar um inimigo com o Ataque Normal, o Dano causado pelo Ataque Carregado aumenta em {0}. Dentro de 6s após acertar um inimigo com o Ataque Carregado, o ATQ aumenta em {1}.",
+	"r1": [
+		"16%",
+		"8%"
+	],
+	"r2": [
+		"20%",
+		"10%"
+	],
+	"r3": [
+		"24%",
+		"12%"
+	],
+	"r4": [
+		"28%",
+		"14%"
+	],
+	"r5": [
+		"32%",
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dente de Leite do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Ramo Seco de Linha Ley",
+				"count": 12
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dente Rachado do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 6
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 3
+			},
+			{
+				"name": "Folha Morta de Linha Ley",
+				"count": 12
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Presa Quebrada do Lobo Boreal",
+				"count": 6
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 9
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgia do Lobo Boreal",
+				"count": 4
+			},
+			{
+				"name": "Broto de Linha Ley",
+				"count": 18
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			}
+		]
+	}
+}

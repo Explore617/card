@@ -1,0 +1,1160 @@
+{
+	"namemap": {
+		"aether": "아이테르",
+		"albedo": "알베도",
+		"aloy": "에일로이",
+		"amber": "엠버",
+		"barbara": "바바라",
+		"beidou": "북두",
+		"bennett": "베넷",
+		"chongyun": "중운",
+		"diluc": "다이루크",
+		"diona": "디오나",
+		"eula": "유라",
+		"fischl": "피슬",
+		"ganyu": "감우",
+		"hutao": "호두",
+		"jean": "진",
+		"kaedeharakazuha": "카에데하라 카즈하",
+		"kaeya": "케이아",
+		"kamisatoayaka": "카미사토 아야카",
+		"keqing": "각청",
+		"klee": "클레",
+		"kujousara": "쿠죠 사라",
+		"lisa": "리사",
+		"lumine": "루미네",
+		"mona": "모나",
+		"ningguang": "응광",
+		"noelle": "노엘",
+		"qiqi": "치치",
+		"raidenshogun": "라이덴 쇼군",
+		"razor": "레이저",
+		"rosaria": "로자리아",
+		"sangonomiyakokomi": "산고노미야 코코미",
+		"sayu": "사유",
+		"sucrose": "설탕",
+		"tartaglia": "타르탈리아",
+		"venti": "벤티",
+		"xiangling": "향릉",
+		"xiao": "소",
+		"xingqiu": "행추",
+		"xinyan": "신염",
+		"yanfei": "연비",
+		"yoimiya": "요이미야",
+		"zhongli": "종려"
+	},
+	"names": {
+		"아이테르": "aether",
+		"알베도": "albedo",
+		"에일로이": "aloy",
+		"엠버": "amber",
+		"바바라": "barbara",
+		"북두": "beidou",
+		"베넷": "bennett",
+		"중운": "chongyun",
+		"다이루크": "diluc",
+		"디오나": "diona",
+		"유라": "eula",
+		"피슬": "fischl",
+		"감우": "ganyu",
+		"호두": "hutao",
+		"진": "jean",
+		"카에데하라 카즈하": "kaedeharakazuha",
+		"케이아": "kaeya",
+		"카미사토 아야카": "kamisatoayaka",
+		"각청": "keqing",
+		"클레": "klee",
+		"쿠죠 사라": "kujousara",
+		"리사": "lisa",
+		"루미네": "lumine",
+		"모나": "mona",
+		"응광": "ningguang",
+		"노엘": "noelle",
+		"치치": "qiqi",
+		"라이덴 쇼군": "raidenshogun",
+		"레이저": "razor",
+		"로자리아": "rosaria",
+		"산고노미야 코코미": "sangonomiyakokomi",
+		"사유": "sayu",
+		"설탕": "sucrose",
+		"타르탈리아": "tartaglia",
+		"벤티": "venti",
+		"향릉": "xiangling",
+		"소": "xiao",
+		"행추": "xingqiu",
+		"신염": "xinyan",
+		"연비": "yanfei",
+		"요이미야": "yoimiya",
+		"종려": "zhongli"
+	},
+	"aliases": {
+		"나그네자리": "lumine",
+		"백악의 아이": "albedo",
+		"백악의 아이 자리": "albedo",
+		"「이세계의 구세주」": "aloy",
+		"노라 용사자리": "aloy",
+		"비행 챔피언": "amber",
+		"토끼자리": "amber",
+		"빛나는 아이돌": "barbara",
+		"황금잔자리": "barbara",
+		"무관의 용왕": "beidou",
+		"남천해산자리": "beidou",
+		"운명의 시금석": "bennett",
+		"험로자리": "bennett",
+		"얼어붙은 열정": "chongyun",
+		"건곤봉자리": "chongyun",
+		"새벽의 어둠": "diluc",
+		"밤올빼미자리": "diluc",
+		"캐츠라인 칵테일": "diona",
+		"고양이자리": "diona",
+		"물보라의 춤": "eula",
+		"물보라자리": "eula",
+		"단죄의 황녀!!": "fischl",
+		"환상까마귀자리": "fischl",
+		"리월의 수호자": "ganyu",
+		"선린자리": "ganyu",
+		"눈 그친 뒤의 매화향": "hutao",
+		"나비 자리": "hutao",
+		"민들레 기사": "jean",
+		"새끼사자자리": "jean",
+		"파도를 쫓는 단풍": "kaedeharakazuha",
+		"붉은 단풍자리": "kaedeharakazuha",
+		"한풍의 검사": "kaeya",
+		"공작깃털자리": "kaeya",
+		"눈꽃의 백로": "kamisatoayaka",
+		"설학자리": "kamisatoayaka",
+		"질뢰쾌우": "keqing",
+		"금자정수자리": "keqing",
+		"도망치는 태양": "klee",
+		"네잎클로버자리": "klee",
+		"검은 깃의 효시": "kujousara",
+		"깃털부채자리": "kujousara",
+		"장미 마녀": "lisa",
+		"모래시계자리": "lisa",
+		"별하늘의 물거울": "mona",
+		"영천자리": "mona",
+		"엄월천권": "ningguang",
+		"기형의자리": "ningguang",
+		"수여받지 못한 꽃": "noelle",
+		"심호자리": "noelle",
+		"차가운 환혼의 밤": "qiqi",
+		"삼청령자리": "qiqi",
+		"일심정토": "raidenshogun",
+		"천하인자리": "raidenshogun",
+		"늑대소년": "razor",
+		"이리자리": "razor",
+		"가시관의 은혜": "rosaria",
+		"형관자리": "rosaria",
+		"진주의 지혜": "sangonomiyakokomi",
+		"잠든 용자리": "sangonomiyakokomi",
+		"닌자 너구리": "sayu",
+		"너구리자리": "sayu",
+		"무해한 달콤함": "sucrose",
+		"플라스크자리": "sucrose",
+		"「귀공자」": "tartaglia",
+		"경천자리": "tartaglia",
+		"바람의 시인": "venti",
+		"가선자리": "venti",
+		"만민백미": "xiangling",
+		"국자자리": "xiangling",
+		"호법야차": "xiao",
+		"황금날개천붕왕자리": "xiao",
+		"의기충천": "xingqiu",
+		"금직자리": "xingqiu",
+		"폭열 멜로디": "xinyan",
+		"홍단사현자리": "xinyan",
+		"순수한 지혜": "yanfei",
+		"법수자리": "yanfei",
+		"유염화무": "yoimiya",
+		"유금자리": "yoimiya",
+		"속세 한유": "zhongli",
+		"암왕제군자리": "zhongli"
+	},
+	"categories": {
+		"4": [
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diona",
+			"fischl",
+			"kaeya",
+			"kujousara",
+			"lisa",
+			"ningguang",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xingqiu",
+			"xinyan",
+			"yanfei"
+		],
+		"5": [
+			"aether",
+			"albedo",
+			"aloy",
+			"diluc",
+			"eula",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"lumine",
+			"mona",
+			"qiqi",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"yoimiya",
+			"zhongli"
+		],
+		"없음": [
+			"aether",
+			"lumine"
+		],
+		"한손검": [
+			"aether",
+			"albedo",
+			"bennett",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"lumine",
+			"qiqi",
+			"xingqiu"
+		],
+		"공격력": [
+			"aether",
+			"amber",
+			"chongyun",
+			"fischl",
+			"kujousara",
+			"lumine",
+			"rosaria",
+			"xingqiu",
+			"xinyan"
+		],
+		"남성": [
+			"aether",
+			"albedo",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"kaedeharakazuha",
+			"kaeya",
+			"razor",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"xingqiu",
+			"zhongli"
+		],
+		"모라": [
+			"aether",
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"휘황찬란한 다이아몬드 파편": [
+			"aether",
+			"lumine"
+		],
+		"풍차 국화": [
+			"aether",
+			"bennett",
+			"lumine",
+			"sucrose"
+		],
+		"부서진 가면": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"휘황찬란한 다이아몬드 단편": [
+			"aether",
+			"lumine"
+		],
+		"오염된 가면": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"휘황찬란한 다이아몬드 덩어리": [
+			"aether",
+			"lumine"
+		],
+		"불길한 가면": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"휘황찬란한 다이아몬드": [
+			"aether",
+			"lumine"
+		],
+		"바위": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"바위 원소 피해 보너스": [
+			"albedo",
+			"ningguang",
+			"zhongli"
+		],
+		"Mondstadt": [
+			"albedo",
+			"amber",
+			"barbara",
+			"bennett",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"jean",
+			"kaeya",
+			"klee",
+			"lisa",
+			"mona",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sucrose",
+			"venti"
+		],
+		"9월": [
+			"albedo",
+			"chongyun",
+			"kamisatoayaka",
+			"razor"
+		],
+		"단단한 황옥 가루": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"세실리아꽃": [
+			"albedo",
+			"venti"
+		],
+		"이능 두루마리": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"단단한 황옥 조각": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"현암의 탑": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"봉마의 두루마리": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"단단한 황옥 덩이": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"금주의 두루마리": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"단단한 황옥": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"얼음": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"활": [
+			"aloy",
+			"amber",
+			"diona",
+			"fischl",
+			"ganyu",
+			"kujousara",
+			"tartaglia",
+			"venti",
+			"yoimiya"
+		],
+		"얼음 원소 피해 보너스": [
+			"aloy",
+			"diona"
+		],
+		"여성": [
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"4월": [
+			"aloy",
+			"diluc",
+			"xiao"
+		],
+		"서늘한 빙옥 가루": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"수정 골수": [
+			"aloy",
+			"sayu"
+		],
+		"떠도는 정령 코어 껍데기": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"서늘한 빙옥 조각": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"응결의 꽃": [
+			"aloy",
+			"eula"
+		],
+		"떠도는 정령 코어": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"서늘한 빙옥 덩이": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"떠도는 정령 결정화 코어": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"서늘한 빙옥": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"불": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"8월": [
+			"amber",
+			"mona",
+			"ningguang"
+		],
+		"불타오르는 마노 가루": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"등불꽃": [
+			"amber",
+			"diluc",
+			"fischl"
+		],
+		"견고한 화살촉": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"불타오르는 마노 조각": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"꺼지지 않는 불씨": [
+			"amber",
+			"bennett",
+			"diluc",
+			"klee",
+			"xiangling",
+			"xinyan"
+		],
+		"날카로운 화살촉": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"불타오르는 마노 덩이": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"역전의 화살촉": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"불타오르는 마노": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"물": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"법구": [
+			"barbara",
+			"klee",
+			"lisa",
+			"mona",
+			"ningguang",
+			"sangonomiyakokomi",
+			"sucrose",
+			"yanfei"
+		],
+		"HP": [
+			"barbara"
+		],
+		"7월": [
+			"barbara",
+			"hutao",
+			"klee",
+			"kujousara",
+			"tartaglia",
+			"yanfei"
+		],
+		"순수한 청금석 가루": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"바람버섯": [
+			"barbara",
+			"klee",
+			"mona"
+		],
+		"순수한 청금석 조각": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"물처럼 맑은 마음": [
+			"barbara",
+			"mona",
+			"tartaglia",
+			"xingqiu"
+		],
+		"순수한 청금석 덩이": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"순수한 청금석": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"번개": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"양손검": [
+			"beidou",
+			"chongyun",
+			"diluc",
+			"eula",
+			"noelle",
+			"razor",
+			"sayu",
+			"xinyan"
+		],
+		"번개 원소 피해 보너스": [
+			"beidou"
+		],
+		"Liyue": [
+			"beidou",
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"2월": [
+			"beidou",
+			"bennett",
+			"sangonomiyakokomi"
+		],
+		"승리의 자수정 가루": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"야박석": [
+			"beidou",
+			"yanfei"
+		],
+		"보물찾기 까마귀 휘장": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"승리의 자수정 조각": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"뇌광 프리즘": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"lisa",
+			"razor"
+		],
+		"실버 까마귀 휘장": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"승리의 자수정 덩이": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"골드 까마귀 휘장": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"승리의 자수정": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"원소 충전 효율": [
+			"bennett",
+			"kaeya",
+			"mona",
+			"raidenshogun",
+			"venti"
+		],
+		"콜 라피스": [
+			"chongyun",
+			"keqing",
+			"zhongli"
+		],
+		"서리의 핵": [
+			"chongyun",
+			"diona",
+			"ganyu",
+			"kaeya",
+			"qiqi",
+			"rosaria"
+		],
+		"치명타 확률": [
+			"diluc",
+			"xiao",
+			"yoimiya"
+		],
+		"신병의 휘장": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"사관의 휘장": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"위관의 휘장": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"1월": [
+			"diona",
+			"rosaria"
+		],
+		"통통 연꽃": [
+			"diona",
+			"kaeya"
+		],
+		"치명타 피해": [
+			"eula",
+			"ganyu",
+			"hutao",
+			"kamisatoayaka",
+			"keqing"
+		],
+		"10월": [
+			"eula",
+			"kaedeharakazuha",
+			"sayu",
+			"xingqiu",
+			"xinyan"
+		],
+		"민들레 씨앗": [
+			"eula",
+			"jean"
+		],
+		"5월": [
+			"fischl"
+		],
+		"12월": [
+			"ganyu",
+			"zhongli"
+		],
+		"청심": [
+			"ganyu",
+			"xiao"
+		],
+		"구라구라 꽃꿀": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"반짝반짝 꽃꿀": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"원소 꽃꿀": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"장병기": [
+			"hutao",
+			"raidenshogun",
+			"rosaria",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"예상꽃": [
+			"hutao",
+			"xingqiu"
+		],
+		"설익은 옥": [
+			"hutao",
+			"xiao",
+			"yanfei"
+		],
+		"바람": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"치유 보너스": [
+			"jean",
+			"qiqi"
+		],
+		"3월": [
+			"jean",
+			"noelle",
+			"qiqi"
+		],
+		"자유로운 터키석 가루": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"자유로운 터키석 조각": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"폭풍의 씨앗": [
+			"jean",
+			"sucrose",
+			"venti"
+		],
+		"자유로운 터키석 덩이": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"자유로운 터키석": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"원소 마스터리": [
+			"kaedeharakazuha",
+			"lisa",
+			"sayu",
+			"xiangling"
+		],
+		"Inazuma": [
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"kujousara",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"sayu",
+			"yoimiya"
+		],
+		"바다 불로초": [
+			"kaedeharakazuha"
+		],
+		"꼭두각시 부품": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"11월": [
+			"kaeya",
+			"keqing",
+			"sucrose",
+			"xiangling"
+		],
+		"벚꽃 수구": [
+			"kamisatoayaka"
+		],
+		"오래된 코등이": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"영구 장치의 코어": [
+			"kamisatoayaka"
+		],
+		"카게우치 코등이": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"명검 코등이": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"불 원소 피해 보너스": [
+			"klee",
+			"yanfei"
+		],
+		"혈곡": [
+			"kujousara"
+		],
+		"뇌정의 구슬": [
+			"kujousara",
+			"raidenshogun"
+		],
+		"6월": [
+			"lisa",
+			"raidenshogun",
+			"venti",
+			"yoimiya"
+		],
+		"낙락베리": [
+			"lisa",
+			"noelle",
+			"rosaria"
+		],
+		"슬라임 응축액": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"슬라임청": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"슬라임 원액": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"유리백합": [
+			"ningguang"
+		],
+		"방어력": [
+			"noelle"
+		],
+		"유리주머니": [
+			"qiqi",
+			"xinyan"
+		],
+		"아마쿠모초 열매": [
+			"raidenshogun"
+		],
+		"물리 피해 보너스": [
+			"razor"
+		],
+		"고리고리 열매": [
+			"razor"
+		],
+		"물 원소 피해 보너스": [
+			"sangonomiyakokomi",
+			"tartaglia"
+		],
+		"산호 진주": [
+			"sangonomiyakokomi"
+		],
+		"배척의 이슬": [
+			"sangonomiyakokomi"
+		],
+		"바람 원소 피해 보너스": [
+			"sucrose"
+		],
+		"Snezhnaya": [
+			"tartaglia"
+		],
+		"별소라": [
+			"tartaglia"
+		],
+		"절운고추": [
+			"xiangling"
+		],
+		"울림풀": [
+			"yoimiya"
+		],
+		"무형의 불 구슬": [
+			"yoimiya"
+		]
+	}
+}

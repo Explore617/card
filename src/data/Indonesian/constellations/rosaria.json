@@ -1,0 +1,27 @@
+{
+	"name": "Rosaria",
+	"c1": {
+		"name": "Unholy Revelation",
+		"effect": "Setelah Rosaria mengakibatkan serangan CRIT, ATK SPD dan DMG Normal Attack Rosaria meningkat 10% selama 4 detik."
+	},
+	"c2": {
+		"name": "Land Without Promise",
+		"effect": "Durasi Ice Lance yang terbentuk dari Talenta **Rites of Termination** bertambah 4 detik."
+	},
+	"c3": {
+		"name": "The Wages of Sin",
+		"effect": "Meningkatkan 3 level **Ravaging Confession**.\nMaksimum: Lv. 15."
+	},
+	"c4": {
+		"name": "Painful Grace",
+		"effect": "Serangan CRIT **Ravaging Confession** memulihkan 5 Energy Rosaria.\nHanya dapat terpicu setiap Ravaging Confession dilancarkan."
+	},
+	"c5": {
+		"name": "Last Rites",
+		"effect": "Meningkatkan 3 level **Rites of Termination**.\nMaksimum: Lv. 15."
+	},
+	"c6": {
+		"name": "Divine Retribution",
+		"effect": "Serangan dari **Rites of Termination** dapat mengurangi 20% Physical RES musuh selama 10 detik."
+	}
+}

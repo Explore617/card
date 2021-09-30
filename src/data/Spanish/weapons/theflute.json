@@ -1,0 +1,137 @@
+{
+	"name": "Flauta",
+	"description": "Tras la oxidada superficie de esta espada se esconde una hoja delgada y lujosamente decorada. Puede blandirse tan suavemente como la sensación de un soplo de viento.",
+	"weapontype": "Espada ligera",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Acorde",
+	"effect": "Al golpear con Ataques Normales o Cargados, obtendrás un Armónico. 5 Armónicos activan el poder de la música, que inflige un {0} de daño de ATQ a los oponentes cercanos. Los Armónicos duran hasta 30 s y se puede obtener 1 cada 0.5 s.",
+	"r1": [
+		"100%"
+	],
+	"r2": [
+		"125%"
+	],
+	"r3": [
+		"150%"
+	],
+	"r4": [
+		"175%"
+	],
+	"r5": [
+		"200%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Diente de leche de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 3
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 12
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 6
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 12
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 9
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgia del lobo boreal",
+				"count": 4
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 12
+			}
+		]
+	}
+}

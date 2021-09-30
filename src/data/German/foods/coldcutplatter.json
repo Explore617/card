@@ -1,0 +1,39 @@
+{
+	"name": "Kalte Fleischplatte",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Gericht für Angriff",
+	"foodcategory": "Atk_Add",
+	"effect": "Erhöht den physischen Schaden aller Truppenmitglieder 300 s lang um 20 bis 40 %.\nWirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+	"description": "Ein gemischter Teller voller Fleisch. Besteht aus gleichen Mengen Speck, Schinken und Wurst. Mit diesem Gericht streitet sich keiner mehr darum, welche Art Fleisch denn nun die beste ist.",
+	"suspicious": {
+		"effect": "Erhöht den physischen Schaden aller Truppenmitglieder 300 s lang um 20 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein gemischter Teller voller Fleisch. Diese kalte Platte ist doch etwas zu kalt. Ob das für die Zähne oder gar den Magen zuträglich ist, wird sich zeigen."
+	},
+	"normal": {
+		"effect": "Erhöht den physischen Schaden aller Truppenmitglieder 300 s lang um 30 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein gemischter Teller voller Fleisch. Besteht aus gleichen Mengen Speck, Schinken und Wurst. Mit diesem Gericht streitet sich keiner mehr darum, welche Art Fleisch denn nun die beste ist."
+	},
+	"delicious": {
+		"effect": "Erhöht den physischen Schaden aller Truppenmitglieder 300 s lang um 40 %. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+		"description": "Ein gemischter Teller voller Fleisch. Die drei Sorten Fleisch passen herrlich zueinander und veranstalten in deinem Mund eine Feier, die dich alle Schmerzen vergessen lässt."
+	},
+	"ingredients": [
+		{
+			"name": "Schinken",
+			"count": 1
+		},
+		{
+			"name": "Speck",
+			"count": 1
+		},
+		{
+			"name": "Wurst",
+			"count": 1
+		},
+		{
+			"name": "Minze",
+			"count": 1
+		}
+	]
+}

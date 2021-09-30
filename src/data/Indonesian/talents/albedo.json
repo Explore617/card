@@ -1,0 +1,206 @@
+{
+	"name": "Albedo",
+	"combat1": {
+		"name": "Normal Attack: Favonius Bladework - Weiss",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Charged Attack|{param6:F1P}+{param7:F1P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}pt",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Abiogenesis: Solar Isotoma",
+		"info": "Albedo menciptakan Solar Isotoma yang mengakibatkan Geo DMG area.\n\n**Solar Isotoma**\nmempunyai efek sebagai berikut:\n·Saat musuh yang berada dalam area Solar Isotoma menerima DMG, Solar Isotoma akan menghasilkan Transient Blossom yang menyebabkan Geo DMG area. DMG yang diakibatkan akan berdasarkan pada DEF Albedo.\n·Transient Blossom hanya dapat muncul setiap 2 detik.\n·Saat karakter berada di posisi Solar Isotoma, Solar Isotoma akan mengakumulasi kekuatan Geo dan mengangkat mereka ke atas platform kristal. Hanya bisa terdapat satu platform kristal dalam waktu bersamaan.\n·Solar Isotoma dianggap sebagai Geo Construct.\n\n**Tahan** untuk melancarkan skill pada lokasi tertentu.",
+		"description": "Tumbuhan Geo ini memiliki sifat yang tidak biasa yang tercermin dalam tujuan alkimia. Bangkit dari bumi, membubung ke langit, dan menjadi matahari.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"DMG Transient Blossom|{param2:P} DEF",
+				"Durasi|{param3:F1}dtk",
+				"CD Skill|{param4:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Rite of Progeniture: Tectonic Tide",
+		"info": "Di bawah perintah Albedo, kristal Geo melonjak dan meledak, mengakibatkan Geo DMG area di hadapan Albedo.\nJika Solar Isotoma yang dibuat oleh Albedo sendiri ada di sekitarnya, maka 7 Fatal Blossom akan muncul di area sekitar Solar Isotoma dan menyebebkan ledakan yang mengakibatkan Geo DMG area.\n\nDMG Tectonic Tide dan DMG Fatal Blossom tidak akan menghasilkan Transient Blossom.",
+		"description": "Di bawah perintah Kreideprinz, gelombang tektonik penciptaan akan menghasilkan kehidupan.",
+		"attributes": {
+			"labels": [
+				"DMG Elemental Burst|{param1:P}",
+				"DMG Fatal Blossom|masing-masing {param2:F1P}",
+				"Cooldown|{param3:F1}dtk",
+				"Konsumsi Energy|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Calcite Might",
+		"info": "Transient Blossom yang muncul karena **Abiogenesis: Solar Isotoma** mengakibatkan 25% DMG lebih besar kepada musuh dengan HP kurang dari 50%."
+	},
+	"passive2": {
+		"name": "Homuncular Nature",
+		"info": "**Rite of Progeniture: Tectonic Tide** akan meningkatkan 125 Elemental Mastery bagi anggota party di sekitarnya selama 10 detik."
+	},
+	"passive3": {
+		"name": "Flash of Genius",
+		"info": "Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Ballad\"",
+				"count": 3
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 2
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 9
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 6
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 9
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 16
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 12
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

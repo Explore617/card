@@ -1,0 +1,137 @@
+{
+	"name": "Oda a las Flores de Viento",
+	"description": "Un arco ornamentado con flores desconocidas que carga con los fervientes deseos de una persona también desconocida.",
+	"weapontype": "Arco",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Maestría Elemental",
+	"subvalue": "36",
+	"effectname": "Anhelo de las flores de viento",
+	"effect": "Al usar una Habilidad Elemental, obtienes la gracia de las flores de viento, que aumenta el ATQ en un {0} durante 6 s.",
+	"r1": [
+		"16%"
+	],
+	"r2": [
+		"20%"
+	],
+	"r3": [
+		"24%"
+	],
+	"r4": [
+		"28%"
+	],
+	"r5": [
+		"32%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grilletes de Diente de León",
+				"count": 3
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 3
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Cadena de Diente de León",
+				"count": 3
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 12
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Cadena de Diente de León",
+				"count": 6
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 6
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Esposas de Diente de León",
+				"count": 3
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 12
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Esposas de Diente de León",
+				"count": 6
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 9
+			},
+			{
+				"name": "Néctar energético",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Ideales de Diente de León",
+				"count": 4
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Néctar energético",
+				"count": 12
+			}
+		]
+	}
+}

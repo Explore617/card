@@ -1,0 +1,31 @@
+{
+	"name": "Gà Nấu Hoa Ngọt",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Hồi 20%-24% giới hạn HP cho nhân vật được chọn, và hồi thêm 900-1500 điểm HP.",
+	"description": "Thịt nướng chín sau khi tẩm ướp mật ong. Thịt gia cầm mềm ướp thêm chút mật của Hoa Ngọt, rất vừa miệng.",
+	"suspicious": {
+		"effect": "Hồi 20% giới hạn HP cho nhân vật được chọn, và hồi thêm 900 điểm HP.",
+		"description": "Thịt nướng chín sau khi tẩm ướp mật ong. Hoa Ngọt bị nướng quá lửa nên héo rũ, chỉ còn lại vị đắng của thịt cháy."
+	},
+	"normal": {
+		"effect": "Hồi 22% giới hạn HP cho nhân vật được chọn, và hồi thêm 1200 điểm HP.",
+		"description": "Thịt nướng chín sau khi tẩm ướp mật ong. Thịt gia cầm mềm ướp thêm chút mật của Hoa Ngọt, rất vừa miệng."
+	},
+	"delicious": {
+		"effect": "Hồi 24% giới hạn HP cho nhân vật được chọn, và hồi thêm 1500 điểm HP.",
+		"description": "Thịt nướng chín sau khi tẩm ướp mật ong. Thịt mềm ngọt như mật, khiến cho người ta muốn ăn sạch sẽ cả xương."
+	},
+	"ingredients": [
+		{
+			"name": "Thịt Gia Cầm",
+			"count": 2
+		},
+		{
+			"name": "Hoa Ngọt",
+			"count": 2
+		}
+	]
+}

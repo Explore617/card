@@ -1,0 +1,142 @@
+{
+	"name": "Orgullo Celestial",
+	"description": "Un mandoble que simboliza el orgullo de Dvalin en los cielos. Cuando es utilizado, emite un zumbido que representa la fuerza Dvalin y el poder de Anemo.",
+	"weapontype": "Mandoble",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "Recarga de Energía",
+	"subvalue": "8",
+	"effectname": "Espina de dragón rompecielos",
+	"effect": "Aumenta el daño infligido en un {0}. Al realizar Ataques Normales o Cargados después de usar la Habilidad Definitiva, se crea una hoja de vacío que inflige un {1} de daño a todos los enemigos a los que atraviesa. Tiene una duración de 20 s u 8 ataques de hoja de vacío.",
+	"r1": [
+		"8%",
+		"80%"
+	],
+	"r2": [
+		"10%",
+		"100%"
+	],
+	"r3": [
+		"12%",
+		"120%"
+	],
+	"r4": [
+		"14%",
+		"140%"
+	],
+	"r5": [
+		"16%",
+		"160%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Diente de leche de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 5
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Rama seca de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 9
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 9
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 5
+			},
+			{
+				"name": "Hojas secas de líneas ley",
+				"count": 18
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 9
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 14
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Nostalgia del lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Brotes de líneas ley",
+				"count": 27
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 18
+			}
+		]
+	}
+}

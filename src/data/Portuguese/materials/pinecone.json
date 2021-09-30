@@ -1,0 +1,10 @@
+{
+	"name": "Pinha",
+	"description": "Sementes ricas em óleo. Certamente não se transformará em uma árvore dentro do estômago de um esquilo.",
+	"sortorder": 1267,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrediente",
+	"source": [
+		"Encontrado na Natureza"
+	]
+}

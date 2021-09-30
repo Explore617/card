@@ -1,0 +1,209 @@
+{
+	"name": "Qiqi",
+	"combat1": {
+		"name": "Ataque Normal: Técnica de espada antigua",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}+{param3:F1P}",
+				"Daño de 4.º golpe|{param4:F1P}+{param4:F1P}",
+				"Daño de 5.º golpe|{param5:F1P}",
+				"Daño de ATQ Cargado|{param6:F1P}+{param6:F1P}",
+				"Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
+				"Daño de Caída|{param8:F1P}",
+				"Daño de impacto de caída baja/alta|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Magia Adeptus: Heraldo de la escarcha",
+		"info": "Usando su talismán de sangre helada, Qiqi invoca al Heraldo de la escarcha, infligiendo Daño Cryo a todos los enemigos cercanos.\n\n**Heraldo de la escarcha**\n·Cuando Qiqi golpea a un objetivo con sus Ataques Normales o Cargados, regenera Vida para todos los miembros de tu equipo y todos los personajes aliados cercanos. La cantidad de Vida regenerada es proporcional al ATQ de Qiqi.\n·Regenera una cierta cantidad de Vida del personaje en uso a intervalos regulares.\n·Sigue al personaje en uso para infligir Daño Cryo a todos los enemigos que se encuentre a su paso.",
+		"description": "“Utilizo esto para evitar el aumento de la temperatura y la podredumbre de... las valiosas hierbas medicinales del Dr. Baizhu”.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param8:P}",
+				"Curación al atacar|{param1:F2P} de ATQ + {param2:I}",
+				"Curación continua|{param3:F2P} de ATQ + {param4:I}",
+				"Daño de Heraldo de la escarcha|{param5:F1P}",
+				"Duración|{param6:F1} s",
+				"TdE|{param7:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Magia Adeptus: Preservadora de la fortuna",
+		"info": "Qiqi libera el poder Adeptus sellado dentro de su cuerpo, marcando a los enemigos cercanos con un talismán de conservación de la fortuna que inflige Daño Cryo.\n\n**Talismán de conservación de la fortuna**\nCuando los enemigos marcados con el talismán reciben daño, el personaje que infligió el daño regenera Vida para sí mismo.",
+		"description": "“Soy la Preservadora de la Fortuna, la Doncella de la Resurrección”.\n—Qiqi no recuerda cuándo dijo estas palabras.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param3:P}",
+				"Curación|{param1:F1P} de ATQ + {param2:I}",
+				"Duración|{param4:F1} s",
+				"TdE|{param5:F1} s",
+				"Energía Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Elixir de vida",
+		"info": "Cuando un personaje bajo el efecto de **Magia Adeptus: Heraldo de la escarcha** provoca una Reacción Elemental, aumenta su Bono de Curación recibida en un 20% durante 8 s."
+	},
+	"passive2": {
+		"name": "Apertura arcana",
+		"info": "Cuando Qiqi golpea a sus enemigos con Ataque Normal o Ataque Cargado, tiene un 50% de probabilidad de ponerles un talismán de conservación de la fortuna durante 6 s. Este efecto solo puede activarse una vez cada 30 s."
+	},
+	"passive3": {
+		"name": "Recuerdos de una vida pasada",
+		"info": "Muestra la ubicación de los **objetos típicos de Liyue** cercanos en el minimapa."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas de la prosperidad",
+				"count": 3
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía de la prosperidad",
+				"count": 2
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía de la prosperidad",
+				"count": 4
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía de la prosperidad",
+				"count": 6
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía de la prosperidad",
+				"count": 9
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía de la prosperidad",
+				"count": 4
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 4
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía de la prosperidad",
+				"count": 6
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 6
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía de la prosperidad",
+				"count": 12
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 9
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía de la prosperidad",
+				"count": 16
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 12
+			},
+			{
+				"name": "Cola de Boreas",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

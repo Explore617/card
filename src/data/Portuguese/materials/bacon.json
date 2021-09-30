@@ -1,0 +1,10 @@
+{
+	"name": "Bacon",
+	"description": "Tiras defumadas de porco. Crocante e um pouco gorduroso, mas não muito.",
+	"sortorder": 1636,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrediente",
+	"source": [
+		"Processado"
+	]
+}

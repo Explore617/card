@@ -1,0 +1,31 @@
+{
+	"name": "Grilled Tiger Fish",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Recovery Dish",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Restores 8–10% of Max HP and an additional 800–1,200 HP to the selected character.",
+	"description": "A fish kebab grilled over an open flame. The fish is a fresh catch straight from the harbor, lightly seasoned and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor.",
+	"suspicious": {
+		"effect": "Restores 8% of Max HP and an additional 800 HP to the selected character.",
+		"description": "A fish kebab grilled over an open flame. You can barely see that this charred lump is indeed grilled fish, and upon further investigation, the fish scales mixed in confirm that this is indeed the case."
+	},
+	"normal": {
+		"effect": "Restores 9% of Max HP and an additional 1,000 HP to the selected character.",
+		"description": "A fish kebab grilled over an open flame. The fish is a fresh catch straight from the harbor, lightly seasoned and swiftly grilled. Its aroma attracts the street cats. Indeed, freshness is the secret of flavor."
+	},
+	"delicious": {
+		"effect": "Restores 10% of Max HP and an additional 1,200 HP to the selected character.",
+		"description": "A fish kebab grilled over an open flame. The shimmering golden skin has locked the fresh and tender meat in. You cannot help but sigh in satisfaction as you chew on it. Not a scrap of meat here will go uneaten, not even those stuck firmly to the bamboo stick."
+	},
+	"ingredients": [
+		{
+			"name": "Fish",
+			"count": 1
+		},
+		{
+			"name": "Pepper",
+			"count": 1
+		}
+	]
+}

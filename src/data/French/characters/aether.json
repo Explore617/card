@@ -1,0 +1,133 @@
+{
+	"name": "Aether",
+	"title": "",
+	"description": "#{M#Un voyageur}{F#Une voyageuse} venant d'un autre monde qui a été {M#séparé}{F#séparée} de {M#sa sœur}{F#son frère}. {M#Il}{F#Elle} débute son périple à la recherche des Sept Archons de Teyvat dans l'espoir de {M#la}{F#le} retrouver.",
+	"rarity": "5",
+	"element": "Aucun",
+	"weapontype": "Épée à une main",
+	"substat": "ATQ",
+	"gender": "Homme",
+	"body": "BOY",
+	"association": "MAINACTOR",
+	"region": "",
+	"affiliation": "",
+	"birthdaymmdd": "",
+	"birthday": "",
+	"constellation": "Viator/Viatrix",
+	"cv": {
+		"english": "Zach Aguilar & Corina Boettger",
+		"chinese": "鹿喑&多多poi",
+		"japanese": "堀江瞬&古賀葵",
+		"korean": "이경태&김가령"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Éclat de diamant scintillant",
+				"count": 1
+			},
+			{
+				"name": "Chrysanthème à aubes",
+				"count": 3
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragment de diamant scintillant",
+				"count": 3
+			},
+			{
+				"name": "Chrysanthème à aubes",
+				"count": 10
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragment de diamant scintillant",
+				"count": 6
+			},
+			{
+				"name": "Chrysanthème à aubes",
+				"count": 20
+			},
+			{
+				"name": "Masque sale",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Morceau de diamant scintillant",
+				"count": 3
+			},
+			{
+				"name": "Chrysanthème à aubes",
+				"count": 30
+			},
+			{
+				"name": "Masque sale",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Morceau de diamant scintillant",
+				"count": 6
+			},
+			{
+				"name": "Chrysanthème à aubes",
+				"count": 45
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Diamant scintillant",
+				"count": 6
+			},
+			{
+				"name": "Chrysanthème à aubes",
+				"count": 60
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 24
+			}
+		]
+	}
+}

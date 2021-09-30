@@ -1,0 +1,216 @@
+{
+	"name": "Eula",
+	"combat1": {
+		"name": "Normal Attack: Favonius Bladework - Edel",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}+{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}+{param5:F1P}",
+				"DMG Berputar Charged Attack|{param6:F1P}",
+				"DMG Akhir Charged Attack|{param7:P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}/dtk",
+				"Durasi Maks.|{param9:F1} dtk",
+				"DMG Selama Plunging|{param10:F1P}",
+				"DMG Plunging Attack Ketinggian Rendah/Tinggi|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Icetide Vortex",
+		"info": "Es yang tajam, pedang yang lincah.\n\n**Tekan**\nMenebas dengan cepat dan mengakibatkan Cryo DMG.\nSaat mengenai musuh, Eula akan mendapatkan satu lapis Grimheart yang bisa ditumpuk hingga 2 lapis. Lapisan ini hanya bisa ditumpuk setiap 0,3 detik.\n\n**Grimheart**\nMeningkatkan DEF dan ketahanan Eula terhadap interupsi.\n\n**Tahan**\nDengan mengonsumsi semua lapisan Grimheart yang ada, Eula menebas pedangnya ke arah depan dan mengakibatkan Cryo DMG area pada musuh di hadapannya.\nJika Eula mengonsumsi lapisan Grimheart, musuh di sekitar akan mengalami penurunan Physical RES dan Cryo RES.\nSetiap lapis Grimheart akan berubah menjadi Icewhirl Brand yang mengakibatkan Cryo DMG pada musuh di sekitar.",
+		"description": "\"Ombak-ombak pun bergulung, menelan mahkota para bangsawan. Setelah itu, setiap tetesan di antara gulungan ombak es akan memantulkan mahkota emas, dan setiap tetesan busa ombak akan memancarkan cahayanya.",
+		"attributes": {
+			"labels": [
+				"DMG Tekan|{param1:P}",
+				"DMG Tahan|{param2:P}",
+				"DMG Icewhirl Brand|{param3:P}",
+				"Bonus DEF|{param9:P}/lapis",
+				"Durasi Grimheart|{param13:F1} dtk",
+				"Pengurangan Physical RES|{param4:P}",
+				"Pengurangan Cryo RES|{param5:P}",
+				"Durasi Pengurangan RES|{param6:F1}dtk",
+				"CD (Tekan)|{param7:F1} dtk",
+				"CD (Tahan)|{param8:F1} dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Glacial Illumination",
+		"info": "Eula mengayunkan pedang besarnya dan mengakibatkan Cryo DMG terhadap musuh di sekitar, serta menciptakan Lightfall Sword yang mengikutinya selama hingga 7 detik.\nSelama aktif, Lightfall Sword akan meningkatkan ketahanan Eula terhadap interupsi. Saat Normal Attack, Elemental Skill, dan Elemental Burst Eula mengakibatkan DMG terhadap musuh, energi Lightfall Sword akan terisi. 1 lapisan energi hanya dapat terisi setiap 0,1 detik.\nSetelah durasinya berakhir, Lightfall Sword akan meledak hebat dan mengakibatkan Physical DMG terhadap musuh di sekitarnya.\nDMG ini akan meningkat sesuai dengan jumlah lapisan energi yang berhasil dikumpulkan Lightfall Sword. Lightfall Sword akan langsung meledak saat Eula meninggalkan medan pertempuran.",
+		"description": "Mudah sekali bagi seseorang untuk tenggelam dalam arus ombak. Meski begitu, Eula lebih tertantang untuk membekukan arus yang datang.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"DMG Dasar Lightfall Sword|{param2:F1P}",
+				"Peningkatan DMG/Lapis|{param3:F1P}",
+				"Lapisan Maks.|{param4:I}",
+				"CD|{param5:F1} dtk",
+				"Konsumsi Energy|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Roiling Rime",
+		"info": "Jika 2 lapis Grimheart dikonsumsi saat menggunakan Mode Tahan dari **Icetide Vortex**, sebuah Shattered Lightfall Sword akan terbentuk dan langsung meledak, mengakibatkan Physical DMG sebesar 50% dari DMG dasar Lightfall Sword yang terbentuk dari skill **Glacial Illumination**."
+	},
+	"passive2": {
+		"name": "Wellspring of War-Lust",
+		"info": "Menggunakan **Glacial Illumination** akan langsung menyelesaikan CD **Icetide Vortex** dan memberikan Eula satu lapis Grimheart."
+	},
+	"passive3": {
+		"name": "Aristocratic Introspection",
+		"info": "Saat Eula membuat Material Talenta Karakter, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Stained Mask",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Stained Mask",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 4
+			},
+			{
+				"name": "Dragon Lord's Crown",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			},
+			{
+				"name": "Dragon Lord's Crown",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 9
+			},
+			{
+				"name": "Dragon Lord's Crown",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			},
+			{
+				"name": "Dragon Lord's Crown",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

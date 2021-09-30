@@ -1,0 +1,137 @@
+{
+	"name": "Destello en la Oscuridad",
+	"description": "Una espada larga negra con un perfecto ángulo recto. Perteneció a un ladrón que deambulaba por callejones oscuros.",
+	"weapontype": "Espada ligera",
+	"rarity": "4",
+	"baseatk": 45,
+	"substat": "Maestría Elemental",
+	"subvalue": "12",
+	"effectname": "Héroe errante",
+	"effect": "Aumenta en un {0} el daño infligido. Al recibir daño, este aumento de daño perderá su efecto durante 5 s.",
+	"r1": [
+		"12%"
+	],
+	"r2": [
+		"15%"
+	],
+	"r3": [
+		"18%"
+	],
+	"r4": [
+		"21%"
+	],
+	"r5": [
+		"24%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Fragmento de azulejo de Decarabian",
+				"count": 3
+			},
+			{
+				"name": "Cuerno pesado",
+				"count": 3
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Escombro de la ciudad de Decarabian",
+				"count": 3
+			},
+			{
+				"name": "Cuerno pesado",
+				"count": 12
+			},
+			{
+				"name": "Pergamino guía",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Escombro de la ciudad de Decarabian",
+				"count": 6
+			},
+			{
+				"name": "Cuerno de bronce negro",
+				"count": 6
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragmento de epopeya de Decarabian",
+				"count": 3
+			},
+			{
+				"name": "Cuerno de bronce negro",
+				"count": 12
+			},
+			{
+				"name": "Pergamino hechizado",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragmento de epopeya de Decarabian",
+				"count": 6
+			},
+			{
+				"name": "Cuerno con cristal negro",
+				"count": 9
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragmento de sueño de Decarabian",
+				"count": 4
+			},
+			{
+				"name": "Cuerno con cristal negro",
+				"count": 18
+			},
+			{
+				"name": "Pergamino maldito",
+				"count": 12
+			}
+		]
+	}
+}

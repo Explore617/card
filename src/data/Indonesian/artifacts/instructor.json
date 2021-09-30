@@ -1,0 +1,34 @@
+{
+	"name": "Instructor",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "Elemental Mastery +80.",
+	"4pc": "Setelah memicu Reaksi Elemental, akan meningkatkan 120 Elemental Mastery seluruh anggota party selama 8 detik.",
+	"flower": {
+		"name": "Instructor's Brooch",
+		"relictype": "Flower of Life",
+		"description": "Saat bros ini dikenakan oleh instruktur, berarti tidak ada kelas latihan sepanjang hari itu."
+	},
+	"plume": {
+		"name": "Instructor's Feathered Accessory",
+		"relictype": "Plume of Death",
+		"description": "Instruktur yang telah sepenuhnya menguasai keahlian menghindar, tahu bagaimana cara menjaga aksesoris ini agar tidak terjatuh tertiup angin."
+	},
+	"sands": {
+		"name": "Instructor's Pocket Watch",
+		"relictype": "Sands of Eon",
+		"description": "Jam saku yang bukan berfungsi untuk menunjukkan waktu, melainkan untuk menghitung durasi dari waktu latihan."
+	},
+	"goblet": {
+		"name": "Instructor's Tea Cup",
+		"relictype": "Goblet of Eonothem",
+		"description": "Bagi kebanyakan orang, kelihatannya seperti cangkir teh biasa, tetapi bagi para murid, ini adalah simbol otoritas seorang instruktur."
+	},
+	"circlet": {
+		"name": "Instructor's Cap",
+		"relictype": "Circlet of Logos",
+		"description": "Topi yang bentuknya biasa saja, tetapi memiliki makna yang mendalam. Hanya diperoleh oleh instruktur yang menolak kenaikan pangkat sebagai lambang kehormatan."
+	}
+}

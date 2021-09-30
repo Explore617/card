@@ -1,0 +1,206 @@
+{
+	"name": "Chongyun",
+	"combat1": {
+		"name": "Attaque normale : Fléau des démons",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:P}",
+				"DGT enchaînement attaque chargée|{param5:F1P}",
+				"DGT coup final attaque chargée|{param6:P}",
+				"Coût d'endurance attaque chargée|{param7:F1} pts/s",
+				"Durée max|{param8:F1} s",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Lame de l'esprit : Givre superposé",
+		"info": "Chongyun abat violemment sa longue épée sur le sol, provoquant une explosion de glace qui inflige des DGT Cryo aux ennemis en face dans une zone circulaire.\nAprès un court délai, les courants d'air froids de l'explosion se condensent en un champ de givre. Les DGT des attaques normales et chargées des personnages qui s'y trouvent et qui manient l'épée longue, à une main, ou une arme d'hast obtiennent un enchantement Cryo.",
+		"description": "« Lorsque les cloches sonnent, tout est calme et silencieux. Les eaux des lacs et des rivières ne s'écoulent plus, et les nuages sont couverts de givre épais. Les portes de l'autel s'ouvrent, tous les maux sont éliminés. »",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Durée enchantement|{param2:F1} s",
+				"Durée du champ|{param4:F1} s",
+				"Temps de recharge|{param3:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Lame de l'esprit : Chute d'étoiles",
+		"info": "D'un geste rapide, Chongyun invoque en l'air 3 lames éthérées qui foncent au sol après un court délai.\nL'impact inflige des DGT Cryo de zone et projette les ennemis en l'air.",
+		"description": "« Ô lame du ciel et de la terre qui gèle tous les démons du monde... Entends mon appel ! »",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Temps de recharge|{param2:F1} s",
+				"Énergie élémentaire|{param3:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Respiration stable",
+		"info": "Dans le champ de **Lame de l'esprit : Givre superposé**, la VIT d'attaque normale des personnages maniant une épée à une ou deux mains ou une arme d'hast augmente de 8 %."
+	},
+	"passive2": {
+		"name": "Lame du chasseur de glace",
+		"info": "Une lame apparaît à la fin du champ de **Lame de l'esprit : Givre superposé** ; elle inflige des DGT Cryo de zone équivalant à 100 % des DGT de Lame de l'esprit : Givre superposé aux ennemis proches. La RÉS Cryo des ennemis touchés est réduite de 10 % pendant 8 s."
+	},
+	"passive3": {
+		"name": "Périple alyzéen",
+		"info": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Diligence",
+				"count": 3
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 2
+			},
+			{
+				"name": "Masque sale",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 4
+			},
+			{
+				"name": "Masque sale",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 6
+			},
+			{
+				"name": "Masque sale",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Diligence",
+				"count": 9
+			},
+			{
+				"name": "Masque sale",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 4
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 4
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 6
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 6
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 12
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 9
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Diligence",
+				"count": 16
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 12
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

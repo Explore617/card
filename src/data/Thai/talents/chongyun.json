@@ -1,0 +1,206 @@
+{
+	"name": "Chongyun",
+	"combat1": {
+		"name": "โจมตีปกติ - Demonbane",
+		"info": "**โจมตีปกติ**\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+		"attributes": {
+			"labels": [
+				"ความเสียหายขั้น 1|{param1:F1P}",
+				"ความเสียหายขั้น 2|{param2:F1P}",
+				"ความเสียหายขั้น 3|{param3:F1P}",
+				"ความเสียหายขั้น 4|{param4:P}",
+				"ความเสียหายขณะชาร์จโจมตี|{param5:F1P}",
+				"ความเสียหายชาร์จโจมตีครั้งสุดท้าย|{param6:P}",
+				"ชาร์จโจมตีใช้พลังกาย|{param7:F1} หน่วย/วิ",
+				"ระยะเวลาต่อเนื่องสูงสุด|{param8:F1} วิ",
+				"ความเสียหายพุ่งลง|{param9:F1P}",
+				"ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Spirit Blade - Chonghua's Layered Frost",
+		"info": "Chongyun ฟันดาบใหญ่ลงไปที่พื้น สร้างระเบิดน้ำแข็งในรัศมีพื้นที่วงกว้างด้านหน้าของเขา และสร้าง ความเสียหายน้ำแข็งให้กับศัตรู\nจากนั้นไม่นาน ระเบิดน้ำแข็ง จะทำให้เกิดไอเย็นและรวมตัวกันเป็นพื้นที่ Chonghua Frost Field โดยที่ตัวละครที่ใช้ดาบ, ดาบใหญ่ หรือหอกภายในนั้น จะได้รับพลังแห่งน้ำแข็ง",
+		"description": "\"เมื่อ Linlang ส่งเสียง, ทุกสรรพสิ่งเงียบพลัน, แม่น้ำหยุดไหล,เมฆหนักไปด้วยเกล็ดหิมะ, เมื่อประตูแท่นบูชาเปิด, เหล่าวิญญาณร้ายหนีหาย\"",
+		"attributes": {
+			"labels": [
+				"ความเสียหายสกิล|{param1:P}",
+				"ระยะเวลาร่ายเวทต่อเนื่อง|{param2:F1} วิ",
+				"ระยะเวลาต่อเนื่องในพื้นที่|{param4:F1} วิ",
+				"คูลดาวน์|{param3:F1} วิ"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Spirit Blade - Cloud-parting Star",
+		"info": "Chongyun ปิดผนึกลับ และเรียก ดาบวิญญาณ Spirit Blade ขนาดมหึมา 3 เล่ม ออกมาจากกลางอากาศ ด้านหน้าของเขา ในเวลาอันสั้น มันจะหล่นลงสู่พื้นทีละเล่มและ จะระเบิดเมื่อสัมผัสกับพื้น\nเมื่อ Spirit Blade ระเบิด จะสร้าง ความเสียหายน้ำแข็งวงกว้าง และพุ่งไปโจมตีศัตรู",
+		"description": "\"ฤทธิ์ดาบสะเทือนพสุธา เรียกเกล็ดหิมะขึ้นมา ดุจวาจาสิทธิ์!\"",
+		"attributes": {
+			"labels": [
+				"ความเสียหายสกิล|{param1:P}",
+				"คูลดาวน์|{param2:F1} วิ",
+				"พลังงานธาตุ|{param3:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Steady Breathing",
+		"info": "ตัวละครทั้งหมดที่ใช้อาวุธดาบ, ดาบใหญ่และหอกที่อยู่ในพื้นที่ของ **Spirit Blade · Chongyun's Layered Frost** ความเร็วในการโจมตีปกติจะเพิ่มขึ้น 8%"
+	},
+	"passive2": {
+		"name": "Rimechaser Blade",
+		"info": "เมื่อพื้นที่ **Spirit Blade · Chongyun's Layered Frost** สลายไป จะเรียก Spirit Blade ออกมาเพิ่มหนึ่งเล่ม เพื่อโจมตีศัตรูโดยอัตโนมัติ โดยจะสร้างความเสียหายน้ำแข็งวงกว้าง เป็น 100% ของความเสียหายสกิล Spirit Blade · Chongyun's Layered Frost ซึ่งศัตรูที่ถูกโจมตีจะถูกลด ความต้านทานน้ำแข็งลง 10% เป็นเวลา 8 วินาที"
+	},
+	"passive3": {
+		"name": "Gallant Journey",
+		"info": "เมื่อทำคำขอการออกสำรวจของ Liyue เวลาที่ใช้จะลดลง 25%"
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Diligence\"",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 2
+			},
+			{
+				"name": "Stained Mask",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 4
+			},
+			{
+				"name": "Stained Mask",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to Diligence",
+				"count": 9
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 4
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 6
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 12
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Diligence\"",
+				"count": 16
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

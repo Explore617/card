@@ -1,0 +1,221 @@
+{
+	"name": "Tartaglia",
+	"combat1": {
+		"name": "Standardangriff: Regenschnitt",
+		"info": "**Standardangriff**\nFührt bis zu 6 Pfeilschüsse aus.\n\n**Heftiger Schlag**\nStartet einen **gezielten Schuss** mit höherem Schaden und höherer Genauigkeit.\nKonzentriert die Hydro-Kraft an der Pfeilspitze und fügt getroffenen Gegnern bei voll konzentrierter Kraft Hydro-Schaden sowie den Effekt „Versiegen“ zu.\n\n**Versiegen**\nFügt betroffenen Gegnern Hydro-Flächenschaden bei allen Arten von Angriffen von Tartaglia zu. Der durch diese Effekte verursachte Schaden gilt als Standardangriffsschaden.\n- Versiegen – Blitz: Verursacht beim Treffen von Versiegen betroffener Gegnern mit voll aufgeladenen gezielten Schüssen fortlaufenden Flächenschaden. 0,7 s Abklingzeit für Versiegen – Blitz.\n- Versiegen – Schwall: Verursacht beim Angreifen von Versiegen betroffener Gegner einen Wasserschwall und fügt Gegnern in der Nähe den Effekt Versiegen zu.\n\n**Angriff aus dem Fall**\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.\nIm Nahkampfmodus von Dämonengewand – Stürmische Gezeiten ist kein Angriff aus dem Fall möglich.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P}",
+				"SCH Phase 4|{param4:F1P}",
+				"SCH Phase 5|{param5:F1P}",
+				"SCH Phase 6|{param6:F1P}",
+				"Gezielte Schüsse|{param7:F1P}",
+				"Voll aufgeladene gezielte Schüsse|{param8:P}",
+				"SCH durch Versiegen – Blitz|{param9:F1P} ×3",
+				"SCH durch Versiegen – Schwall|{param10:F1P}",
+				"Dauer von Versiegen|{param14:F1} s",
+				"SCH beim Fallen|{param11:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Dämonengewand – Stürmische Gezeiten",
+		"info": "Nutzt seine aus reinem Wasser bestehende Ausrüstung, fügt Gegnern in der Umgebung Hydro-Schaden zu und geht in den Nahkampf über.\nWandelt den Schaden von Tartaglias Standardangriffen und heftigen Schlägen in diesem Zustand in Hydro-Schaden, dessen Element anderweitig nicht verändert werden kann, und verändert die Angriffe folgendermaßen:\n\n**Standardangriff**\nFührt bis zu 6 Hydro-Hiebe aus.\n\n**Heftiger Schlag**\nVerbraucht Ausdauer, schlägt mit beiden Schwertern schnell nach vorn und verursacht Hydro-Schaden.\n\n**Versiegen – Hieb**\nVerursacht beim Treffen von Versiegen betroffener Gegner mit Nahkampfangriffen „Versiegen – Hieb“ und verursacht Hydro-Flächenschaden. Der mit Versiegen – Hieb verursachte Schaden gilt als Elementarfähigkeitsschaden mit 1,5 s Abklingzeit.\n\nBeendet den Effekt nach 30 s oder erneutem Anwenden, aktiviert wieder den Fernkampf und startet die Abklingphase. Je länger der Nahkampf aktiv war, desto länger dauert die Abklingphase.\nAktiviert eine längere Abklingphase, wenn der Nahkampf 30 s lang aktiv war.",
+		"description": "Allein um seinen ungeübten Umgang mit dem Bogen zu verbessern, wählt er diesen als seine Waffe. In gefährlichen Kämpfen aber zeigt er seine wahre Stärke.",
+		"attributes": {
+			"labels": [
+				"SCH durch Modusänderung|{param1:P}",
+				"SCH Phase 1|{param2:F1P}",
+				"SCH Phase 2|{param3:F1P}",
+				"SCH Phase 3|{param4:F1P}",
+				"SCH Phase 4|{param5:F1P}",
+				"SCH Phase 5|{param6:F1P}",
+				"SCH Phase 6|{param7:F1P} + {param8:F1P}",
+				"SCH heftiger Schläge|{param9:F1P} + {param10:F1P}",
+				"Ausdauerverbrauch heftiger Schläge|{param12:F1} Punkte",
+				"SCH durch Versiegen – Hieb|{param11:P}",
+				"Höchstdauer|{param13:F1} s",
+				"Abklingzeit|{param14:F1} bis {param15:F1} s",
+				"Max. Abklingzeit|{param16:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Spezialangriff – Totale Vernichtung",
+		"info": "Führt je nachdem, ob Fern- oder Nahkampf aktiv ist, verschiedene Angriffe aus:\n\n**Fernkampf: Teufelsschuss**\nSchießt schnell einen magischen Pfeil voller Hydro-Kraft nach vorn und verursacht Hydro-Flächenschaden sowie den Effekt Versiegen.\nGibt nach dem Anwenden einen Teil Elementarenergie zurück.\n\n**Nahkampf: Tödliches Glitzern**\nFührt einen Hieb mit hoher Reichweite aus, der den Gegnern in der Nähe hohen Hydro-Schaden zufügt und „Versiegen – Explosion“ verursacht.\n\n**Versiegen – Explosion**\nBeendet beim Treffen von Versiegen betroffener Gegner mit Tödliches Glitzern den Effekt des Versiegens und verursacht eine Explosion sowie Hydro-Flächenschaden.\nDer mit Versiegen – Explosion verursachte Schaden gilt als Spezialfähigkeitsschaden.",
+		"description": "Reißendes Wasser ist eine Seltenheit in seiner verschneiten Heimat. Vielleicht kann er die Hydro-Kräfte so gut kontrollieren, gerade weil er weiß, wie kostbar Wasser ist.",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH (Nahkampf)|{param1:P}",
+				"Fähigkeits-SCH (Fernkampf)|{param3:P}",
+				"SCH durch Versiegen – Explosion|{param2:P}",
+				"Elementarenergierückgabe der Fähigkeit (Fernkampf)|{param4:I}",
+				"Abklingzeit|{param5:F1} s",
+				"Elementarenergie|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Ewige Fortsetzung",
+		"info": "Verlängert die Dauer des Effekts Versiegen um 8 s."
+	},
+	"passive2": {
+		"name": "Schwert aus Wasser",
+		"info": "Fügt mit kritischen Treffern von Standardangriffen und heftigen Schlägen getroffenen Gegnern im Nahkampf von **Dämonengewand – Stürmische Gezeiten** den Effekt Versiegen zu."
+	},
+	"passive3": {
+		"name": "Ausgeklügelte Bewaffnung",
+		"info": "Erhöht die Stufe der **Standardangriffe** eigener Figuren in der Truppe um 1."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren der „Freiheit“",
+				"count": 3
+			},
+			{
+				"name": "Abzeichen für neue Rekruten",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 2
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 4
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 6
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zur „Freiheit“",
+				"count": 9
+			},
+			{
+				"name": "Abzeichen für Unteroffiziere",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 4
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 4
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 6
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 6
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 12
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 9
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie der „Freiheit“",
+				"count": 16
+			},
+			{
+				"name": "Abzeichen für Offiziere",
+				"count": 12
+			},
+			{
+				"name": "Dämonengewand – Fragment",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

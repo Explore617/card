@@ -1,0 +1,147 @@
+{
+	"name": "Lanza de Espinadragón",
+	"description": "Una lanza creada a partir del colmillo de un dragón. Sorprendentemente, es cálida al tacto.",
+	"weapontype": "Lanza",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Bono de Daño Físico",
+	"subvalue": "15",
+	"effectname": "Entierro helado",
+	"effect": "Al golpear a los enemigos con Ataques Normales y Cargados, hay un {0} de probabilidad de crear un carámbano sobre ellos. Al caer, el carámbano inflige un {1} de daño de ATQ en el AdE. Si los enemigos están afectados por Cryo, el daño de ATQ infligido será del {2}. Este efecto solo puede ocurrir una vez cada 10 s.",
+	"r1": [
+		"60%",
+		"80%",
+		"200%"
+	],
+	"r2": [
+		"70%",
+		"95%",
+		"240%"
+	],
+	"r3": [
+		"80%",
+		"110%",
+		"280%"
+	],
+	"r4": [
+		"90%",
+		"125%",
+		"320%"
+	],
+	"r5": [
+		"100%",
+		"140%",
+		"360%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Diente de leche de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 3
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Polen de neblina",
+				"count": 12
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Diente roto de lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 6
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 3
+			},
+			{
+				"name": "Hierba brumosa",
+				"count": 12
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Colmillo roto de lobo boreal",
+				"count": 6
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 9
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgia del lobo boreal",
+				"count": 4
+			},
+			{
+				"name": "Estambre de hierba brumosa",
+				"count": 18
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 12
+			}
+		]
+	}
+}

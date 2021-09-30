@@ -1,0 +1,206 @@
+{
+	"name": "Yanfei",
+	"combat1": {
+		"name": "Standardangriff: Flammendes Siegel",
+		"info": "**Standardangriff**\nSchießt mehrere Feuerbälle nacheinander ab und verursacht bis zu dreimal Pyro-Schaden.\nJeder Treffer gibt Yanfei ein flammendes Siegel. Kann anfänglich bis zu drei flammende Siegel besitzen. Bei jedem Auslösen wird die Dauer der vorhandenen flammenden Siegel aktualisiert.\nJedes flammende Siegel verringert Yanfeis Ausdauerverbrauch und verschwindet, wenn sie ausgewechselt wird.\n\n**Heftiger Schlag**\nVerbraucht Ausdauer sowie nach kurzem Aufladen alle flammenden Siegel und verursacht vor sich Pyro-Flächenschaden.\nVerstärkt basierend auf der Anzahl der verbrauchten flammenden Siegel die Reichweite und den Schaden des heftigen Schlags.\n\n**Angriff aus dem Fall**\nKonzentriert die Kraft des Feuers, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Pyro-Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P}",
+				"SCH heftiger Schläge|{param4:P}, {param5:P}, {param6:P}, {param7:P}, {param8:P}",
+				"Ausdauerverbrauch heftiger Schläge|{param14:F1} Punkte",
+				"Verringerung des Ausdauerverbrauchs für flammende Siegel|{param15:F1P} pro Siegel",
+				"Dauer der flammenden Siegel|{param19:F1} s",
+				"SCH beim Fallen|{param16:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param17:P}/{param18:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Pakt des Feuers",
+		"info": "Beschwört lodernde Flammen und verursacht Pyro-Flächenschaden.\nBekommt beim Treffen von Gegnern die Höchstzahl an flammenden Siegeln.",
+		"description": "Der Pakt des Feuers beinhaltet nicht nur die geltenden Gesetze, sondern auch die von Yanfei selbst formulierten Klauseln, denn der Rat für Allgemeine Angelegenheiten allein ist nicht in der Lage, die Naturgesetze zu ändern.",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH|{param1:P}",
+				"Abklingzeit|{param2:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Pakt des flammenden Infernos",
+		"info": "Beschwört Flammen des Infernos, greift Gegner in der Umgebung an und verursacht Pyro-Flächenschaden. Gibt dabei Yanfei die Höchstzahl an flammenden Siegeln und den Effekt Sengende Hitze.\n\n**Sengende Hitze**\nLöst folgende Effekte aus:\n- Gibt Yanfei in gleichen zeitlichen Abständen je ein flammendes Siegel.\n- Erhöht den Schaden heftiger Schläge.\nEndet, wenn Yanfei ausgewechselt wird.",
+		"description": "„Der Pakt zwischen uns von Leben und Tod ist nun vollständig. Demgemäß wirst du sterben und ich werde weiterleben.“",
+		"attributes": {
+			"labels": [
+				"Fähigkeits-SCH|{param1:P}",
+				"Intervall der flammenden Siegel|{param4:F1} s",
+				"SCH-Bonus für heftige Schläge|{param2:P}",
+				"Dauer|{param3:F1} s",
+				"Abklingzeit|{param5:F1} s",
+				"Elementarenergie|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Koppelungsklausel",
+		"info": "Erhöht mit jedem verbrauchten flammenden Siegel durch heftige Schläge den Pyro-Schadensbonus 6 s lang um 5 %. Falls die Figur innerhalb der Wirkungsdauer des Effekts nochmals heftige Schläge anwendet, wird der vorige Effekt zuerst entfernt."
+	},
+	"passive2": {
+		"name": "Wachsame Argusaugen",
+		"info": "Verursacht einmal zusätzlichen Pyro-Flächenschaden in Höhe von 80 % ANG, wenn Yanfeis heftige Schläge KT bei Gegnern verursachen. Der Flächenschaden wird als Schaden von heftigen Schlägen betrachtet."
+	},
+	"passive3": {
+		"name": "Gelehrsamkeit",
+		"info": "Zeigt alle **Besonderheiten Liyues** in der Nähe auf der Minikarte an."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren des „Golds“",
+				"count": 3
+			},
+			{
+				"name": "Krähenwappen der Schatzsuche",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zum „Gold“",
+				"count": 2
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zum „Gold“",
+				"count": 4
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zum „Gold“",
+				"count": 6
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zum „Gold“",
+				"count": 9
+			},
+			{
+				"name": "Krähenwappen der Silberschätze",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie des „Golds“",
+				"count": 4
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 4
+			},
+			{
+				"name": "Ast des Drachenbluts",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie des „Golds“",
+				"count": 6
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 6
+			},
+			{
+				"name": "Ast des Drachenbluts",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie des „Golds“",
+				"count": 12
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 9
+			},
+			{
+				"name": "Ast des Drachenbluts",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie des „Golds“",
+				"count": 16
+			},
+			{
+				"name": "Krähenwappen der Goldschätze",
+				"count": 12
+			},
+			{
+				"name": "Ast des Drachenbluts",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,201 @@
+{
+	"name": "Ningguang",
+	"combat1": {
+		"name": "Tấn Công Thường - Ngàn Vàng Lấp Lánh",
+		"info": "**Tấn Công Thường**\nBắn ra bảo thạch, gây Sát Thương Nguyên Tố Nham.\nKhi trúng, ban cho Ningguang 1 Tinh Thạch.\n\n**Trọng Kích**\nTiêu hao thể lực, phóng ra 1 viên bảo thạch khổng lồ, gây Sát Thương Nguyên Tố Nham.\nNếu Ningguang có Tinh Thạch, khi thi triển Trọng Kích sẽ phóng ra tất cả Tinh Thạch cùng một lúc, gây thêm sát thương.\n\n**Tấn Công Khi Đáp**\nNgưng tụ sức mạnh nham thạch, tấn công từ trên không xuống đất, tấn công kẻ địch trên đường, gây sát thương phạm vi Nguyên Tố Nham khi chạm đất.",
+		"attributes": {
+			"labels": [
+				"Sát thương tấn công thường|{param1:F1P}",
+				"Sát Thương Trọng Kích|{param2:P}",
+				"Sát thương Tinh Thạch|Mỗi cái {param3:F1P}",
+				"Thể Lực Trọng Kích Tiêu Hao|{param4:F1} điểm",
+				"Sát Thương Khi Rơi|{param5:F1P}",
+				"Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param6:P}/{param7:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Vách Toàn Cơ",
+		"info": "Dùng vàng và đá đen thừa chế tạo Vách Toàn Cơ kiên cố, và gây Sát Thương Phạm Vi Nguyên Tố Nham.\n\n**Vách Toàn Cơ**\n·Cản các vật địch ném ra;\n·Độ bền được kế thừa theo tỷ lệ giới hạn HP của Ningguang.\n\nVách Toàn Cơ được xem là vật tạo ra Nguyên Tố Nham, có thể ngăn chặn một phần tấn công, không thể leo trèo. Đồng thời chỉ có thể tồn tại 1 cái.",
+		"description": "Những vì sao lấp lánh hợp thành Vách Toàn Cơ.",
+		"attributes": {
+			"labels": [
+				"HP Kế Thừa|{param3:F1P}",
+				"Sát Thương Kỹ Năng|{param2:P}",
+				"CD|{param4:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Thiên Quyền Băng Ngọc",
+		"info": "Ningguang ngưng tụ rất nhiều bảo thạch bên cạnh, rồi phát tán trong chớp mắt, tự tìm và tấn công địch xung quanh, gây lượng lớn Sát Thương Nguyên Tố Nham.\nKhi phóng Thiên Quyền Băng Ngọc, nếu xung quanh có Vách Toàn Cơ, Vách Toàn Cơ sẽ phóng thêm bảo thạch cùng tấn công.",
+		"description": "Sao tản ngọc vỡ, phá hủy xấu xa.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Bảo Thạch|Mỗi cái {param1:F1P}",
+				"CD|{param2:F1}s",
+				"Năng Lượng Nguyên Tố|{param3:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Vật Đổi Sao Dời",
+		"info": "Khi có Tinh Thạch, trọng kích của Ningguang sẽ không tiêu hao thể lực."
+	},
+	"passive2": {
+		"name": "Kiếm Củi Ba Năm Thiêu Một Giờ",
+		"info": "Nhân vật xuyên qua **Vách Toàn Cơ** sẽ nhận được 12% buff sát thương Nguyên Tố Nham, kéo dài 10s."
+	},
+	"passive3": {
+		"name": "Bộ Sưu Tập Đá Quý",
+		"info": "Hiển thị vị trí **mạch khoáng có thể sản xuất Quặng Đúc** trên bản đồ nhỏ."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Bài Giảng Của \"Phồn Vinh\"",
+				"count": 3
+			},
+			{
+				"name": "Phù Hiệu Tân Binh",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Phồn Vinh\"",
+				"count": 2
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Phồn Vinh\"",
+				"count": 4
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Phồn Vinh\"",
+				"count": 6
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Phồn Vinh\"",
+				"count": 9
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Triết Học Của \"Phồn Vinh\"",
+				"count": 4
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 4
+			},
+			{
+				"name": "Linh Hồn Bắc Phong",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Triết Học Của \"Phồn Vinh\"",
+				"count": 6
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 6
+			},
+			{
+				"name": "Linh Hồn Bắc Phong",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Triết Học Của \"Phồn Vinh\"",
+				"count": 12
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 9
+			},
+			{
+				"name": "Linh Hồn Bắc Phong",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Triết Học Của \"Phồn Vinh\"",
+				"count": 16
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 12
+			},
+			{
+				"name": "Linh Hồn Bắc Phong",
+				"count": 2
+			},
+			{
+				"name": "Vương Miện Trí Thức",
+				"count": 1
+			}
+		]
+	}
+}

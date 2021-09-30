@@ -1,0 +1,39 @@
+{
+	"name": "Gỏi Mãn Nguyện",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Tấn Công",
+	"foodcategory": "Atk_CritRate",
+	"effect": "Tỷ lệ bạo kích cả đội tăng 6%-12%, kéo dài 300s\nTrong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+	"description": "Gỏi trộn rau tươi. Khi nấu rau củ và khoai tây có thêm vào trứng lòng đào, mang đến cảm giác chắc bụng.",
+	"suspicious": {
+		"effect": "Tỷ lệ bạo kích cả đội tăng 6%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Gỏi trộn rau tươi. Vì lo sắp xếp bàn tiệc mà quên đi thời gian chín của khoai tây và trứng luộc, thật đáng tiếc."
+	},
+	"normal": {
+		"effect": "Tỷ lệ bạo kích cả đội tăng 9%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Gỏi trộn rau tươi. Khi nấu rau củ và khoai tây có thêm vào trứng lòng đào, mang đến cảm giác chắc bụng."
+	},
+	"delicious": {
+		"effect": "Tỷ lệ bạo kích cả đội tăng 12%, kéo dài 300s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+		"description": "Gỏi trộn rau tươi. Ăn vào tươi mát giòn ngọt, cho dù nửa cuộc đời còn lại chỉ ăn món này cũng không ngán."
+	},
+	"ingredients": [
+		{
+			"name": "Bắp Cải Cuộn",
+			"count": 2
+		},
+		{
+			"name": "Táo",
+			"count": 2
+		},
+		{
+			"name": "Trứng Chim",
+			"count": 1
+		},
+		{
+			"name": "Khoai Tây",
+			"count": 1
+		}
+	]
+}

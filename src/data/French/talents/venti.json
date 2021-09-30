@@ -1,0 +1,208 @@
+{
+	"name": "Venti",
+	"combat1": {
+		"name": "Attaque normale : Archerie divine",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 6 tirs consécutifs.\n\n**Attaque chargée**\nEffectue un **tir visé** plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Anémo, infligeant de considérables DGT Anémo quand elle est complètement chargée.\n\n**Attaque plongeante**\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}+{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}+{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT 6e coup|{param6:F1P}",
+				"DGT tir visé|{param7:F1P}",
+				"DGT tir visé (pleine charge)|{param8:P}",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Sonnet des Vents célestes",
+		"info": "Le vent porteur de chants et de mélodies vient faire voler les êtres foulant cette terre.\n\n**Appui simple**\nVenti invoque une bourrasque sur la position de l'ennemi, infligeant des DGT Anémo de zone et projette les ennemis en l'air.\n\n**Appui long**\nVenti invoque une bourrasque plus puissante sur sa position, infligeant des DGT Anémo de zone et projette les ennemis proches en l'air.\nL'appui long permet à Venti de voler dans les airs.\n\nLes ennemis projetés en l'air retombent lentement au sol.",
+		"description": "Aux temps anciens où dieux et hommes se partageaient la terre, nombreux furent les chants qui atteignirent les cieux. Ce sonnet possède une mélodie oubliée depuis longtemps.",
+		"attributes": {
+			"labels": [
+				"DGT appui simple|{param1:P}",
+				"TdR appui simple|{param2:F1} s",
+				"DGT appui long|{param3:P}",
+				"TdR appui long|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Ode au Vent",
+		"info": "Venti tire une flèche porteuse de la puissance de mille vents et de l'Œil de la tempête. Ce dernier attire les ennemis en son centre, et inflige des DGT Anémo continus.\n\n**Absorption élémentaire**\nL'Œil de la tempête absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.",
+		"description": "Nombre de poèmes chantant la gloire de l'Archon Anémo ont été perdus. Celui-ci raconte sa puissance, et la puissance des vents.",
+		"attributes": {
+			"labels": [
+				"DGT continus|{param1:F1P}",
+				"Bonus DGT élémentaires|{param2:F1P}",
+				"Durée|{param3:F1} s",
+				"Temps de recharge|{param4:F1} s",
+				"Énergie élémentaire|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Embrasse des vents",
+		"info": "L'appui long de **Sonnet des Vents célestes** génère une bourrasque ascendante qui dure 20 s."
+	},
+	"passive2": {
+		"name": "Œil de la tempête",
+		"info": "Venti récupère 15 pts d'énergie élémentaire à la fin d'**Ode au Vent**.\nEn cas d'absorption élémentaire, les personnages de l'élément correspondant récupèrent également 15 pts d'énergie élémentaire."
+	},
+	"passive3": {
+		"name": "Chevaucheur du vent",
+		"info": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Poésie",
+				"count": 3
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 2
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 9
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 4
+			},
+			{
+				"name": "Queue de Borée",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 6
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 6
+			},
+			{
+				"name": "Queue de Borée",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 12
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 9
+			},
+			{
+				"name": "Queue de Borée",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 16
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 12
+			},
+			{
+				"name": "Queue de Borée",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

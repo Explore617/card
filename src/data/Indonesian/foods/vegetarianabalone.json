@@ -1,0 +1,31 @@
+{
+	"name": "Vegetarian Abalone",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Menghidupkan kembali Karakter yang dipilih.\nMemulihkan 250–550 HP.",
+	"description": "Sebuah hidangan vegetarian dengan rasa yang kuat. Jamur Matsutake dipotong tipis dan digoreng hingga berwarna keemasan, kemudian tuangkan saus ke atasnya. Tekstur jamur Matsutake yang sangat empuk membuatmu seperti sedang memakan abalone segar... Daging tiruan ini benar-benar mirip dengan aslinya.",
+	"suspicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 250 HP.",
+		"description": "Sebuah hidangan vegetarian dengan rasa yang kuat. Sausnya terlalu kental hingga menutupi kesegaran bahan-bahannya. Bumbu-bumbu yang terlalu banyak membuat mulutmu terasa haus terus."
+	},
+	"normal": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 400 HP.",
+		"description": "Sebuah hidangan vegetarian yang kaya akan rasa. Jamur Matsutake dipotong tipis dan digoreng hingga berwarna keemasan, kemudian tuangkan saus ke atasnya. Tekstur jamur Matsutake yang sangat empuk membuatmu seperti sedang memakan abalon segar... Daging tiruan ini benar-benar mirip dengan aslinya."
+	},
+	"delicious": {
+		"effect": "Menghidupkan kembali Karakter dan memulihkan 550 HP.",
+		"description": "Sebuah hidangan vegetarian dengan rasa yang kuat. Dengan campuran saus yang gurih, jamur Matsutake menghadirkan cita rasa yang sempurna. Dengan tekstur selembut kerang, dan sesegar abalone, siapa pun yang memakannya pasti akan sulit membedakannya. Para tamu yang memakannya tanpa mengetahui bahwa ini adalah daging tiruan, pasti akan sangat terpukau saat kamu memberi tahunya."
+	},
+	"ingredients": [
+		{
+			"name": "Matsutake",
+			"count": 2
+		},
+		{
+			"name": "Snapdragon",
+			"count": 2
+		}
+	]
+}

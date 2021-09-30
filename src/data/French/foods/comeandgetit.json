@@ -1,0 +1,39 @@
+{
+	"name": "Ramen Alézi",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Attaque",
+	"foodcategory": "Atk_CritRate",
+	"effect": "Augmente le taux CRIT de tous les personnages de l'équipe de 10 % à 20 % pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
+	"description": "Un plat aux ingrédients variés. Malgré sa préparation rudimentaire, il fait fureur pendant les festivals à Liyue et a été nommé ainsi, car la personne qui le commande pour toute la table dit toujours : « Allez-y, servez-vous. »",
+	"suspicious": {
+		"effect": "Augmente le taux CRIT de tous les personnages de l'équipe de 10 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un plat aux ingrédients variés qui ont grossièrement été cuits dans un wok. Le mélange des saveurs est désagréable, et... hum ? Est-ce du sable que j'ai dans la bouche ?"
+	},
+	"normal": {
+		"effect": "Augmente le taux CRIT de tous les personnages de l'équipe de 15 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un plat aux ingrédients variés. Malgré sa préparation rudimentaire, il fait fureur pendant les festivals à Liyue et a été nommé ainsi, car la personne qui le commande pour toute la table dit toujours : « Allez-y, servez-vous. »"
+	},
+	"delicious": {
+		"effect": "Augmente le taux CRIT de tous les personnages de l'équipe de 20 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un plat aux ingrédients variés. La viande et les légumes se complètent parfaitement aussi bien dans l'assiette qu'en bouche. La moitié du plat est déjà partie avant qu'on ait pu inviter qui que ce soit à la table."
+	},
+	"ingredients": [
+		{
+			"name": "Viande crue",
+			"count": 3
+		},
+		{
+			"name": "Poisson",
+			"count": 3
+		},
+		{
+			"name": "Riz",
+			"count": 3
+		},
+		{
+			"name": "Tofu",
+			"count": 1
+		}
+	]
+}

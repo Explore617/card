@@ -1,0 +1,153 @@
+{
+	"name": "엠버",
+	"title": "비행 챔피언",
+	"description": "항상 활력이 넘치는 여자아이. 기사단에서 가장 우수한 최후의 정찰 기사다",
+	"rarity": "4",
+	"element": "불",
+	"weapontype": "활",
+	"substat": "공격력",
+	"gender": "여성",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 기사단",
+	"birthdaymmdd": "8/10",
+	"birthday": "8월 10일",
+	"constellation": "토끼자리",
+	"cv": {
+		"english": "Kelly Baskin",
+		"chinese": "蔡书瑾",
+		"japanese": "이와미 마나카",
+		"korean": "김연우"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "불타오르는 마노 가루",
+				"count": 1
+			},
+			{
+				"name": "등불꽃",
+				"count": 3
+			},
+			{
+				"name": "견고한 화살촉",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "불타오르는 마노 조각",
+				"count": 3
+			},
+			{
+				"name": "꺼지지 않는 불씨",
+				"count": 2
+			},
+			{
+				"name": "등불꽃",
+				"count": 10
+			},
+			{
+				"name": "견고한 화살촉",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "불타오르는 마노 조각",
+				"count": 6
+			},
+			{
+				"name": "꺼지지 않는 불씨",
+				"count": 4
+			},
+			{
+				"name": "등불꽃",
+				"count": 20
+			},
+			{
+				"name": "날카로운 화살촉",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "불타오르는 마노 덩이",
+				"count": 3
+			},
+			{
+				"name": "꺼지지 않는 불씨",
+				"count": 8
+			},
+			{
+				"name": "등불꽃",
+				"count": 30
+			},
+			{
+				"name": "날카로운 화살촉",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "불타오르는 마노 덩이",
+				"count": 6
+			},
+			{
+				"name": "꺼지지 않는 불씨",
+				"count": 12
+			},
+			{
+				"name": "등불꽃",
+				"count": 45
+			},
+			{
+				"name": "역전의 화살촉",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "불타오르는 마노",
+				"count": 6
+			},
+			{
+				"name": "꺼지지 않는 불씨",
+				"count": 20
+			},
+			{
+				"name": "등불꽃",
+				"count": 60
+			},
+			{
+				"name": "역전의 화살촉",
+				"count": 24
+			}
+		]
+	}
+}

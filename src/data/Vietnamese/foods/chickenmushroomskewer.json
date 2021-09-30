@@ -1,0 +1,31 @@
+{
+	"name": "Xiên Thịt Gà Nấm",
+	"rarity": "1",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_HpAdd",
+	"effect": "Hồi 8%-10% giới hạn HP cho nhân vật được chọn, và hồi thêm 800-1200 điểm HP.",
+	"description": "Xiên thịt và nấm rừng. Thịt tươi mềm ăn với nấm rừng thơm lừng, khi ăn đừng nên kén chọn quá.",
+	"suspicious": {
+		"effect": "Hồi 8% giới hạn HP cho nhân vật được chọn, và hồi thêm 800 điểm HP.",
+		"description": "Xiên thịt và nấm rừng. Nhìn thì cũng khó phân biệt được hai món đó."
+	},
+	"normal": {
+		"effect": "Hồi 9% giới hạn HP cho nhân vật được chọn, và hồi thêm 1000 điểm HP.",
+		"description": "Xiên thịt và nấm rừng. Thịt tươi mềm ăn với nấm rừng thơm lừng, khi ăn đừng nên kén chọn quá."
+	},
+	"delicious": {
+		"effect": "Hồi 10% giới hạn HP cho nhân vật được chọn, và hồi thêm 1200 điểm HP.",
+		"description": "Xiên thịt và nấm rừng. Nướng với lửa vừa, để một xiên thôi cũng đủ thơm cả khu rừng."
+	},
+	"ingredients": [
+		{
+			"name": "Nấm Rơm",
+			"count": 1
+		},
+		{
+			"name": "Thịt Gia Cầm",
+			"count": 1
+		}
+	]
+}

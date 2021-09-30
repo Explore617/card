@@ -1,0 +1,142 @@
+{
+	"name": "Stolz des Himmels",
+	"description": "Ein Zweihänder, der Dvalins stolzen Flug im Himmel symbolisiert. Geschwungen ertönt Dvalins tiefe Stimme mit der Kraft von Himmel und Wind.",
+	"weapontype": "Zweihänder",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "Aufladerate",
+	"subvalue": "8",
+	"effectname": "Himmel spaltende Drachenwirbel",
+	"effect": "Erhöht den verursachten Schaden um {0}. Nach Anwendung der Spezialfähigkeit: Erschafft nach Treffern mit Standardangriffen und heftigen Schlägen eine Vakuumklinge, die Gegnern in der Bahn Schaden in Höhe von {1} ANG zufügt. Hält 20 s oder 8 Vakuumklingen lang.",
+	"r1": [
+		"8 %",
+		"80 %"
+	],
+	"r2": [
+		"10 %",
+		"100 %"
+	],
+	"r3": [
+		"12 %",
+		"120 %"
+	],
+	"r4": [
+		"14 %",
+		"140 %"
+	],
+	"r5": [
+		"16 %",
+		"160 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Milchzahn des borealischen Wolfs",
+				"count": 5
+			},
+			{
+				"name": "Alte Rute des Flusses der Elemente",
+				"count": 5
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Zersplitterter Zahn des borealischen Wolfs",
+				"count": 5
+			},
+			{
+				"name": "Alte Rute des Flusses der Elemente",
+				"count": 18
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Zersplitterter Zahn des borealischen Wolfs",
+				"count": 9
+			},
+			{
+				"name": "Verdorrte Blätter des Flusses der Elemente",
+				"count": 9
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Abgebrochener Zahn des borealischen Wolfs",
+				"count": 5
+			},
+			{
+				"name": "Verdorrte Blätter des Flusses der Elemente",
+				"count": 18
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Abgebrochener Zahn des borealischen Wolfs",
+				"count": 9
+			},
+			{
+				"name": "Frische Triebe des Flusses der Elemente",
+				"count": 14
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Heimweh des borealischen Wolfs",
+				"count": 6
+			},
+			{
+				"name": "Frische Triebe des Flusses der Elemente",
+				"count": 27
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 18
+			}
+		]
+	}
+}

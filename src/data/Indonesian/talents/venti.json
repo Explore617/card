@@ -1,0 +1,208 @@
+{
+	"name": "Venti",
+	"combat1": {
+		"name": "Divine Marksmanship",
+		"info": "**Normal Attack**\nMelancarkan hingga 6 serangan berturut-turut menggunakan busur.\n\n**Charged Attack**\nMelancarkan sebuah **Serangan Membidik** yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, angin akan berkumpul di ujung anak panah. Panah dengan angin yang terkumpul penuh akan mengakibatkan Anemo DMG.\n\n**Plunging DMG**\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}+{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}+{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Tahap 6|{param6:F1P}",
+				"DMG Membidik|{param7:F1P}",
+				"DMG Membidik Penuh|{param8:P}",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Skyward Sonnet",
+		"info": "Wahai angin tempat semua nyanyian dan pujian dilantunkan, sanggupkan pejalan kaki bumi ini naik ke langit.\n\n**Tekan**\nMemanggil sebuah Wind Domain di lokasi musuh yang mengakibatkan Anemo DMG area dan menghempas musuh ke udara.\n\n**Tahan**\nMemanggil Wind Domain yang lebih besar lagi dengan Venti di tengahnya. Mengakibatkan Anemo DMG area dan menghempas musuh ke udara.\nSetelah mengerahkan Wind Domain yang lebih besar, Venti mengendarai angin ke udara.\n\nMusuh yang terkena oleh Skyward Sonnet akan jatuh ke tanah dengan pelan.",
+		"description": "Pada hari-hari ketika para Dewa dan manusia berjalan bersama-sama di bumi, surga dipenuhi dengan lagu-lagu yang tak terhitung jumlahnya. Melodi ini sudah lama dilupakan.",
+		"attributes": {
+			"labels": [
+				"DMG Tekan|{param1:P}",
+				"Cooldown One-tap|{param2:F1}dtk",
+				"DMG Menahan|{param3:P}",
+				"Cooldown Menahan|{param4:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Wind's Grand Ode",
+		"info": "Menembakkan panah yang terbuat dari angin gabungan yang tak terhitung jumlahnya. Membuat Stormeye raksasa yang menarik musuh; mengakibatkan Anemo DMG berkelanjutan.\n\n**Elemental Absorption**\nJika Stormeye bersentuhan dengan elemen Hydro/Pyro/Cryo/Electro, ia akan mengakibatkan tambahan Elemental DMG dengan tipe tersebut.\nElemental Absorption hanya dapat terjadi sekali untuk setiap penggunaan skill.",
+		"description": "Sebagian besar nyanyian pujian Archon Anemo telah hilang dalam waktu. Yang ini melantunkan keahilan dia menguasai angin.",
+		"attributes": {
+			"labels": [
+				"DMG Berkelanjutan|{param1:F1P}",
+				"Tambahan Elemental DMG|{param2:F1P}",
+				"Durasi|{param3:F1}dtk",
+				"Cooldown|{param4:F1}dtk",
+				"Konsumsi Energy|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Embrace of Winds",
+		"info": "Menahan tombol skill **Skyward Sonnet** akan menciptakan arus angin yang berlangsung selama 20 detik."
+	},
+	"passive2": {
+		"name": "Stormeye",
+		"info": "Memulihkan 15 Energy Venti saat **Wind's Grand Ode** berakhir.\nJika terjadi Elemental Absorption, juga akan memulihkan 15 Energy kepada anggota party yang memiliki elemen tersebut."
+	},
+	"passive3": {
+		"name": "Windrider",
+		"info": "Mengurangi 20% konsumsi Stamina karakter sendiri saat terbang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Ballad\"",
+				"count": 3
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 2
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 9
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 4
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 6
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 12
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 9
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 16
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 12
+			},
+			{
+				"name": "Tail of Boreas",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

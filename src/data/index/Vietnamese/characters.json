@@ -1,0 +1,1159 @@
+{
+	"namemap": {
+		"aether": "Aether",
+		"albedo": "Albedo",
+		"aloy": "Aloy",
+		"amber": "Amber",
+		"barbara": "Barbara",
+		"beidou": "Beidou",
+		"bennett": "Bennett",
+		"chongyun": "Chongyun",
+		"diluc": "Diluc",
+		"diona": "Diona",
+		"eula": "Eula",
+		"fischl": "Fischl",
+		"ganyu": "Ganyu",
+		"hutao": "Hu Tao",
+		"jean": "Jean",
+		"kaedeharakazuha": "Kaedehara Kazuha",
+		"kaeya": "Kaeya",
+		"kamisatoayaka": "Kamisato Ayaka",
+		"keqing": "Keqing",
+		"klee": "Klee",
+		"kujousara": "Kujou Sara",
+		"lisa": "Lisa",
+		"lumine": "Lumine",
+		"mona": "Mona",
+		"ningguang": "Ningguang",
+		"noelle": "Noelle",
+		"qiqi": "Qiqi",
+		"raidenshogun": "Raiden Shogun",
+		"razor": "Razor",
+		"rosaria": "Rosaria",
+		"sangonomiyakokomi": "Sangonomiya Kokomi",
+		"sayu": "Sayu",
+		"sucrose": "Sucrose",
+		"tartaglia": "Tartaglia",
+		"venti": "Venti",
+		"xiangling": "Xiangling",
+		"xiao": "Xiao",
+		"xingqiu": "Xingqiu",
+		"xinyan": "Xinyan",
+		"yanfei": "Yanfei",
+		"yoimiya": "Yoimiya",
+		"zhongli": "Zhongli"
+	},
+	"names": {
+		"Aether": "aether",
+		"Albedo": "albedo",
+		"Aloy": "aloy",
+		"Amber": "amber",
+		"Barbara": "barbara",
+		"Beidou": "beidou",
+		"Bennett": "bennett",
+		"Chongyun": "chongyun",
+		"Diluc": "diluc",
+		"Diona": "diona",
+		"Eula": "eula",
+		"Fischl": "fischl",
+		"Ganyu": "ganyu",
+		"Hu Tao": "hutao",
+		"Jean": "jean",
+		"Kaedehara Kazuha": "kaedeharakazuha",
+		"Kaeya": "kaeya",
+		"Kamisato Ayaka": "kamisatoayaka",
+		"Keqing": "keqing",
+		"Klee": "klee",
+		"Kujou Sara": "kujousara",
+		"Lisa": "lisa",
+		"Lumine": "lumine",
+		"Mona": "mona",
+		"Ningguang": "ningguang",
+		"Noelle": "noelle",
+		"Qiqi": "qiqi",
+		"Raiden Shogun": "raidenshogun",
+		"Razor": "razor",
+		"Rosaria": "rosaria",
+		"Sangonomiya Kokomi": "sangonomiyakokomi",
+		"Sayu": "sayu",
+		"Sucrose": "sucrose",
+		"Tartaglia": "tartaglia",
+		"Venti": "venti",
+		"Xiangling": "xiangling",
+		"Xiao": "xiao",
+		"Xingqiu": "xingqiu",
+		"Xinyan": "xinyan",
+		"Yanfei": "yanfei",
+		"Yoimiya": "yoimiya",
+		"Zhongli": "zhongli"
+	},
+	"aliases": {
+		"Lữ Khách": "lumine",
+		"Kreideprinz": "albedo",
+		"Vị Cứu Tinh Dị Giới": "aloy",
+		"Cung Nora": "aloy",
+		"Quán Quân Bay Lượn": "amber",
+		"Tiểu Thố": "amber",
+		"Thần Tượng Tỏa Sáng": "barbara",
+		"Kim Bôi": "barbara",
+		"Long Vương Không Vương Miện": "beidou",
+		"Nam Thiên Hải Sơn": "beidou",
+		"Thử Thách Của Vận Mệnh": "bennett",
+		"Hiểm Lộ": "bennett",
+		"Bóng Hình Băng Giá": "chongyun",
+		"Càn Khôn Phong": "chongyun",
+		"Mặt Tối Của Bình Minh": "diluc",
+		"Cung Dạ Hiêu": "diluc",
+		"Đặc Chế Quán Rượu Đuôi Mèo": "diona",
+		"Tiểu Miêu": "diona",
+		"Vũ Điệu Bọt Biển": "eula",
+		"Cung Lãng Mạt": "eula",
+		"Công Chúa Định Tội!!": "fischl",
+		"Hoan Áp": "fischl",
+		"Người Bảo Vệ Tận Tâm": "ganyu",
+		"Cung Tiên Lân": "ganyu",
+		"Tuyết Tễ Mai Hương": "hutao",
+		"Cung Dẫn Điệp": "hutao",
+		"Kỵ Sĩ Bồ Công Anh": "jean",
+		"Ấu Sư": "jean",
+		"Lá Đỏ Đuổi Sóng": "kaedeharakazuha",
+		"Cung Phong Đỏ": "kaedeharakazuha",
+		"Hàn Phong Kiếm Sĩ": "kaeya",
+		"Khổng Tước Vũ": "kaeya",
+		"Bạch Hạc Sương Hoa": "kamisatoayaka",
+		"Cung Tuyết Hạc": "kamisatoayaka",
+		"Sấm Chớp Trước Cơn Mưa": "keqing",
+		"Kim Tử Định Thùy": "keqing",
+		"Mặt Trời Chạy Trốn": "klee",
+		"Tứ Diệp Thảo": "klee",
+		"Hắc Vũ Tiễn": "kujousara",
+		"Cung Vũ Phiến": "kujousara",
+		"Ma Nữ Tường Vi": "lisa",
+		"Sa Lậu": "lisa",
+		"Thủy Kính Thiên Tinh": "mona",
+		"Ánh Thiên": "mona",
+		"Yểm Nguyệt Thiên Quyền": "ningguang",
+		"Cơ Hoành Nghi": "ningguang",
+		"Đóa Hoa Chưa Vinh Danh": "noelle",
+		"Hộ Tâm": "noelle",
+		"Đêm Hồn Về Lạnh Giá": "qiqi",
+		"Tam Thanh Linh": "qiqi",
+		"Nhất Tâm Tịnh Thổ": "raidenshogun",
+		"Cung Thiên Hạ Nhân": "raidenshogun",
+		"Thiếu Niên Sói": "razor",
+		"Tiểu Lang": "razor",
+		"Ân Điển Mũ Gai": "rosaria",
+		"Cung Kinh Quán": "rosaria",
+		"Trí Tuệ Trân Châu": "sangonomiyakokomi",
+		"Cung Miên Long": "sangonomiyakokomi",
+		"Ninja Mujina": "sayu",
+		"Cung Tiểu Lạc": "sayu",
+		"Độ Ngọt Vô Hại": "sucrose",
+		"Thiêu Bình": "sucrose",
+		"Childe": "tartaglia",
+		"Kình Thiên": "tartaglia",
+		"Nhà Thơ Có Màu Của Gió": "venti",
+		"Ca Tiên": "venti",
+		"Vạn Dân Bách Vị": "xiangling",
+		"Trường Tiêu": "xiangling",
+		"Hộ Pháp Dạ Xoa": "xiao",
+		"Cung Kim Sí Bằng Vương": "xiao",
+		"Tuổi Trẻ Tài Cao": "xingqiu",
+		"Cẩm Chức": "xingqiu",
+		"Giai Điệu Nóng Bỏng": "xinyan",
+		"Hồng Đàn Tứ Huyền": "xinyan",
+		"Cơ trí ngây thơ": "yanfei",
+		"Cung Pháp Thú": "yanfei",
+		"Vũ Điệu Bão Lửa": "yoimiya",
+		"Cung Lưu Kim": "yoimiya",
+		"Du Ngoạn Trần Thế": "zhongli",
+		"Nham Vương Đế Quân": "zhongli"
+	},
+	"categories": {
+		"4": [
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diona",
+			"fischl",
+			"kaeya",
+			"kujousara",
+			"lisa",
+			"ningguang",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xingqiu",
+			"xinyan",
+			"yanfei"
+		],
+		"5": [
+			"aether",
+			"albedo",
+			"aloy",
+			"diluc",
+			"eula",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"lumine",
+			"mona",
+			"qiqi",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"yoimiya",
+			"zhongli"
+		],
+		"Không": [
+			"aether",
+			"lumine"
+		],
+		"Kiếm Đơn": [
+			"aether",
+			"albedo",
+			"bennett",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"lumine",
+			"qiqi",
+			"xingqiu"
+		],
+		"Tấn Công": [
+			"aether",
+			"amber",
+			"chongyun",
+			"fischl",
+			"kujousara",
+			"lumine",
+			"rosaria",
+			"xingqiu",
+			"xinyan"
+		],
+		"nam": [
+			"aether",
+			"albedo",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"kaedeharakazuha",
+			"kaeya",
+			"razor",
+			"tartaglia",
+			"venti",
+			"xiao",
+			"xingqiu",
+			"zhongli"
+		],
+		"Mora": [
+			"aether",
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"Vụn Kim Cương Bạc": [
+			"aether",
+			"lumine"
+		],
+		"Cúc Cánh Quạt": [
+			"aether",
+			"bennett",
+			"lumine",
+			"sucrose"
+		],
+		"Mặt Nạ Vỡ": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Mảnh Kim Cương Bạc": [
+			"aether",
+			"lumine"
+		],
+		"Mặt Nạ Bẩn": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Miếng Kim Cương Bạc": [
+			"aether",
+			"lumine"
+		],
+		"Mặt Nạ Xui Xẻo": [
+			"aether",
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"lumine",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"Kim Cương Bạc": [
+			"aether",
+			"lumine"
+		],
+		"Nham": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Tăng ST Nguyên Tố Nham": [
+			"albedo",
+			"ningguang",
+			"zhongli"
+		],
+		"Mondstadt": [
+			"albedo",
+			"amber",
+			"barbara",
+			"bennett",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"jean",
+			"kaeya",
+			"klee",
+			"lisa",
+			"mona",
+			"noelle",
+			"razor",
+			"rosaria",
+			"sucrose",
+			"venti"
+		],
+		"Tháng 9": [
+			"albedo",
+			"chongyun",
+			"kamisatoayaka",
+			"razor"
+		],
+		"Vụn Hoàng Ngọc Cứng": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Hoa Cecilia": [
+			"albedo",
+			"venti"
+		],
+		"Bản Vẽ Hướng Dẫn": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Mảnh Hoàng Ngọc Cứng": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Tháp Huyền Nham": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Bản Vẽ Phong Ấn": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Miếng Hoàng Ngọc Cứng": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Bản Vẽ Cấm Chú": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"yoimiya"
+		],
+		"Hoàng Ngọc Cứng": [
+			"albedo",
+			"ningguang",
+			"noelle",
+			"zhongli"
+		],
+		"Băng": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Cung": [
+			"aloy",
+			"amber",
+			"diona",
+			"fischl",
+			"ganyu",
+			"kujousara",
+			"tartaglia",
+			"venti",
+			"yoimiya"
+		],
+		"Tăng ST Nguyên Tố Băng": [
+			"aloy",
+			"diona"
+		],
+		"nữ": [
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"lumine",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Tháng 4": [
+			"aloy",
+			"diluc",
+			"xiao"
+		],
+		"Mảnh Ngọc Băng Vụn": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Tủy Pha Lê": [
+			"aloy",
+			"sayu"
+		],
+		"Hạt Bay Lượn Khô Héo": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Miếng Ngọc Băng Vỡ": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Tinh Hoa Ngưng Kết": [
+			"aloy",
+			"eula"
+		],
+		"Hạt Bay Lượn U Ám": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Miếng Ngọc Băng": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Hạt Bay Lượn Kết Tinh": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"Ngọc Băng": [
+			"aloy",
+			"chongyun",
+			"diona",
+			"eula",
+			"ganyu",
+			"kaeya",
+			"kamisatoayaka",
+			"qiqi",
+			"rosaria"
+		],
+		"Hỏa": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Tháng 8": [
+			"amber",
+			"mona",
+			"ningguang"
+		],
+		"Vụn Mã Não Cháy": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Tiểu Đăng Thảo": [
+			"amber",
+			"diluc",
+			"fischl"
+		],
+		"Mũi Tên Chắc Chắn": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Mảnh Mã Não Cháy": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Ngọn Lửa Vĩnh Hằng": [
+			"amber",
+			"bennett",
+			"diluc",
+			"klee",
+			"xiangling",
+			"xinyan"
+		],
+		"Mũi Tên Sắc Bén": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Miếng Mã Não Cháy": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Mũi Tên Thiện Chiến": [
+			"amber",
+			"diona",
+			"fischl"
+		],
+		"Mã Não Cháy": [
+			"amber",
+			"bennett",
+			"diluc",
+			"hutao",
+			"klee",
+			"xiangling",
+			"xinyan",
+			"yanfei",
+			"yoimiya"
+		],
+		"Thủy": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Pháp Khí": [
+			"barbara",
+			"klee",
+			"lisa",
+			"mona",
+			"ningguang",
+			"sangonomiyakokomi",
+			"sucrose",
+			"yanfei"
+		],
+		"HP": [
+			"barbara"
+		],
+		"Tháng 7": [
+			"barbara",
+			"hutao",
+			"klee",
+			"kujousara",
+			"tartaglia",
+			"yanfei"
+		],
+		"Vụn Thanh Kim Sạch": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Nấm Rơm Gió": [
+			"barbara",
+			"klee",
+			"mona"
+		],
+		"Mảnh Thanh Kim Sạch": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Trái Tim Thuần Khiết": [
+			"barbara",
+			"mona",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Miếng Thanh Kim Sạch": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Thanh Kim Sạch": [
+			"barbara",
+			"mona",
+			"sangonomiyakokomi",
+			"tartaglia",
+			"xingqiu"
+		],
+		"Lôi": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Trọng Kiếm": [
+			"beidou",
+			"chongyun",
+			"diluc",
+			"eula",
+			"noelle",
+			"razor",
+			"sayu",
+			"xinyan"
+		],
+		"Tăng ST Nguyên Tố Lôi": [
+			"beidou"
+		],
+		"Liyue": [
+			"beidou",
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"Tháng 2": [
+			"beidou",
+			"bennett",
+			"sangonomiyakokomi"
+		],
+		"Vụn Tử Tinh Thắng Lợi": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Dạ Phách Thạch": [
+			"beidou",
+			"yanfei"
+		],
+		"Ấn Quạ Tầm Bảo": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Mảnh Tử Tinh Thắng Lợi": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Lăng Kính Sấm Sét": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"lisa",
+			"razor"
+		],
+		"Ấn Quạ Bạc Ẩn": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Miếng Tử Tinh Thắng Lợi": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Ấn Quạ Trộm Vàng": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"Tử Tinh Thắng Lợi": [
+			"beidou",
+			"fischl",
+			"keqing",
+			"kujousara",
+			"lisa",
+			"raidenshogun",
+			"razor"
+		],
+		"Hiệu Quả Nạp Nguyên Tố": [
+			"bennett",
+			"kaeya",
+			"mona",
+			"raidenshogun",
+			"venti"
+		],
+		"Thạch Phách": [
+			"chongyun",
+			"keqing",
+			"zhongli"
+		],
+		"Hạt Nhân Cực Hàn": [
+			"chongyun",
+			"diona",
+			"ganyu",
+			"kaeya",
+			"qiqi",
+			"rosaria"
+		],
+		"Tỷ Lệ Bạo Kích": [
+			"diluc",
+			"xiao",
+			"yoimiya"
+		],
+		"Phù Hiệu Tân Binh": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Phù Hiệu Sĩ Quan": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Phù Hiệu Hiệu Úy": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"Tháng 1": [
+			"diona",
+			"rosaria"
+		],
+		"Hoa Calla Lily": [
+			"diona",
+			"kaeya"
+		],
+		"ST Bạo Kích": [
+			"eula",
+			"ganyu",
+			"hutao",
+			"kamisatoayaka",
+			"keqing"
+		],
+		"Tháng 10": [
+			"eula",
+			"kaedeharakazuha",
+			"sayu",
+			"xingqiu",
+			"xinyan"
+		],
+		"Hạt Bồ Công Anh": [
+			"eula",
+			"jean"
+		],
+		"Tháng 5": [
+			"fischl"
+		],
+		"Tháng 12": [
+			"ganyu",
+			"zhongli"
+		],
+		"Thanh Tâm": [
+			"ganyu",
+			"xiao"
+		],
+		"Mật Hoa Lừa Dối": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Mật Hoa Lấp Lánh": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Mật Hoa Nguyên Tố": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"Vũ Khí Cán Dài": [
+			"hutao",
+			"raidenshogun",
+			"rosaria",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Hoa Nghê Thường": [
+			"hutao",
+			"xingqiu"
+		],
+		"Ngọc Chưa Chín": [
+			"hutao",
+			"xiao",
+			"yanfei"
+		],
+		"Phong": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Tăng Trị Liệu": [
+			"jean",
+			"qiqi"
+		],
+		"Tháng 3": [
+			"jean",
+			"noelle",
+			"qiqi"
+		],
+		"Vụn Tùng Thạch Tự Tại": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Mảnh Tùng Thạch Tự Tại": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Hạt Giống Bão": [
+			"jean",
+			"sucrose",
+			"venti"
+		],
+		"Miếng Tùng Thạch Tự Tại": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Tùng Thạch Tự Tại": [
+			"jean",
+			"kaedeharakazuha",
+			"sayu",
+			"sucrose",
+			"venti",
+			"xiao"
+		],
+		"Tinh Thông Nguyên Tố": [
+			"kaedeharakazuha",
+			"lisa",
+			"sayu",
+			"xiangling"
+		],
+		"Inazuma": [
+			"kaedeharakazuha",
+			"kamisatoayaka",
+			"kujousara",
+			"raidenshogun",
+			"sangonomiyakokomi",
+			"sayu",
+			"yoimiya"
+		],
+		"Hải Linh Chi": [
+			"kaedeharakazuha"
+		],
+		"Lõi Marionette": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"Tháng 11": [
+			"kaeya",
+			"keqing",
+			"sucrose",
+			"xiangling"
+		],
+		"Tú Cầu Anh Đào": [
+			"kamisatoayaka"
+		],
+		"Kiếm Cách Cũ Nát": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Lõi Động Cơ Vĩnh Cửu": [
+			"kamisatoayaka"
+		],
+		"Kiếm Cách Bản Sao": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Kiếm Cách Trứ Danh": [
+			"kamisatoayaka",
+			"raidenshogun"
+		],
+		"Tăng ST Nguyên Tố Hỏa": [
+			"klee",
+			"yanfei"
+		],
+		"Hoa Lan Máu": [
+			"kujousara"
+		],
+		"Ngọc Sấm Sét": [
+			"kujousara",
+			"raidenshogun"
+		],
+		"Tháng 6": [
+			"lisa",
+			"raidenshogun",
+			"venti",
+			"yoimiya"
+		],
+		"Quả Dâu Đỏ": [
+			"lisa",
+			"noelle",
+			"rosaria"
+		],
+		"Dịch Slime": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Tinh Slime": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Bột Slime": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"Bách Hợp Lưu Ly": [
+			"ningguang"
+		],
+		"Phòng Ngự": [
+			"noelle"
+		],
+		"Túi Lưu Ly": [
+			"qiqi",
+			"xinyan"
+		],
+		"Quả Amakumo": [
+			"raidenshogun"
+		],
+		"Tăng Sát Thương Vật Lý": [
+			"razor"
+		],
+		"Quả Móc Câu": [
+			"razor"
+		],
+		"Tăng ST Nguyên Tố Thủy": [
+			"sangonomiyakokomi",
+			"tartaglia"
+		],
+		"Trân Châu San Hô": [
+			"sangonomiyakokomi"
+		],
+		"Giọt Nước Bài Trừ": [
+			"sangonomiyakokomi"
+		],
+		"Tăng ST Nguyên Tố Phong": [
+			"sucrose"
+		],
+		"Snezhnaya": [
+			"tartaglia"
+		],
+		"Ốc Sao": [
+			"tartaglia"
+		],
+		"Ớt Tuyệt Vân": [
+			"xiangling"
+		],
+		"Cỏ Naku": [
+			"yoimiya"
+		],
+		"Ngọc Lửa Âm Ỉ": [
+			"yoimiya"
+		]
+	}
+}

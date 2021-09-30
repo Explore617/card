@@ -1,0 +1,137 @@
+{
+	"name": "Der Sehnenlose",
+	"description": "Ein großer, prächtiger Bogen, der einst als Musikinstrument gedient hat. Mittlerweile bringt er niemanden mehr zum Tanzen.",
+	"weapontype": "Bogen",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Elementarkunde",
+	"subvalue": "36",
+	"effectname": "Pfeilloser Gesang",
+	"effect": "Erhöht den Schaden von Elementarfähigkeiten und Spezialfähigkeiten um {0}.",
+	"r1": [
+		"24 %"
+	],
+	"r2": [
+		"30 %"
+	],
+	"r3": [
+		"36 %"
+	],
+	"r4": [
+		"42 %"
+	],
+	"r5": [
+		"48 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Decabarians zerbrochener Ziegel",
+				"count": 3
+			},
+			{
+				"name": "Schweres Horn",
+				"count": 3
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Decabarians zerbröckelter Wall",
+				"count": 3
+			},
+			{
+				"name": "Schweres Horn",
+				"count": 12
+			},
+			{
+				"name": "Stabile Bolzenspitze",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Decabarians zerbröckelter Wall",
+				"count": 6
+			},
+			{
+				"name": "Kupferhorn",
+				"count": 6
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Decabarians Palastfragment",
+				"count": 3
+			},
+			{
+				"name": "Kupferhorn",
+				"count": 12
+			},
+			{
+				"name": "Scharfe Bolzenspitze",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Decabarians Palastfragment",
+				"count": 6
+			},
+			{
+				"name": "Schwarzes Kristallhorn",
+				"count": 9
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Decabarians zerstörter Traum",
+				"count": 4
+			},
+			{
+				"name": "Schwarzes Kristallhorn",
+				"count": 18
+			},
+			{
+				"name": "Abgenutzte Bolzenspitze",
+				"count": 12
+			}
+		]
+	}
+}

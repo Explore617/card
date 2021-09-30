@@ -1,0 +1,137 @@
+{
+	"name": "Guhua-Prototyp",
+	"description": "Ein in der Schwarzsteinschmiede verstecktes, uraltes Großschwert. Schwingst du es durch die Luft, könntest du meinen, den Raum selbst zu spalten.",
+	"weapontype": "Zweihänder",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "ANG",
+	"subvalue": "6",
+	"effectname": "Zermalmen",
+	"effect": "Fügt Gegnern bei Treffern mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % zusätzlichen Schaden in Höhe von {0} ANG mit geringer Reichweite zu. 15 s Abklingzeit.",
+	"r1": [
+		"240 %"
+	],
+	"r2": [
+		"300 %"
+	],
+	"r3": [
+		"360 %"
+	],
+	"r4": [
+		"420 %"
+	],
+	"r5": [
+		"480 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Körnchen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Zerbrechliches Knochenstück",
+				"count": 3
+			},
+			{
+				"name": "Zerbrochene Maske",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Stückchen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Zerbrechliches Knochenstück",
+				"count": 12
+			},
+			{
+				"name": "Zerbrochene Maske",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Stückchen pechschwarzer Aerosiderit",
+				"count": 6
+			},
+			{
+				"name": "Stabiles Knochenstück",
+				"count": 6
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Klumpen pechschwarzer Aerosiderit",
+				"count": 3
+			},
+			{
+				"name": "Stabiles Knochenstück",
+				"count": 12
+			},
+			{
+				"name": "Verdreckte Maske",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Klumpen pechschwarzer Aerosiderit",
+				"count": 6
+			},
+			{
+				"name": "Versteinertes Knochenstück",
+				"count": 9
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Brocken pechschwarzer Aerosiderit",
+				"count": 4
+			},
+			{
+				"name": "Versteinertes Knochenstück",
+				"count": 18
+			},
+			{
+				"name": "Unheilvolle Maske",
+				"count": 12
+			}
+		]
+	}
+}

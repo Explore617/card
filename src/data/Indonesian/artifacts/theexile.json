@@ -1,0 +1,34 @@
+{
+	"name": "The Exile",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "Energy Recharge +20%.",
+	"4pc": "Penggunaan Elemental Burst memulihkan 2 Energy seluruh anggota party (tidak termasuk diri sendiri) setiap 2 detik selama 6 detik. Efek ini tidak dapat ditumpuk.",
+	"flower": {
+		"name": "Exile's Flower",
+		"relictype": "Flower of Life",
+		"description": "Bunga layu yang harus dikenakan di baju oleh orang yang diasingkan, sepertinya mengandung makna yang mendalam."
+	},
+	"plume": {
+		"name": "Exile's Feather",
+		"relictype": "Plume of Death",
+		"description": "Aksesoris yang terbuat dari bulu seekor burung liar yang tidak sengaja tertancap saat beterbangan."
+	},
+	"sands": {
+		"name": "Exile's Pocket Watch",
+		"relictype": "Sands of Eon",
+		"description": "Jam saku dengan kaca kristal yang sudah pecah, tetapi pemiliknya tidak juga sampai hati untuk melepaskannya."
+	},
+	"goblet": {
+		"name": "Exile's Goblet",
+		"relictype": "Goblet of Eonothem",
+		"description": "Gelas yang terbuat dari logam berat. Nampak sebelumnya pernah tertanam batu perhiasan di dalamnya, tetapi dicabut secara paksa."
+	},
+	"circlet": {
+		"name": "Exile's Circlet",
+		"relictype": "Circlet of Logos",
+		"description": "Sebuah mahkota kehormatan, lencana kerajaan di atasnya telah dikerik sampai hilang, dan bentuknya yang megah tidak lagi terlihat."
+	}
+}

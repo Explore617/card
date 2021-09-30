@@ -1,0 +1,137 @@
+{
+	"name": "Fluorescence",
+	"description": "Une grande épée sans tranchant qui dégage une pâle lueur fluorescente. Idéale pour ceux qui aiment utiliser la force brute pour écraser leurs ennemis",
+	"weapontype": "Épée à deux mains",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Maîtrise élémentaire",
+	"subvalue": "36",
+	"effectname": "Fléau d'eau et de foudre",
+	"effect": "Augmente les DGT infligés aux ennemis affectés par les éléments Hydro ou Électro de {0}.",
+	"r1": [
+		"20 %"
+	],
+	"r2": [
+		"24 %"
+	],
+	"r3": [
+		"28 %"
+	],
+	"r4": [
+		"32 %"
+	],
+	"r5": [
+		"36 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Plomb karstique",
+				"count": 3
+			},
+			{
+				"name": "Pollen d'herbe brumeuse",
+				"count": 3
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mercure karstique",
+				"count": 3
+			},
+			{
+				"name": "Pollen d'herbe brumeuse",
+				"count": 12
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mercure karstique",
+				"count": 6
+			},
+			{
+				"name": "Herbe brumeuse",
+				"count": 6
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Argent karstique",
+				"count": 3
+			},
+			{
+				"name": "Herbe brumeuse",
+				"count": 12
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Argent karstique",
+				"count": 6
+			},
+			{
+				"name": "Mèches d'herbe brumeuse",
+				"count": 9
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Or karstique",
+				"count": 4
+			},
+			{
+				"name": "Mèches d'herbe brumeuse",
+				"count": 18
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 12
+			}
+		]
+	}
+}

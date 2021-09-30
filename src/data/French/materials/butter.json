@@ -1,0 +1,10 @@
+{
+	"name": "Beurre",
+	"description": "Produit laitier qui relève le goût de vos plats les plus basiques.",
+	"sortorder": 1631,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrédient",
+	"source": [
+		"Cuisine (préparation)"
+	]
+}

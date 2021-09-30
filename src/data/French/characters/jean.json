@@ -1,0 +1,153 @@
+{
+	"name": "Jean",
+	"title": "Chevalier au Pissenlit",
+	"description": "Le Chevalier au Pissenlit, loyal et rigoureux, et la Grande Maîtresse suppléante de l'Ordre de Favonius.",
+	"rarity": "5",
+	"element": "Anémo",
+	"weapontype": "Épée à une main",
+	"substat": "Bonus de soins",
+	"gender": "Femme",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "Ordre de Favonius",
+	"birthdaymmdd": "3/14",
+	"birthday": "14 mars",
+	"constellation": "Leo Minor",
+	"cv": {
+		"english": "Stephanie Southerland",
+		"chinese": "林簌",
+		"japanese": "斎藤千和",
+		"korean": "안영미"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Éclat de turquoise vayuda",
+				"count": 1
+			},
+			{
+				"name": "Graines de pissenlit",
+				"count": 3
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragment de turquoise vayuda",
+				"count": 3
+			},
+			{
+				"name": "Graine d'ouragan",
+				"count": 2
+			},
+			{
+				"name": "Graines de pissenlit",
+				"count": 10
+			},
+			{
+				"name": "Masque endommagé",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragment de turquoise vayuda",
+				"count": 6
+			},
+			{
+				"name": "Graine d'ouragan",
+				"count": 4
+			},
+			{
+				"name": "Graines de pissenlit",
+				"count": 20
+			},
+			{
+				"name": "Masque sale",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Morceau de turquoise vayuda",
+				"count": 3
+			},
+			{
+				"name": "Graine d'ouragan",
+				"count": 8
+			},
+			{
+				"name": "Graines de pissenlit",
+				"count": 30
+			},
+			{
+				"name": "Masque sale",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Morceau de turquoise vayuda",
+				"count": 6
+			},
+			{
+				"name": "Graine d'ouragan",
+				"count": 12
+			},
+			{
+				"name": "Graines de pissenlit",
+				"count": 45
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Pierre de turquoise vayuda",
+				"count": 6
+			},
+			{
+				"name": "Graine d'ouragan",
+				"count": 20
+			},
+			{
+				"name": "Graines de pissenlit",
+				"count": 60
+			},
+			{
+				"name": "Masque sinistre",
+				"count": 24
+			}
+		]
+	}
+}

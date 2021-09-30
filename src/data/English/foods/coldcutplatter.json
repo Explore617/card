@@ -1,0 +1,39 @@
+{
+	"name": "Cold Cut Platter",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "ATK-Boosting Dish",
+	"foodcategory": "Atk_Add",
+	"effect": "Increases all party members' Physical DMG by 20–40% for 300s.\nIn Co-Op Mode, this effect only applies to your own character(s).",
+	"description": "A plate of cold cut meat. An equal balance of bacon, ham and sausage keeps everyone happy.",
+	"suspicious": {
+		"effect": "Increases all party members' Physical DMG by 20% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+		"description": "A plate of cold cut meat. Seems a little too cold, probably not good for those with bad teeth or sensitive stomachs."
+	},
+	"normal": {
+		"effect": "Increases all party members' Physical DMG by 30% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+		"description": "A plate of cold cut meat. An equal balance of bacon, ham and sausage keeps everyone happy."
+	},
+	"delicious": {
+		"effect": "Increases all party members' Physical DMG by 40% for 300s. In Co-Op Mode, this effect only applies to your own character(s).",
+		"description": "A plate of cold cut meat. The seasoning is just delightful enough to bring out the flavors perfectly. With a mouth full of meaty ecstasy, one worries about nothing."
+	},
+	"ingredients": [
+		{
+			"name": "Ham",
+			"count": 1
+		},
+		{
+			"name": "Bacon",
+			"count": 1
+		},
+		{
+			"name": "Sausage",
+			"count": 1
+		},
+		{
+			"name": "Mint",
+			"count": 1
+		}
+	]
+}

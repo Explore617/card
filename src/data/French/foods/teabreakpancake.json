@@ -1,0 +1,35 @@
+{
+	"name": "Pancakes",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Récupération",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Réanime le personnage sélectionné.\nRestaure 250 à 550 PV.",
+	"description": "Une pile de pancakes servis à l'heure du thé chez les bourgeois. Seules les meilleures baies sont sélectionnées pour agrémenter ce plat.",
+	"suspicious": {
+		"effect": "Réanime un personnage et restaure 250 PV.",
+		"description": "Une pile de pancakes qui sent le brûlé. Ce plat reste mangeable grâce aux baies qui l'agrémentent."
+	},
+	"normal": {
+		"effect": "Réanime un personnage et restaure 400 PV.",
+		"description": "Une pile de pancakes servis à l'heure du thé chez les bourgeois. Seules les meilleures baies sont sélectionnées pour agrémenter ce plat."
+	},
+	"delicious": {
+		"effect": "Réanime un personnage et restaure 550 PV.",
+		"description": "Une pile de pancakes mœlleux comme des nuages et qui dégagent une odeur divine. Quel délice !"
+	},
+	"ingredients": [
+		{
+			"name": "Baie",
+			"count": 3
+		},
+		{
+			"name": "Farine",
+			"count": 2
+		},
+		{
+			"name": "Œuf d'oiseau",
+			"count": 1
+		}
+	]
+}

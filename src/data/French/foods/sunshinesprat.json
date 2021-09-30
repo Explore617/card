@@ -1,0 +1,39 @@
+{
+	"name": "Poisson grillé au beurre",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Défense",
+	"foodcategory": "Def_Add",
+	"effect": "Augmente la force du bouclier de tous les personnages de l'équipe de 20 % à 30 % pendant 300 s.\nNe s'applique qu'à vos personnages en mode multijoueur.",
+	"description": "Un plat de poisson délicatement frit au beurre. La cuisson doit être maîtrisée pour conserver au maximum les saveurs du poisson, et assurer ainsi la tendreté du mets en bouche. Les sucs du beurre viennent compléter ce plat aux multiples saveurs.",
+	"suspicious": {
+		"effect": "Augmente la force du bouclier de tous les personnages de l'équipe de 20 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un plat de poisson délicatement frit au beurre. Malheureusement, le poisson a été frit trop longtemps, ce qui l'a privé de toute sa fraîcheur et de sa texture. Au moindre contact, il s'effrite en petits morceaux."
+	},
+	"normal": {
+		"effect": "Augmente la force du bouclier de tous les personnages de l'équipe de 25 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un plat de poisson délicatement frit au beurre. La cuisson doit être maîtrisée pour conserver au maximum les saveurs du poisson, et assurer ainsi la tendreté du mets en bouche. Les sucs du beurre viennent compléter ce plat aux multiples saveurs."
+	},
+	"delicious": {
+		"effect": "Augmente la force du bouclier de tous les personnages de l'équipe de 30 % pendant 300 s. Ne s'applique qu'à vos personnages en mode multijoueur.",
+		"description": "Un plat de poisson délicatement frit au beurre. Le poisson fond dans la bouche, mêlant les saveurs de la terre et de la mer, et créant une expérience inoubliable. Pas étonnant qu'un plat aussi simple se soit fait une place à la table des plus grands restaurants."
+	},
+	"ingredients": [
+		{
+			"name": "Beurre",
+			"count": 3
+		},
+		{
+			"name": "Poisson",
+			"count": 3
+		},
+		{
+			"name": "Sel",
+			"count": 1
+		},
+		{
+			"name": "Herbe à lampe",
+			"count": 1
+		}
+	]
+}

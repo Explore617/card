@@ -1,0 +1,137 @@
+{
+	"name": "Mẫu Tinh Liêm",
+	"description": "Thương móc cổ xưa của Hắc Nham Xưởng. Trên đầu lưỡi lấp lánh như ánh sáng của bầu trời vắng sao.",
+	"weapontype": "Vũ Khí Cán Dài",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Hiệu Quả Nạp Nguyên Tố",
+	"subvalue": "10",
+	"effectname": "Thị Ma",
+	"effect": "Sau khi thi triển kỹ năng nguyên tố, sát thương tấn công thường và trọng kích tăng {0}. Kéo dài 12s, tối đa cộng dồn 2 tầng.",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Hạt Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 3
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Giòn Yếu",
+				"count": 12
+			},
+			{
+				"name": "Mặt Nạ Vỡ",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mảnh Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 6
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 3
+			},
+			{
+				"name": "Mảnh Xương Chắc Chắn",
+				"count": 12
+			},
+			{
+				"name": "Mặt Nạ Bẩn",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Một Góc Thiên Thạch Đen",
+				"count": 6
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 9
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Miếng Thiên Thạch Đen",
+				"count": 4
+			},
+			{
+				"name": "Mảnh Xương Hóa Thạch",
+				"count": 18
+			},
+			{
+				"name": "Mặt Nạ Xui Xẻo",
+				"count": 12
+			}
+		]
+	}
+}

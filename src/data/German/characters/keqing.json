@@ -1,0 +1,153 @@
+{
+	"name": "Keqing",
+	"title": "Donnerwetter",
+	"description": "Der Yuheng unter den Qixing von Liyue. Sie hat einiges zur Regentschaft von Rex Lapis, der sich nur selten zeigt, zu sagen. Man muss aber gestehen, dass Götter solche Menschen zu schätzen wissen.",
+	"rarity": "5",
+	"element": "Elektro",
+	"weapontype": "Einhänder",
+	"substat": "KSCH",
+	"gender": "Weiblich",
+	"body": "GIRL",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Qixing von Liyue",
+	"birthdaymmdd": "11/20",
+	"birthday": "20. November",
+	"constellation": "Trulla Cementarii",
+	"cv": {
+		"english": "Kayli Mills",
+		"chinese": "谢莹",
+		"japanese": "喜多村英梨",
+		"korean": "이보희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vajrada-Amethyst-Splitter",
+				"count": 1
+			},
+			{
+				"name": "Cor Lapis",
+				"count": 3
+			},
+			{
+				"name": "Vaniloqua-Nektar",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Vajrada-Amethyst-Bruchstück",
+				"count": 3
+			},
+			{
+				"name": "Blitzprisma",
+				"count": 2
+			},
+			{
+				"name": "Cor Lapis",
+				"count": 10
+			},
+			{
+				"name": "Vaniloqua-Nektar",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Vajrada-Amethyst-Bruchstück",
+				"count": 6
+			},
+			{
+				"name": "Blitzprisma",
+				"count": 4
+			},
+			{
+				"name": "Cor Lapis",
+				"count": 20
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Vajrada-Amethyst-Brocken",
+				"count": 3
+			},
+			{
+				"name": "Blitzprisma",
+				"count": 8
+			},
+			{
+				"name": "Cor Lapis",
+				"count": 30
+			},
+			{
+				"name": "Leuchtender Nektar",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Vajrada-Amethyst-Brocken",
+				"count": 6
+			},
+			{
+				"name": "Blitzprisma",
+				"count": 12
+			},
+			{
+				"name": "Cor Lapis",
+				"count": 45
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Vajrada-Amethyst",
+				"count": 6
+			},
+			{
+				"name": "Blitzprisma",
+				"count": 20
+			},
+			{
+				"name": "Cor Lapis",
+				"count": 60
+			},
+			{
+				"name": "Elementarnektar",
+				"count": 24
+			}
+		]
+	}
+}

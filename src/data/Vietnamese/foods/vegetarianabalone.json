@@ -1,0 +1,31 @@
+{
+	"name": "Bào Ngư Chay",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Món Dạng Hồi Phục",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Hồi sinh cho nhân vật được chọn.\nHồi 250-550 điểm HP.",
+	"description": "Một món chay có vị đậm đà. Cắt nhung tùng thành từng lát mỏng, chiên cho đến khi chín vàng rồi rưới nước sốt lên. Khi ăn có vị của bào ngư. Món ăn này hoàn toàn có thể thay thế cho món mặn.",
+	"suspicious": {
+		"effect": "Hồi 250 điểm HP cho nhân vật được chọn hồi sinh.",
+		"description": "Một món chay có vị đậm đà. Nước sốt đặc lấn áp hoàn toàn vị tươi ngon của nguyên liệu. Có cảm giác khi ăn vào thì cho dù uống bao nhiêu nước cũng sẽ thấy bị khô cổ."
+	},
+	"normal": {
+		"effect": "Hồi 400 điểm HP cho nhân vật được chọn hồi sinh.",
+		"description": "Một món chay có vị đậm đà. Cắt nhung tùng thành từng lát mỏng, chiên cho đến khi chín vàng rồi rưới nước sốt lên. khi ăn có vị của bào ngư. Món ăn này hoàn toàn có thể thay thế cho món mặn."
+	},
+	"delicious": {
+		"effect": "Hồi 550 điểm HP cho nhân vật được chọn hồi sinh.",
+		"description": "Một món chay có vị đậm đà. Khi được thêm nước sốt, nhung tùng mang đến một hương vị cao cấp và chất lượng, mềm như sò điệp và tươi như bào ngư, rất khó để phân biệt đây là món chay hay mặn. Nếu thực khách ăn mà không biết trước, khi nói ra đáp án nhất định sẽ rất bất ngờ."
+	},
+	"ingredients": [
+		{
+			"name": "Nhung Tùng",
+			"count": 2
+		},
+		{
+			"name": "Cỏ Kim Ngư",
+			"count": 2
+		}
+	]
+}

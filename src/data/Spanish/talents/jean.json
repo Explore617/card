@@ -1,0 +1,208 @@
+{
+	"name": "Jean",
+	"combat1": {
+		"name": "Ataque Normal: Técnica de espada Favonius",
+		"info": "**Ataque Normal**\nRealiza hasta 5 ataques rápidos.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para desatar un ataque que contiene fuerza Anemo.\nPoco después, los enemigos lanzados caerán lentamente al suelo.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}",
+				"Daño de 4.º golpe|{param4:F1P}",
+				"Daño de 5.º golpe|{param5:F1P}",
+				"Daño de ATQ Cargado|{param6:P}",
+				"Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
+				"Daño de Caída|{param8:F1P}",
+				"Daño de impacto de caída baja/alta|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Filo de ventisca",
+		"info": "Concentrando el poder del viento en su espada, Jean canaliza una minitormenta, lanzando a los enemigos que se encuentran en la dirección que apunta e infligiendo una gran cantidad de Daño Anemo.\n\n**Mantener pulsado**\nConsume una cierta cantidad de Aguante para ordenar al torbellino que atraiga a los enemigos y objetos cercanos frente a ella.\nLa dirección de atracción puede ajustarse.\nEl personaje quedará inmóvil mientras dure la habilidad.",
+		"description": "Eso que sigue a Jean, la defensora incondicional, es el viento guardián que ahuyenta al peligro que acecha a sus compañeros.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}",
+				"Coste de Aguante de ATQ Cargado|{param2:F1} pts./s",
+				"Duración máx.|{param3:F1} s",
+				"TdE|{param4:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Brisa de Dandelion",
+		"info": "Invoca la protección del viento para crear un campo de dientes de león, empujando a los enemigos cercanos e infligiendo Daño Anemo contra ellos.\nAl mismo tiempo, cura de inmediato una gran cantidad de Vida a todos los miembros del equipo. La cantidad restaurada varía en proporción al ATQ de Jean.\n\n**Campo de dientes de león**\n·Regenera continuamente la Vida de los personajes dentro del campo y aplica el elemento Anemo sobre ellos.\n·Inflige Daño Anemo a los enemigos que entran o salen del campo.",
+		"description": "La magnanimidad de Jean es vasta como los campos de dientes de león, así como la raíz de su deseo de proteger a los demás.",
+		"attributes": {
+			"labels": [
+				"Daño de explosión|{param1:P}",
+				"Daño de entrada y salida del área|{param2:F1P}",
+				"Curación instantánea|{param3:P} de ATQ. + {param4:I}",
+				"Curación continua|{param5:F2P} de ATQ + {param6:I}/s",
+				"TdE|{param7:F1}/s",
+				"Energía Elemental|{param8:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Compañera del viento",
+		"info": "Cuando Jean realiza Ataques Normales, tiene un 50% de probabilidad de curar una cantidad de Vida igual al 15% de su ATQ a todos los miembros del equipo."
+	},
+	"passive2": {
+		"name": "Que el viento nos guíe",
+		"info": "Tras usar **Brisa de Dandelion**, regenera un 20% de su Energía Elemental."
+	},
+	"passive3": {
+		"name": "Viento guía",
+		"info": "Al lograr un “Perfecto” en un plato con efectos reconstituyentes, hay una probabilidad del 12% de obtener el doble."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas de la resistencia",
+				"count": 3
+			},
+			{
+				"name": "Máscara dañada",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 2
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 4
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 6
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía de la resistencia",
+				"count": 9
+			},
+			{
+				"name": "Máscara sucia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 4
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 4
+			},
+			{
+				"name": "Pluma de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 6
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 6
+			},
+			{
+				"name": "Pluma de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 12
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 9
+			},
+			{
+				"name": "Pluma de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía de la resistencia",
+				"count": 16
+			},
+			{
+				"name": "Máscara amenazante",
+				"count": 12
+			},
+			{
+				"name": "Pluma de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

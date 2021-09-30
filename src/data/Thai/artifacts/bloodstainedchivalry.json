@@ -1,0 +1,34 @@
+{
+	"name": "Bloodstained Chivalry",
+	"rarity": [
+		"4",
+		"5"
+	],
+	"2pc": "สร้างความเสียหายกายภาพ เพิ่มขึ้น 25%",
+	"4pc": "หลังจากกำจัดศัตรูสำเร็จ จะเพิ่มความเสียหายของ การชาร์จโจมตีขึ้น 50% และลดการใช้พลังกายของชาร์จโจมตีลงเป็น 0 เป็นเวลา 10 วินาที",
+	"flower": {
+		"name": "Bloodstained Flower of Iron",
+		"relictype": "Flower of Life",
+		"description": "ดอกไม้แห้งที่ถูกย้อมเป็นสีดำโดยเลือดและกลายเป็นของแข็งราวกับเหล็กกล้า อาจจะเป็นของที่ระลึกถึงเจ้าของเก่าของมัน"
+	},
+	"plume": {
+		"name": "Bloodstained Black Plume",
+		"relictype": "Plume of Death",
+		"description": "ขนนกกาดำที่ติดกับเสื้อคลุมของ อัศวิน เนื่องจากการเปรอะเปื้อนของเลือดดำจำนวนมากซ้ำ ๆ กันจึงย้อมมันให้เป็นสีดำไปหมด"
+	},
+	"sands": {
+		"name": "Bloodstained Final Hour",
+		"relictype": "Sands of Eon",
+		"description": "ตัวจับเวลาที่ครั้งหนึ่งถูกใช้โดยอัศวิน ของเหลวข้างในนั้นได้เหือดแห้งไป หมดแล้ว ไม่สามารถจับเวลาได้อีกต่อไป"
+	},
+	"goblet": {
+		"name": "Goblet of Bloodstained Chevalier",
+		"relictype": "Goblet of Eonothem",
+		"description": "ถ้วยโลหะสีเข้มที่ครั้งหนึ่งมี Bloodstained Knight เป็นเจ้าของ ภายนอกของมันกลายเป็นสีที่มืด ราวกับยามค่ำคืน จากควันไฟและเลือดที่เกาะทับกัน"
+	},
+	"circlet": {
+		"name": "Bloodstained Iron Mask",
+		"relictype": "Circlet of Logos",
+		"description": "หน้ากากเหล็กของอัศวินที่ถูกใช้เพื่อปกปิดตัวตน สร้างความอยากรู้อยากเห็นให้แก่ผู้คนเป็นอย่างมาก"
+	}
+}

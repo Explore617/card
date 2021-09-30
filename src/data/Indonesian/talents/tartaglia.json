@@ -1,0 +1,221 @@
+{
+	"name": "Tartaglia",
+	"combat1": {
+		"name": "Normal Attack: Cutting Torrent",
+		"info": "**Normal Attack**\nMelancarkan hingga 6 serangan berturut-turut dengan menggunakan busur.\n\n**Charged Attack**\nMelancarkan sebuah **Serangan Membidik** yang lebih akurat untuk mengakibatkan DMG lebih besar. \nSaat membidik, air akan berkumpul di ujung anak panah. Panah dengan air yang terkumpul penuh akan mengakibatkan Hydro DMG dan menyebabkan efek Riptide.\n\n**Riptide**\nMusuh yang terpengaruh Riptide akan menerima berbagai efek Hydro DMG area saat diserang oleh Tartaglia. Efek-efek ini dihitung sebagai Normal Attack.\n·Riptide Flash: Serangan Membidik yang terisi penuh dan mengenai musuh yang terpengaruh efek Riptide akan mengakibatkan DMG area berturut-turut. Riptide Flash dapat terpicu setiap 0,7 detik.\n·Riptide Burst: Mengalahkan musuh yang terkena efek Riptide akan menciptakan ledakan Hydro yang menyebabkan efek Riptide pada musuh di sekitar.\n\n**Plunging Attack**\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.\nSaat Tartaglia sedang menggunakan mode jarak dekat Foul Legacy: Raging Tide, dia tidak bisa menggunakan Plunging Attack.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Tahap 6|{param6:F1P}",
+				"DMG Membidik|{param7:F1P}",
+				"DMG Membidik Penuh|{param8:P}",
+				"DMG Riptide Flash|{param9:F1P}×3",
+				"DMG Riptide Burst|{param10:F1P}",
+				"Durasi Riptide|{param14:F1}dtk",
+				"DMG Selama Pluging|{param11:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Foul Legacy: Raging Tide",
+		"info": "Mengerahkan sejumlah senjata yang terbuat dari air untuk mengakibatkan Hydro DMG ke musuh di sekitar dan memasuki mode jarak dekat.\nDalam Mode ini, Normal Attack dan Charged Attack milik Tartaglia berubah menjadi Hydro DMG yang tidak dapat ditimpa oleh Elemental Infusion lain dan efek berikut akan muncul:\n\n**Normal Attack**\nMelakukan hingga 6 serangan Hydro berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan silang yang mengakibatkan Hydro DMG.\n\n**Riptide Slash**\nMemukul musuh yang terkena efek Riptide dengan serangan jarak dekat akan menimbulkan Riptide Slash yang mengakibatkan Hydro DMG area. DMG yang diakibatkan oleh Riptide Slash terhitung sebagai DMG Elemental Skill, dapat terpicu setiap 1,5 detik.\n\nSetelah 30 detik atau saat skill ini digunakan lagi, efek skill ini akan berakhir dan Tartaglia kembali ke mode jarak jauh. Skill ini kemudian akan memasuki cooldown. Semakin lama Tartaglia menggunakan mode jarak dekat, waktu cooldown skill juga akan menjadi semakin panjang.\nBila Tartaglia kembali menjadi mode jarak jauh secara otomatis dalam waktu 30 detik, waktu cooldown skill akan menjadi semakin panjang lagi.",
+		"description": "Tartaglia sengaja memilih busur sebagai senjatanya untuk mengatasi kelemahannya dalam menggunakan senjata tersebut. Tapi saat harus bertarung sungguh-sungguh, Tartaglia akan mengerahkan kemampuannya yang sebenarnya...",
+		"attributes": {
+			"labels": [
+				"DMG Perubahan Mode Bertarung|{param1:P}",
+				"DMG Tahap 1|{param2:F1P}",
+				"DMG Tahap 2|{param3:F1P}",
+				"DMG Tahap 3|{param4:F1P}",
+				"DMG Tahap 4|{param5:F1P}",
+				"DMG Tahap 5|{param6:F1P}",
+				"DMG Tahap 6|{param7:F1P}+{param8:F1P}",
+				"DMG Charged Attack|{param9:F1P}+{param10:F1P}",
+				"Konsumsi Stamina Charged Attack|{param12:F1}pt",
+				"Riptide Slash|{param11:P}",
+				"Durasi Maksimum|{param13:F1}dtk",
+				"Cooldown|{param14:F1}-{param15:F1}dtk",
+				"Cooldown Maks.|{param16:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Havoc - Obliteration",
+		"info": "Melancarkan serangan yang berbeda-beda sesuai dengan mode bertarung yang sedang digunakan Targtalia:\n\n**Mode Jarak Jauh: Flash of Havoc**\nMenembakkan panah sihir yang mengandung elemen Hydro dengan cepat, mengakibatkan Hydro DMG area dan menyebabkan efek Riptide.\nMengembalikan sejumlah Energy yang dikonsumsi setelah skill ini digunakan.\n\n**Mode Jarak Dekat: Light of Obliteration**\nMenebas musuh dalam area yang luas dan mengakibatkan Hydro DMG  yang besar, juga dapat memicu Riptide Blast.\n\n**Riptide Blast**\nSaat skill Havoc Obliteration mengenai musuh dengan status Riptide, status Riptide tersebut akan dihapuskan dan memicu ledakan Riptide Blast yang mengakibatkan Hydro DMG area. DMG dari Riptide Blast terhitung sebagai DMG Elemental Burst.",
+		"description": "Aliran air yang deras sangat jarang ditemui di kampung halamannya yang penuh dengan salju. Kemampuan Tartaglia untuk mengendalikan air mungkin muncul dari pemahamannya tentang betapa berharganya air bagi kehidupan.",
+		"attributes": {
+			"labels": [
+				"Skill DMG: Melee|{param1:P}",
+				"Skill DMG: Ranged|{param3:P}",
+				"Riptide Blast DMG|{param2:P}",
+				"Pengembalian Energy (Mode Jarak Jauh)|{param4:I}",
+				"CD|{param5:F1} dtk",
+				"Konsumsi Energy|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Never Ending",
+		"info": "Memperpanjang durasi Riptide selama 8 detik."
+	},
+	"passive2": {
+		"name": "Sword of Torrents",
+		"info": "Saat Tartaglia berada dalam Mode Jarak Dekat **Foul Legacy: Raging Tide**, Normal atau Charged Attack akan menyebabkan efek Riptide saat CRIT."
+	},
+	"passive3": {
+		"name": "Master of Weaponry",
+		"info": "Meningkatkan 1 level **Normal Attack** anggota party sendiri."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Freedom\"",
+				"count": 3
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 2
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 4
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 6
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 9
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 4
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 4
+			},
+			{
+				"name": "Shard of a Foul Legacy",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 6
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 6
+			},
+			{
+				"name": "Shard of a Foul Legacy",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 12
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 9
+			},
+			{
+				"name": "Shard of a Foul Legacy",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 16
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 12
+			},
+			{
+				"name": "Shard of a Foul Legacy",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

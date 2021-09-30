@@ -1,0 +1,10 @@
+{
+	"name": "Carotte",
+	"description": "Un légume sain et nourrissant. Facile à cultiver et à récolter.",
+	"sortorder": 1260,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrédient",
+	"source": [
+		"Dans la nature"
+	]
+}

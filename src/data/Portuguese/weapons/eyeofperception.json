@@ -1,0 +1,142 @@
+{
+	"name": "Olho da Percepção",
+	"description": "Uma pérola negra esmaltada que se diz ter o poder de ler a pureza do coração.",
+	"weapontype": "Catalisador",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "ATQ",
+	"subvalue": "12",
+	"effectname": "Echo",
+	"effect": "Ataques Normais e Ataques Carregados possuem 50% de chance de disparar uma Bola da Percepção, causando {0} de Dano de ATQ. Esta bola pode rebater entre os inimigos por até 4x. Este efeito pode ser ativado uma vez a cada {1}s.",
+	"r1": [
+		"240%",
+		"12"
+	],
+	"r2": [
+		"270%",
+		"11"
+	],
+	"r3": [
+		"300%",
+		"10"
+	],
+	"r4": [
+		"330%",
+		"9"
+	],
+	"r5": [
+		"360%",
+		"8"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Elixir de Chumbo Velado por Névoa",
+				"count": 3
+			},
+			{
+				"name": "Pólen de Névoa",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Elixir de Mercúrio com Véu de Névoa",
+				"count": 3
+			},
+			{
+				"name": "Pólen de Névoa",
+				"count": 12
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Elixir de Mercúrio com Véu de Névoa",
+				"count": 6
+			},
+			{
+				"name": "Grama do Nevoeiro",
+				"count": 6
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Elixir de Ouro com Véu de Névoa",
+				"count": 3
+			},
+			{
+				"name": "Grama do Nevoeiro",
+				"count": 12
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Elixir de Ouro com Véu de Névoa",
+				"count": 6
+			},
+			{
+				"name": "Pavio do Nevoeiro",
+				"count": 9
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Alternação das Nuvens e o Mar",
+				"count": 4
+			},
+			{
+				"name": "Pavio do Nevoeiro",
+				"count": 18
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			}
+		]
+	}
+}

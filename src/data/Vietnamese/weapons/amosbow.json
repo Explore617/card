@@ -1,0 +1,142 @@
+{
+	"name": "Cung Amos",
+	"description": "Cung vô cùng cổ xưa. Ngay cả khi chủ nhân ban đầu không còn tồn tại, thế nhưng sức mạnh ẩn chứa trong nó vẫn còn như xưa - sức mạnh vô chủ, nhưng tồn tại trong tất cả mọi thứ. Khoảng cách tâm hệ càng lớn thì sức mạnh càng mãnh liệt..",
+	"weapontype": "Cung",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "Tấn Công",
+	"subvalue": "10.8",
+	"effectname": "Ý Chí Không Quên",
+	"effect": "Tăng {0} sát thương của tấn công thường và trọng kích. Tấn công thường và trọng kích mỗi 0.1s sau khi bắn tên, sát thương sẽ tăng {1}, tối đa tăng 5 lần.",
+	"r1": [
+		"12%",
+		"8%"
+	],
+	"r2": [
+		"15%",
+		"10%"
+	],
+	"r3": [
+		"18%",
+		"12%"
+	],
+	"r4": [
+		"21%",
+		"14%"
+	],
+	"r5": [
+		"24%",
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Xiềng Xích Đấu Sĩ Nanh Sư Tử",
+				"count": 5
+			},
+			{
+				"name": "Cấu Trúc Hỗn Độn",
+				"count": 5
+			},
+			{
+				"name": "Dịch Slime",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dây Sắt Đấu Sĩ Nanh Sư Tử",
+				"count": 5
+			},
+			{
+				"name": "Cấu Trúc Hỗn Độn",
+				"count": 18
+			},
+			{
+				"name": "Dịch Slime",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Dây Sắt Đấu Sĩ Nanh Sư Tử",
+				"count": 9
+			},
+			{
+				"name": "Bộ Não Hỗn Độn",
+				"count": 9
+			},
+			{
+				"name": "Tinh Slime",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+				"count": 5
+			},
+			{
+				"name": "Bộ Não Hỗn Độn",
+				"count": 18
+			},
+			{
+				"name": "Tinh Slime",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+				"count": 9
+			},
+			{
+				"name": "Trái Tim Hỗn Độn",
+				"count": 14
+			},
+			{
+				"name": "Bột Slime",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Lý Tưởng Của Đấu Sĩ Nanh Sư Tử",
+				"count": 6
+			},
+			{
+				"name": "Trái Tim Hỗn Độn",
+				"count": 27
+			},
+			{
+				"name": "Bột Slime",
+				"count": 18
+			}
+		]
+	}
+}

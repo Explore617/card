@@ -1,0 +1,204 @@
+{
+	"name": "Sucrose",
+	"combat1": {
+		"name": "Attaque normale : Esprit du vent",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 4 attaques de vent qui infligent des DGT Anémo.\n\n**Attaque chargée**\nAprès un court délai, inflige des DGT Anémo de zone ; cette attaque consomme de l'endurance.\n\n**Attaque plongeante**\nPlonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis en chemin et des DGT Anémo de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT attaque chargée|{param5:P}",
+				"Coût d'endurance attaque chargée|{param6:F1} pts",
+				"DGT durant la chute|{param7:F1P}",
+				"DGT chute basse/élevée|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Esprit du vent : Sujet 6308",
+		"info": "Sucrose invoque un Esprit du vent de taille réduite, qui attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des DGT Anémo.",
+		"description": "C'est un peu embarrassant, mais il faut bien reconnaître que malgré leur courte durée de vie, les Esprits créés via ce procédé sont particulièrement utiles pour l'aventure. Comme quoi, même les expériences ratées peuvent servir.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"Temps de recharge|{param2:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Esprit du vent : Isomorphe 75 Type II",
+		"info": "Sucrose jette une concoction instable qui libère un Esprit du vent de grande taille.\nL'Esprit attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des DGT Anémo.\n\n**Absorption élémentaire**\nL'Esprit du vent absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.\nUn seul élément peut être absorbé à la fois.",
+		"description": "Sucrose aime à donner des noms à ses Hypostases Anémo instables ; leur lignée est encore plus longue que celle du Baron Lapinou 893e du nom.",
+		"attributes": {
+			"labels": [
+				"DGT continus|{param1:P}",
+				"Bonus DGT élémentaires|{param2:F1P}",
+				"Durée|{param3:F1} s",
+				"Temps de recharge|{param4:F1} s",
+				"Énergie élémentaire|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Permutation de catalyste",
+		"info": "Tous les personnages de l'équipe du type élémentaire concerné (à l'exception de Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une Dispersion."
+	},
+	"passive2": {
+		"name": "Mollis Favonius",
+		"info": "Lorsque **Esprit du vent : Sujet 6308** ou **Esprit du vent : Isomorphe 75 Type II** touche un ennemi, tous les personnages de l'équipe (à l'exception de Sucrose) bénéficient pendant 8 s d'un bonus de maîtrise élémentaire équivalant à 20 % de la maîtrise élémentaire de Sucrose."
+	},
+	"passive3": {
+		"name": "Fragile découverte",
+		"info": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'amélioration de personnage ou d'arme."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Liberté",
+				"count": 3
+			},
+			{
+				"name": "Nectar de Fleur mensongère",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 2
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 9
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 4
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 4
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 6
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 12
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 9
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 16
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 12
+			},
+			{
+				"name": "Esprit de Borée",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

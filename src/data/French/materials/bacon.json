@@ -1,0 +1,10 @@
+{
+	"name": "Bacon",
+	"description": "Lamelles de porc fumé, croustillantes et un peu grasses.",
+	"sortorder": 1636,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrédient",
+	"source": [
+		"Cuisine (préparation)"
+	]
+}

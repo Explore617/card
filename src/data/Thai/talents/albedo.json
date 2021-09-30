@@ -1,0 +1,206 @@
+{
+	"name": "Albedo",
+	"combat1": {
+		"name": "โจมตีปกติ - Favonius Bladework - Weiss",
+		"info": "**โจมตีปกติ**\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+		"attributes": {
+			"labels": [
+				"ความเสียหายขั้น 1|{param1:F1P}",
+				"ความเสียหายขั้น 2|{param2:F1P}",
+				"ความเสียหายขั้น 3|{param3:F1P}",
+				"ความเสียหายขั้น 4|{param4:F1P}",
+				"ความเสียหายขั้น 5|{param5:F1P}",
+				"ความเสียหายชาร์จโจมตี|{param6:F1P}+{param7:F1P}",
+				"ชาร์จโจมตีใช้พลังกาย|{param8:F1} หน่วย",
+				"ความเสียหายพุ่งลง|{param9:F1P}",
+				"ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Abiogenesis: Solar Isotoma",
+		"info": "ใช้วิชาแปรธาตุสร้าง Solar Isotoma เพื่อทำให้เกิดความเสียหายหินเป็นวงกว้าง\n\n**Solar Isotoma**\nมีคุณสมบัติพิเศษดังต่อไปนี้:\n·เมื่อศัตรูได้รับบาดเจ็บภายในพื้นที่ที่มี Solar Isotoma เป็นศูนย์กลาง จากนั้น Solar Isotoma จะสร้าง Transient Blossoms ที่จะทำให้เกิดความเสียหายหินวงกว้าง โดยจะสร้างความเสียหายซึ่งขึ้นอยู่กับพลังป้องกันของ Albedo\n·ในทุก 2 วินาที จะสามารถทำให้เกิด Transient Blossoms ได้เพียงครั้งเดียวเท่านั้น\n·เมื่อตัวละครอยู่ในพื้นที่ของ Solar Isotoma แล้ว Solar Isotoma จะรวบรวมพลังธาตุหินและทำให้เกิดเป็นแท่นคริสตัลที่ยกตัวละครให้สูงขึ้น โดยจะสามารถมีแท่นคริสตัลพร้อมกันได้เพียงแท่นเดียวเท่านั้น\n·ในช่วงเวลาเดียวกัน จะสามารถมี Solar Isotoma ที่ถูกสร้างขึ้นโดยตัวของ Albedo เองเพียงอันเดียวเท่านั้น และจะถูกมองว่าเป็นวัตถุธาตุหิน\n\n**กดค้าง**\nสามารถปรับตำแหน่งการเกิดเอฟเฟกต์ของสกิลได้",
+		"description": "ดอกไม้หินชนิดนี้มีคุณลักษณะพิเศษที่ไม่ธรรมดา ซึ่งสอดคล้องกับจุดประสงค์ของการเล่นแร่แปรธาตุ ถือกำเนิดขึ้นมาจากพื้นดิน แต่หวังเสมอว่าจะได้ขึ้นไปบนท้องฟ้า และกลายเป็นดวงตะวัน",
+		"attributes": {
+			"labels": [
+				"ความเสียหายสกิล|{param1:P}",
+				"ความเสียหาย Transient Blossom|{param2:P} ของพลังป้องกัน",
+				"ระยะเวลาต่อเนื่อง|{param3:F1} วิ",
+				"คูลดาวน์สกิล|{param4:F1} วิ"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Rite of Progeniture: Tectonic Tide",
+		"info": "คริสตัลหินที่ปะทุขึ้นภายใต้คำสั่งของ Albedo จะทำให้เกิด ความเสียหายหินเป็นวงกว้าง ขึ้นที่ด้านหน้าของ Albedo\nหากมี Solar Isotoma ที่สร้างขึ้นโดยตัวของ Albedo อยู่ จะสร้าง Fatal Blossoms ขึ้น 7 ดอก ภายในพื้นที่ของ Solar Isotoma โดยจะเบ่งบานขึ้นมาอย่างรุนแรงและทำให้เกิดความเสียหายหินวงกว้าง\n\nความเสียหายท่าไม้ตายและความเสียหายของ Fatal Blossom จะไม่ทำให้เกิด Transient Blossoms",
+		"description": "ด้วยคำสั่งของ Kreideprinz คลื่นแห่งวัตถุของพื้นโลกจะปะทุขึ้นมา",
+		"attributes": {
+			"labels": [
+				"ความเสียหายท่าไม้ตาย|{param1:P}",
+				"ความเสียหาย Fatal Blossom|ดอกละ {param2:F1P}",
+				"คูลดาวน์|{param3:F1} วิ",
+				"พลังงานธาตุ|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Calcite Might",
+		"info": "Transient Blossoms ที่เกิดจาก **Abiogenesis: Solar Isotoma** จะสร้างความเสียหายแก่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% เพิ่มขึ้น 25%"
+	},
+	"passive2": {
+		"name": "Homuncular Nature",
+		"info": "เมื่อใช้ **Rite of Progeniture: Tectonic Tide** จะเพิ่มความชำนาญธาตุให้แก่ตัวละครในทีมที่อยู่ใกล้ขึ้น 125 หน่วย เป็นเวลา 10 วินาที"
+	},
+	"passive3": {
+		"name": "Flash of Genius",
+		"info": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มขึ้น 2 เท่า"
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Ballad\"",
+				"count": 3
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to Ballad",
+				"count": 2
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to Ballad",
+				"count": 4
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to Ballad",
+				"count": 6
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to Ballad",
+				"count": 9
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 6
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 9
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 16
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 12
+			},
+			{
+				"name": "Tusk of Monoceros Caeli",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

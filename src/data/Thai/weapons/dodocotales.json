@@ -1,0 +1,142 @@
+{
+	"name": "Dodoco Tales",
+	"description": "หนังสือสำหรับเด็กที่มีหน้าปกสวยงาม เนื้อหาเป็นเรื่องสั้นที่เกี่ยวกับเด็ก ๆ ทั้งหมด มันน่าอ่านจนอดใจไม่ไหว\\nแม้แต่นักอ่านที่เป็นผู้ใหญ่พอได้อ่านเรื่องราวผจญภัยแบบเด็ก ๆ แบบนี้แล้ว ก็อดไม่ได้ที่จะหลงใหลไปกับมัน",
+	"weapontype": "สื่อเวท",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "พลังโจมตี",
+	"subvalue": "12",
+	"effectname": "Dodoventure!",
+	"effect": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ความเสียหายของการชาร์จโจมตีเพิ่มขึ้น {0} เป็นเวลา 6 วินาที; เมื่อชาร์จโจมตีถูกศัตรู จะทำให้พลังโจมตีจะเพิ่มขึ้น {1} เป็นเวลา 6 วินาที",
+	"r1": [
+		"16%",
+		"8%"
+	],
+	"r2": [
+		"20%",
+		"10%"
+	],
+	"r3": [
+		"24%",
+		"12%"
+	],
+	"r4": [
+		"28%",
+		"14%"
+	],
+	"r5": [
+		"32%",
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 12
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 6
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 12
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 9
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 18
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			}
+		]
+	}
+}

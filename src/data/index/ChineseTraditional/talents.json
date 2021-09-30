@@ -1,0 +1,636 @@
+{
+	"namemap": {
+		"albedo": "阿貝多",
+		"aloy": "亞蘿伊",
+		"amber": "安柏",
+		"barbara": "芭芭拉",
+		"beidou": "北斗",
+		"bennett": "班尼特",
+		"chongyun": "重雲",
+		"diluc": "迪盧克",
+		"diona": "迪奧娜",
+		"eula": "優菈",
+		"fischl": "菲謝爾",
+		"ganyu": "甘雨",
+		"hutao": "胡桃",
+		"jean": "琴",
+		"kaedeharakazuha": "楓原萬葉",
+		"kaeya": "凱亞",
+		"kamisatoayaka": "神里綾華",
+		"keqing": "刻晴",
+		"klee": "可莉",
+		"kujousara": "九條裟羅",
+		"lisa": "麗莎",
+		"mona": "莫娜",
+		"ningguang": "凝光",
+		"noelle": "諾艾爾",
+		"qiqi": "七七",
+		"raidenshogun": "雷電將軍",
+		"razor": "雷澤",
+		"rosaria": "蘿莎莉亞",
+		"sangonomiyakokomi": "珊瑚宮心海",
+		"sayu": "早柚",
+		"sucrose": "砂糖",
+		"tartaglia": "達達利亞",
+		"traveleranemo": "旅行者 (風元素)",
+		"travelerelectro": "旅行者 (雷元素)",
+		"travelergeo": "旅行者 (岩元素)",
+		"venti": "溫迪",
+		"xiangling": "香菱",
+		"xiao": "魈",
+		"xingqiu": "行秋",
+		"xinyan": "辛焱",
+		"yanfei": "煙緋",
+		"yoimiya": "宵宮",
+		"zhongli": "鍾離"
+	},
+	"names": {
+		"阿貝多": "albedo",
+		"亞蘿伊": "aloy",
+		"安柏": "amber",
+		"芭芭拉": "barbara",
+		"北斗": "beidou",
+		"班尼特": "bennett",
+		"重雲": "chongyun",
+		"迪盧克": "diluc",
+		"迪奧娜": "diona",
+		"優菈": "eula",
+		"菲謝爾": "fischl",
+		"甘雨": "ganyu",
+		"胡桃": "hutao",
+		"琴": "jean",
+		"楓原萬葉": "kaedeharakazuha",
+		"凱亞": "kaeya",
+		"神里綾華": "kamisatoayaka",
+		"刻晴": "keqing",
+		"可莉": "klee",
+		"九條裟羅": "kujousara",
+		"麗莎": "lisa",
+		"莫娜": "mona",
+		"凝光": "ningguang",
+		"諾艾爾": "noelle",
+		"七七": "qiqi",
+		"雷電將軍": "raidenshogun",
+		"雷澤": "razor",
+		"蘿莎莉亞": "rosaria",
+		"珊瑚宮心海": "sangonomiyakokomi",
+		"早柚": "sayu",
+		"砂糖": "sucrose",
+		"達達利亞": "tartaglia",
+		"旅行者 (風元素)": "traveleranemo",
+		"旅行者 (雷元素)": "travelerelectro",
+		"旅行者 (岩元素)": "travelergeo",
+		"溫迪": "venti",
+		"香菱": "xiangling",
+		"魈": "xiao",
+		"行秋": "xingqiu",
+		"辛焱": "xinyan",
+		"煙緋": "yanfei",
+		"宵宮": "yoimiya",
+		"鍾離": "zhongli"
+	},
+	"aliases": {},
+	"categories": {
+		"摩拉": [
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo",
+			"travelerelectro",
+			"travelergeo",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"「詩文」的教導": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"venti"
+		],
+		"導能繪卷": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"「詩文」的指引": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"traveleranemo",
+			"venti"
+		],
+		"封魔繪卷": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"「詩文」的哲學": [
+			"albedo",
+			"fischl",
+			"kaeya",
+			"lisa",
+			"rosaria",
+			"traveleranemo",
+			"venti"
+		],
+		"禁咒繪卷": [
+			"albedo",
+			"barbara",
+			"klee",
+			"qiqi",
+			"traveleranemo",
+			"yoimiya"
+		],
+		"吞天之鯨·隻角": [
+			"albedo",
+			"xinyan",
+			"zhongli"
+		],
+		"智識之冕": [
+			"albedo",
+			"aloy",
+			"amber",
+			"barbara",
+			"beidou",
+			"bennett",
+			"chongyun",
+			"diluc",
+			"diona",
+			"eula",
+			"fischl",
+			"ganyu",
+			"hutao",
+			"jean",
+			"kaedeharakazuha",
+			"kaeya",
+			"kamisatoayaka",
+			"keqing",
+			"klee",
+			"kujousara",
+			"lisa",
+			"mona",
+			"ningguang",
+			"noelle",
+			"qiqi",
+			"raidenshogun",
+			"razor",
+			"rosaria",
+			"sangonomiyakokomi",
+			"sayu",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo",
+			"travelerelectro",
+			"travelergeo",
+			"venti",
+			"xiangling",
+			"xiao",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"yoimiya",
+			"zhongli"
+		],
+		"「自由」的教導": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"浮游乾核": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"「自由」的指引": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"浮游幽核": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"「自由」的哲學": [
+			"aloy",
+			"amber",
+			"barbara",
+			"diona",
+			"klee",
+			"sucrose",
+			"tartaglia",
+			"traveleranemo"
+		],
+		"浮游晶化核": [
+			"aloy",
+			"sangonomiyakokomi"
+		],
+		"熔毀之刻": [
+			"aloy",
+			"raidenshogun"
+		],
+		"牢固的箭鏃": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"銳利的箭鏃": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"歷戰的箭鏃": [
+			"amber",
+			"diona",
+			"fischl",
+			"travelergeo"
+		],
+		"東風的吐息": [
+			"amber",
+			"beidou",
+			"chongyun",
+			"traveleranemo"
+		],
+		"北風之環": [
+			"barbara",
+			"keqing",
+			"klee",
+			"mona"
+		],
+		"「黃金」的教導": [
+			"beidou",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"尋寶鴉印": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"「黃金」的指引": [
+			"beidou",
+			"travelergeo",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"藏銀鴉印": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"「黃金」的哲學": [
+			"beidou",
+			"travelergeo",
+			"xingqiu",
+			"xinyan",
+			"yanfei",
+			"zhongli"
+		],
+		"攫金鴉印": [
+			"beidou",
+			"bennett",
+			"kaedeharakazuha",
+			"kaeya",
+			"xinyan",
+			"yanfei"
+		],
+		"「抗爭」的教導": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor"
+		],
+		"「抗爭」的指引": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor",
+			"traveleranemo"
+		],
+		"「抗爭」的哲學": [
+			"bennett",
+			"diluc",
+			"eula",
+			"jean",
+			"mona",
+			"noelle",
+			"razor",
+			"traveleranemo"
+		],
+		"東風之翎": [
+			"bennett",
+			"diluc",
+			"jean"
+		],
+		"「勤勞」的教導": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"xiangling"
+		],
+		"破損的面具": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"「勤勞」的指引": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"travelergeo",
+			"xiangling"
+		],
+		"汙穢的面具": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"「勤勞」的哲學": [
+			"chongyun",
+			"ganyu",
+			"hutao",
+			"kaedeharakazuha",
+			"travelergeo",
+			"xiangling"
+		],
+		"不祥的面具": [
+			"chongyun",
+			"eula",
+			"jean",
+			"kujousara",
+			"noelle",
+			"razor",
+			"xingqiu"
+		],
+		"新兵的徽記": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"士官的徽記": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"尉官的徽記": [
+			"diluc",
+			"ningguang",
+			"rosaria",
+			"tartaglia"
+		],
+		"魔王之刃·殘片": [
+			"diona",
+			"hutao",
+			"tartaglia"
+		],
+		"龍王之冕": [
+			"eula",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"北風的魂匣": [
+			"fischl",
+			"kaeya",
+			"ningguang",
+			"sucrose"
+		],
+		"騙騙花蜜": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"微光花蜜": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"原素花蜜": [
+			"ganyu",
+			"hutao",
+			"keqing",
+			"mona",
+			"sayu",
+			"sucrose"
+		],
+		"武煉之魂·孤影": [
+			"ganyu",
+			"rosaria",
+			"xiao"
+		],
+		"鎏金之鱗": [
+			"kaedeharakazuha",
+			"sayu"
+		],
+		"「風雅」的教導": [
+			"kamisatoayaka",
+			"kujousara"
+		],
+		"破舊的刀鐔": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"「風雅」的指引": [
+			"kamisatoayaka",
+			"kujousara",
+			"travelerelectro"
+		],
+		"影打刀鐔": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"「風雅」的哲學": [
+			"kamisatoayaka",
+			"kujousara",
+			"travelerelectro"
+		],
+		"名刀鐔": [
+			"kamisatoayaka",
+			"raidenshogun",
+			"travelerelectro"
+		],
+		"血玉之枝": [
+			"kamisatoayaka",
+			"yanfei"
+		],
+		"「繁榮」的教導": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"「繁榮」的指引": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"「繁榮」的哲學": [
+			"keqing",
+			"ningguang",
+			"qiqi",
+			"travelergeo",
+			"xiao"
+		],
+		"灰燼之心": [
+			"kujousara"
+		],
+		"史萊姆凝液": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"史萊姆清": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"史萊姆原漿": [
+			"lisa",
+			"venti",
+			"xiangling",
+			"xiao",
+			"zhongli"
+		],
+		"東風之爪": [
+			"lisa",
+			"noelle",
+			"razor",
+			"xiangling"
+		],
+		"北風之尾": [
+			"qiqi",
+			"travelergeo",
+			"venti",
+			"xingqiu"
+		],
+		"「天光」的教導": [
+			"raidenshogun",
+			"sayu"
+		],
+		"「天光」的指引": [
+			"raidenshogun",
+			"sayu",
+			"travelerelectro"
+		],
+		"「天光」的哲學": [
+			"raidenshogun",
+			"sayu",
+			"travelerelectro"
+		],
+		"「浮世」的教導": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"「浮世」的指引": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"「浮世」的哲學": [
+			"sangonomiyakokomi",
+			"travelerelectro",
+			"yoimiya"
+		],
+		"獄火之蝶": [
+			"sangonomiyakokomi"
+		]
+	}
+}

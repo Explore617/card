@@ -1,0 +1,205 @@
+{
+	"name": "Rosaria",
+	"combat1": {
+		"name": "Normal Attack: Spear of the Church",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P} ×2",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}+{param6:F1P}",
+				"DMG Charged Attack|{param7:P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}pt",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Ravaging Confession",
+		"info": "Rosaria bergerak dengan cepat, muncul di belakang musuh, lalu menusuk dan menebas dengan polearm, mengakibatkan Cryo DMG.\nTalenta ini tidak dapat digunakan untuk bergerak ke belakang musuh yang bertubuh lebih besar.",
+		"description": "Mereka yang mengaku dosa pada Suster Rosaria tidak akan mendapat pengampunan. Sebaliknya, para pendosa akan menerima hukuman dingin yang menusuk tulang, masing-masing sebanding dengan berat dosa yang mereka lakukan.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}+{param2:P}",
+				"Cooldown|{param3:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Rites of Termination",
+		"info": "Doa khas Rosaria. Setelah mengayunkan senjatanya untuk menebas musuh di sekitar, dia akan melancarkan Ice Lance yang menghantam tanah. Kedua aksi tersebut mengakibatkan Cryo DMG.\nSaat Talenta ini aktif, Ice Lance akan mengeluarkan hawa dingin secara berkala, mengakibatkan Cryo DMG pada musuh di sekitar.",
+		"description": " Penghakiman adalah pekerjaan yang merepotkan. Kusarankan sebaiknya kita lewatkan saja, dan langsung masuk ke tahap terakhir! Rosaria bukan seseorang yang taat pada Dewa Anemo, karena itu, menurut Rosaria, penghakiman adalah pekerjaan yang mudah.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}+{param2:P}",
+				"DMG berkelanjutan Ice Lance|{param3:P}",
+				"Durasi|{param4:F1}dtk",
+				"CD|{param5:F1} dtk",
+				"Konsumsi Energy|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Regina Probationum",
+		"info": "Saat Rosaria menyerang musuh dari belakang menggunakan **Ravaging Confession**, akan meningkatkan 12% CRIT Rate Rosaria selama 5 detik."
+	},
+	"passive2": {
+		"name": "Shadow Samaritan",
+		"info": "Melancarkan **Rites of Termination** akan meningkatkan CRIT Rate seluruh anggota party di sekitar (tidak termasuk Rosaria sendiri) sebesar 15% dari CRIT Rate Rosaria selama 10 detik.\nBonus CRIT Rate yang didapat dari Talenta ini tidak dapat melebihi 15%."
+	},
+	"passive3": {
+		"name": "Night Walk",
+		"info": "Saat malam hari (18:00 — 6:00), meningkatkan 10% Movement SPD anggota party sendiri.\nEfek ini tidak aktif dalam Domain, Trounce Domain, atau Spiral Abyss. Efek ini tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Ballad\"",
+				"count": 3
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 2
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 9
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 4
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 6
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 12
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 9
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 16
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 12
+			},
+			{
+				"name": "Shadow of the Warrior",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

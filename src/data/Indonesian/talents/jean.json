@@ -1,0 +1,208 @@
+{
+	"name": "Jean",
+	"combat1": {
+		"name": "Favonius Bladework",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan serangan yang menghempas musuh ke udara dengan kekuatan angin.\nMusuh yang terhempas akan terjatuh perlahan untuk sementara waktu.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Charged Attack|{param6:P}",
+				"Konsumsi Stamina Charged Attack|{param7:F1}pt",
+				"DMG Selama Plunging|{param8:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Gale Blade",
+		"info": "Jean mengerahkan badai kecil dengan memusatkan kekuatan angin di bilah pedangnya untuk menghempas musuh ke arah yang dia tunjuk. Mengakibatkan Anemo DMG yang besar.\n\n**Tahan**\nDengan terus mengonsumsi Stamina, Jean dapat mengarahkan badai tersebut, yang menarik musuh dan obyek di sekitar ke depannya.\nArahnya dapat disesuaikan.\nKarakter tidak dapat bergerak selama durasi skill.",
+		"description": "Yang mengikuti Jean, pelindung berhati emas, adalah angin penjaga yang bisa menghalau bahaya dari rekan-rekannya.",
+		"attributes": {
+			"labels": [
+				"DMG Skill|{param1:P}",
+				"Konsumsi Stamina|{param2:F1}/dtk",
+				"Max Durasi|{param3:F1}dtk",
+				"Cooldown|{param4:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Dandelion Breeze",
+		"info": "Dengan memanggil perlindungan dari angin, Jean dapat menciptakan Dandelion Field yang menghempas musuh di sekitar dan mengakibatkan Anemo DMG.\nDi saat yang sama, sejumlah besar HP untuk semua anggota party akan pulih secara langsung. Jumlah HP yang dipulihkan bergantung dari ATK Jean.\n\n**Dandelion Field**\n·Memulihkan HP karakter yang berada di dalam lingkup area secara berkelanjutan.\n·Memengaruhi musuh yang berada di dalam lingkup area dengan elemen Anemo secara berkelanjutan.\n·Mengakibatkan Anemo DMG kepada musuh yang memasuki atau keluar dari Dandelion Field.",
+		"description": "Berkat Anemo bagaikan dandelion yang terbang ke seluruh pelosok dunia. Inilah fondasi prinsip dan pendirian Jean.",
+		"attributes": {
+			"labels": [
+				"DMG Elemental Burst|{param1:P}",
+				"DMG Keluar Masuk Field|{param2:F1P}",
+				"Pemulihan Saat Talenta Dilancarkan|{param3:P} ATK + {param4:I}",
+				"Regenerasi HP/dtk|{param5:F2P} ATK + {param6:I}",
+				"Cooldown|{param7:F1}dtk",
+				"Konsumsi Energy|{param8:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Wind Companion",
+		"info": "Saat Normal Attack Jean mengenai musuh, memiliki 50% kemungkinan untuk memulihkan HP seluruh anggota party sebesar 15% ATK Jean."
+	},
+	"passive2": {
+		"name": "Let the Wind Lead",
+		"info": "Menggunakan **Dandelion Breeze** akan memulihkan 20% Energy."
+	},
+	"passive3": {
+		"name": "Guiding Breeze",
+		"info": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Stained Mask",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Stained Mask",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Stained Mask",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Stained Mask",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Plume",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

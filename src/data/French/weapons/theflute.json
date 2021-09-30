@@ -1,0 +1,137 @@
+{
+	"name": "Flûte",
+	"description": "En dessous de la rouille se cache une lame fine ornée de somptueuses décorations. Elle est aussi légère qu'une plume.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Accord",
+	"effect": "Les attaques normales et chargées confèrent une harmonie à chaque fois qu'elles touchent. Au bout de 5 harmonies, le pouvoir de la musique est libéré, et inflige {0} de DGT d'ATQ aux ennemis proches. Les harmonies durent jusqu'à 30 s, et une harmonie peut être obtenue toutes les 0,5 s max.",
+	"r1": [
+		"100 %"
+	],
+	"r2": [
+		"125 %"
+	],
+	"r3": [
+		"150 %"
+	],
+	"r4": [
+		"175 %"
+	],
+	"r5": [
+		"200 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Dent de lait du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 3
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 12
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 6
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 3
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 12
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 9
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Nostalgie du Loup boréal",
+				"count": 4
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 12
+			}
+		]
+	}
+}

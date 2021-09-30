@@ -1,0 +1,31 @@
+{
+	"name": "Tofu con huevas de cangrejo",
+	"rarity": "2",
+	"foodtype": "NORMAL",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_Revive",
+	"effect": "Revive al personaje seleccionado.\nRestaura 250-550 pts. de Vida.",
+	"description": "Un plato con una textura suave. Las huevas de cangrejo se sofríen hasta que sueltan sus jugos y se mezclan con el tofu, previamente cocido, tras lo que se añade un sabroso caldo. Un plato hecho con ingredientes sencillos que resulta en un sabor incomparable.",
+	"suspicious": {
+		"effect": "Revive a un personaje y restaura 250 pts. de su Vida.",
+		"description": "Un plato con una textura suave. Aunque las huevas de cangrejo son muy frescas, no logran enmascarar el mal sabor del tofu, que está demasiado pasado. Desmígalo con los palillos y mézclalo con arroz o no serás capaz de comerlo..."
+	},
+	"normal": {
+		"effect": "Revive a un personaje y restaura 400 pts. de su Vida.",
+		"description": "Un plato con una textura suave. Las huevas de cangrejo se sofríen hasta que sueltan sus jugos y se mezclan con el tofu, previamente cocido, tras lo que se añade un sabroso caldo. Un plato hecho con ingredientes sencillos que resulta en un sabor incomparable."
+	},
+	"delicious": {
+		"effect": "Revive a un personaje y restaura 550 pts. de su Vida.",
+		"description": "Un plato con una textura suave. El tofu está tan tierno que se puede partir con una cuchara, y las huevas de cangrejo son tan jugosas que su líquido se derrama en tu lengua en cuanto pruebas un bocado. Apenas necesitas masticar y el conjunto ya se está deslizando hacia tu estómago, dejando un delicioso sabor en tus labios."
+	},
+	"ingredients": [
+		{
+			"name": "Huevas de cangrejo",
+			"count": 1
+		},
+		{
+			"name": "Tofu",
+			"count": 1
+		}
+	]
+}

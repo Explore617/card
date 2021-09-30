@@ -1,0 +1,137 @@
+{
+	"name": "Trường Cung Tông Thất",
+	"description": "Cung dài từng thuộc về quý tộc Monstadt cũ. Trải qua nhiều đời, dây cung vẫn rất mạnh mẽ.",
+	"weapontype": "Cung",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tấn Công",
+	"subvalue": "9",
+	"effectname": "Chuyên Chú",
+	"effect": "Khi tấn công tạo thành sát thương, tăng tỷ lệ bạo kích {0}, nhiều nhất cộng dồn 5 lần. Sau khi tấn công tạo thành bạo kích, xóa hiệu quả Chuyên Chú đã có.",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Xiềng Xích Đấu Sĩ Nanh Sư Tử",
+				"count": 3
+			},
+			{
+				"name": "Cấu Trúc Hỗn Độn",
+				"count": 3
+			},
+			{
+				"name": "Bản Vẽ Hướng Dẫn",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Dây Sắt Đấu Sĩ Nanh Sư Tử",
+				"count": 3
+			},
+			{
+				"name": "Cấu Trúc Hỗn Độn",
+				"count": 12
+			},
+			{
+				"name": "Bản Vẽ Hướng Dẫn",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Dây Sắt Đấu Sĩ Nanh Sư Tử",
+				"count": 6
+			},
+			{
+				"name": "Bộ Não Hỗn Độn",
+				"count": 6
+			},
+			{
+				"name": "Bản Vẽ Phong Ấn",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+				"count": 3
+			},
+			{
+				"name": "Bộ Não Hỗn Độn",
+				"count": 12
+			},
+			{
+				"name": "Bản Vẽ Phong Ấn",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Gông Cùm Đấu Sĩ Nanh Sư Tử",
+				"count": 6
+			},
+			{
+				"name": "Trái Tim Hỗn Độn",
+				"count": 9
+			},
+			{
+				"name": "Bản Vẽ Cấm Chú",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Lý Tưởng Của Đấu Sĩ Nanh Sư Tử",
+				"count": 4
+			},
+			{
+				"name": "Trái Tim Hỗn Độn",
+				"count": 18
+			},
+			{
+				"name": "Bản Vẽ Cấm Chú",
+				"count": 12
+			}
+		]
+	}
+}

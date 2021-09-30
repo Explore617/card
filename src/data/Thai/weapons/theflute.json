@@ -1,0 +1,137 @@
+{
+	"name": "The Flute",
+	"description": "ภายใต้สนิมนั้นมีดาบบาง ๆ ที่ตกแต่งอย่างหรูหราอยู่ คุณสามารถกวัดแกว่งมันได้อย่างรวดเร็วดั่งสายลม",
+	"weapontype": "ดาบ",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "พลังโจมตี",
+	"subvalue": "9",
+	"effectname": "Chord",
+	"effect": "เมื่อโจมตีปกติหรือชาร์จโจมตีจะได้รับโน้ตดนตรี 1 ตัว เมื่อเก็บโน้ตดนตรีครบ 5 ตัว จะทำให้เกิดพลังแห่งดนตรี ซึ่งจะสร้างความเสียหาย {0} ของพลังโจมตีแก่ศัตรูโดยรอบ โน้ตดนตรีจะมีเวลาคงอยู่ 30 วินาที ซึ่งจะได้รับ 1 ตัวในทุก 0.5 วินาที",
+	"r1": [
+		"100%"
+	],
+	"r2": [
+		"125%"
+	],
+	"r3": [
+		"150%"
+	],
+	"r4": [
+		"175%"
+	],
+	"r5": [
+		"200%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 3
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Branches",
+				"count": 12
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 6
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 6
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 3
+			},
+			{
+				"name": "Dead Ley Line Leaves",
+				"count": 12
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 6
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 9
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 4
+			},
+			{
+				"name": "Ley Lines Sprouts",
+				"count": 18
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 12
+			}
+		]
+	}
+}

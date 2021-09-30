@@ -1,0 +1,208 @@
+{
+	"name": "Lisa",
+	"combat1": {
+		"name": "Lighting Touch",
+		"info": "**Normal Attack**\nMelancarkan hingga 4 serangan listrik yang mengakibatkan Electro DMG.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina dan mengakibatkan Electro DMG area setelah jeda singkat.\n\n**Plunging Attack**\nMengumpulkan kekuatan Electro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan Electro DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Charged Attack|{param5:P}",
+				"Konsumsi Stamina Charged Attack|{param6:F1}pt",
+				"DMG Selama Plunging|{param7:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param8:P}/{param9:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Violet Arc",
+		"info": "Menyalurkan kekuatan petir untuk menyapu bersih masalah yang merepotkan.\n\n**Tekan**\nMelancarkan sebuah bola listrik yang mengejar musuh.\nSaat mengenai musuh, mengakibatkan Electro DMG dan memberikan satu lapis efek Conductive (hingga 3 lapis) ke musuh di dalam area kecil.\n\n**Tahan**\nSetelah waktu casting yang diperpanjang, memanggil petir dari langit untuk mengakibatkan Electro DMG yang besar ke semua musuh di sekitar.\nMengakibatkan tambahan DMG yang besar ke musuh berdasarkan jumlah lapisan Conductive yang mereka miliki dan menghapusnya.",
+		"description": "Warna Electro Purple adalah warna sang Rose Witch.",
+		"attributes": {
+			"labels": [
+				"DMG One-tap|{param6:F1P}",
+				"CD (Tekan)|{param7:F1} dtk",
+				"DMG Menahan Non-Conductive|{param1:P}",
+				"DMG Menahan 1 Conductive|{param2:P}",
+				"DMG Menahan 2 Conductive|{param3:P}",
+				"DMG Menahan 3 Conductive|{param4:P}",
+				"Cooldown Menahan|{param5:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Lightning Rose",
+		"info": "Memanggil Lightning Rose yang mengerahkan sambaran petir dan menghempas musuh di sekitar untuk mengakibatkan Electro DMG.\nLightning Rose akan terus memanggil petir untuk menghempas musuh dan mengakibatkan Electro DMG selama ia tetap ada.",
+		"description": "Hati-hati dengan duri mematikan dari mawar yang cantik.",
+		"attributes": {
+			"labels": [
+				"DMG Pelepasan Listrik|{param1:F1P}",
+				"Durasi|{param2:F1}dtk",
+				"Cooldown|{param3:F1}dtk",
+				"Konsumsi Energy|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Induced Aftershock",
+		"info": "Charged Attack yang mengenai musuh akan menyebabkan status Conductive dari **Violet Arc** pada musuh."
+	},
+	"passive2": {
+		"name": "Static Electricity Field",
+		"info": "Saat mengenai musuh, **Lightning Rose** akan mengurangi 15% DEF musuh selama 10 detik."
+	},
+	"passive3": {
+		"name": "General Pharmaceutics",
+		"info": "Lisa memiliki 20% kemungkinan mendapatkan kembali material yang digunakan saat membuat potion."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Ballad\"",
+				"count": 3
+			},
+			{
+				"name": "Slime Condensate",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 2
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 9
+			},
+			{
+				"name": "Slime Secretions",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 6
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 12
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 16
+			},
+			{
+				"name": "Slime Concentrate",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Claw",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

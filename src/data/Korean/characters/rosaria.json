@@ -1,0 +1,153 @@
+{
+	"name": "로자리아",
+	"title": "가시관의 은혜",
+	"description": "겉모습을 제외하곤 전혀 성직자 같지 않은 수녀. 냉담한 언행 속에 예리함이 배어 있으며, 늘 단독행동을 한다",
+	"rarity": "4",
+	"element": "얼음",
+	"weapontype": "장병기",
+	"substat": "공격력",
+	"gender": "여성",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 성당",
+	"birthdaymmdd": "1/24",
+	"birthday": "1월 24일",
+	"constellation": "형관자리",
+	"cv": {
+		"english": "Elizabeth Maxwell",
+		"chinese": "张安琪",
+		"japanese": "카쿠마 아이",
+		"korean": "김보나"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "서늘한 빙옥 가루",
+				"count": 1
+			},
+			{
+				"name": "낙락베리",
+				"count": 3
+			},
+			{
+				"name": "신병의 휘장",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "서늘한 빙옥 조각",
+				"count": 3
+			},
+			{
+				"name": "서리의 핵",
+				"count": 2
+			},
+			{
+				"name": "낙락베리",
+				"count": 10
+			},
+			{
+				"name": "신병의 휘장",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "서늘한 빙옥 조각",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 4
+			},
+			{
+				"name": "낙락베리",
+				"count": 20
+			},
+			{
+				"name": "사관의 휘장",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "서늘한 빙옥 덩이",
+				"count": 3
+			},
+			{
+				"name": "서리의 핵",
+				"count": 8
+			},
+			{
+				"name": "낙락베리",
+				"count": 30
+			},
+			{
+				"name": "사관의 휘장",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "서늘한 빙옥 덩이",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 12
+			},
+			{
+				"name": "낙락베리",
+				"count": 45
+			},
+			{
+				"name": "위관의 휘장",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "서늘한 빙옥",
+				"count": 6
+			},
+			{
+				"name": "서리의 핵",
+				"count": 20
+			},
+			{
+				"name": "낙락베리",
+				"count": 60
+			},
+			{
+				"name": "위관의 휘장",
+				"count": 24
+			}
+		]
+	}
+}

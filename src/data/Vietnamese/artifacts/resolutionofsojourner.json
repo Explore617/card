@@ -1,0 +1,34 @@
+{
+	"name": "Trái Tim Hành Giả",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "Tấn công tăng 18%",
+	"4pc": "Tỷ lệ bạo kích của trọng kích tăng 30%",
+	"flower": {
+		"name": "Trái Tim Của Cố Nhân",
+		"relictype": "Hoa Sự Sống",
+		"description": "Bông hoa nhỏ màu xanh ngọc, trên thân có buộc ruy băng của người nào đó."
+	},
+	"plume": {
+		"name": "Lông Vũ Hồi Hương",
+		"relictype": "Lông Vũ Tử Vong",
+		"description": "Lông vũ màu xanh, trên chiếc lông có chứa đựng sự lưu luyến của người lữ khác phương xa."
+	},
+	"sands": {
+		"name": "Hòn Đá Phát Sáng",
+		"relictype": "Cát Thời Gian",
+		"description": "Đồng hồ trải qua bao gió bụi, vẫn âm thầm ghi lại năm tháng dài đằng đẵng."
+	},
+	"goblet": {
+		"name": "Chiếc Ly Dị Quốc",
+		"relictype": "Ly Không Gian",
+		"description": "Ly rượu đơn giản bằng gốm trắng, đã từng đựng đầy những giọt rượu chúc mừng."
+	},
+	"circlet": {
+		"name": "Chiếc Nón Từ Biệt",
+		"relictype": "Nón Lý Trí",
+		"description": "Chiếc nón tỏa ra hơi thở của gió."
+	}
+}

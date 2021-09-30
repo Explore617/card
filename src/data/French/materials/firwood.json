@@ -1,0 +1,13 @@
+{
+	"name": "Bois d'épicéa",
+	"description": "Bois obtenu à partir d'épicéa. Largement utilisé en raison de sa qualité et de son grain.\\nPeut être utilisé pour fabriquer des décorations.",
+	"sortorder": 1320,
+	"rarity": "1",
+	"category": "WOOD",
+	"materialtype": "Matériau",
+	"source": [
+		"Dans la nature",
+		"Zone conseillée : Vallée Tombétoile",
+		"Zone conseillée : Colline sifflante"
+	]
+}

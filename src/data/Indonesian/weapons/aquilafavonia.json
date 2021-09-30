@@ -1,0 +1,147 @@
+{
+	"name": "Aquila Favonia",
+	"description": "Lambang jiwa dan raga dari Knights of Favonius. Ribuan tahun berlalu pun, pedang ini masih akan menghembuskan angin keadilan, dan membasmi kejahatan, seperti pahlawan wanita yang terakhir menggenggamnya.",
+	"weapontype": "Sword",
+	"rarity": "5",
+	"baseatk": 48,
+	"substat": "Physical DMG Bonus",
+	"subvalue": "9",
+	"effectname": "Falcon's Defiance",
+	"effect": "Meningkatkan {0} ATK. Terpicu saat menerima DMG: Jiwa Falcon of the West bangkit dan menegakkan bendera pertahanan. Memulihkan HP sebesar {1} ATK dan mengakibatkan DMG sebesar {2} ATK pada musuh di sekitar. Dapat terpicu setiap 15 detik.",
+	"r1": [
+		"20%",
+		"100%",
+		"200%"
+	],
+	"r2": [
+		"25%",
+		"115%",
+		"230%"
+	],
+	"r3": [
+		"30%",
+		"130%",
+		"260%"
+	],
+	"r4": [
+		"35%",
+		"145%",
+		"290%"
+	],
+	"r5": [
+		"40%",
+		"160%",
+		"320%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Tile of Decarabian's Tower",
+				"count": 5
+			},
+			{
+				"name": "Heavy Horn",
+				"count": 5
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Debris of Decarabian's City",
+				"count": 5
+			},
+			{
+				"name": "Heavy Horn",
+				"count": 18
+			},
+			{
+				"name": "Firm Arrowhead",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Debris of Decarabian's City",
+				"count": 9
+			},
+			{
+				"name": "Black Bronze Horn",
+				"count": 9
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Fragment of Decarabian's Epic",
+				"count": 5
+			},
+			{
+				"name": "Black Bronze Horn",
+				"count": 18
+			},
+			{
+				"name": "Sharp Arrowhead",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Fragment of Decarabian's Epic",
+				"count": 9
+			},
+			{
+				"name": "Black Crystal Horn",
+				"count": 14
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Scattered Piece of Decarabian's Dream",
+				"count": 6
+			},
+			{
+				"name": "Black Crystal Horn",
+				"count": 27
+			},
+			{
+				"name": "Weathered Arrowhead",
+				"count": 18
+			}
+		]
+	}
+}

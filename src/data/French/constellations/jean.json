@@ -1,0 +1,27 @@
+{
+	"name": "Jean",
+	"c1": {
+		"name": "Tourmente tranchante",
+		"effect": "La VIT d'attraction et les DGT infligés par **Épée de tourbillon** augmentent de 40 % lorsque la compétence reste activée plus d'une seconde."
+	},
+	"c2": {
+		"name": "Égide du peuple",
+		"effect": "La VIT de déplacement et d'attaque de tous les personnages de l'équipe augmente de 15 % pendant 15 s lorsque Jean obtient un orbe ou une particule élémentaire."
+	},
+	"c3": {
+		"name": "Lorsque le vent d'ouest souffle",
+		"effect": "Niveau d'aptitude **Brise de pissenlit** +3.\nNiveau max : 15"
+	},
+	"c4": {
+		"name": "Territoire des pissenlits",
+		"effect": "La RÉS Anémo des ennemis à l'intérieur du champ de **Brise de pissenlit** est réduite de 40 %."
+	},
+	"c5": {
+		"name": "Le moment du vent violent",
+		"effect": "Niveau d'aptitude **Épée de tourbillon** +3.\nNiveau max : 15"
+	},
+	"c6": {
+		"name": "Croc de Lion, le protecteur de Mondstadt",
+		"effect": "Les DGT subis par les personnages dans le champ de **Brise de pissenlit** sont réduits de 35 %.\nAprès avoir quitté le champ, cet effet disparaît après avoir subi 3 attaques ou dans les 10 s."
+	}
+}

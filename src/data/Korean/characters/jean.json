@@ -1,0 +1,153 @@
+{
+	"name": "진",
+	"title": "민들레 기사",
+	"description": "정직하고 빈틈없는 민들레 기사, 몬드 페보니우스 기사단의 단장 대행이다",
+	"rarity": "5",
+	"element": "바람",
+	"weapontype": "한손검",
+	"substat": "치유 보너스",
+	"gender": "여성",
+	"body": "LADY",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "페보니우스 기사단",
+	"birthdaymmdd": "3/14",
+	"birthday": "3월 14일",
+	"constellation": "새끼사자자리",
+	"cv": {
+		"english": "Stephanie Southerland",
+		"chinese": "林簌",
+		"japanese": "사이토 치와",
+		"korean": "안영미"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라",
+				"count": 20000
+			},
+			{
+				"name": "자유로운 터키석 가루",
+				"count": 1
+			},
+			{
+				"name": "민들레 씨앗",
+				"count": 3
+			},
+			{
+				"name": "부서진 가면",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 40000
+			},
+			{
+				"name": "자유로운 터키석 조각",
+				"count": 3
+			},
+			{
+				"name": "폭풍의 씨앗",
+				"count": 2
+			},
+			{
+				"name": "민들레 씨앗",
+				"count": 10
+			},
+			{
+				"name": "부서진 가면",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 60000
+			},
+			{
+				"name": "자유로운 터키석 조각",
+				"count": 6
+			},
+			{
+				"name": "폭풍의 씨앗",
+				"count": 4
+			},
+			{
+				"name": "민들레 씨앗",
+				"count": 20
+			},
+			{
+				"name": "오염된 가면",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 80000
+			},
+			{
+				"name": "자유로운 터키석 덩이",
+				"count": 3
+			},
+			{
+				"name": "폭풍의 씨앗",
+				"count": 8
+			},
+			{
+				"name": "민들레 씨앗",
+				"count": 30
+			},
+			{
+				"name": "오염된 가면",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "모라",
+				"count": 100000
+			},
+			{
+				"name": "자유로운 터키석 덩이",
+				"count": 6
+			},
+			{
+				"name": "폭풍의 씨앗",
+				"count": 12
+			},
+			{
+				"name": "민들레 씨앗",
+				"count": 45
+			},
+			{
+				"name": "불길한 가면",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "모라",
+				"count": 120000
+			},
+			{
+				"name": "자유로운 터키석",
+				"count": 6
+			},
+			{
+				"name": "폭풍의 씨앗",
+				"count": 20
+			},
+			{
+				"name": "민들레 씨앗",
+				"count": 60
+			},
+			{
+				"name": "불길한 가면",
+				"count": 24
+			}
+		]
+	}
+}

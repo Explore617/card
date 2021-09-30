@@ -1,0 +1,216 @@
+{
+	"name": "Eula",
+	"combat1": {
+		"name": "Ataque Normal - Técnica da Espada de Favonius - Nobreza",
+		"info": "**Ataque Normal**\nRealiza até 5 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}+{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano do 5° Golpe|{param5:F1P}+{param5:F1P}",
+				"Dano de Loop de Ataque Carregado|{param6:F1P}",
+				"Dano Final de Ataque Carregado|{param7:P}",
+				"Consumo de Stamina de Ataque Carregado|{param8:F1}pts/s",
+				"Duração Máxima|{param9:F1}s",
+				"Dano Durante a Queda|{param10:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Vórtice Gelado",
+		"info": "Um frio glacial e uma dança ágil de espadas.\n\n**Pressionar**\nFaz um golpe rápido que causa Dano Cryo.\nQuando acerta nos inimigos, Eula ganha 1 Coração Impassível que se acumula no máximo 2 vezes e só pode ser ativado 1 vez a cada 0.3s.\n\n**Coração Impassível**\nAumenta a Resistência contra Interrupção e DEF de Eula.\n\n**Manter Pressionado**\nBalança a espada para fazer um golpe para a frente, causando Dano Cryo na AdE aos inimigos em frente, e eliminando o efeito de Coração Impassível de Eula.\nCaso o efeito do Coração Impassível seja consumido, irá diminuir a RES Física  e RES Cryo dos inimigos acertados. Cada Coração Impassível se converterá em uma Espada do Vórtice de Gelo, causando Dano Cryo nos inimigos ao redor.",
+		"description": "\"As ondas enrolam dessa forma e engolem as coroas nobres. Depois, cada gota de espuma que cai voando das ondas congelantes reflete uma coroa dourada, cada gota de espuma do mar brilha gloriosamente.\"",
+		"attributes": {
+			"labels": [
+				"Dano de Toque|{param1:P}",
+				"Dano ao Manter Pressionado|{param2:P}",
+				"Dano da Espada do Vórtice do Gelo|{param3:P}",
+				"Aumento de DEF|{param9:P}/piso",
+				"Duração do Coração Impassível|{param13:F1}s",
+				"Diminuição de RES Física|{param4:P}",
+				"Diminuição de RES Cryo|{param5:P}",
+				"Duração de Diminuição de RES|{param6:F1}s",
+				"Recarga ao Tocar|{param7:F1}s",
+				"Tempo de Recarga ao Manter Pressionado|{param8:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Espada das Ondas Congeladas",
+		"info": "Eula brande seu Espadão, causando Dano Cryo e criando uma Espada Luminosa qu a segue por uma duração de até 7s.\nEnquanto estiver presente, a Espada Luminosa aumenta a Resistência Contra Interrupção de Eula. Quando os Ataques Normais, Habilidades Elementais e Supremos de Eula causam Dano aos inimigos, eles carregarão a Espada Luminosa, que pode ganhar uma carga de energia a cada 0.1s.\nQuando sua duração encerrar, a Espada Luminosa explodirá, causando Dano Físico para inimigos próximos.\nEsse Dano escala baseado no número de cargas de energia que a Espada Luminosa acumulou.\nSe Eula sair do campo, a Espada Luminosa explodirá imediatamente.",
+		"description": "É fácil afundar. Mas ainda assim, ela deseja congelar essa maré que está vindo.",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}",
+				"Dano Básico da Espada Luminosa|{param2:F1P}",
+				"Dano de Energia de Cada Piso|{param3:F1P}",
+				"Limite de Recargas de Energia|{param4:I}",
+				"Tempo de Recarga|{param5:F1}s",
+				"Energia Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Geada Turbulenta",
+		"info": "Se quando você mantiver pressionado para liberar o **Vórtice Gelado** e consumir 2 acúmulos de Corações Impassíveis de uma vez, criará uma Espada Luminosa fragmentada que explodirá imediatamente, causando Dano Físico em quantidade equivalente a 50% do Dano Básico da Espada Luminosa da **Espada das Ondas Congelantes**."
+	},
+	"passive2": {
+		"name": "Desejo de Lutar",
+		"info": "Quando a **Espada das Ondas Congeladas** é lançada, a Recarga do **Vórtice Gelado** é redefinida e Eula ganha 1 stack de Coração Impassível."
+	},
+	"passive3": {
+		"name": "Introspecção Aristocrática",
+		"info": "Quando sintetiza Materiais para aprimoramento de Talento do Personagem, tem uma chance de 10% de obter o dobro da Produção."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Resistência",
+				"count": 3
+			},
+			{
+				"name": "Máscara Danificada",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 2
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Resistência",
+				"count": 9
+			},
+			{
+				"name": "Máscara Suja",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 4
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 4
+			},
+			{
+				"name": "Coroa do Senhor dos Dragões",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 6
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 6
+			},
+			{
+				"name": "Coroa do Senhor dos Dragões",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 12
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 9
+			},
+			{
+				"name": "Coroa do Senhor dos Dragões",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Resistência",
+				"count": 16
+			},
+			{
+				"name": "Máscara Ominosa",
+				"count": 12
+			},
+			{
+				"name": "Coroa do Senhor dos Dragões",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

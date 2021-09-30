@@ -1,0 +1,209 @@
+{
+	"name": "Ganyu",
+	"combat1": {
+		"name": "Ataque Normal: Disparo Liutian",
+		"info": "**Ataque Normal**\nRealiza até 6 disparos consecutivos com um arco.\n\n**Ataque Carregado**\nRealiza um **Disparo com Mira** mais preciso com Dano aumentado.\nAo mirar, uma aura congelante acumulará na ponta da flecha antes de ser disparada. Tem diferentes efeitos baseados em quanto tempo a energia foi carregada:\nCarga Nível 1: Dispara uma Flecha Congelante que causa Dano Cryo\nCarga Nível 2: Dispara uma Flecha Congelante que causa Dano Cryo. A Flecha Congelante floresce após acertar seu alvo, causando Dano Cryo em AdE.\n\n**Ataque Imersivo**\nDispara uma chuva de flechas durante o ar antes de cair e atingir o chão, causando Dano em AdE no impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano do 5° Golpe|{param5:F1P}",
+				"Dano do 6° Golpe|{param6:F1P}",
+				"Disparo com Mira|{param7:F1P}",
+				"Disparo Carregado com Mira Nv.1|{param8:P}",
+				"Dano da Flecha Congelante|{param9:P}",
+				"Dano de Explosão da Flecha Congelante|{param10:P}",
+				"Dano Durante a Queda|{param11:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Rastros de Qilin",
+		"info": "Lançando uma Lótus de Gelo, Ganyu salta para trás, causando Dano AdE Cryo.\n\n**Lótus de Gelo**\n·Provoca inimigos ao seu redor, atraindo-os para a atacar.\n·Sua resistência aumenta de acordo a Vida Máxima de Ganyu.\n·Floresce quando destruída ou quando sua duração acaba, causando Dano Cryo AdE.",
+		"description": "\"Você disse que me viu? Acho que você está enganad{Fa}{M#o}. Eu estava trabalhando horas extras\".",
+		"attributes": {
+			"labels": [
+				"Vida Recebida|{param1:P}",
+				"Dano de Habilidade|{param2:P}",
+				"Duração|{param3:F1}",
+				"Tempo de Recarga|{param4:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Chuva Celestial",
+		"info": "Funde a geada e a neve atmosférica, evocando uma Gema Cryo Sagrada que exorciza o mal.\nAo longo da duração desta habilidade, a Gema Cryo Sagrada irá chover continuamente lascas de gelo, golpeando inimigos em uma AdE e infligindo Dano Cryo.",
+		"description": "Ganyu pode trazer uma chuva agradável de forma natural. Mas contra demônios e hereges, elas viram uma desagradável neve congelante.",
+		"attributes": {
+			"labels": [
+				"Dano de Fragmento de Gelo|{param1:P}",
+				"Duração|{param2:F1}s",
+				"Tempo de Recarga|{param3:F1}s",
+				"Energia Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Com Todo Coração",
+		"info": "Após disparar uma Flecha Congelante, a Taxa CRIT das Flechas Congelantes subsequentes e seus efeitos de florescimento resultantes é aumentada em 20% por 5s."
+	},
+	"passive2": {
+		"name": "Harmonia entre o Céu e a Terra",
+		"info": "**Chuva Celestial** concede 20% de Bônus de Dano Cryo aos membros ativos no grupo em uma AdE."
+	},
+	"passive3": {
+		"name": "Preservado para a Caça",
+		"info": "Retorna 15% dos minérios usados ao criar armas de Arco."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Esforço",
+				"count": 3
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Esforço",
+				"count": 2
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Esforço",
+				"count": 4
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Esforço",
+				"count": 6
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Esforço",
+				"count": 9
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Esforço",
+				"count": 4
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 4
+			},
+			{
+				"name": "Sombra do Guerreiro",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Esforço",
+				"count": 6
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 6
+			},
+			{
+				"name": "Sombra do Guerreiro",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Esforço",
+				"count": 12
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 9
+			},
+			{
+				"name": "Sombra do Guerreiro",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Esforço",
+				"count": 16
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 12
+			},
+			{
+				"name": "Sombra do Guerreiro",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

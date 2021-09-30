@@ -1,0 +1,10 @@
+{
+	"name": "Pescado seco",
+	"description": "",
+	"sortorder": 1639,
+	"category": "EXCHANGE",
+	"materialtype": "Ingrediente culinario",
+	"source": [
+		"Procesar comida"
+	]
+}

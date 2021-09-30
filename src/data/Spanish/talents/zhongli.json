@@ -1,0 +1,210 @@
+{
+	"name": "Zhongli",
+	"combat1": {
+		"name": "Ataque Normal: Lluvia pétrea",
+		"info": "**Ataque Normal**\nRealiza hasta 6 ataques rápidos con lanza.\n\n**Ataque Cargado**\nConsume una cierta cantidad de Aguante para lanzarse al frente, haciendo que caigan lanzas de piedra en su camino.\n\n**Ataque Descendente**\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+		"attributes": {
+			"labels": [
+				"Daño de 1er golpe|{param1:F1P}",
+				"Daño de 2.º golpe|{param2:F1P}",
+				"Daño de 3er golpe|{param3:F1P}",
+				"Daño de 4.º golpe|{param4:F1P}",
+				"Daño de 5.º golpe|{param5:F1P} ×4",
+				"Daño de 6.º golpe|{param6:F1P}",
+				"Daño de ATQ Cargado|{param7:P}",
+				"Coste de Aguante de ATQ Cargado|{param8:F1} pts.",
+				"Daño de Caída|{param9:F1P}",
+				"Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Dominus lapidis",
+		"info": "Cada montaña, roca y centímetro de la tierra contiene poder Geo, pero solo unos pocos pueden usar libremente tal poder.\n\n**Pulsar una vez**\nOrdena al poder Geo de la tierra que se solidifique en una cresta de piedra.\n\n**Mantener pulsado**\nHace que los elementos Geo cercanos exploten, provocando los siguientes efectos:\n·Si aún no se ha alcanzado la cantidad máxima de crestas de piedra, invocará una cresta de piedra.\n·Crea un escudo de jade. La cantidad de absorción de daño del escudo es proporcional a la Vida Máx. de Zhongli.\n·Inflige Daño Geo en el AdE.\n·Si hay enemigos cercanos afectados por el elemento Geo, absorberá una gran cantidad de dicho elemento de un máximo de dos objetivos afectados por él. Este efecto no causa daño.\n\n**Cresta de piedra**\nAl ser creada, inflige Daño Geo en el AdE.\nLa cresta de piedra resonará con las creaciones Geo cercanas, infligiendo Daño Geo a los enemigos cercanos.\nLa cresta de piedra es considerada una creación Geo, y puede escalarse y usarse para bloquear ataques. Solo puede existir una al mismo tiempo.\n\n**Escudo de jade**\nTiene un 150% de eficiencia de absorción contra todo el Daño Elemental y el Daño Físico.\nCuando un personaje se encuentra protegido por este escudo, todas las RES Elementales y la RES Física de los enemigos cercanos a él en una pequeña AdE se reducen en un 20%. Este efecto no puede acumularse.",
+		"description": "Un verdadero maestro de la piedra puede tallar jade y dar forma al oro.",
+		"attributes": {
+			"labels": [
+				"Daño de cresta de piedra/Daño de resonancia|{param1:F1P}/{param2:F1P}",
+				"TdE al pulsar una vez|{param3:F1} s",
+				"Daño al mantener pulsado|{param4:P}",
+				"Absorción base de escudo|{param5:I}",
+				"Absorción adicional del escudo|{param6:F1P} de Vida Máx.",
+				"Duración del escudo|{param7:F1} s",
+				"TdE de mantener pulsado|{param8:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Lluvia estelar",
+		"info": "Atrae un meteorito a la tierra, causando Daño Geo masivo a los enemigos dentro de su AdE y aplicando el efecto de Petrificación.\n\n**Petrificación**\nLos enemigos bajo el efecto de Petrificación no pueden moverse.",
+		"description": "El meteorito que cae castiga a los injustos.",
+		"attributes": {
+			"labels": [
+				"Daño de habilidad|{param1:P}",
+				"Tiempo de petrificación|{param2:F1} s",
+				"TdE|{param3:F1} s",
+				"Energía Elemental|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Ondas resonantes",
+		"info": "Cuando el escudo de jade recibe daño, se fortalece.\n·Cuando un personaje que está protegido por el escudo de jade recibe daño, su Protección de Escudo aumenta en un 5%.\n·Este efecto puede acumularse hasta 5 veces y dura hasta que desaparezca el escudo de jade."
+	},
+	"passive2": {
+		"name": "Dominio de la Tierra",
+		"info": "El daño infligido por los siguientes ataques de Zhongli aumenta en proporción a su Vida Máx.:\n·Aumenta el daño de Ataque Normal, Ataque Cargado y Ataque Descendente en un 1.39% de su Vida Máx.\n·Aumenta en un 1.9% de su Vida Máx. el daño de resonancia de la cresta de piedra de **Dominus lapidis**, así como el daño de mantener pulsado.\n·Aumenta el daño de **Lluvia estelar** en un 33% de la Vida Máx. de Zhongli."
+	},
+	"passive3": {
+		"name": "Cristal del destino",
+		"info": "Recupera el 15% de los minerales utilizados en la fabricación de lanzas."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseñanzas del oro",
+				"count": 3
+			},
+			{
+				"name": "Condensado de Slime",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guía del oro",
+				"count": 2
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guía del oro",
+				"count": 4
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guía del oro",
+				"count": 6
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guía del oro",
+				"count": 9
+			},
+			{
+				"name": "Babas de Slime",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 4
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 4
+			},
+			{
+				"name": "Cuerno de Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 6
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 6
+			},
+			{
+				"name": "Cuerno de Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 12
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 9
+			},
+			{
+				"name": "Cuerno de Monoceros Caeli",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofía del oro",
+				"count": 16
+			},
+			{
+				"name": "Esencia de Slime",
+				"count": 12
+			},
+			{
+				"name": "Cuerno de Monoceros Caeli",
+				"count": 2
+			},
+			{
+				"name": "Corona de la sabiduría",
+				"count": 1
+			}
+		]
+	}
+}

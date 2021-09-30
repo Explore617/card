@@ -1,0 +1,142 @@
+{
+	"name": "Malice (prototype)",
+	"description": "Un catalyseur magique découvert à la Forge de Rochenoire. La lumière du soleil, de la lune et des étoiles semble s'en dégager.",
+	"weapontype": "Catalyseur",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "PV",
+	"subvalue": "9",
+	"effectname": "Blindage d'or",
+	"effect": "Restaure {0} pts d'énergie élémentaire toutes les 2 s pendant 6 s après l'utilisation d'un déchaînement élémentaire. Tous les personnages de l'équipe récupèrent {1} de leurs PV toutes les 2 s pendant cette durée.",
+	"r1": [
+		"4",
+		"4 %"
+	],
+	"r2": [
+		"4,5",
+		"4,5 %"
+	],
+	"r3": [
+		"5",
+		"5 %"
+	],
+	"r4": [
+		"5,5",
+		"5,5 %"
+	],
+	"r5": [
+		"6",
+		"6 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Plomb karstique",
+				"count": 3
+			},
+			{
+				"name": "Pollen d'herbe brumeuse",
+				"count": 3
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mercure karstique",
+				"count": 3
+			},
+			{
+				"name": "Pollen d'herbe brumeuse",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche robuste",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mercure karstique",
+				"count": 6
+			},
+			{
+				"name": "Herbe brumeuse",
+				"count": 6
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Argent karstique",
+				"count": 3
+			},
+			{
+				"name": "Herbe brumeuse",
+				"count": 12
+			},
+			{
+				"name": "Pointe de flèche aiguisée",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Argent karstique",
+				"count": 6
+			},
+			{
+				"name": "Mèches d'herbe brumeuse",
+				"count": 9
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Or karstique",
+				"count": 4
+			},
+			{
+				"name": "Mèches d'herbe brumeuse",
+				"count": 18
+			},
+			{
+				"name": "Pointe de flèche usée",
+				"count": 12
+			}
+		]
+	}
+}

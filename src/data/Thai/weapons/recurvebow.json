@@ -1,0 +1,137 @@
+{
+	"name": "Recurve Bow",
+	"description": "ว่ากันว่าธนูคันนี้สามารถ ยิงอินทรีย์ที่กำลังบินร่อนอยู่ได้ แต่ที่จริงแล้วมันขึ้นอยู่กับ ฝีมือของผู้ใช้งานมากกว่า",
+	"weapontype": "ธนู",
+	"rarity": "3",
+	"baseatk": 38,
+	"substat": "พลังชีวิต",
+	"subvalue": "10.2",
+	"effectname": "Cull the Weak",
+	"effect": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น {0}",
+	"r1": [
+		"8%"
+	],
+	"r2": [
+		"10%"
+	],
+	"r3": [
+		"12%"
+	],
+	"r4": [
+		"14%"
+	],
+	"r5": [
+		"16%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Fetters of the Dandelion Gladiator",
+				"count": 2
+			},
+			{
+				"name": "Chaos Device",
+				"count": 2
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Chains of the Dandelion Gladiator",
+				"count": 2
+			},
+			{
+				"name": "Chaos Device",
+				"count": 8
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 5
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Chains of the Dandelion Gladiator",
+				"count": 4
+			},
+			{
+				"name": "Chaos Circuit",
+				"count": 4
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 4
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Shackles of Dandelion Gladiator",
+				"count": 2
+			},
+			{
+				"name": "Chaos Circuit",
+				"count": 8
+			},
+			{
+				"name": "Seal Scroll",
+				"count": 6
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Shackles of Dandelion Gladiator",
+				"count": 4
+			},
+			{
+				"name": "Chaos Core",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Dream of Dandelion Gladiator",
+				"count": 3
+			},
+			{
+				"name": "Chaos Core",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 8
+			}
+		]
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"name": "Noelle",
+	"title": "ดอกไม้ที่หาญกล้า",
+	"description": "สาวใช้ผู้สามารถพึ่งพาได้เสมอ ของ \"กองอัศวินแห่ง Favonius\" มีความฝันว่า สักวันหนึ่งจะเป็น อัศวินอย่างเต็มตัวให้ได้",
+	"rarity": "4",
+	"element": "หิน",
+	"weapontype": "ดาบใหญ่",
+	"substat": "พลังป้องกัน",
+	"gender": "ผู้หญิง",
+	"body": "GIRL",
+	"association": "MONDSTADT",
+	"region": "Mondstadt",
+	"affiliation": "กองอัศวินแห่ง Favonius",
+	"birthdaymmdd": "3/21",
+	"birthday": "21 มีนาคม",
+	"constellation": "Parma Cordis",
+	"cv": {
+		"english": "Laura Faye Smith",
+		"chinese": "宴宁",
+		"japanese": "高尾奏音",
+		"korean": "이보희"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Prithiva Topaz Silver",
+				"count": 1
+			},
+			{
+				"name": "Valberry",
+				"count": 3
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Prithiva Topaz Fragment",
+				"count": 3
+			},
+			{
+				"name": "Basalt Pillar",
+				"count": 2
+			},
+			{
+				"name": "Valberry",
+				"count": 10
+			},
+			{
+				"name": "Damaged Mask",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Prithiva Topaz Fragment",
+				"count": 6
+			},
+			{
+				"name": "Basalt Pillar",
+				"count": 4
+			},
+			{
+				"name": "Valberry",
+				"count": 20
+			},
+			{
+				"name": "Stained Mask",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Prithiva Topaz Chunk",
+				"count": 3
+			},
+			{
+				"name": "Basalt Pillar",
+				"count": 8
+			},
+			{
+				"name": "Valberry",
+				"count": 30
+			},
+			{
+				"name": "Stained Mask",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Prithiva Topaz Chunk",
+				"count": 6
+			},
+			{
+				"name": "Basalt Pillar",
+				"count": 12
+			},
+			{
+				"name": "Valberry",
+				"count": 45
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Prithiva Topaz Gemstone",
+				"count": 6
+			},
+			{
+				"name": "Basalt Pillar",
+				"count": 20
+			},
+			{
+				"name": "Valberry",
+				"count": 60
+			},
+			{
+				"name": "Ominous Mask",
+				"count": 24
+			}
+		]
+	}
+}

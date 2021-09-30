@@ -1,0 +1,142 @@
+{
+	"name": "Perle solaire",
+	"description": "Une précieuse perle dorée et mate abritant la lumière du soleil et de la lune, dont la matière est inconnue. Une force chaleureuse s'en dégage.",
+	"weapontype": "Catalyseur",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Taux CRIT",
+	"subvalue": "6",
+	"effectname": "Rayonnement céleste",
+	"effect": "Les attaques normales augmentent pendant 6 s les DGT des compétences et des déchaînements élémentaires de {0} lorsqu'elles touchent. Les compétences et déchaînements élémentaires augmentent pendant 6 s les DGT des attaques normales de {1} lorsqu'elles touchent.",
+	"r1": [
+		"20 %",
+		"20 %"
+	],
+	"r2": [
+		"25 %",
+		"25 %"
+	],
+	"r3": [
+		"30 %",
+		"30 %"
+	],
+	"r4": [
+		"35 %",
+		"35 %"
+	],
+	"r5": [
+		"40 %",
+		"40 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Sable lumineux de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Dague de chasse rituelle",
+				"count": 3
+			},
+			{
+				"name": "Nectar de Fleur mensongère",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Roche lustrée de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Dague de chasse rituelle",
+				"count": 12
+			},
+			{
+				"name": "Nectar de Fleur mensongère",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Roche lustrée de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Dague rituelle de l'Usurier",
+				"count": 6
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Squelette sacré de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Dague rituelle de l'Usurier",
+				"count": 12
+			},
+			{
+				"name": "Nectar miroitant",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Squelette sacré de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Grande dague de l'Inspecteur",
+				"count": 9
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Corps divin de Guyun",
+				"count": 4
+			},
+			{
+				"name": "Grande dague de l'Inspecteur",
+				"count": 18
+			},
+			{
+				"name": "Nectar élémentaire",
+				"count": 12
+			}
+		]
+	}
+}

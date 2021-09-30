@@ -1,0 +1,209 @@
+{
+	"name": "Diona",
+	"combat1": {
+		"name": "Ataque Normal: Pontaria do Caçador",
+		"info": "**Ataque Normal**\nRealiza até 5 disparos consecutivos com o arco.\n\n**Ataque Carregado**\nRealiza um ataque **Disparo com Mira** mais preciso e com mais dano.\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará Dano Cryo\n\n**Ataque Imersivo** Dispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano do 5° Golpe|{param5:F1P}",
+				"Disparo com Mira|{param7:F1P}",
+				"Disparo com Mira com Energização Completa|{param8:P}",
+				"Dano Durante a Queda|{param9:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Garra de Gato Gelada",
+		"info": "Dispara uma Garra de Gato Gelada que causa Dano Cryo e cria um escudo.\n A Absorção de Dano do escudo é baseada na Vida Máxima de Diona, e sua duração depende do número de garras que atingem seu objetivo.\n\n**Tocar**\nDispara rapidamente 2 Garras de Gato Gelada.\n\n**Manter Pressionado** Retrocede rapidamente e dispara 5 Garras de Gato Geladas.\nO escudo criado pelo ataque Manter Pressionado ganhará um bônus de 75% de Absorção de Dano.\n\nO escudo tem um bônus de 250% de Absorção de Dano Cryo, e ao ser formado aplica o Elemento Cryo em seu próprio personagem por uma curta duração.",
+		"description": "Normalmente, nenhuma quantidade de gelo no copo de um bêbado faria mal algum, até que Diona usou sua Visão para criar gelo frio o suficiente para congelar o cerébro. Nota 10!",
+		"attributes": {
+			"labels": [
+				"Dano de Garras do Gato|{param1:F1P} cada",
+				"Absorção Básica de Escudo|{param2:F1P} da Vida máxima + {param3:I}",
+				"Duração|{param6:F1}s por Garra",
+				"Recarga ao Pressionar|{param4:F1}s",
+				"Recarga ao Manter Pressionado|{param5:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Coquetel Assassino",
+		"info": "Atira um coquetel gelado especial que causa Dano Cryo em uma AdE e cria uma Névoa Embriagada em uma AdE.\n\n**Névoa Embriagada**\nCausa Dano Cryo contínuo nos inimigos dentro da AdE.\nRegenera continuamente a Vida dos personagens dentro da AdE.",
+		"description": "Uma mistura horrível que até mesmo Diona considera desumana. O gosto horrível deve ser deixado apenas para os inimigos. Tem um sabor muito fresco, mas infelizmente só se pode sentir no nariz e na pele.",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}",
+				"Dano Contínuo de Área|{param2:F1P}",
+				"Cura Contínua|{param3:F2P} da Vida Máxima + {param4:I}",
+				"Duração|{param7:F1}s",
+				"Tempo de Recarga|{param5:F1}s",
+				"Energia Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Menu Secreto da Cauda do Gato",
+		"info": "Os personagens protegidos por **Garras de Gato Gelado** têm sua Veloc. Mov. aumentado em 10% e seu Consumo de Stamina diminuído em 10%."
+	},
+	"passive2": {
+		"name": "Diversão dos Bêbados",
+		"info": "Inimigos que entram na AdE do **Coquetel Assassino** causam 10% a menos de ATQ por 15s."
+	},
+	"passive3": {
+		"name": "Aperitivos Grátis",
+		"info": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de \"Liberdade\"",
+				"count": 3
+			},
+			{
+				"name": "Ponta de Flecha Robusta",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 2
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 4
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 6
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia da Liberdade",
+				"count": 9
+			},
+			{
+				"name": "Ponta de Flecha Afiada",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 4
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 4
+			},
+			{
+				"name": "Fragmento de Espada do Rei Demônio",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 6
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de Espada do Rei Demônio",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 12
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 9
+			},
+			{
+				"name": "Fragmento de Espada do Rei Demônio",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia da Liberdade",
+				"count": 16
+			},
+			{
+				"name": "Ponta de Flecha Usada",
+				"count": 12
+			},
+			{
+				"name": "Fragmento de Espada do Rei Demônio",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

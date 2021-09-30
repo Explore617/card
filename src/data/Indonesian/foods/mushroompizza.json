@@ -1,0 +1,39 @@
+{
+	"name": "Mushroom Pizza",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Makanan Pemulihan",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Memulihkan 26–30% HP Karakter yang dipilih.\nMemberikan regenerasi 450–790 HP setiap 5 detik selama 30 detik.",
+	"description": "Pizza dengan topping jamur dan keju. Saat disajikan hangat-hangat, lelehan kejunya bisa digigit sampai panjang, membuat yang memakannya menjadi lebih puas dan terasa nikmat.",
+	"suspicious": {
+		"effect": "Memulihkan 26% HP Karakter yang dipilih dan memberikan regenerasi 450 HP setiap 5 detik selama 30 detik.",
+		"description": "Pizza dengan topping jamur dan keju. Keras seperti batu, tapi asalkan gigimu kuat menggigitnya, pizza ini bisa memulihkan tenagamu."
+	},
+	"normal": {
+		"effect": "Memulihkan 28% HP Karakter yang dipilih dan memberikan regenerasi 620 HP setiap 5 detik selama 30 detik.",
+		"description": "Pizza dengan topping jamur dan keju. Saat disajikan hangat-hangat, lelehan kejunya bisa digigit sampai panjang, membuat yang memakannya menjadi lebih puas dan terasa nikmat."
+	},
+	"delicious": {
+		"effect": "Memulihkan 30% HP Karakter yang dipilih dan memberikan regenerasi 790 HP setiap 5 detik selama 30 detik.",
+		"description": "Pizza dengan topping jamur dan keju. Sangat lezat dan gurih, jamur dan kejunya bagaikan menari di atas lidahmu."
+	},
+	"ingredients": [
+		{
+			"name": "Mushroom",
+			"count": 4
+		},
+		{
+			"name": "Flour",
+			"count": 3
+		},
+		{
+			"name": "Cabbage",
+			"count": 2
+		},
+		{
+			"name": "Cheese",
+			"count": 1
+		}
+	]
+}

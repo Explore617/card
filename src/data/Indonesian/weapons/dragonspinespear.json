@@ -1,0 +1,147 @@
+{
+	"name": "Dragonspine Spear",
+	"description": "Sebuah tombak yang dibuat dari gigi naga. Anehnya, tombak ini terasa hangat saat disentuh.",
+	"weapontype": "Senjata Polearm",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Physical DMG Bonus",
+	"subvalue": "15",
+	"effectname": "Frost Burial",
+	"effect": "Saat Normal atau Charged Attack mengenai musuh, memiliki {0} persentase untuk menciptakan Everfrost Icicle di atas musuh, mengakibatkan DMG area sebesar {1} ATK. Jika musuh berada dalam efek Cryo, maka Everfrost Icicle akan mengakibatkan DMG sebesar {2} ATK. Efek ini dapat terpicu setiap 10 detik.",
+	"r1": [
+		"60%",
+		"80%",
+		"200%"
+	],
+	"r2": [
+		"70%",
+		"95%",
+		"240%"
+	],
+	"r3": [
+		"80%",
+		"110%",
+		"280%"
+	],
+	"r4": [
+		"90%",
+		"125%",
+		"320%"
+	],
+	"r5": [
+		"100%",
+		"140%",
+		"360%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Boreal Wolf's Milk Tooth",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass Pollen",
+				"count": 3
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass Pollen",
+				"count": 12
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Boreal Wolf's Cracked Tooth",
+				"count": 6
+			},
+			{
+				"name": "Mist Grass",
+				"count": 6
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass",
+				"count": 12
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Boreal Wolf's Broken Fang",
+				"count": 6
+			},
+			{
+				"name": "Mist Grass Wick",
+				"count": 9
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Boreal Wolf's Nostalgia",
+				"count": 4
+			},
+			{
+				"name": "Mist Grass Wick",
+				"count": 18
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 12
+			}
+		]
+	}
+}

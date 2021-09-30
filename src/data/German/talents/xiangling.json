@@ -1,0 +1,207 @@
+{
+	"name": "Xiangling",
+	"combat1": {
+		"name": "Standardangriff: Gebäckgefecht",
+		"info": "**Standardangriff**\nFührt bis zu 5 Lanzenstiche aus.\n\n**Heftiger Schlag**\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n**Angriff aus dem Fall**\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+		"attributes": {
+			"labels": [
+				"SCH Phase 1|{param1:F1P}",
+				"SCH Phase 2|{param2:F1P}",
+				"SCH Phase 3|{param3:F1P} + {param3:F1P}",
+				"SCH Phase 4|{param4:F1P}×4",
+				"SCH Phase 5|{param5:F1P}",
+				"SCH heftiger Schläge|{param6:P}",
+				"Ausdauerverbrauch heftiger Schläge|{param7:F1} Punkte",
+				"SCH beim Fallen|{param8:F1P}",
+				"SCH beim Fallen aus niedriger/großer Höhe|{param9:P}/{param10:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Guoba, erscheine!",
+		"info": "Ruft den Feuer spuckenden Guoba herbei, der Gegner vor ihm während der Wirkungsdauer immer wieder mit Feuer bespuckt und Pyro-Flächenschaden verursacht.",
+		"description": "Guoba mag sein Essen scharf. Ob er sein Essen so scharf verträgt, ist allerdings eine andere Sache.",
+		"attributes": {
+			"labels": [
+				"Feuer-SCH|{param1:P}",
+				"Abklingzeit|{param2:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Feuerrad",
+		"info": "Erschafft aufgrund ihrer Fähigkeit, Feuer zu kontrollieren, und ihrer Fertigkeit im Umgang mit dem Speer ein Feuerrad, das mit hoher Geschwindigkeit um sie kreist.\nDas Feuerrad bewegt sich während der Wirkungsdauer mit Xiangling und fügt allen Gegnern in seiner Bahn Pyro-Schaden zu.",
+		"description": "Das soll ein Feuer sein? Das ist höchstens ein Feuerchen!",
+		"attributes": {
+			"labels": [
+				"Wirbel-SCH Phase 1|{param1:F1P}",
+				"Wirbel-SCH Phase 2|{param2:F1P}",
+				"Wirbel-SCH Phase 3|{param3:P}",
+				"Feuerrad-SCH|{param4:P}",
+				"Dauer|{param5:F1} s",
+				"Abklingzeit|{param6:F1} s",
+				"Elementarenergie|{param7:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Kreuzfeuer",
+		"info": "Erhöht die Reichweite des Feuers von Guoba um 20 %."
+	},
+	"passive2": {
+		"name": "Scharfes Teil!",
+		"info": "Guoba hinterlässt nach dem Ende des Effekts von **Guoba, erscheine!** eine Peperoni, die den ANG beim Einsammeln 10 s lang um 10 % erhöht."
+	},
+	"passive3": {
+		"name": "Chefköchin des Restaurants Wanmin",
+		"info": "Stellt bei der perfekten Zubereitung eines Gerichts mit offensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Lehren des „Fleißes“",
+				"count": 3
+			},
+			{
+				"name": "Schleimabsonderung",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 2
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 4
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 6
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Anleitung zum „Fleiß“",
+				"count": 9
+			},
+			{
+				"name": "Schleimkondensat",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 4
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 4
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 6
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 6
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 12
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 9
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie des „Fleißes“",
+				"count": 16
+			},
+			{
+				"name": "Schleimkonzentrat",
+				"count": 12
+			},
+			{
+				"name": "Klaue des Ostwinds",
+				"count": 2
+			},
+			{
+				"name": "Krone der Weisheit",
+				"count": 1
+			}
+		]
+	}
+}

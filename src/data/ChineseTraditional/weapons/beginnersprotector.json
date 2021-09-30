@@ -1,0 +1,90 @@
+{
+	"name": "新手長槍",
+	"description": "筆直得像旗杆一般的長槍，揮舞起來頗具氣勢。足以應付大多數情況。",
+	"weapontype": "長柄武器",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "摩拉"
+			},
+			{
+				"name": "獅牙鬥士的枷鎖",
+				"count": 1
+			},
+			{
+				"name": "混沌裝置",
+				"count": 1
+			},
+			{
+				"name": "導能繪卷",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "摩拉",
+				"count": 5000
+			},
+			{
+				"name": "獅牙鬥士的鐵鍊",
+				"count": 1
+			},
+			{
+				"name": "混沌裝置",
+				"count": 4
+			},
+			{
+				"name": "導能繪卷",
+				"count": 2
+			}
+		],
+		"ascend3": [
+			{
+				"name": "摩拉",
+				"count": 5000
+			},
+			{
+				"name": "獅牙鬥士的鐵鍊",
+				"count": 2
+			},
+			{
+				"name": "混沌迴路",
+				"count": 2
+			},
+			{
+				"name": "封魔繪卷",
+				"count": 2
+			}
+		],
+		"ascend4": [
+			{
+				"name": "摩拉",
+				"count": 10000
+			},
+			{
+				"name": "獅牙鬥士的鐐銬",
+				"count": 1
+			},
+			{
+				"name": "混沌迴路",
+				"count": 4
+			},
+			{
+				"name": "封魔繪卷",
+				"count": 3
+			}
+		]
+	}
+}

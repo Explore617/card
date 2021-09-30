@@ -1,0 +1,211 @@
+{
+	"name": "Xinyan",
+	"combat1": {
+		"name": "Attaque normale : Danse du feu",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 4 coups d'épée.\n\n**Attaque chargée**\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT enchaînement attaque chargée|{param5:F1P}",
+				"DGT coup final attaque chargée|{param6:P}",
+				"Coût d'endurance attaque chargée|{param7:F1} pts/s",
+				"Durée max|{param8:F1} s",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Jeu fervent",
+		"info": "Xinyan brandit sa guitare, et inflige aux ennemis proches des DGT Pyro, et génère un bouclier grâce au soutien de l'audience.\nLe bouclier absorbe une quantité de PV proportionnelle à la DÉF de Xinyan et aux ennemis touchés :\n· 0 à 1 ennemi touché : Bouclier Niv.1\n· 2 ennemis touchés : Bouclier Niv.2\n· 3 ennemis touchés ou plus : Bouclier Niv.3, qui inflige en plus des DGT Pyro aux ennemis proches de façon intermittente.\n\nLe bouclier a les effets suivants :\n· Applique au moment de sa création l'élément Pyro à Xinyan ;\nLe bouclier est efficace à 250 % contre les DGT Pyro.",
+		"description": "Xinyan n'insiste jamais assez sur le fait que tous ces effets sont le pinacle de l'art de la scène, et qu'ils constituent un phénomène d'ordre physique n'ayant bien sûr rien à voir avec son œil divin.",
+		"attributes": {
+			"labels": [
+				"DGT instrument|{param1:P}",
+				"Absorption Bouclier Niv.1|{param2:F1P} DÉF + {param3:I}",
+				"Absorption bouclier Niv.2|{param4:F1P} DÉF + {param5:I}",
+				"Absorption bouclier Niv.3|{param6:F1P} DÉF + {param7:I}",
+				"DGT continus|{param8:F1P}",
+				"Durée du bouclier|{param9:F1} s",
+				"Temps de recharge|{param10:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Riff rebelle",
+		"info": "Grattant son instrument avec passion, Xinyan libère une vague d'ondes qui repoussent les ennemis, et infligent aux ennemis proches des DGT physiques, au plus grand plaisir du public.\nL'ambiance se réchauffe tellement que des explosions ont lieu, infligeant aux ennemis proches des DGT Pyro.",
+		"description": "Xinyan avait autrefois pour habitude de terminer toutes ses représentations de cette manière. Ce n'est pas à cause du danger qu'elle s'est arrêtée, mais parce qu'elle n'avait pas de final encore plus épique à proposer dans le cas d'un nouveau rappel.",
+		"attributes": {
+			"labels": [
+				"DGT compétence|{param1:P}",
+				"DGT Pyro continus|{param2:P}",
+				"Durée|{param5:F1} s",
+				"Temps de recharge|{param3:F1} s",
+				"Énergie élémentaire|{param4:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "« Le spectacle doit continuer, même sans audience... »",
+		"info": "Réduit le nombre d'ennemis à toucher pour déclencher chaque niveau de bouclier de **Jeu fervent** :\n· 1 ennemi touché : Bouclier Niv.2.\n· 2 ennemis touchés ou plus : Bouclier Niv.3."
+	},
+	"passive2": {
+		"name": "« ... Ça, c'est du rock ! »",
+		"info": "Les DGT physiques infligés par les personnages sous la protection du bouclier généré par **Jeu fervent** augmentent de 15 %."
+	},
+	"passive3": {
+		"name": "Recette pour un tube",
+		"info": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce la DÉF."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de l'Or",
+				"count": 3
+			},
+			{
+				"name": "Insigne du Pilleur",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 2
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 4
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de l'Or",
+				"count": 9
+			},
+			{
+				"name": "Insigne de corbeau en argent",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 4
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 4
+			},
+			{
+				"name": "Corne de Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 6
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 6
+			},
+			{
+				"name": "Corne de Monoceros Caeli",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 12
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 9
+			},
+			{
+				"name": "Corne de Monoceros Caeli",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de l'Or",
+				"count": 16
+			},
+			{
+				"name": "Insigne de corbeau en or",
+				"count": 12
+			},
+			{
+				"name": "Corne de Monoceros Caeli",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

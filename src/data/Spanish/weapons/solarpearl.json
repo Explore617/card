@@ -1,0 +1,142 @@
+{
+	"name": "Perla Solar",
+	"description": "Una perla opaca y dorada hecha de una sustancia desconocida que alberga la luz del sol y la luna. Late con una fuerza muy cálida.",
+	"weapontype": "Catalizador",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Prob. CRIT",
+	"subvalue": "6",
+	"effectname": "Brillo solar",
+	"effect": "Tras atacar con un Ataque Normal, el daño de la Habilidad Elemental y la Habilidad Definitiva aumenta en un {0} durante 6 s. Además, tras lanzar una Habilidad Elemental o Definitiva, el daño de Ataque Normal aumenta en un {1} durante 6 s.",
+	"r1": [
+		"20%",
+		"20%"
+	],
+	"r2": [
+		"25%",
+		"25%"
+	],
+	"r3": [
+		"30%",
+		"30%"
+	],
+	"r4": [
+		"35%",
+		"35%"
+	],
+	"r5": [
+		"40%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Arena brillante de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Daga de cacería",
+				"count": 3
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Piedra reluciente de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Daga de cacería",
+				"count": 12
+			},
+			{
+				"name": "Néctar de Megaflora",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Piedra reluciente de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Daga del agente",
+				"count": 6
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Reliquia de Guyun",
+				"count": 3
+			},
+			{
+				"name": "Daga del agente",
+				"count": 12
+			},
+			{
+				"name": "Néctar brillante",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Reliquia de Guyun",
+				"count": 6
+			},
+			{
+				"name": "Daga larga del inspector",
+				"count": 9
+			},
+			{
+				"name": "Néctar energético",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Cuerpo divino de Guyun",
+				"count": 4
+			},
+			{
+				"name": "Daga larga del inspector",
+				"count": 18
+			},
+			{
+				"name": "Néctar energético",
+				"count": 12
+			}
+		]
+	}
+}

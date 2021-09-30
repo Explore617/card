@@ -1,0 +1,147 @@
+{
+	"name": "Fruto do Sabugueiro",
+	"description": "Uma fruta que possui uma aura estranha e gélida. Uma leve sensação de agonia emana dela.",
+	"weapontype": "Catalisador",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "ATQ",
+	"subvalue": "9",
+	"effectname": "Enterro Congelante",
+	"effect": "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de {0} de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando {1} de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem {2} de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s.",
+	"r1": [
+		"60%",
+		"80%",
+		"200%"
+	],
+	"r2": [
+		"70%",
+		"95%",
+		"240%"
+	],
+	"r3": [
+		"80%",
+		"110%",
+		"280%"
+	],
+	"r4": [
+		"90%",
+		"125%",
+		"320%"
+	],
+	"r5": [
+		"100%",
+		"140%",
+		"360%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grilhões de Dandelion",
+				"count": 3
+			},
+			{
+				"name": "Dispositivo do Caos",
+				"count": 3
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Correntes do Gladiador de Dandelion",
+				"count": 3
+			},
+			{
+				"name": "Dispositivo do Caos",
+				"count": 12
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Correntes do Gladiador de Dandelion",
+				"count": 6
+			},
+			{
+				"name": "Circuito do Caos",
+				"count": 6
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Manilhas do Gladiador de Dandelion",
+				"count": 3
+			},
+			{
+				"name": "Circuito do Caos",
+				"count": 12
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Manilhas do Gladiador de Dandelion",
+				"count": 6
+			},
+			{
+				"name": "Fornalha do Caos",
+				"count": 9
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Sonho do Gladiador de Dandelion",
+				"count": 4
+			},
+			{
+				"name": "Fornalha do Caos",
+				"count": 18
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 12
+			}
+		]
+	}
+}

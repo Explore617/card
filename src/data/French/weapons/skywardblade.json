@@ -1,0 +1,152 @@
+{
+	"name": "Lame de la Voûte d'Azur",
+	"description": "Une épée de chevalier symbolisant l'honneur retrouvé de Dvalin. La bénédiction de l'Archon du Vent est inscrite sur le dos de la lame, lui conférant la puissance du ciel et du vent.",
+	"weapontype": "Épée à une main",
+	"rarity": "5",
+	"baseatk": 46,
+	"substat": "Recharge d'énergie",
+	"subvalue": "12",
+	"effectname": "Croc du Perceur de ciel",
+	"effect": "Augmente le taux CRIT de {0}. Le déchaînement élémentaire confère pendant 12 s l'effet Croc du Perceur de ciel : la VIT de déplacement augmente de {1}, la VIT d'ATQ augmente de {2}, et les attaques normales et chargées infligent {3} de DGT d'ATQ supplémentaires lorsqu'elles touchent.",
+	"r1": [
+		"4 %",
+		"10 %",
+		"10 %",
+		"20 %"
+	],
+	"r2": [
+		"5 %",
+		"10 %",
+		"10 %",
+		"25 %"
+	],
+	"r3": [
+		"6 %",
+		"10 %",
+		"10 %",
+		"30 %"
+	],
+	"r4": [
+		"7 %",
+		"10 %",
+		"10 %",
+		"35 %"
+	],
+	"r5": [
+		"8 %",
+		"10 %",
+		"10 %",
+		"40 %"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 10000
+			},
+			{
+				"name": "Dent de lait du Loup boréal",
+				"count": 5
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 5
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 5
+			},
+			{
+				"name": "Branche morte des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Bave de Blob",
+				"count": 12
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Croc brisé du Loup boréal",
+				"count": 9
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 9
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 9
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 5
+			},
+			{
+				"name": "Feuilles mortes des lignes énergétiques",
+				"count": 18
+			},
+			{
+				"name": "Mucus de Blob",
+				"count": 14
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 55000
+			},
+			{
+				"name": "Croc fendu du Loup boréal",
+				"count": 9
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 14
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 9
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 65000
+			},
+			{
+				"name": "Nostalgie du Loup boréal",
+				"count": 6
+			},
+			{
+				"name": "Pousse des lignes énergétiques",
+				"count": 27
+			},
+			{
+				"name": "Essence de Blob",
+				"count": 18
+			}
+		]
+	}
+}

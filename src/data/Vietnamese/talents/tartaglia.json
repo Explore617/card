@@ -1,0 +1,221 @@
+{
+	"name": "Tartaglia",
+	"combat1": {
+		"name": "Tấn Công Thường: Chém Mưa",
+		"info": "**Tấn Công Thường**\nThực hiện tối đa 6 lần bắn tên liên tiếp.\n\n**Trọng Kích**\nSát thương càng cao, **ngắm bắn** càng chính xác.\nKhi ngắm bắn, sức mạnh Nguyên Tố Thủy sẽ tích tụ trên mũi tên. Mũi tên tụ đầy dòng chảy sẽ gây Sát Thương Nguyên Tố Thủy khi bắn trúng địch, và thi triển hiệu quả Đoạn Lưu.\n\n**Đoạn Lưu**\nĐịch ở trạng thái Đoạn Lưu khi bị Tartaglia tấn công, sẽ tạo hiệu quả Sát Thương Phạm Vi Nguyên Tố Thủy. Sát thương do những hiệu quả này gây ra được xem là tấn công thường. \n·Đoạn Lưu - Né: Khi tụ lực ngắm bắn trúng địch đang bị Đoạn Lưu ảnh hưởng, sẽ gây sát thương phạm vi liên tục. Đoạn Lưu - Né mỗi 0.7s mới có hiệu quả 1 lần.\n·Đoạn Lưu - Phá: Khi đánh bại địch bị Đoạn Lưu ảnh hưởng sẽ tạo xoáy nước, tăng thêm hiệu quả Đoạn Lưu cho địch ở gần.\n\n**Tấn Công Khi Đáp**\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi.\nKhi ở trạng thái cận chiến Trang Phục Ma Vương - Thủy Triều, không thể thi triển tấn công khi đáp xuống.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Lần 1|{param1:F1P}",
+				"Sát Thương Lần 2|{param2:F1P}",
+				"Sát Thương Lần 3|{param3:F1P}",
+				"Sát Thương Lần 4|{param4:F1P}",
+				"Sát Thương Lần 5|{param5:F1P}",
+				"Sát Thương Lần 6|{param6:F1P}",
+				"Ngắm Bắn|{param7:F1P}",
+				"Tụ Lực Ngắm Bắn|{param8:P}",
+				"Sát Thương Đoạn Lưu - Né|{param9:F1P}*3",
+				"Sát Thương Đoạn Lưu - Phá|{param10:F1P}",
+				"Thời gian duy trì Đoạn Lưu|{param14:F1} giây",
+				"Sát Thương Khi Rơi|{param11:F1P}",
+				"Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param12:P}/{param13:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Trang Phục Ma Vương - Thủy Triều",
+		"info": "Giải phóng vũ trang cấu tạo từ nước tinh khiết, gây cho địch xung quanh Sát Thương Nguyên Tố Thủy, và vào trạng thái cận chiến.\nỞ trạng thái này, tấn công thường và trọng kích của Tartaglia sẽ chuyển thành sát thương Nguyên Tố Thủykhông thể bị đính kèm thay thế, và có thay đổi như sau:\n\n**Tấn Công Thường**\nThực hiện tối đa 6 lần chém liên tiếp Nguyên Tố Thủy.\n\n**Trọng Kích**\nTiêu hao thể lực, đánh ra hai kiếm về phía trước trong chớp mắt, gây Sát Thương Nguyên Tố Thủy.\n\n**Đoạn Lưu - Chém**\nTấn công gần, đánh trúng kẻ địch bị Đoạn Lưu ảnh hưởng sẽ thi triển Đoạn Lưu - Chém 1 lần, gây Sát Thương Phạm Vi Nguyên Tố Thủy. Sát thương do Đoạn Lưu - Chém gây ra được coi là sát thương kỹ năng nguyên tố, mỗi 1.5s mới có hiệu quả 1 lần.\n\nSau 30s, hoặc thi triển để hủy hiệu quả kỹ năng lần nữa, sẽ trở về trạng thái đánh xa, kỹ năng cũng sẽ vào thời gian chờ. Trạng thái cận chiến kéo dài càng lâu, thời gian chờ càng dài.\nKéo dài sau 30s sẽ tự động trở về trạng thái đánh xa, kỹ năng cũng sẽ bước vào thời gian chờ lâu hơn",
+		"description": "Để khắc phục nhược điểm dùng cung không tốt, anh đã chọn cung làm vũ khí. Nhưng khi chiến đấu thực sự, ắt sẽ lấy ra sức mạnh thực sự...",
+		"attributes": {
+			"labels": [
+				"Trạng thái gây ra sát thương|{param1:P}",
+				"Sát Thương Lần 1|{param2:F1P}",
+				"Sát Thương Lần 2|{param3:F1P}",
+				"Sát Thương Lần 3|{param4:F1P}",
+				"Sát Thương Lần 4|{param5:F1P}",
+				"Sát Thương Lần 5|{param6:F1P}",
+				"Sát Thương Lần 6|{param7:F1P}+{param8:F1P}",
+				"Sát Thương Trọng Kích|{param9:F1P}+{param10:F1P}",
+				"Thể lực Trọng Kích tiêu hao|{param12:F1} điểm",
+				"Sát Thương Đoạn Lưu - Chém|{param11:P}",
+				"Thời Gian Kéo Dài Tối Đa|{param13:F1}s",
+				"CD|{param14:F1} đến {param15:F1}s",
+				"CD sau khi dùng hết thời gian kéo dài|{param16:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Kỹ năng Thượng Thừa - Ánh Sáng Tận Diệt",
+		"info": "Dựa theo trạng thái hiện tại của Tartaglia, thực hiện tấn công khác nhau: \n\n**Trạng thái đánh xa - Đạn Ma**\nBắn ra mũi tên tràn đầy nguyên tố thủy về phía trước, gây Sát Thương Phạm Vi Nguyên Tố Thủy, và thi triển hiệu quả Đoạn Lưu.\nSau khi thi triển, trả lại một phần Năng Lượng Nguyên Tố.\n\n**Trạng thái cận chiến - Tận Diệt Thủy Quang**\nTrảm kích phạm vi lớn, gây Sát Thương Nguyên Tố Thủy cho tất cả địch ở gần và kích hoạt Đoạn Lưu - Nổ.\n\n**Đoạn Lưu - Nổ**\nTận Diệt Thủy Quang đánh trúng địch trong trạng thái Đoạn Lưu sẽ tiêu hao hiệu quả Đoạn Lưu và tung tóe nước, gây Sát Thương Phạm Vi Nguyên Tố Thủy. Sát thương của Đoạn Lưu - Nổ được xem như sát thương kỹ năng nộ.",
+		"description": "Dòng nước chảy vội, rất hiếm gặp trên quê hương được tuyết bao phủ của anh ấy. Có lẽ là do hiểu được sự quý giá của nó nên anh ấy có thể điều khiển nó.",
+		"attributes": {
+			"labels": [
+				"Sát Thương Kỹ Năng - Cận Chiến|{param1:P}",
+				"Sát Thương Kỹ Năng - Đánh Xa|{param3:P}",
+				"Sát Thương Đoạn Lưu - Nổ|{param2:P}",
+				"Kỹ năng trả lại năng lượng Nguyên Tố (đánh xa)|{param4:I}",
+				"CD|{param5:F1}s",
+				"Năng Lượng Nguyên Tố|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Kéo Dài Bất Tận",
+		"info": "Thời gian hiệu quả Đoạn Lưu kéo dài 8 giây."
+	},
+	"passive2": {
+		"name": "Thủy Hình Kiếm",
+		"info": "Khi ở trạng thái cận chiến của **Trang Phục Ma Vương - Thủy Triều**, tấn công thường và trọng kích tạo thành bạo kích sẽ tạo ra thêm hiệu quả Đoạn Lưu cho kẻ địch bị đánh trúng."
+	},
+	"passive3": {
+		"name": "Tinh Thông Võ Thuật",
+		"info": "Tăng 1 cấp **tấn công thường** cho nhân vật của bản thân trong đội."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Bài Giảng Của \"Tự Do\"",
+				"count": 3
+			},
+			{
+				"name": "Phù Hiệu Tân Binh",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 2
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 4
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 6
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Hướng Dẫn Của \"Tự Do\"",
+				"count": 9
+			},
+			{
+				"name": "Phù Hiệu Sĩ Quan",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 4
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 4
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 6
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 6
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 12
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 9
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Triết Học Của \"Tự Do\"",
+				"count": 16
+			},
+			{
+				"name": "Phù Hiệu Hiệu Úy",
+				"count": 12
+			},
+			{
+				"name": "Đao Ma Vương - Mảnh Vỡ",
+				"count": 2
+			},
+			{
+				"name": "Vương Miện Trí Thức",
+				"count": 1
+			}
+		]
+	}
+}

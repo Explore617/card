@@ -1,0 +1,142 @@
+{
+	"name": "Arco Compuesto",
+	"description": "Un arco de aleación de metal con unos engranajes para estirar más la cuerda. Su extraña estructura hace que sea difícil de manejar, pero sus flechas golpean al objetivo con una fuerza impresionante.",
+	"weapontype": "Arco",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Bono de Daño Físico",
+	"subvalue": "15",
+	"effectname": "Flecha de infusión",
+	"effect": "Al golpear a un enemigo con Ataques Normales y Cargados, aumenta el ATQ en un {0} y la Vel. de Ataque Normal en un {1} durante 6 s. Este efecto puede acumularse hasta 4 veces y activarse una vez cada 0.3 s.",
+	"r1": [
+		"4%",
+		"1.2%"
+	],
+	"r2": [
+		"5%",
+		"1.5%"
+	],
+	"r3": [
+		"6%",
+		"1.8%"
+	],
+	"r4": [
+		"7%",
+		"2.1%"
+	],
+	"r5": [
+		"8%",
+		"2.4%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grano de siderita oscura",
+				"count": 3
+			},
+			{
+				"name": "Fragmento de hueso frágil",
+				"count": 3
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Lámina de siderita oscura",
+				"count": 3
+			},
+			{
+				"name": "Fragmento de hueso frágil",
+				"count": 12
+			},
+			{
+				"name": "Insignia del recluta",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lámina de siderita oscura",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de hueso sólido",
+				"count": 6
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Fragmento de siderita oscura",
+				"count": 3
+			},
+			{
+				"name": "Fragmento de hueso sólido",
+				"count": 12
+			},
+			{
+				"name": "Insignia del sargento",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Fragmento de siderita oscura",
+				"count": 6
+			},
+			{
+				"name": "Fragmento de hueso fosilizado",
+				"count": 9
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Trozo de siderita oscura",
+				"count": 4
+			},
+			{
+				"name": "Fragmento de hueso fosilizado",
+				"count": 18
+			},
+			{
+				"name": "Insignia del oficial",
+				"count": 12
+			}
+		]
+	}
+}

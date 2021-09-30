@@ -1,0 +1,137 @@
+{
+	"name": "Lame kageuchi d'Amenoma",
+	"description": "Une lame qui aurait été fabriquée sur commande pour un célèbre samouraï capable de trancher même le plus robuste des guerriers tengu, célèbres pour leur habileté à utiliser leur incroyable vitesse pour fendre les airs.",
+	"weapontype": "Épée à une main",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "ATQ",
+	"subvalue": "12",
+	"effectname": "Héritage d'Iwakura",
+	"effect": "L'utilisation d'une compétence élémentaire accorde 1 graine d'héritage. Cet effet peut être déclenché une fois toutes les 5 s. Chaque graine d'héritage dure 30 s, et un maximum de 3 graines d'héritage peuvent être cumulées simultanément. Après avoir utilisé un déchaînement élémentaire, toutes les graines d'héritage sont consommées et après 2 s, le personnage récupère {0} pts d'énergie élémentaire pour chaque graine consommée.",
+	"r1": [
+		"6"
+	],
+	"r2": [
+		"7,5"
+	],
+	"r3": [
+		"9"
+	],
+	"r4": [
+		"10,5"
+	],
+	"r5": [
+		"12"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Branche marine de corail",
+				"count": 3
+			},
+			{
+				"name": "Engrenage du chaos",
+				"count": 3
+			},
+			{
+				"name": "Garde-main ancien",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Branche marine de gemme",
+				"count": 3
+			},
+			{
+				"name": "Engrenage du chaos",
+				"count": 12
+			},
+			{
+				"name": "Garde-main ancien",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Branche marine de gemme",
+				"count": 6
+			},
+			{
+				"name": "Axe du chaos",
+				"count": 6
+			},
+			{
+				"name": "Garde-main kageuchi",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Branche marine de jade",
+				"count": 3
+			},
+			{
+				"name": "Axe du chaos",
+				"count": 12
+			},
+			{
+				"name": "Garde-main kageuchi",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Branche marine de jade",
+				"count": 6
+			},
+			{
+				"name": "Œil du chaos",
+				"count": 9
+			},
+			{
+				"name": "Garde-main célèbre",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Branche marine d'or",
+				"count": 4
+			},
+			{
+				"name": "Œil du chaos",
+				"count": 18
+			},
+			{
+				"name": "Garde-main célèbre",
+				"count": 12
+			}
+		]
+	}
+}

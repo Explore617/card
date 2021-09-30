@@ -1,0 +1,205 @@
+{
+	"name": "Pengembara (Anemo)",
+	"combat1": {
+		"name": "Foreign Ironwind",
+		"info": "**Normal Attack**\nMelancarkan hingga 5 serangan berturut-turut.\n\n**Charged Attack**\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n**Plunging Attack**\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+		"attributes": {
+			"labels": [
+				"DMG Tahap 1|{param1:F1P}",
+				"DMG Tahap 2|{param2:F1P}",
+				"DMG Tahap 3|{param3:F1P}",
+				"DMG Tahap 4|{param4:F1P}",
+				"DMG Tahap 5|{param5:F1P}",
+				"DMG Charged Attack|{param6:F1P}+{param7:F1P}",
+				"Konsumsi Stamina Charged Attack|{param8:F1}pt",
+				"DMG Selama Plunging|{param9:F1P}",
+				"DMG Plunging Attack Min./Maks.|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Palm Fortex",
+		"info": "Menggenggam kekuatan angin, kamu menciptakan pusaran hampa di telapak tanganmu, yang terus mengakibatkan Anemo DMG ke musuh di depan.\nPusaran hampa itu meledak saat durasi skill berakhir untuk mengakibatkan Anemo DMG yang lebih besar lagi dalam area luas.\n\n**Tahan**\nDMG dan area akan terus membesar.\n\n**Elemental Absorption**\nJika pusarannya bersentuhan dengan elemen Hydro/Pyro/Cryo/Electro, ia akan mengakibatkan tambahan Elemental DMG dengan tipe tersebut.\nElemental Absorption hanya dapat terjadi sekali untuk setiap penggunaan skill.",
+		"description": "Kamu berbincang dengan Paimon tentang cara menggenggam kekuatan angin yang tak terlihat.",
+		"attributes": {
+			"labels": [
+				"DMG Tebasan Pertama|{param1:F1P}",
+				"DMG Tebasan Maksimum|{param2:F1P}",
+				"DMG Pusaran Pertama|{param3:P}",
+				"DMG Pusaran Maks.|{param4:P}",
+				"Cooldown Dasar|{param5:F1}dtk",
+				"Cooldown Menahan Maks.|{param6:F1}dtk"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Gust Surge",
+		"info": "Memandu jalur aliran angin, kamu memanggil topan yang terus maju ke depan. Topannya menghisap masuk benda-benda dan musuh ke dalam serta mengakibatkan Anemo DMG berkelanjutan.\n\n**Elemental Absorption**\nJika topan bersentuhan dengan elemen Hydro/Pyro/Cryo/Electro, ia akan mengakibatkan tambahan Elemental DMG dengan tipe tersebut.\nElemental Absorption hanya dapat terjadi sekali untuk setiap penggunaan skill.",
+		"description": "Kamu dan Paimon mempelajari kepakan sayap kupu-kupu.",
+		"attributes": {
+			"labels": [
+				"DMG Tornado|{param1:F1P}",
+				"Tambahan Elemental DMG|{param2:F1P}",
+				"Durasi|{param3:F1}dtk",
+				"Cooldown|{param4:F1}dtk",
+				"Konsumsi Energy|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Slitting Wind",
+		"info": "Serangan tahap terakhir Normal Attack akan menciptakan sebuah gelombang angin yang mengakibatkan Anemo DMG sebesar 60% ATK."
+	},
+	"passive2": {
+		"name": "Second Wind",
+		"info": "Mengalahkan musuh dengan skill **Palm Vortex** akan memulihkan 2% HP setiap detik selama 5 detik.\nEfek ini dapat terpicu setiap 5 detik."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Freedom\"",
+				"count": 3
+			},
+			{
+				"name": "Divining Scroll",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 2
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to \"Freedom\"",
+				"count": 6
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to \"Resistance\"",
+				"count": 9
+			},
+			{
+				"name": "Sealed Scroll",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 4
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 4
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Freedom\"",
+				"count": 6
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 6
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 9
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Ballad\"",
+				"count": 16
+			},
+			{
+				"name": "Forbidden Curse Scroll",
+				"count": 12
+			},
+			{
+				"name": "Dvalin's Sigh",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,153 @@
+{
+	"name": "Kamisato Ayaka",
+	"title": "Garça da Geada",
+	"description": "Filha do Clã Kamisato da Comissão Yashiro. Solene e elegante, e também sábia e forte.",
+	"rarity": "5",
+	"element": "Cryo",
+	"weapontype": "Espada",
+	"substat": "Dano Crítico",
+	"gender": "Feminino",
+	"body": "GIRL",
+	"association": "INAZUMA",
+	"region": "Inazuma",
+	"affiliation": "Comissão de Yashiro",
+	"birthdaymmdd": "9/28",
+	"birthday": "28 de setembro",
+	"constellation": "Grus Nivis",
+	"cv": {
+		"english": "Erica Mendez",
+		"chinese": "小N",
+		"japanese": "早見沙織",
+		"korean": "이유리"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Lasca de Jade Shivada",
+				"count": 1
+			},
+			{
+				"name": "Flor Sakura",
+				"count": 3
+			},
+			{
+				"name": "Protetor de Mão Velho",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Fragmento de Jade Shivada",
+				"count": 3
+			},
+			{
+				"name": "Coração do Mecanismo Contínuo",
+				"count": 2
+			},
+			{
+				"name": "Flor Sakura",
+				"count": 10
+			},
+			{
+				"name": "Protetor de Mão Velho",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Fragmento de Jade Shivada",
+				"count": 6
+			},
+			{
+				"name": "Coração do Mecanismo Contínuo",
+				"count": 4
+			},
+			{
+				"name": "Flor Sakura",
+				"count": 20
+			},
+			{
+				"name": "Protetor de Mão Kageuchi",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Pedaço de Jade Shivada",
+				"count": 3
+			},
+			{
+				"name": "Coração do Mecanismo Contínuo",
+				"count": 8
+			},
+			{
+				"name": "Flor Sakura",
+				"count": 30
+			},
+			{
+				"name": "Protetor de Mão Kageuchi",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Pedaço de Jade Shivada",
+				"count": 6
+			},
+			{
+				"name": "Coração do Mecanismo Contínuo",
+				"count": 12
+			},
+			{
+				"name": "Flor Sakura",
+				"count": 45
+			},
+			{
+				"name": "Protetor de Mão Famoso",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Gema de Jade Shivada",
+				"count": 6
+			},
+			{
+				"name": "Coração do Mecanismo Contínuo",
+				"count": 20
+			},
+			{
+				"name": "Flor Sakura",
+				"count": 60
+			},
+			{
+				"name": "Protetor de Mão Famoso",
+				"count": 24
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"name": "キンギョソウ",
+	"description": "料理にすると食べられる植物。香料として食材に加えると不思議な味になる。",
+	"sortorder": 1262,
+	"category": "EXCHANGE",
+	"materialtype": "食材",
+	"source": [
+		"水辺で採集"
+	]
+}

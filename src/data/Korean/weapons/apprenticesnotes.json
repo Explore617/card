@@ -1,0 +1,90 @@
+{
+	"name": "학도의 노트",
+	"description": "어느 우등생이 남긴 학습노트, 아담한 글씨가 매우 아름답다. 실용적인 주문이 적지 않게 기록되어 있다",
+	"weapontype": "법구",
+	"rarity": "1",
+	"baseatk": 23,
+	"substat": "",
+	"subvalue": "",
+	"effectname": "",
+	"effect": "",
+	"r1": [],
+	"r2": [],
+	"r3": [],
+	"r4": [],
+	"r5": [],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "모라"
+			},
+			{
+				"name": "고탑 왕의 잔해",
+				"count": 1
+			},
+			{
+				"name": "무거운 나팔",
+				"count": 1
+			},
+			{
+				"name": "부서진 가면",
+				"count": 1
+			}
+		],
+		"ascend2": [
+			{
+				"name": "모라",
+				"count": 5000
+			},
+			{
+				"name": "고탑 왕의 절망",
+				"count": 1
+			},
+			{
+				"name": "무거운 나팔",
+				"count": 4
+			},
+			{
+				"name": "부서진 가면",
+				"count": 2
+			}
+		],
+		"ascend3": [
+			{
+				"name": "모라",
+				"count": 5000
+			},
+			{
+				"name": "고탑 왕의 절망",
+				"count": 2
+			},
+			{
+				"name": "흑동 나팔",
+				"count": 2
+			},
+			{
+				"name": "오염된 가면",
+				"count": 2
+			}
+		],
+		"ascend4": [
+			{
+				"name": "모라",
+				"count": 10000
+			},
+			{
+				"name": "고탑 왕의 조각",
+				"count": 1
+			},
+			{
+				"name": "흑동 나팔",
+				"count": 4
+			},
+			{
+				"name": "오염된 가면",
+				"count": 3
+			}
+		]
+	}
+}

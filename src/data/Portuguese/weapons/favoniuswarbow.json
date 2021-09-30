@@ -1,0 +1,142 @@
+{
+	"name": "Arco de Guerra de Favonius",
+	"description": "Um arco recurvo usado pelos Cavaleiros de Favonius. Apenas os melhores arqueiros conseguem tirar todo o seu potencial.",
+	"weapontype": "Arco",
+	"rarity": "4",
+	"baseatk": 41,
+	"substat": "Recarga de Energia",
+	"subvalue": "13.3",
+	"effectname": "Companhia do Vento",
+	"effect": "Os Acertos Críticos possuem {0} de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada {1}s.",
+	"r1": [
+		"60%",
+		"12"
+	],
+	"r2": [
+		"70%",
+		"10.5"
+	],
+	"r3": [
+		"80%",
+		"9"
+	],
+	"r4": [
+		"90%",
+		"7.5"
+	],
+	"r5": [
+		"100%",
+		"6"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Grilhões de Dandelion",
+				"count": 3
+			},
+			{
+				"name": "Dispositivo do Caos",
+				"count": 3
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Correntes do Gladiador de Dandelion",
+				"count": 3
+			},
+			{
+				"name": "Dispositivo do Caos",
+				"count": 12
+			},
+			{
+				"name": "Néctar da Flor Gigante",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Correntes do Gladiador de Dandelion",
+				"count": 6
+			},
+			{
+				"name": "Circuito do Caos",
+				"count": 6
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Manilhas do Gladiador de Dandelion",
+				"count": 3
+			},
+			{
+				"name": "Circuito do Caos",
+				"count": 12
+			},
+			{
+				"name": "Néctar Brilhante",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Manilhas do Gladiador de Dandelion",
+				"count": 6
+			},
+			{
+				"name": "Fornalha do Caos",
+				"count": 9
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Sonho do Gladiador de Dandelion",
+				"count": 4
+			},
+			{
+				"name": "Fornalha do Caos",
+				"count": 18
+			},
+			{
+				"name": "Néctar Elemental",
+				"count": 12
+			}
+		]
+	}
+}

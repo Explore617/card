@@ -1,0 +1,12 @@
+{
+	"name": "Prithiva Topaz Sliver",
+	"description": "Character Ascension Material.",
+	"sortorder": 1833,
+	"rarity": "2",
+	"category": "AVATAR_MATERIAL",
+	"materialtype": "Character Level-Up Material",
+	"source": [
+		"Dropped by Geo Hypostases",
+		"Purchase from the Souvenir Shop"
+	]
+}

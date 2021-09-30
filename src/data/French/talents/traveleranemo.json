@@ -1,0 +1,205 @@
+{
+	"name": "Voyageuse (Anémo)",
+	"combat1": {
+		"name": "Attaque normale : Vents de la discorde",
+		"info": "**Attaque normale**\nEnchaîne jusqu'à 5 coups d'épée.\n\n**Attaque chargée**\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n**Attaque plongeante**\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+		"attributes": {
+			"labels": [
+				"DGT 1er coup|{param1:F1P}",
+				"DGT 2e coup|{param2:F1P}",
+				"DGT 3e coup|{param3:F1P}",
+				"DGT 4e coup|{param4:F1P}",
+				"DGT 5e coup|{param5:F1P}",
+				"DGT attaque chargée|{param6:F1P}+{param7:F1P}",
+				"Coût d'endurance attaque chargée|{param8:F1} pts",
+				"DGT durant la chute|{param9:F1P}",
+				"DGT chute basse/élevée|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Vortex destructeur",
+		"info": "Un vortex de vent, tournant et tranchant, se forme dans la paume de votre main, infligeant des DGT Anémo continus aux ennemis en face.\nLe vortex finit par exploser à la fin de la compétence ; l'explosion couvre une zone plus large, et inflige des DGT Anémo plus importants.\n\n**Appui long**\nAugmente les DGT et la zone d'effet.\n\n**Absorption élémentaire**\nLe vortex absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels il entre en contact ; ceux-ci lui confèrent un bonus de DGT de l'élément correspondant.\nUne seule réaction d'absorption élémentaire peut avoir lieu par utilisation.",
+		"description": "Vous avez discuté de la maîtrise de vos nouveaux pouvoirs Anémo avec Paimon.",
+		"attributes": {
+			"labels": [
+				"DGT de base|{param1:F1P}",
+				"DGT max|{param2:F1P}",
+				"DGT de base explosion|{param3:P}",
+				"DGT max explosion|{param4:P}",
+				"TdR de base|{param5:F1} s",
+				"TdR charge max|{param6:F1} s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Rafale de vent",
+		"info": "Vous invoquez une tornade qui attire les objets et les ennemis en avançant, et qui inflige des DGT Anémo continus.\n\n**Absorption élémentaire**\nLa tornade absorbe les éléments Hydro, Pyro, Cryo et Électro avec lesquels elle entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.\nUn seul élément peut être absorbé à la fois.",
+		"description": "Vous avez étudié le battement des ailes du papillon avec Paimon.",
+		"attributes": {
+			"labels": [
+				"DGT tornade|{param1:F1P}",
+				"Bonus DGT élémentaires|{param2:F1P}",
+				"Durée|{param3:F1} s",
+				"Temps de recharge|{param4:F1} s",
+				"Énergie élémentaire|{param5:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Vent du ciel déchiré",
+		"info": "Le dernier coup d'attaque normale libère une lame de vent, qui inflige une quantité de DGT Anémo équivalant à 60 % de l'ATQ aux ennemis sur sa route."
+	},
+	"passive2": {
+		"name": "Vent de guérison",
+		"info": "**Vortex destructeur** restaure 2 % des PV par seconde pendant 5 s lorsqu'il élimine un ennemi.\nCet effet peut être déclenché une fois toutes les 5 s."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Enseignement de la Liberté",
+				"count": 3
+			},
+			{
+				"name": "Parchemin divinatoire",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 2
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide de la Résistance",
+				"count": 9
+			},
+			{
+				"name": "Parchemin sigillé",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 4
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 4
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophie de la Liberté",
+				"count": 6
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 6
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophie de la Résistance",
+				"count": 12
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 9
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophie de la Poésie",
+				"count": 16
+			},
+			{
+				"name": "Parchemin maudit",
+				"count": 12
+			},
+			{
+				"name": "Souffle de Stormterror",
+				"count": 2
+			},
+			{
+				"name": "Couronne de la sagesse",
+				"count": 1
+			}
+		]
+	}
+}

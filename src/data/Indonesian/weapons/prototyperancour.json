@@ -1,0 +1,137 @@
+{
+	"name": "Prototype Rancour",
+	"description": "Pedang panjang kuno yang ditemukan di Blackcliff Forge. Dapat dengan mudah memotong batu bagaikan pisau memotong batangan mentega.",
+	"weapontype": "Sword",
+	"rarity": "4",
+	"baseatk": 44,
+	"substat": "Physical DMG Bonus",
+	"subvalue": "7.5",
+	"effectname": "Crushed Stone",
+	"effect": "Saat Normal atau Charged Attack mengenai musuh, meningkatkan {0} ATK dan DEF selama 6 detik. Maksimum 4 lapis. Dapat terpicu setiap 0,3 detik.",
+	"r1": [
+		"4%"
+	],
+	"r2": [
+		"5%"
+	],
+	"r3": [
+		"6%"
+	],
+	"r4": [
+		"7%"
+	],
+	"r5": [
+		"8%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Mist Veiled Lead Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass Pollen",
+				"count": 3
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Mist Veiled Mercury Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass Pollen",
+				"count": 12
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Mist Veiled Mercury Elixir",
+				"count": 6
+			},
+			{
+				"name": "Mist Grass",
+				"count": 6
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Mist Veiled Gold Elixir",
+				"count": 3
+			},
+			{
+				"name": "Mist Grass",
+				"count": 12
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Mist Veiled Gold Elixir",
+				"count": 6
+			},
+			{
+				"name": "Mist Grass Wick",
+				"count": 9
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Mist Veiled Primo Elixir",
+				"count": 4
+			},
+			{
+				"name": "Mist Grass Wick",
+				"count": 18
+			},
+			{
+				"name": "Lieutenant's Insignia",
+				"count": 12
+			}
+		]
+	}
+}

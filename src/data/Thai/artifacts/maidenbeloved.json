@@ -1,0 +1,34 @@
+{
+	"name": "Maiden Beloved",
+	"rarity": [
+		"4",
+		"5"
+	],
+	"2pc": "เพิ่มผลของการรักษา ตัวละครขึ้น 15%",
+	"4pc": "ภายในเวลา 10 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย สมาชิกทีมทั้งหมดในทีมจะได้รับ การรักษาเพิ่มขึ้น 20%",
+	"flower": {
+		"name": "Maiden's Distant Love",
+		"relictype": "Flower of Life",
+		"description": "กลิ่นหอมที่ไม่เคยจางหายของดอกไม้ที่จะไม่มีวันแห้งเหี่ยวลง"
+	},
+	"plume": {
+		"name": "Maiden's Heart-stricken Infatuation",
+		"relictype": "Plume of Death",
+		"description": "ขนนกที่แบกรับความปรารถนาของ ใครบางคนไว้ เหมือนกับนกที่อพยพมาตามลม"
+	},
+	"sands": {
+		"name": "Maiden's Passing Youth",
+		"relictype": "Sands of Eon",
+		"description": "เข็มของนาฬิกาไม่เคยหยุด แต่ยุคทองอันงดงามของหญิงสาวที่ถูกห้อมล้อมด้วยความรักนั้นต้องหยุดลงสักวัน"
+	},
+	"goblet": {
+		"name": "Maiden's Fleeting Leisure",
+		"relictype": "Goblet of Eonothem",
+		"description": "ภาชนะที่ไม่ได้ใช้บรรจุสุรา แต่เป็นชาดำ มันถูกสร้างขึ้นมาเพื่อใส่ของหวาน ไม่ใช่สิ่งที่ขม"
+	},
+	"circlet": {
+		"name": "Maiden's Fading Beauty",
+		"relictype": "Circlet of Logos",
+		"description": "หมวกของผู้หญิงที่ช่วยให้รอยย่นหายไปจากสายตา ที่ได้รับการดูแลรักษาอย่างดี"
+	}
+}

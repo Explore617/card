@@ -1,0 +1,35 @@
+{
+	"name": "Sopa de brotes de bambú",
+	"rarity": "3",
+	"foodtype": "NORMAL",
+	"foodfilter": "Platos que regeneran Vida",
+	"foodcategory": "Recovery_HpAddAll",
+	"effect": "Restaura un 26%-30% de Vida Máx. al personaje seleccionado.\nRegenera 450-790 pts. de Vida cada 5 s durante 30 s.",
+	"description": "Un caldo hervido durante mucho tiempo. Los brotes de bambú frescos, la carne y el jamón se cortan en trozos pequeños y se cuecen hasta que la sopa adquiere un color blanco. Las dos texturas de la carne crean distintos sabores y el caldo es muy sabroso.",
+	"suspicious": {
+		"effect": "Restaura un 26% de la Vida Máx. al personaje seleccionado y regenera 450 pts. de Vida cada 5 s durante 30 s.",
+		"description": "Un caldo hervido durante mucho tiempo. La carne se ha endurecido y su frescura es inapreciable debido a la sal del jamón. Los brotes de bambú, que han absorbido ambos sabores, son el único ingrediente aceptable."
+	},
+	"normal": {
+		"effect": "Restaura un 28% de la Vida Máx. al personaje seleccionado y regenera 620 pts. de Vida cada 5 s durante 30 s.",
+		"description": "Un caldo hervido durante mucho tiempo. Los brotes de bambú frescos, la carne y el jamón se cortan en trozos pequeños y se cuecen hasta que la sopa adquiere un color blanco. Las dos texturas de la carne crean distintos sabores y el caldo es muy sabroso."
+	},
+	"delicious": {
+		"effect": "Restaura un 30% de la Vida Máx. al personaje seleccionado y regenera 790 pts. de Vida cada 5 s durante 30 s.",
+		"description": "Un caldo hervido durante mucho tiempo. El mero hecho de olerlo ya abre el apetito y, al probar la primera cucharada, su intenso sabor se extiende por todo el cuerpo. Es como extender tus alas y volar hacia el alba entre nubes fragantes."
+	},
+	"ingredients": [
+		{
+			"name": "Carne cruda",
+			"count": 2
+		},
+		{
+			"name": "Jamón",
+			"count": 2
+		},
+		{
+			"name": "Brote de bambú",
+			"count": 1
+		}
+	]
+}

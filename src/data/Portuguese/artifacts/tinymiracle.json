@@ -1,0 +1,34 @@
+{
+	"name": "Pequeno Milagre",
+	"rarity": [
+		"3",
+		"4"
+	],
+	"2pc": "RES de todos os Elementos +20%.",
+	"4pc": "O Dano elemental recebido aumenta a RES Elemental correspondente em 30% por 10s. Pode ser lançado uma vez a cada 10s.",
+	"flower": {
+		"name": "Flor do Milagre",
+		"relictype": "Flor da Vida",
+		"description": "Uma flor que cresce em uma pedra. Foi capaz de atravessar a pedra, à procura da luz."
+	},
+	"plume": {
+		"name": "Pena do Milagre",
+		"relictype": "Pluma da Morte",
+		"description": "Uma pena de uma ave ágil e feroz que voa rápido demais para o olho humano."
+	},
+	"sands": {
+		"name": "Ampulheta do Milagre",
+		"relictype": "Areia do tempo",
+		"description": "Parece uma ampulheta comum. A areia seca flui como a água quando o objeto é virado de cabeça para baixo."
+	},
+	"goblet": {
+		"name": "Cálice do Milagre",
+		"relictype": "Cálice de Erátema",
+		"description": "Um cálice comumente usada em adivinhações. Claro, também pode ser usada para beber."
+	},
+	"circlet": {
+		"name": "Brincos do Milagre",
+		"relictype": "Tiara de Logos",
+		"description": "Um acessório barato feito com minerais de meteoritos antigos."
+	}
+}

@@ -1,0 +1,210 @@
+{
+	"name": "Beidou",
+	"combat1": {
+		"name": "Conquista do Oceano",
+		"info": "**Ataque Normal**\nRealiza até 5 golpes consecutivos.\n\n**Ataque Carregado**\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n**Ataque Imersivo**\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+		"attributes": {
+			"labels": [
+				"Dano do 1° Golpe|{param1:F1P}",
+				"Dano do 2° Golpe|{param2:F1P}",
+				"Dano do 3° Golpe|{param3:F1P}",
+				"Dano do 4° Golpe|{param4:F1P}",
+				"Dano do 5° Golpe|{param5:P}",
+				"Dano de Loop de Ataque Carregado|{param6:F1P}",
+				"Dano Final de Ataque Carregado|{param7:P}",
+				"Consumo de Stamina de Ataque Carregado|{param8:F1}/s",
+				"Duração Máxima|{param9:F1}s",
+				"Dano Durante a Queda|{param10:F1P}",
+				"Dano de Queda de Baixa/Alta Altitude|{param11:P}/{param12:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Invocadora da Maré",
+		"info": "Nada com que se deva preocupar. Se alguém levantar uma mão contra ela ou contra os seus homens, ela se vingará dez vezes mais com espada e trovão.\n\n**Pressionar**\nAcumulando o poder dos raios, Beidou balança sua lâmina para frente ferozmente, causando Dano Electro.\n\n**Manter pressionado**\nLevanta sua arma como um escudo. Dano Máximo absorvido aumenta conforme a Vida Máxima de Beidou.\nAtaca usando a energia armazenada no Espadão ao soltar ou quando a duração da habilidade expira, causando Dano Electro. Dano causado aumenta com o número de vezes em que Beidou é atacada ao longo da duração da habilidade. O maior Bônus de Dano será atingido quando esse efeito for desencadeado duas vezes.\nO escudo possui as seguintes propriedades:\nTem 250% de eficiência em absorção de Dano Electro\nAplica o Elemento Electro para a Beidou ao ativar.",
+		"description": "Conquistar o alto mar! Seguir as ondas e perseguir a tempestade!",
+		"attributes": {
+			"labels": [
+				"Absorção de Dano de Escudo|{param1:F1P} da Vida Máxima +{param2:I}",
+				"Dano Básico|{param3:P}",
+				"Aumenta o Dano ao ser Atacado|{param4:P}",
+				"Tempo de Recarga|{param5:F1}s"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Quebrador de Tempestades",
+		"info": "Relembrando seu abate da grande fera Haishan, Beidou clama pela força monstruosa e relâmpagos para criar um Escudo do Trovão ao seu redor, infligindo Dano Electro aos inimigos próximos.\n\n**Escudo do Trovão**\nQuando Ataques Normais e Carregados atingem, eles criam uma descarga elétrica que pode saltar entre os inimigos, infligindo Dano Electro.\n Aumenta a resistência do personagem a interrupções e diminui o Dano recebido.\n\nNo máximo 1 descarga de relâmpago pode ser desencadeada por segundo.",
+		"description": "Com o estrondo do trovão, Haishan foi derrotado.",
+		"attributes": {
+			"labels": [
+				"Dano de Habilidade|{param1:P}",
+				"Dano de Relâmpago|{param2:F1P}",
+				"Redução de Dano|{param3:P}",
+				"Duração|{param4:F1}s",
+				"Tempo de Recarga|{param5:F1}s",
+				"Energia Elemental|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Retribuição",
+		"info": "Ao atacar com **Invocadora da Maré** no exato momento em que o personagem é atingido, concede o bônus de Dano máximo."
+	},
+	"passive2": {
+		"name": "Tormenta Elétrica",
+		"info": "Obtém os seguintes efeitos por 10s após lançar a **Invocadora da Maré** com seu bônus máximo de Dano:\nO Dano causado pelos Ataques Normais e Carregados aumentam em 15%. A VEL de Ataque dos Ataques Normais ou Carregados são aumentados em 15%.\nReduz grandemente o delay antes de lançar Ataques Carregados."
+	},
+	"passive3": {
+		"name": "Conquistadora das Marés",
+		"info": "Diminui o consumo de Stamina ao Nadar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos."
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Ensinamentos de Ouro",
+				"count": 3
+			},
+			{
+				"name": "Insígnia dos Ladrões de Tesouro",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 2
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 4
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 6
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guia de Ouro",
+				"count": 9
+			},
+			{
+				"name": "Insígnia do Corvo Prateado",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 4
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 4
+			},
+			{
+				"name": "Suspiro do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 6
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 6
+			},
+			{
+				"name": "Suspiro do Vento Oriental",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 12
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 9
+			},
+			{
+				"name": "Suspiro do Vento Oriental",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Filosofia de Ouro",
+				"count": 16
+			},
+			{
+				"name": "Insígnia de Corvo Dourado",
+				"count": 12
+			},
+			{
+				"name": "Suspiro do Vento Oriental",
+				"count": 2
+			},
+			{
+				"name": "Coroa da Sabedoria",
+				"count": 1
+			}
+		]
+	}
+}

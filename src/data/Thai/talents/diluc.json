@@ -1,0 +1,209 @@
+{
+	"name": "Diluc",
+	"combat1": {
+		"name": "โจมตีปกติ - Tempered Sword",
+		"info": "**โจมตีปกติ**\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n**ชาร์จโจมตี**\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n**โจมตีพุ่งลงจากอากาศ**\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+		"attributes": {
+			"labels": [
+				"ความเสียหายขั้น 1|{param1:F1P}",
+				"ความเสียหายขั้น 2|{param2:F1P}",
+				"ความเสียหายขั้น 3|{param3:F1P}",
+				"ความเสียหายขั้น 4|{param4:P}",
+				"ความเสียหายขณะชาร์จโจมตี|{param5:F1P}",
+				"ความเสียหายชาร์จโจมตีครั้งสุดท้าย|{param6:P}",
+				"ชาร์จโจมตีใช้พลังกาย|{param7:F1} หน่วย/วิ",
+				"ระยะเวลาต่อเนื่องสูงสุด|{param8:F1} วิ",
+				"ความเสียหายพุ่งลง|{param9:F1P}",
+				"ความเสียหายพุ่งถึงพื้นจากที่ต่ำ/สูง|{param10:P}/{param11:P}"
+			]
+		}
+	},
+	"combat2": {
+		"name": "Searing Onslaught",
+		"info": "กวัดแกว่งดาบขนาดใหญ่เพื่อฟาดฟันสิ่งที่อยู่ตรงหน้า สร้างความเสียหายไฟ\n\nสามารถทำได้ 3 ครั้งติดต่อกัน จากนั้นจะเข้าสู่ช่วงเวลาคูลดาวน์",
+		"description": "สิ่งที่บ่งบอกถึงตัวตนของ Diluc นั้นคือ ความยุติธรรม, ความกล้า และความรับผิดชอบ",
+		"attributes": {
+			"labels": [
+				"ความเสียหายขั้น 1|{param1:F1P}",
+				"ความเสียหายขั้น 2|{param2:F1P}",
+				"ความเสียหายขั้น 3|{param3:P}",
+				"คูลดาวน์|{param4:F1} วิ"
+			]
+		}
+	},
+	"combat3": {
+		"name": "Dawn",
+		"info": "ระเบิดพลังงานไฟอันร้อนแรงออกมา เพื่อโจมตีศัตรูโดยรอบให้ถอยกลับไป เกิดเป็นความเสียหายธาตุไฟ หลังจากนั้นจะรวบรวมไฟไว้บนอาวุธและ ปล่อยวิหคเพลิงออกไปยังข้างหน้า เพื่อสร้างความเสียหายธาตุไฟ ปริมาณมากแก่ศัตรูที่อยู่ในเส้นทาง โดยวิหคเพลิงจะระเบิดที่ปลายทาง และเกิดเป็นความเสียหายไฟวงกว้างอย่างรุนแรง\nเปลวไฟอันร้อนแรงที่ควบแน่นอยู่บนอาวุธ จะมอบพลังแห่งไฟให้แก่ Diluc",
+		"description": "เหตุผลที่เดินในความมืด ก็เพื่อปลดปล่อยแสงสว่าง มองไปยังแสงไฟท่ามกลางความมืดที่อยู่ไกลออกไป นั่นคือสิ่งที่บอกว่ารุ่งสางกำลังจะมาถึง",
+		"attributes": {
+			"labels": [
+				"ความเสียหายจากการฟัน|{param1:P}",
+				"ความเสียหายต่อเนื่อง|{param2:F1P}",
+				"ความเสียหายแรงระเบิด|{param3:P}",
+				"คูลดาวน์|{param4:F1} วิ",
+				"ระยะเวลาร่ายเวทต่อเนื่อง|{param5:F1} วิ",
+				"พลังงานธาตุ|{param6:I}"
+			]
+		}
+	},
+	"passive1": {
+		"name": "Relentless",
+		"info": "การชาร์จโจมตีของ Diluc ใช้พลังกายลดลง 50% และเพิ่มระยะเวลาต่อเนื่องขึ้น 3 วินาที"
+	},
+	"passive2": {
+		"name": "Blessing of Phoenix",
+		"info": "ช่วงเวลาคงอยู่ของ การร่ายเวทไฟโดย **Dawn** เพิ่มขึ้น 4 วินาที; นอกจากนี้ระหว่างช่วงเวลาที่เอฟเฟกต์ คงอยู่ Diluc จะได้รับ โบนัสความเสียหายไฟ เพิ่ม 20%"
+	},
+	"passive3": {
+		"name": "Tradition of the Dawn Knight",
+		"info": "เมื่อสร้างอาวุธประเภทดาบใหญ่ จะได้รับแร่ที่ใช้ในการหลอมคืน 15%"
+	},
+	"costs": {
+		"lvl2": [
+			{
+				"name": "Mora",
+				"count": 12500
+			},
+			{
+				"name": "Teachings of \"Resistance\"",
+				"count": 3
+			},
+			{
+				"name": "Recruit's Insignia",
+				"count": 6
+			}
+		],
+		"lvl3": [
+			{
+				"name": "Mora",
+				"count": 17500
+			},
+			{
+				"name": "Guide to Resistance",
+				"count": 2
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 3
+			}
+		],
+		"lvl4": [
+			{
+				"name": "Mora",
+				"count": 25000
+			},
+			{
+				"name": "Guide to Resistance",
+				"count": 4
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 4
+			}
+		],
+		"lvl5": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Guide to Resistance",
+				"count": 6
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 6
+			}
+		],
+		"lvl6": [
+			{
+				"name": "Mora",
+				"count": 37500
+			},
+			{
+				"name": "Guide to Resistance",
+				"count": 9
+			},
+			{
+				"name": "Sergeant's Insignia",
+				"count": 9
+			}
+		],
+		"lvl7": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 4
+			},
+			{
+				"name": "Officer's Insignia",
+				"count": 4
+			},
+			{
+				"name": "Stormterror Tail Feather",
+				"count": 1
+			}
+		],
+		"lvl8": [
+			{
+				"name": "Mora",
+				"count": 260000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 6
+			},
+			{
+				"name": "Officer's Insignia",
+				"count": 6
+			},
+			{
+				"name": "Stormterror Tail Feather",
+				"count": 1
+			}
+		],
+		"lvl9": [
+			{
+				"name": "Mora",
+				"count": 450000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 12
+			},
+			{
+				"name": "Officer's Insignia",
+				"count": 9
+			},
+			{
+				"name": "Stormterror Tail Feather",
+				"count": 2
+			}
+		],
+		"lvl10": [
+			{
+				"name": "Mora",
+				"count": 700000
+			},
+			{
+				"name": "Philosophies of \"Resistance\"",
+				"count": 16
+			},
+			{
+				"name": "Officer's Insignia",
+				"count": 12
+			},
+			{
+				"name": "Stormterror Tail Feather",
+				"count": 2
+			},
+			{
+				"name": "Crown of Insight",
+				"count": 1
+			}
+		]
+	}
+}

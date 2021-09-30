@@ -1,0 +1,153 @@
+{
+	"name": "Xiao",
+	"title": "Hộ Pháp Dạ Xoa",
+	"description": "Tiên nhân bảo vệ Liyue - Dạ Xoa. Hiệu là \"Hàng Ma Đại Thánh\", biệt danh \"Hộ Pháp Dạ Xoa Đại Tướng\".",
+	"rarity": "5",
+	"element": "Phong",
+	"weapontype": "Vũ Khí Cán Dài",
+	"substat": "Tỷ Lệ Bạo Kích",
+	"gender": "nam",
+	"body": "BOY",
+	"association": "LIYUE",
+	"region": "Liyue",
+	"affiliation": "Tiên Nhân Liyue",
+	"birthdaymmdd": "4/17",
+	"birthday": "17 tháng 4",
+	"constellation": "Cung Kim Sí Bằng Vương",
+	"cv": {
+		"english": "Laila Berzins",
+		"chinese": "kinsen",
+		"japanese": "松岡禎丞",
+		"korean": "심규혁"
+	},
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Vụn Tùng Thạch Tự Tại",
+				"count": 1
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 3
+			},
+			{
+				"name": "Dịch Slime",
+				"count": 3
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 40000
+			},
+			{
+				"name": "Mảnh Tùng Thạch Tự Tại",
+				"count": 3
+			},
+			{
+				"name": "Ngọc Chưa Chín",
+				"count": 2
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 10
+			},
+			{
+				"name": "Dịch Slime",
+				"count": 15
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 60000
+			},
+			{
+				"name": "Mảnh Tùng Thạch Tự Tại",
+				"count": 6
+			},
+			{
+				"name": "Ngọc Chưa Chín",
+				"count": 4
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 20
+			},
+			{
+				"name": "Tinh Slime",
+				"count": 12
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 80000
+			},
+			{
+				"name": "Miếng Tùng Thạch Tự Tại",
+				"count": 3
+			},
+			{
+				"name": "Ngọc Chưa Chín",
+				"count": 8
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 30
+			},
+			{
+				"name": "Tinh Slime",
+				"count": 18
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 100000
+			},
+			{
+				"name": "Miếng Tùng Thạch Tự Tại",
+				"count": 6
+			},
+			{
+				"name": "Ngọc Chưa Chín",
+				"count": 12
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 45
+			},
+			{
+				"name": "Bột Slime",
+				"count": 12
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 120000
+			},
+			{
+				"name": "Tùng Thạch Tự Tại",
+				"count": 6
+			},
+			{
+				"name": "Ngọc Chưa Chín",
+				"count": 20
+			},
+			{
+				"name": "Thanh Tâm",
+				"count": 60
+			},
+			{
+				"name": "Bột Slime",
+				"count": 24
+			}
+		]
+	}
+}

@@ -1,0 +1,142 @@
+{
+	"name": "Nhật Nguyệt Hạp",
+	"description": "Bảo châu màu vàng kim đậm được làm từ nguyên liệu ít ai biết, tràn đầy ánh sáng của đất trời và sức mạnh ấm áp.",
+	"weapontype": "Pháp Khí",
+	"rarity": "4",
+	"baseatk": 42,
+	"substat": "Tỷ Lệ Bạo Kích",
+	"subvalue": "6",
+	"effectname": "Nhật Nguyệt Huy",
+	"effect": "Trong 6s sau khi tấn công thường đánh trúng địch, sát thương kỹ năng Nguyên Tố và kỹ năng nộ tăng {0}; Trong 6s sau khi kỹ năng nguyên tố và kỹ năng nộ đánh trúng địch, sát thương tấn công thường tăng {1}.",
+	"r1": [
+		"20%",
+		"20%"
+	],
+	"r2": [
+		"25%",
+		"25%"
+	],
+	"r3": [
+		"30%",
+		"30%"
+	],
+	"r4": [
+		"35%",
+		"35%"
+	],
+	"r5": [
+		"40%",
+		"40%"
+	],
+	"weaponmaterialtype": "",
+	"costs": {
+		"ascend1": [
+			{
+				"name": "Mora",
+				"count": 5000
+			},
+			{
+				"name": "Ánh Sáng Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 3
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 2
+			}
+		],
+		"ascend2": [
+			{
+				"name": "Mora",
+				"count": 15000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Săn Bắt",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Lừa Dối",
+				"count": 8
+			}
+		],
+		"ascend3": [
+			{
+				"name": "Mora",
+				"count": 20000
+			},
+			{
+				"name": "Nham Thạch Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 6
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 6
+			}
+		],
+		"ascend4": [
+			{
+				"name": "Mora",
+				"count": 30000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 3
+			},
+			{
+				"name": "Dao Đặc Công",
+				"count": 12
+			},
+			{
+				"name": "Mật Hoa Lấp Lánh",
+				"count": 9
+			}
+		],
+		"ascend5": [
+			{
+				"name": "Mora",
+				"count": 35000
+			},
+			{
+				"name": "Thánh Cốt Rừng Băng Giá",
+				"count": 6
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 9
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 6
+			}
+		],
+		"ascend6": [
+			{
+				"name": "Mora",
+				"count": 45000
+			},
+			{
+				"name": "Thần Thể Rừng Băng Giá",
+				"count": 4
+			},
+			{
+				"name": "Dao Đô Thám Trưởng",
+				"count": 18
+			},
+			{
+				"name": "Mật Hoa Nguyên Tố",
+				"count": 12
+			}
+		]
+	}
+}
